@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 204614832,
+    "name": "AshamanesFall",
+    "member_count": 5,
+    "description": "Steamwheedle Cartel, please join our Discord!",
+    "members": [
+      {
+        "id": 50992323,
+        "name": "anxious",
+        "btag": "anxious",
+        "skulls": 150,
+        "honor": 7989,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062098
+      },
+      {
+        "id": 869581453,
+        "name": "Derryn",
+        "btag": "Derryn",
+        "skulls": 150,
+        "honor": 12082,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062098
+      },
+      {
+        "id": 50416872,
+        "name": "Shredz",
+        "btag": "Shredz",
+        "skulls": 144,
+        "honor": 8949,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719062098
+      },
+      {
+        "id": 101961091,
+        "name": "Noshera",
+        "btag": "Noshera",
+        "skulls": 140,
+        "honor": 6019,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062098
+      },
+      {
+        "id": 50283418,
+        "name": "Munchiefest",
+        "btag": "Munchiefest",
+        "skulls": 150,
+        "honor": 10542,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1716771438
+      },
+      {
+        "id": 113403358,
+        "name": "Ezz0o",
+        "btag": "Ezz0o",
+        "skulls": 145,
+        "honor": 4934,
+        "avatar": "Indicator_KoboldMurloc_Pose",
+        "lastUpdate": 1716771546
+      },
+      {
+        "id": 1159346011,
+        "name": "Super",
+        "btag": "Super",
+        "skulls": 144,
+        "honor": 10285,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062099
+      },
+      {
+        "id": 301193023,
+        "name": "KasaiOkami",
+        "btag": "KasaiOkami",
+        "skulls": 139,
+        "honor": 7225,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062099
+      },
+      {
+        "id": 359316847,
+        "name": "FritZ",
+        "btag": "FritZ",
+        "skulls": 137,
+        "honor": 9052,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1716771438
+      },
+      {
+        "id": 53251395,
+        "name": "Masonelevn",
+        "btag": "Masonelevn",
+        "skulls": 145,
+        "honor": 6953,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1717304752
+      },
+      {
+        "id": 302439035,
+        "name": "Elihu",
+        "btag": "Elihu",
+        "skulls": 125,
+        "honor": 4365,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062100
+      },
+      {
+        "id": 53364944,
+        "name": "Shadycrabs",
+        "btag": "Shadycrabs",
+        "skulls": 140,
+        "honor": 8460,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062100
+      },
+      {
+        "id": 63211473,
+        "name": "Avonici",
+        "btag": "Avonici",
+        "skulls": 122,
+        "honor": 1000,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062100
+      },
+      {
+        "id": 416116875,
+        "name": "SMeister",
+        "btag": "SMeister",
+        "skulls": 130,
+        "honor": 1099,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062100
+      },
+      {
+        "id": 63735,
+        "name": "Oceanshanty",
+        "btag": "Oceanshanty",
+        "skulls": 149,
+        "honor": 6607,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1719062100
+      },
+      {
+        "id": 582507,
+        "name": "Darkshadow",
+        "btag": "Darkshadow",
+        "skulls": 145,
+        "honor": 4013,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062101
+      },
+      {
+        "id": 881711024,
+        "name": "bash2",
+        "btag": "bash2",
+        "skulls": 149,
+        "honor": 11311,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062101
+      },
+      {
+        "id": 52534793,
+        "name": "Farsteer",
+        "btag": "Farsteer",
+        "skulls": 150,
+        "honor": 7546,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062101
+      },
+      {
+        "id": 112551,
+        "name": "EjoThims",
+        "btag": "EjoThims",
+        "skulls": 111,
+        "honor": 7315,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062101
+      },
+      {
+        "id": 112544805,
+        "name": "ShadowKick",
+        "btag": "ShadowKick",
+        "skulls": 135,
+        "honor": 12543,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062101
+      }
+    ],
+    "lastUpdate": 1719062097
+  },
+  "token": "13ee3107-dab1-4a87-8f18-c210e54eb80c",
+  "link": "https://localhost:7080/guild/204614832?token=13ee3107-dab1-4a87-8f18-c210e54eb80c"
+}

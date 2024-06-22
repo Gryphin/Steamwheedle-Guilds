@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 466202131,
+    "name": "Erased",
+    "member_count": 20,
+    "description": "Goal = max war chest.",
+    "members": [
+      {
+        "id": 871848885,
+        "name": "Canbock",
+        "btag": "Canbock",
+        "skulls": 110,
+        "honor": 1170,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062132
+      },
+      {
+        "id": 1195719,
+        "name": "thilyn",
+        "btag": "thilyn",
+        "skulls": 101,
+        "honor": 2015,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062132
+      },
+      {
+        "id": 1254224,
+        "name": "Pewt",
+        "btag": "Pewt",
+        "skulls": 78,
+        "honor": 5019,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062132
+      },
+      {
+        "id": 55383526,
+        "name": "Trazman711",
+        "btag": "Trazman711",
+        "skulls": 109,
+        "honor": 6204,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1719062132
+      },
+      {
+        "id": 313240183,
+        "name": "ElJefe",
+        "btag": "ElJefe",
+        "skulls": 108,
+        "honor": 5104,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062132
+      },
+      {
+        "id": 72895510,
+        "name": "Rix",
+        "btag": "Rix",
+        "skulls": 95,
+        "honor": 707,
+        "avatar": "Indicator_Sneed_Pose",
+        "lastUpdate": 1719062132
+      },
+      {
+        "id": 322360437,
+        "name": "Grukk",
+        "btag": "Grukk",
+        "skulls": 125,
+        "honor": 4023,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062132
+      },
+      {
+        "id": 74249533,
+        "name": "dneighbo",
+        "btag": "dneighbo",
+        "skulls": 139,
+        "honor": 2657,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062133
+      },
+      {
+        "id": 58249441,
+        "name": "Rud",
+        "btag": "Rud",
+        "skulls": 150,
+        "honor": 12015,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062133
+      },
+      {
+        "id": 878784845,
+        "name": "MuffDaddy",
+        "btag": "MuffDaddy",
+        "skulls": 107,
+        "honor": 5102,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062133
+      },
+      {
+        "id": 307679708,
+        "name": "nneighbo",
+        "btag": "nneighbo",
+        "skulls": 65,
+        "honor": 2175,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062133
+      },
+      {
+        "id": 51091656,
+        "name": "Chipster",
+        "btag": "Chipster",
+        "skulls": 101,
+        "honor": 2903,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719062134
+      },
+      {
+        "id": 872665816,
+        "name": "Brutal",
+        "btag": "Brutal",
+        "skulls": 106,
+        "honor": 8912,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062134
+      },
+      {
+        "id": 815560356,
+        "name": "Flozshotz",
+        "btag": "Flozshotz",
+        "skulls": 104,
+        "honor": 5681,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062135
+      },
+      {
+        "id": 100467067,
+        "name": "Anathayn",
+        "btag": "Anathayn",
+        "skulls": 85,
+        "honor": 0,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062135
+      },
+      {
+        "id": 841754329,
+        "name": "Key",
+        "btag": "Key",
+        "skulls": 95,
+        "honor": 4592,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062135
+      },
+      {
+        "id": 51681201,
+        "name": "Fizwocket",
+        "btag": "Fizwocket",
+        "skulls": 150,
+        "honor": 5507,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062135
+      },
+      {
+        "id": 63222511,
+        "name": "MadHen",
+        "btag": "MadHen",
+        "skulls": 97,
+        "honor": 2495,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1719062133
+      },
+      {
+        "id": 51343597,
+        "name": "Vamp",
+        "btag": "Vamp",
+        "skulls": 120,
+        "honor": 10860,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062133
+      },
+      {
+        "id": 68384104,
+        "name": "Fausttt",
+        "btag": "Fausttt",
+        "skulls": 104,
+        "honor": 5422,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062135
+      }
+    ],
+    "lastUpdate": 1719062131
+  },
+  "token": "6779ca52-7a6e-457e-a5c4-2d5c7f75f923",
+  "link": "https://localhost:7080/guild/466202131?token=6779ca52-7a6e-457e-a5c4-2d5c7f75f923"
+}

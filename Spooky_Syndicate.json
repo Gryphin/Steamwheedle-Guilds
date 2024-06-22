@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 203652452,
+    "name": "SpookySyndicate",
+    "member_count": 9,
+    "description": "Casual but active guild of rumblers.  Darkmoon faire and surge activity required",
+    "members": [
+      {
+        "id": 100958577,
+        "name": "LRM",
+        "btag": "LRM",
+        "skulls": 150,
+        "honor": 11064,
+        "avatar": "",
+        "lastUpdate": 1719062183
+      },
+      {
+        "id": 100611329,
+        "name": "Zlatan",
+        "btag": "Zlatan",
+        "skulls": 145,
+        "honor": 9572,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062184
+      },
+      {
+        "id": 1444923,
+        "name": "Siege",
+        "btag": "Siege",
+        "skulls": 133,
+        "honor": 6086,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062184
+      },
+      {
+        "id": 56562588,
+        "name": "Xendro",
+        "btag": "Xendro",
+        "skulls": 100,
+        "honor": 1767,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1719062184
+      },
+      {
+        "id": 307575136,
+        "name": "PeterSauce",
+        "btag": "PeterSauce",
+        "skulls": 150,
+        "honor": 8006,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1716751623
+      },
+      {
+        "id": 1512614,
+        "name": "Teslo",
+        "btag": "Teslo",
+        "skulls": 150,
+        "honor": 10582,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719062184
+      },
+      {
+        "id": 880213577,
+        "name": "SoranaxAlt",
+        "btag": "SoranaxAlt",
+        "skulls": 150,
+        "honor": 1621,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062184
+      },
+      {
+        "id": 881061692,
+        "name": "LordPork",
+        "btag": "LordPork",
+        "skulls": 127,
+        "honor": 6798,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062185
+      },
+      {
+        "id": 74210950,
+        "name": "raptorthebun",
+        "btag": "raptorthebun",
+        "skulls": 150,
+        "honor": 10400,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062185
+      },
+      {
+        "id": 59396041,
+        "name": "Spookydeath",
+        "btag": "Spookydeath",
+        "skulls": 131,
+        "honor": 2579,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1716751631
+      },
+      {
+        "id": 1682160,
+        "name": "Soranax",
+        "btag": "Soranax",
+        "skulls": 150,
+        "honor": 8930,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062185
+      },
+      {
+        "id": 399599,
+        "name": "Raknoz",
+        "btag": "Raknoz",
+        "skulls": 137,
+        "honor": 9147,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062185
+      },
+      {
+        "id": 126527974,
+        "name": "Chory",
+        "btag": "Chory",
+        "skulls": 150,
+        "honor": 10272,
+        "avatar": "CombatHUD_Tex_Player_Default",
+        "lastUpdate": 1719062185
+      },
+      {
+        "id": 115145544,
+        "name": "Cerit",
+        "btag": "Cerit",
+        "skulls": 145,
+        "honor": 8090,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062184
+      },
+      {
+        "id": 111738879,
+        "name": "Kotor",
+        "btag": "Kotor",
+        "skulls": 140,
+        "honor": 9241,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1719062186
+      },
+      {
+        "id": 50640834,
+        "name": "LASERBEAST",
+        "btag": "LASERBEAST",
+        "skulls": 139,
+        "honor": 10263,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062186
+      },
+      {
+        "id": 71338627,
+        "name": "Euphoria",
+        "btag": "Euphoria",
+        "skulls": 138,
+        "honor": 10414,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719062186
+      },
+      {
+        "id": 872671009,
+        "name": "MitchConner",
+        "btag": "MitchConner",
+        "skulls": 105,
+        "honor": 5746,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719062187
+      },
+      {
+        "id": 92529720,
+        "name": "Crazyscorp",
+        "btag": "Crazyscorp",
+        "skulls": 140,
+        "honor": 6715,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062186
+      },
+      {
+        "id": 498185190,
+        "name": "BanjoAus",
+        "btag": "BanjoAus",
+        "skulls": 147,
+        "honor": 12575,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062187
+      }
+    ],
+    "lastUpdate": 1719062183
+  },
+  "token": "bbf905ac-cf08-479b-97a2-5a589100ccf0",
+  "link": "https://localhost:7080/guild/203652452?token=bbf905ac-cf08-479b-97a2-5a589100ccf0"
+}

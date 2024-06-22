@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 200915262,
+    "name": "Hook Point",
+    "member_count": 20,
+    "description": "Part of the Steamwheedle Cartel https://discord.gg/vFBJpXpWRg Req: 120\u002B sigils",
+    "members": [
+      {
+        "id": 871962303,
+        "name": "Pesho",
+        "btag": "Pesho",
+        "skulls": 150,
+        "honor": 9932,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1718084567
+      },
+      {
+        "id": 54488232,
+        "name": "Plipper",
+        "btag": "Plipper",
+        "skulls": 143,
+        "honor": 5232,
+        "avatar": "Indicator_KoboldMurloc_Pose",
+        "lastUpdate": 1719062102
+      },
+      {
+        "id": 104859060,
+        "name": "Cerealno",
+        "btag": "Cerealno",
+        "skulls": 150,
+        "honor": 10088,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1718084567
+      },
+      {
+        "id": 83847822,
+        "name": "Bradinator",
+        "btag": "Bradinator",
+        "skulls": 150,
+        "honor": 11862,
+        "avatar": "Indicator_Sneed_Pose",
+        "lastUpdate": 1719062102
+      },
+      {
+        "id": 445225421,
+        "name": "gHupf",
+        "btag": "gHupf",
+        "skulls": 150,
+        "honor": 15505,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1719062102
+      },
+      {
+        "id": 140973681,
+        "name": "imbadevil",
+        "btag": "imbadevil",
+        "skulls": 150,
+        "honor": 9400,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1718084567
+      },
+      {
+        "id": 120850166,
+        "name": "Mucificator",
+        "btag": "Mucificator",
+        "skulls": 150,
+        "honor": 12233,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062103
+      },
+      {
+        "id": 52870232,
+        "name": "Kirbyteam",
+        "btag": "Kirbyteam",
+        "skulls": 150,
+        "honor": 11064,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062103
+      },
+      {
+        "id": 459101315,
+        "name": "orbinter",
+        "btag": "orbinter",
+        "skulls": 150,
+        "honor": 15063,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062103
+      },
+      {
+        "id": 2035807,
+        "name": "Qub",
+        "btag": "Qub",
+        "skulls": 150,
+        "honor": 4063,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062103
+      },
+      {
+        "id": 112208235,
+        "name": "Immortal",
+        "btag": "Immortal",
+        "skulls": 150,
+        "honor": 8908,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1718197422
+      },
+      {
+        "id": 132842012,
+        "name": "Rinorragi",
+        "btag": "Rinorragi",
+        "skulls": 150,
+        "honor": 11102,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062104
+      },
+      {
+        "id": 45098,
+        "name": "Amadis",
+        "btag": "Amadis",
+        "skulls": 150,
+        "honor": 14009,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1719062104
+      },
+      {
+        "id": 869431458,
+        "name": "Worstcompany",
+        "btag": "Worstcompany",
+        "skulls": 150,
+        "honor": 10818,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062104
+      },
+      {
+        "id": 397708466,
+        "name": "Jimbles",
+        "btag": "Jimbles",
+        "skulls": 150,
+        "honor": 10261,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719062104
+      },
+      {
+        "id": 107420754,
+        "name": "Lekritos",
+        "btag": "Lekritos",
+        "skulls": 150,
+        "honor": 12837,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062105
+      },
+      {
+        "id": 121550941,
+        "name": "LangH\u00E5r",
+        "btag": "LangH\u00E5r",
+        "skulls": 150,
+        "honor": 11304,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719062105
+      },
+      {
+        "id": 63232224,
+        "name": "Allizan",
+        "btag": "Allizan",
+        "skulls": 150,
+        "honor": 13419,
+        "avatar": "CombatHUD_Tex_Player_Default",
+        "lastUpdate": 1719062104
+      },
+      {
+        "id": 441250344,
+        "name": "SLOTH",
+        "btag": "SLOTH",
+        "skulls": 150,
+        "honor": 11064,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062105
+      },
+      {
+        "id": 443524874,
+        "name": "Szalay92",
+        "btag": "Szalay92",
+        "skulls": 150,
+        "honor": 10527,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062105
+      }
+    ],
+    "lastUpdate": 1719062101
+  },
+  "token": "c14671d5-b76c-4df6-8b26-13e2909aa3e4",
+  "link": "https://localhost:7080/guild/200915262?token=c14671d5-b76c-4df6-8b26-13e2909aa3e4"
+}

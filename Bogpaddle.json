@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 439520221,
+    "name": "Bogpaddle",
+    "member_count": 20,
+    "description": "https://discord.gg/6JBtzgKq4y",
+    "members": [
+      {
+        "id": 52483513,
+        "name": "Tully317",
+        "btag": "Tully317",
+        "skulls": 150,
+        "honor": 10953,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062110
+      },
+      {
+        "id": 120218516,
+        "name": "chArminG",
+        "btag": "chArminG",
+        "skulls": 150,
+        "honor": 11965,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062110
+      },
+      {
+        "id": 56210091,
+        "name": "Beastism",
+        "btag": "Beastism",
+        "skulls": 148,
+        "honor": 9786,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062110
+      },
+      {
+        "id": 2069234,
+        "name": "ForsakenDE",
+        "btag": "ForsakenDE",
+        "skulls": 150,
+        "honor": 7371,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717414114
+      },
+      {
+        "id": 1314682,
+        "name": "Bohan",
+        "btag": "Bohan",
+        "skulls": 150,
+        "honor": 10678,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1717414114
+      },
+      {
+        "id": 54760573,
+        "name": "Drak",
+        "btag": "Drak",
+        "skulls": 150,
+        "honor": 12671,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1717414114
+      },
+      {
+        "id": 106763246,
+        "name": "MortiMer",
+        "btag": "MortiMer",
+        "skulls": 150,
+        "honor": 10064,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1717414114
+      },
+      {
+        "id": 1376416,
+        "name": "Itachi",
+        "btag": "Itachi",
+        "skulls": 150,
+        "honor": 12393,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1717412414
+      },
+      {
+        "id": 125222631,
+        "name": "Jezi",
+        "btag": "Jezi",
+        "skulls": 150,
+        "honor": 14482,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062111
+      },
+      {
+        "id": 101414975,
+        "name": "Jezi",
+        "btag": "Jezi",
+        "skulls": 131,
+        "honor": 10022,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719062111
+      },
+      {
+        "id": 402747089,
+        "name": "ALF",
+        "btag": "ALF",
+        "skulls": 150,
+        "honor": 13134,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1717414115
+      },
+      {
+        "id": 104034278,
+        "name": "Woshak",
+        "btag": "Woshak",
+        "skulls": 150,
+        "honor": 10435,
+        "avatar": "Indicator_KoboldMurloc_Pose",
+        "lastUpdate": 1717414114
+      },
+      {
+        "id": 105527528,
+        "name": "Ringo",
+        "btag": "Ringo",
+        "skulls": 150,
+        "honor": 11556,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1718789318
+      },
+      {
+        "id": 1319021,
+        "name": "Magnalon",
+        "btag": "Magnalon",
+        "skulls": 150,
+        "honor": 10170,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717414114
+      },
+      {
+        "id": 359528590,
+        "name": "SpookyGhost",
+        "btag": "SpookyGhost",
+        "skulls": 150,
+        "honor": 11440,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717860739
+      },
+      {
+        "id": 50483757,
+        "name": "Yissu",
+        "btag": "Yissu",
+        "skulls": 150,
+        "honor": 10639,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062112
+      },
+      {
+        "id": 112504130,
+        "name": "Philinho",
+        "btag": "Philinho",
+        "skulls": 143,
+        "honor": 10771,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062113
+      },
+      {
+        "id": 101405452,
+        "name": "Nightling",
+        "btag": "Nightling",
+        "skulls": 150,
+        "honor": 11669,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062113
+      },
+      {
+        "id": 363747020,
+        "name": "Flextra",
+        "btag": "Flextra",
+        "skulls": 150,
+        "honor": 12825,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062113
+      },
+      {
+        "id": 845958,
+        "name": "Skitzat",
+        "btag": "Skitzat",
+        "skulls": 144,
+        "honor": 6107,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1719062112
+      }
+    ],
+    "lastUpdate": 1719063003
+  },
+  "token": "c9905185-17d5-4cf2-a3b9-01dc5ee47737",
+  "link": "https://localhost:7080/guild/439520221?token=c9905185-17d5-4cf2-a3b9-01dc5ee47737"
+}

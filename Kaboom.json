@@ -1,0 +1,40 @@
+{
+  "data": {
+    "id": 204596792,
+    "name": "Kaboom Krew",
+    "member_count": 1,
+    "description": "Steamwheedle Cartel applicant guild (former guild Bingohallen)",
+    "members": [
+      {
+        "id": 450926,
+        "name": "Ztranger",
+        "btag": "Ztranger",
+        "skulls": 139,
+        "honor": 8799,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062139
+      },
+      {
+        "id": 105602596,
+        "name": "Kondrup",
+        "btag": "Kondrup",
+        "skulls": 125,
+        "honor": 5962,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062139
+      },
+      {
+        "id": 464867844,
+        "name": "jivve",
+        "btag": "jivve",
+        "skulls": 110,
+        "honor": 8642,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062139
+      }
+    ],
+    "lastUpdate": 1719062139
+  },
+  "token": "5f8fed81-c05e-43e2-8315-698f5498672f",
+  "link": "https://localhost:7080/guild/204596792?token=5f8fed81-c05e-43e2-8315-698f5498672f"
+}

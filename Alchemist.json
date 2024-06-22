@@ -1,0 +1,184 @@
+{
+  "data": {
+    "id": 202672512,
+    "name": "Alchemist Union",
+    "member_count": 18,
+    "description": "Part of Steamwheedle. 40 Sigil Minimum to join. https://discord.gg/xEQH2UtpUF",
+    "members": [
+      {
+        "id": 6382,
+        "name": "Jermy",
+        "btag": "Jermy",
+        "skulls": 125,
+        "honor": 4243,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062147
+      },
+      {
+        "id": 122270038,
+        "name": "Pinksweety",
+        "btag": "Pinksweety",
+        "skulls": 118,
+        "honor": 4681,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062147
+      },
+      {
+        "id": 55744095,
+        "name": "Daccus",
+        "btag": "Daccus",
+        "skulls": 117,
+        "honor": 9224,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062147
+      },
+      {
+        "id": 465135,
+        "name": "Trif",
+        "btag": "Trif",
+        "skulls": 140,
+        "honor": 9887,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062148
+      },
+      {
+        "id": 73505935,
+        "name": "Hydro",
+        "btag": "Hydro",
+        "skulls": 105,
+        "honor": 4408,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062148
+      },
+      {
+        "id": 1833355,
+        "name": "ormuzd",
+        "btag": "ormuzd",
+        "skulls": 136,
+        "honor": 5369,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062148
+      },
+      {
+        "id": 394447133,
+        "name": "Dinesh",
+        "btag": "Dinesh",
+        "skulls": 150,
+        "honor": 12234,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062148
+      },
+      {
+        "id": 881911616,
+        "name": "SnarkyGoblin",
+        "btag": "SnarkyGoblin",
+        "skulls": 90,
+        "honor": 7996,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062148
+      },
+      {
+        "id": 52454502,
+        "name": "TFrogCatcher",
+        "btag": "TFrogCatcher",
+        "skulls": 135,
+        "honor": 8180,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062148
+      },
+      {
+        "id": 51037246,
+        "name": "AFKyle",
+        "btag": "AFKyle",
+        "skulls": 120,
+        "honor": 8701,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062149
+      },
+      {
+        "id": 304680812,
+        "name": "elduque7",
+        "btag": "elduque7",
+        "skulls": 139,
+        "honor": 10301,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062149
+      },
+      {
+        "id": 937345,
+        "name": "Glimmerstone",
+        "btag": "Glimmerstone",
+        "skulls": 121,
+        "honor": 6266,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1719062149
+      },
+      {
+        "id": 10017390,
+        "name": "Eagle",
+        "btag": "Eagle",
+        "skulls": 134,
+        "honor": 4273,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062150
+      },
+      {
+        "id": 65321018,
+        "name": "tommysTV",
+        "btag": "tommysTV",
+        "skulls": 150,
+        "honor": 11391,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062150
+      },
+      {
+        "id": 50104215,
+        "name": "Banda",
+        "btag": "Banda",
+        "skulls": 139,
+        "honor": 8304,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062150
+      },
+      {
+        "id": 80368787,
+        "name": "Lux",
+        "btag": "Lux",
+        "skulls": 105,
+        "honor": 7772,
+        "avatar": "CombatHUD_Tex_Player_Default",
+        "lastUpdate": 1719062149
+      },
+      {
+        "id": 2065635,
+        "name": "Raiden",
+        "btag": "Raiden",
+        "skulls": 129,
+        "honor": 5146,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062149
+      },
+      {
+        "id": 1961457,
+        "name": "HunterX",
+        "btag": "HunterX",
+        "skulls": 140,
+        "honor": 5556,
+        "avatar": "Indicator_Sneed_Pose",
+        "lastUpdate": 1719062149
+      },
+      {
+        "id": 1547705,
+        "name": "Kurhan",
+        "btag": "Kurhan",
+        "skulls": 116,
+        "honor": 11202,
+        "avatar": "Indicator_Sneed_Pose",
+        "lastUpdate": 1719062150
+      }
+    ],
+    "lastUpdate": 1719062147
+  },
+  "token": "76742ce4-c40f-47b0-983b-a94d276f8788",
+  "link": "https://localhost:7080/guild/202672512?token=76742ce4-c40f-47b0-983b-a94d276f8788"
+}

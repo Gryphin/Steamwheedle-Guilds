@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 52083073,
+    "name": "Tirisgarde",
+    "member_count": 20,
+    "description": "Elite mage-guards hailing from the Magocracy of Dalaran.",
+    "members": [
+      {
+        "id": 54282984,
+        "name": "hotsauce",
+        "btag": "hotsauce",
+        "skulls": 150,
+        "honor": 8244,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062114
+      },
+      {
+        "id": 336964707,
+        "name": "Akazamzarak",
+        "btag": "Akazamzarak",
+        "skulls": 119,
+        "honor": 8671,
+        "avatar": "Indicator_Sneed_Pose",
+        "lastUpdate": 1719062114
+      },
+      {
+        "id": 51605909,
+        "name": "wolfgarr72",
+        "btag": "wolfgarr72",
+        "skulls": 105,
+        "honor": 4169,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062114
+      },
+      {
+        "id": 120254046,
+        "name": "paddystar11",
+        "btag": "paddystar11",
+        "skulls": 135,
+        "honor": 8118,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062114
+      },
+      {
+        "id": 1301816,
+        "name": "Meowmixer",
+        "btag": "Meowmixer",
+        "skulls": 125,
+        "honor": 4415,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062114
+      },
+      {
+        "id": 1184515,
+        "name": "EndorseRoo",
+        "btag": "EndorseRoo",
+        "skulls": 141,
+        "honor": 10056,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062114
+      },
+      {
+        "id": 317403702,
+        "name": "Gloogie",
+        "btag": "Gloogie",
+        "skulls": 150,
+        "honor": 12176,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062115
+      },
+      {
+        "id": 325584052,
+        "name": "Ceyah",
+        "btag": "Ceyah",
+        "skulls": 150,
+        "honor": 11025,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062115
+      },
+      {
+        "id": 59241815,
+        "name": "DaSa1nts",
+        "btag": "DaSa1nts",
+        "skulls": 108,
+        "honor": 6546,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062115
+      },
+      {
+        "id": 22086554,
+        "name": "Hexagon",
+        "btag": "Hexagon",
+        "skulls": 125,
+        "honor": 9347,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062115
+      },
+      {
+        "id": 983511,
+        "name": "Zongo",
+        "btag": "Zongo",
+        "skulls": 127,
+        "honor": 7421,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062115
+      },
+      {
+        "id": 52823858,
+        "name": "Diren",
+        "btag": "Diren",
+        "skulls": 138,
+        "honor": 9136,
+        "avatar": "CombatHUD_Tex_Player_Default",
+        "lastUpdate": 1717416029
+      },
+      {
+        "id": 2128538,
+        "name": "Rythmal",
+        "btag": "Rythmal",
+        "skulls": 150,
+        "honor": 20064,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1718916238
+      },
+      {
+        "id": 341702745,
+        "name": "Gronk",
+        "btag": "Gronk",
+        "skulls": 119,
+        "honor": 5311,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062116
+      },
+      {
+        "id": 28468667,
+        "name": "aegis",
+        "btag": "aegis",
+        "skulls": 145,
+        "honor": 9062,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062116
+      },
+      {
+        "id": 63012763,
+        "name": "Krandangles",
+        "btag": "Krandangles",
+        "skulls": 147,
+        "honor": 7566,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062116
+      },
+      {
+        "id": 52056778,
+        "name": "Krabpeople",
+        "btag": "Krabpeople",
+        "skulls": 109,
+        "honor": 5920,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062116
+      },
+      {
+        "id": 899081,
+        "name": "stevO",
+        "btag": "stevO",
+        "skulls": 139,
+        "honor": 11108,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062116
+      },
+      {
+        "id": 10281406,
+        "name": "Spanctimony",
+        "btag": "Spanctimony",
+        "skulls": 150,
+        "honor": 12067,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062116
+      },
+      {
+        "id": 82055800,
+        "name": "Vonskyfury",
+        "btag": "Vonskyfury",
+        "skulls": 150,
+        "honor": 11885,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062117
+      }
+    ],
+    "lastUpdate": 1719062114
+  },
+  "token": "401bb438-f6bd-4ff1-a9a9-92b7e481b051",
+  "link": "https://localhost:7080/guild/52083073?token=401bb438-f6bd-4ff1-a9a9-92b7e481b051"
+}

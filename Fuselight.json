@@ -1,0 +1,184 @@
+{
+  "data": {
+    "id": 439157421,
+    "name": "Fuselight",
+    "member_count": 20,
+    "description": "Affiliate of the Steamwheedle Cartel",
+    "members": [
+      {
+        "id": 871953849,
+        "name": "nikken",
+        "btag": "nikken",
+        "skulls": 117,
+        "honor": 3787,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062191
+      },
+      {
+        "id": 52923799,
+        "name": "Tenjitsu",
+        "btag": "Tenjitsu",
+        "skulls": 120,
+        "honor": 5645,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062191
+      },
+      {
+        "id": 1158709744,
+        "name": "Carras",
+        "btag": "Carras",
+        "skulls": 142,
+        "honor": 10057,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062191
+      },
+      {
+        "id": 2075552,
+        "name": "Roberto",
+        "btag": "Roberto",
+        "skulls": 141,
+        "honor": 6063,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062191
+      },
+      {
+        "id": 61365484,
+        "name": "Beast",
+        "btag": "Beast",
+        "skulls": 121,
+        "honor": 9673,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062191
+      },
+      {
+        "id": 1155209449,
+        "name": "wromp",
+        "btag": "wromp",
+        "skulls": 134,
+        "honor": 7700,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062191
+      },
+      {
+        "id": 313148227,
+        "name": "Booga",
+        "btag": "Booga",
+        "skulls": 150,
+        "honor": 6105,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719062192
+      },
+      {
+        "id": 101717479,
+        "name": "Ragdoll",
+        "btag": "Ragdoll",
+        "skulls": 150,
+        "honor": 12021,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062192
+      },
+      {
+        "id": 52396883,
+        "name": "Kaldorn",
+        "btag": "Kaldorn",
+        "skulls": 135,
+        "honor": 8412,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062192
+      },
+      {
+        "id": 101754306,
+        "name": "Thorki",
+        "btag": "Thorki",
+        "skulls": 134,
+        "honor": 6506,
+        "avatar": "",
+        "lastUpdate": 1719062192
+      },
+      {
+        "id": 102188224,
+        "name": "iniquity",
+        "btag": "iniquity",
+        "skulls": 131,
+        "honor": 5653,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062192
+      },
+      {
+        "id": 914952,
+        "name": "Kookees",
+        "btag": "Kookees",
+        "skulls": 150,
+        "honor": 9166,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1719062193
+      },
+      {
+        "id": 69445451,
+        "name": "Icewolf",
+        "btag": "Icewolf",
+        "skulls": 129,
+        "honor": 5529,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062191
+      },
+      {
+        "id": 130043250,
+        "name": "Phsust",
+        "btag": "Phsust",
+        "skulls": 134,
+        "honor": 9298,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062193
+      },
+      {
+        "id": 51345106,
+        "name": "SlyKrysis",
+        "btag": "SlyKrysis",
+        "skulls": 120,
+        "honor": 7886,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062193
+      },
+      {
+        "id": 100534428,
+        "name": "Xyle",
+        "btag": "Xyle",
+        "skulls": 125,
+        "honor": 8664,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062193
+      },
+      {
+        "id": 50690608,
+        "name": "Skygrin",
+        "btag": "Skygrin",
+        "skulls": 134,
+        "honor": 3628,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062192
+      },
+      {
+        "id": 1415442435,
+        "name": "mantou",
+        "btag": "mantou",
+        "skulls": 132,
+        "honor": 9905,
+        "avatar": "CombatHUD_Tex_Player_Default",
+        "lastUpdate": 1719062193
+      },
+      {
+        "id": 306261893,
+        "name": "Hellohello26",
+        "btag": "Hellohello26",
+        "skulls": 125,
+        "honor": 4526,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062193
+      }
+    ],
+    "lastUpdate": 1719062190
+  },
+  "token": "75504a06-28c3-4dee-96a2-ffee7b97c28b",
+  "link": "https://localhost:7080/guild/439157421?token=75504a06-28c3-4dee-96a2-ffee7b97c28b"
+}

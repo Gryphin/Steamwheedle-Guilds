@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 468022961,
+    "name": "Ring of Trials",
+    "member_count": 17,
+    "description": "Steamwheedle Cartel: come on over the water is fine",
+    "members": [
+      {
+        "id": 1845555,
+        "name": "Sarak",
+        "btag": "Sarak",
+        "skulls": 122,
+        "honor": 6866,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062187
+      },
+      {
+        "id": 304574373,
+        "name": "SpacePirate",
+        "btag": "SpacePirate",
+        "skulls": 105,
+        "honor": 9046,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062187
+      },
+      {
+        "id": 2096137,
+        "name": "Kyian",
+        "btag": "Kyian",
+        "skulls": 150,
+        "honor": 10852,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062187
+      },
+      {
+        "id": 820421368,
+        "name": "BlackPanther",
+        "btag": "BlackPanther",
+        "skulls": 140,
+        "honor": 7106,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1716751625
+      },
+      {
+        "id": 306462142,
+        "name": "Bignorm",
+        "btag": "Bignorm",
+        "skulls": 105,
+        "honor": 3375,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062188
+      },
+      {
+        "id": 314615297,
+        "name": "Sarcan",
+        "btag": "Sarcan",
+        "skulls": 150,
+        "honor": 1178,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1716751630
+      },
+      {
+        "id": 128731863,
+        "name": "micromat",
+        "btag": "micromat",
+        "skulls": 106,
+        "honor": 3166,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062188
+      },
+      {
+        "id": 51109446,
+        "name": "DadPowers",
+        "btag": "DadPowers",
+        "skulls": 106,
+        "honor": 2793,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719062188
+      },
+      {
+        "id": 58385532,
+        "name": "Divilius",
+        "btag": "Divilius",
+        "skulls": 61,
+        "honor": 3019,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062188
+      },
+      {
+        "id": 2237061,
+        "name": "LillyPad",
+        "btag": "LillyPad",
+        "skulls": 108,
+        "honor": 2727,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062189
+      },
+      {
+        "id": 51960917,
+        "name": "bowlesoffun",
+        "btag": "bowlesoffun",
+        "skulls": 134,
+        "honor": 7005,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062189
+      },
+      {
+        "id": 51948099,
+        "name": "Razuur",
+        "btag": "Razuur",
+        "skulls": 150,
+        "honor": 10375,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719062189
+      },
+      {
+        "id": 101059829,
+        "name": "RoidRat",
+        "btag": "RoidRat",
+        "skulls": 90,
+        "honor": 4203,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719062189
+      },
+      {
+        "id": 872393824,
+        "name": "Zamb",
+        "btag": "Zamb",
+        "skulls": 126,
+        "honor": 7831,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062189
+      },
+      {
+        "id": 78802528,
+        "name": "Leaizel",
+        "btag": "Leaizel",
+        "skulls": 0,
+        "honor": 0,
+        "avatar": null,
+        "lastUpdate": 2288912640
+      },
+      {
+        "id": 102587149,
+        "name": "Alan",
+        "btag": "Alan",
+        "skulls": 150,
+        "honor": 11420,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062190
+      },
+      {
+        "id": 59981073,
+        "name": "Vanquished",
+        "btag": "Vanquished",
+        "skulls": 111,
+        "honor": 9093,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062190
+      },
+      {
+        "id": 2122377,
+        "name": "Timberwolf",
+        "btag": "Timberwolf",
+        "skulls": 128,
+        "honor": 2665,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062190
+      },
+      {
+        "id": 54725226,
+        "name": "Marauder",
+        "btag": "Marauder",
+        "skulls": 105,
+        "honor": 9839,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062187
+      },
+      {
+        "id": 301537172,
+        "name": "Spacebob",
+        "btag": "Spacebob",
+        "skulls": 107,
+        "honor": 3187,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062189
+      }
+    ],
+    "lastUpdate": 1719062187
+  },
+  "token": "79bee640-e933-4d98-b738-026b33837f2e",
+  "link": "https://localhost:7080/guild/468022961?token=79bee640-e933-4d98-b738-026b33837f2e"
+}

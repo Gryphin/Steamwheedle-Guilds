@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 466184131,
+    "name": "Viva le Beeyo",
+    "member_count": 15,
+    "description": "Live it Chill! Cartel Discord:  https://discord.com/invite/steamwheedlecartel",
+    "members": [
+      {
+        "id": 51576138,
+        "name": "Lert",
+        "btag": "Lert",
+        "skulls": 115,
+        "honor": 7180,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719062173
+      },
+      {
+        "id": 100257022,
+        "name": "Xehn",
+        "btag": "Xehn",
+        "skulls": 131,
+        "honor": 5425,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062173
+      },
+      {
+        "id": 52546100,
+        "name": "ArkVII",
+        "btag": "ArkVII",
+        "skulls": 117,
+        "honor": 6711,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062173
+      },
+      {
+        "id": 131237195,
+        "name": "Pyth0Ny",
+        "btag": "Pyth0Ny",
+        "skulls": 137,
+        "honor": 8829,
+        "avatar": "Indicator_Sneed_Pose",
+        "lastUpdate": 1719062173
+      },
+      {
+        "id": 871876071,
+        "name": "Mistabee",
+        "btag": "Mistabee",
+        "skulls": 101,
+        "honor": 5427,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062173
+      },
+      {
+        "id": 101343891,
+        "name": "Strypenbever",
+        "btag": "Strypenbever",
+        "skulls": 138,
+        "honor": 9308,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062173
+      },
+      {
+        "id": 51207295,
+        "name": "Salahadim",
+        "btag": "Salahadim",
+        "skulls": 138,
+        "honor": 10932,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062174
+      },
+      {
+        "id": 101983497,
+        "name": "Flavour",
+        "btag": "Flavour",
+        "skulls": 129,
+        "honor": 9160,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719062174
+      },
+      {
+        "id": 71064165,
+        "name": "kkiilllleerr",
+        "btag": "kkiilllleerr",
+        "skulls": 115,
+        "honor": 10218,
+        "avatar": "Indicator_Charlga_Pose",
+        "lastUpdate": 1719062174
+      },
+      {
+        "id": 2038714,
+        "name": "Paina",
+        "btag": "Paina",
+        "skulls": 119,
+        "honor": 6804,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062174
+      },
+      {
+        "id": 92848830,
+        "name": "Ashenblood",
+        "btag": "Ashenblood",
+        "skulls": 101,
+        "honor": 4528,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062175
+      },
+      {
+        "id": 1158331828,
+        "name": "Kawaiizinha",
+        "btag": "Kawaiizinha",
+        "skulls": 100,
+        "honor": 8445,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062175
+      },
+      {
+        "id": 51678873,
+        "name": "xfip",
+        "btag": "xfip",
+        "skulls": 135,
+        "honor": 9616,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062175
+      },
+      {
+        "id": 124752711,
+        "name": "grolim",
+        "btag": "grolim",
+        "skulls": 130,
+        "honor": 8062,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062175
+      },
+      {
+        "id": 90080663,
+        "name": "Hextor",
+        "btag": "Hextor",
+        "skulls": 135,
+        "honor": 9116,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1719062176
+      },
+      {
+        "id": 52197276,
+        "name": "Abwedl",
+        "btag": "Abwedl",
+        "skulls": 150,
+        "honor": 11166,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062173
+      },
+      {
+        "id": 958212,
+        "name": "Ziegen",
+        "btag": "Ziegen",
+        "skulls": 136,
+        "honor": 5918,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062173
+      },
+      {
+        "id": 51763790,
+        "name": "Unkept",
+        "btag": "Unkept",
+        "skulls": 129,
+        "honor": 9214,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062175
+      },
+      {
+        "id": 410266948,
+        "name": "Karmicy",
+        "btag": "Karmicy",
+        "skulls": 121,
+        "honor": 7614,
+        "avatar": "Indicator_Sneed_Pose",
+        "lastUpdate": 1719062175
+      },
+      {
+        "id": 100824889,
+        "name": "Spud",
+        "btag": "Spud",
+        "skulls": 121,
+        "honor": 8631,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062176
+      }
+    ],
+    "lastUpdate": 1719062172
+  },
+  "token": "9f185b13-a4e1-468b-b68a-7ad0d595311a",
+  "link": "https://localhost:7080/guild/466184131?token=9f185b13-a4e1-468b-b68a-7ad0d595311a"
+}

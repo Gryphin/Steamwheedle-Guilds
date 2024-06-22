@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 466747161,
+    "name": "Booty Bay Crew",
+    "member_count": 20,
+    "description": "Big fans of booty",
+    "members": [
+      {
+        "id": 355172029,
+        "name": "dani",
+        "btag": "dani",
+        "skulls": 72,
+        "honor": 2875,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062136
+      },
+      {
+        "id": 315484962,
+        "name": "Stabhappy",
+        "btag": "Stabhappy",
+        "skulls": 78,
+        "honor": 10072,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1716307763
+      },
+      {
+        "id": 51930947,
+        "name": "Eruantien201",
+        "btag": "Eruantien201",
+        "skulls": 104,
+        "honor": 600,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062136
+      },
+      {
+        "id": 92391125,
+        "name": "DuckFat",
+        "btag": "DuckFat",
+        "skulls": 95,
+        "honor": 10162,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062136
+      },
+      {
+        "id": 871842377,
+        "name": "BeefWelinton",
+        "btag": "BeefWelinton",
+        "skulls": 110,
+        "honor": 6369,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719062136
+      },
+      {
+        "id": 2221775,
+        "name": "Frixtion",
+        "btag": "Frixtion",
+        "skulls": 138,
+        "honor": 11374,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062136
+      },
+      {
+        "id": 60963238,
+        "name": "Shibolt",
+        "btag": "Shibolt",
+        "skulls": 150,
+        "honor": 9022,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1716307763
+      },
+      {
+        "id": 137815,
+        "name": "SINtez",
+        "btag": "SINtez",
+        "skulls": 125,
+        "honor": 7745,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062136
+      },
+      {
+        "id": 51384192,
+        "name": "Koree17",
+        "btag": "Koree17",
+        "skulls": 140,
+        "honor": 10332,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719062136
+      },
+      {
+        "id": 56302337,
+        "name": "Razdor",
+        "btag": "Razdor",
+        "skulls": 122,
+        "honor": 6289,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719062137
+      },
+      {
+        "id": 90008238,
+        "name": "Dionysos",
+        "btag": "Dionysos",
+        "skulls": 121,
+        "honor": 10807,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062137
+      },
+      {
+        "id": 75361719,
+        "name": "CodE",
+        "btag": "CodE",
+        "skulls": 119,
+        "honor": 3165,
+        "avatar": "Indicator_KoboldMurloc_Pose",
+        "lastUpdate": 1709171304
+      },
+      {
+        "id": 53460699,
+        "name": "maynator",
+        "btag": "maynator",
+        "skulls": 142,
+        "honor": 12021,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062137
+      },
+      {
+        "id": 51469939,
+        "name": "Solomon",
+        "btag": "Solomon",
+        "skulls": 130,
+        "honor": 7223,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062137
+      },
+      {
+        "id": 392929879,
+        "name": "Rytoria",
+        "btag": "Rytoria",
+        "skulls": 150,
+        "honor": 8974,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062137
+      },
+      {
+        "id": 2223243,
+        "name": "DatWuxian",
+        "btag": "DatWuxian",
+        "skulls": 106,
+        "honor": 3169,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719062138
+      },
+      {
+        "id": 50074512,
+        "name": "Kaymoris",
+        "btag": "Kaymoris",
+        "skulls": 120,
+        "honor": 1050,
+        "avatar": "",
+        "lastUpdate": 1719062138
+      },
+      {
+        "id": 70018851,
+        "name": "TommytheCat",
+        "btag": "TommytheCat",
+        "skulls": 130,
+        "honor": 9661,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062138
+      },
+      {
+        "id": 921292,
+        "name": "Hysteria",
+        "btag": "Hysteria",
+        "skulls": 116,
+        "honor": 5900,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062139
+      },
+      {
+        "id": 1333055,
+        "name": "Sarb",
+        "btag": "Sarb",
+        "skulls": 119,
+        "honor": 9027,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062139
+      }
+    ],
+    "lastUpdate": 1719062135
+  },
+  "token": "5a189b01-fbb8-45ec-a07c-2365a19f0987",
+  "link": "https://localhost:7080/guild/466747161?token=5a189b01-fbb8-45ec-a07c-2365a19f0987"
+}

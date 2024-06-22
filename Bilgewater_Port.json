@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 469001351,
+    "name": "Bilgewater Port",
+    "member_count": 20,
+    "description": "Semi-competitive Steamwheedle Cartel guild https://discord.gg/steamwheedlecartel",
+    "members": [
+      {
+        "id": 1082394,
+        "name": "Maarij",
+        "btag": "Maarij",
+        "skulls": 150,
+        "honor": 13369,
+        "avatar": "CombatHUD_Tex_Player_Default",
+        "lastUpdate": 1719062106
+      },
+      {
+        "id": 1159395,
+        "name": "Barchon",
+        "btag": "Barchon",
+        "skulls": 150,
+        "honor": 9836,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062106
+      },
+      {
+        "id": 332513495,
+        "name": "Charlemagne",
+        "btag": "Charlemagne",
+        "skulls": 150,
+        "honor": 11873,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062106
+      },
+      {
+        "id": 1537140,
+        "name": "SUDiver",
+        "btag": "SUDiver",
+        "skulls": 140,
+        "honor": 14186,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1719062106
+      },
+      {
+        "id": 100175980,
+        "name": "ender",
+        "btag": "ender",
+        "skulls": 149,
+        "honor": 11131,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1718197415
+      },
+      {
+        "id": 872283780,
+        "name": "Heavystarch",
+        "btag": "Heavystarch",
+        "skulls": 150,
+        "honor": 4560,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062106
+      },
+      {
+        "id": 70725739,
+        "name": "SuperHogh",
+        "btag": "SuperHogh",
+        "skulls": 150,
+        "honor": 10216,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1716771516
+      },
+      {
+        "id": 51353616,
+        "name": "Bnetplayer",
+        "btag": "Bnetplayer",
+        "skulls": 149,
+        "honor": 11464,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1716771517
+      },
+      {
+        "id": 377763479,
+        "name": "IzzyEd",
+        "btag": "IzzyEd",
+        "skulls": 150,
+        "honor": 11463,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719062107
+      },
+      {
+        "id": 56544021,
+        "name": "Splidow",
+        "btag": "Splidow",
+        "skulls": 150,
+        "honor": 10733,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062107
+      },
+      {
+        "id": 373103380,
+        "name": "Argalan",
+        "btag": "Argalan",
+        "skulls": 150,
+        "honor": 11322,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1716771517
+      },
+      {
+        "id": 872478824,
+        "name": "Winner",
+        "btag": "Winner",
+        "skulls": 142,
+        "honor": 10070,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719062108
+      },
+      {
+        "id": 53264538,
+        "name": "Dominici",
+        "btag": "Dominici",
+        "skulls": 150,
+        "honor": 11912,
+        "avatar": "Indicator_Charlga_Pose",
+        "lastUpdate": 1719062108
+      },
+      {
+        "id": 1417069,
+        "name": "Kiey",
+        "btag": "Kiey",
+        "skulls": 150,
+        "honor": 10063,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719062109
+      },
+      {
+        "id": 100135915,
+        "name": "berra",
+        "btag": "berra",
+        "skulls": 150,
+        "honor": 13208,
+        "avatar": "CombatHUD_Tex_Player_Default",
+        "lastUpdate": 1719062109
+      },
+      {
+        "id": 65321583,
+        "name": "RLax26",
+        "btag": "RLax26",
+        "skulls": 149,
+        "honor": 13195,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062108
+      },
+      {
+        "id": 2047128,
+        "name": "Sumsarg",
+        "btag": "Sumsarg",
+        "skulls": 150,
+        "honor": 5776,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062109
+      },
+      {
+        "id": 1586602,
+        "name": "WTFPWNED",
+        "btag": "WTFPWNED",
+        "skulls": 150,
+        "honor": 13611,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062107
+      },
+      {
+        "id": 56016005,
+        "name": "Mishrael",
+        "btag": "Mishrael",
+        "skulls": 150,
+        "honor": 11663,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062109
+      },
+      {
+        "id": 102959266,
+        "name": "Grower",
+        "btag": "Grower",
+        "skulls": 150,
+        "honor": 11235,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1719062109
+      }
+    ],
+    "lastUpdate": 1719062105
+  },
+  "token": "6a648886-62e7-47ae-ba17-583349517791",
+  "link": "https://localhost:7080/guild/469001351?token=6a648886-62e7-47ae-ba17-583349517791"
+}

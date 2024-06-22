@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 437262641,
+    "name": "Steamwheedle",
+    "member_count": 20,
+    "description": "Srs guild for srs ppl \u003C3 apply in discord https://discord.gg/hEKVY3Syfx",
+    "members": [
+      {
+        "id": 1139900936,
+        "name": "Jinvvar",
+        "btag": "Jinvvar",
+        "skulls": 90,
+        "honor": 10818,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062143
+      },
+      {
+        "id": 306577076,
+        "name": "Lobo25",
+        "btag": "Lobo25",
+        "skulls": 116,
+        "honor": 8703,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062144
+      },
+      {
+        "id": 10267199,
+        "name": "Frostie",
+        "btag": "Frostie",
+        "skulls": 130,
+        "honor": 7106,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062144
+      },
+      {
+        "id": 112325544,
+        "name": "NoFlyZone",
+        "btag": "NoFlyZone",
+        "skulls": 130,
+        "honor": 12063,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062144
+      },
+      {
+        "id": 1711605,
+        "name": "Parka",
+        "btag": "Parka",
+        "skulls": 145,
+        "honor": 13272,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1717911763
+      },
+      {
+        "id": 660318,
+        "name": "Woosa",
+        "btag": "Woosa",
+        "skulls": 140,
+        "honor": 10159,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062144
+      },
+      {
+        "id": 52467316,
+        "name": "PintShot",
+        "btag": "PintShot",
+        "skulls": 136,
+        "honor": 11420,
+        "avatar": "CombatHUD_Tex_Player_Default",
+        "lastUpdate": 1718197459
+      },
+      {
+        "id": 304459337,
+        "name": "Midorima",
+        "btag": "Midorima",
+        "skulls": 105,
+        "honor": 5056,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062145
+      },
+      {
+        "id": 406642017,
+        "name": "wolverine",
+        "btag": "wolverine",
+        "skulls": 148,
+        "honor": 10066,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1716771555
+      },
+      {
+        "id": 105194901,
+        "name": "Antzie",
+        "btag": "Antzie",
+        "skulls": 146,
+        "honor": 9664,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1716771555
+      },
+      {
+        "id": 1114761,
+        "name": "Murtogg",
+        "btag": "Murtogg",
+        "skulls": 123,
+        "honor": 4180,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717403223
+      },
+      {
+        "id": 2282808,
+        "name": "Khadaji",
+        "btag": "Khadaji",
+        "skulls": 150,
+        "honor": 11942,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1718313794
+      },
+      {
+        "id": 100013508,
+        "name": "Likecoke",
+        "btag": "Likecoke",
+        "skulls": 150,
+        "honor": 13454,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1717899078
+      },
+      {
+        "id": 2287654,
+        "name": "Vessel",
+        "btag": "Vessel",
+        "skulls": 115,
+        "honor": 3528,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062146
+      },
+      {
+        "id": 51191408,
+        "name": "Therm",
+        "btag": "Therm",
+        "skulls": 143,
+        "honor": 10165,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062146
+      },
+      {
+        "id": 50307425,
+        "name": "Thorce",
+        "btag": "Thorce",
+        "skulls": 106,
+        "honor": 10516,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062147
+      },
+      {
+        "id": 310164418,
+        "name": "IFry",
+        "btag": "IFry",
+        "skulls": 110,
+        "honor": 11454,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062145
+      },
+      {
+        "id": 590317,
+        "name": "EarlGrey",
+        "btag": "EarlGrey",
+        "skulls": 129,
+        "honor": 2629,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062146
+      },
+      {
+        "id": 51225869,
+        "name": "Trodgie69",
+        "btag": "Trodgie69",
+        "skulls": 132,
+        "honor": 6180,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719062146
+      },
+      {
+        "id": 869751364,
+        "name": "CMCorsair",
+        "btag": "CMCorsair",
+        "skulls": 145,
+        "honor": 9412,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062147
+      }
+    ],
+    "lastUpdate": 1719062143
+  },
+  "token": "3ab70e55-3ded-4310-83ba-6f1d4678194c",
+  "link": "https://localhost:7080/guild/437262641?token=3ab70e55-3ded-4310-83ba-6f1d4678194c"
+}
