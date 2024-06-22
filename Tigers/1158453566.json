@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1158453566,
+    "btag": "Chung",
+    "name": "Chung",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 97,
+    "level": 38,
+    "pvpWins": 56,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 25,
+    "leaderAHonor": 1573,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 10,
+    "leaderBHonor": 974,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 4,
+    "leaderCHonor": 800,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "HarvestGolem;UnstableCore;18",
+        "Huntress;DarnassianSteel;18",
+        "Blizzard;ColdSnap;18",
+        "DefiasBandits;DeadlyPoison;18",
+        "GryphonRider;MightyThrow;18",
+        "HolyNova;Renew;18"
+      ],
+      [
+        "TirionLeader;ByTheLight;20",
+        "Huntress;DarnassianSteel;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "HarvestGolem;UnstableCore;18",
+        "HolyNova;Renew;18",
+        "GryphonRider;MightyThrow;18",
+        "DefiasBandits;DeadlyPoison;18"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;20",
+        "Quilboar;TunnelVision;17",
+        "GnollBrute;Rabid;17",
+        "Prowler;PackLeader;18",
+        "Raptors;StrengthInNumbers;17",
+        "MurlocTidehunters;CarefulAim;20",
+        "Harpy;TalonDive;18"
+      ],
+      [
+        "GrommashLeader;Bladestorm;18",
+        "WarsongRaider;SunderArmor;18",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "WarsongGrunts;BloodPact;17",
+        "BatRider;FlamingPitch;20",
+        "Shaman;EarthShield;18",
+        "ChainLightning;Reverberation;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;17",
+        "Pyromancer;Pyroblast;17",
+        "Firehammer;HeightenedRage;18",
+        "Drake;MotherDrake;17",
+        "MoltenGiant;BloodOfTheMountain;18",
+        "WhelpEggs;Rookery;16",
+        "PlagueFarmer;SplashingPumpkins;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "Ghoul;BoneArmor;18",
+        "Necromancer;BreathOfTheDying;18",
+        "HolyNova;Renew;18",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "SkeletonWarrior;QuestingBuddies;18",
+        "ArcaneBlast;Amplification;18"
+      ],
+      [
+        "MaievLeader;Shadowstep;17",
+        "HolyNova;Renew;18",
+        "Worgen;LoneWolf;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "EarthElemental;ObsidianShard;17",
+        "SkeletonWarrior;QuestingBuddies;18",
+        "HarvestGolem;UnstableCore;18"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Quilboar;TunnelVision;17",
+        "Harpy;TalonDive;18",
+        "GnollBrute;Rabid;18",
+        "Chimaera;Leviathan;20",
+        "MurlocTidehunters;CarefulAim;20",
+        "SkeletonWarrior;QuestingBuddies;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "StonehoofTauren;Pummel;21",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Shaman;EarthShield;18",
+        "WitchDoctor;Alchemist;18",
+        "ChainLightning;Reverberation;18",
+        "BatRider;FlamingPitch;20"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;20",
+        "Ghoul;BoneArmor;18",
+        "MeatWagon;FiletTrebuchet;18",
+        "SkeletonWarrior;QuestingBuddies;18",
+        "Necromancer;BreathOfTheDying;18",
+        "HolyNova;Renew;18",
+        "BatRider;FlamingPitch;20"
+      ],
+      [
+        "SneedLeader;LandGrab;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "GoblinSapper;ExtraBoom;18",
+        "EarthElemental;ObsidianShard;17",
+        "WarsongRaider;SunderArmor;18",
+        "MeatWagon;FiletTrebuchet;18",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "Quilboar;TunnelVision;17",
+        "GnollBrute;;15",
+        "Prowler;PackLeader;17",
+        "Chimaera;Leviathan;18",
+        "Harpy;TalonDive;17",
+        "HolyNova;Renew;17"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;18",
+        "MoltenGiant;BloodOfTheMountain;18",
+        "Firehammer;HeightenedRage;18",
+        "Pyromancer;Pyroblast;17",
+        "Flamewaker;Engulf;17",
+        "GryphonRider;MightyThrow;18",
+        "DarkIronMiner;DwarvenAmbition;17"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;19",
+        "Pyromancer;Pyroblast;17",
+        "Flamewaker;Engulf;17",
+        "MoltenGiant;BloodOfTheMountain;18",
+        "CoreHounds;FieryRebirth;18",
+        "Firehammer;HeightenedRage;18",
+        "SmokeBombSpell;;14"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;19",
+        "Abomination;NoxiousPresence;17",
+        "MeatWagon;FiletTrebuchet;17",
+        "WitchDoctor;Alchemist;17",
+        "SkeletonWarrior;QuestingBuddies;18",
+        "GnollBrute;Rabid;17",
+        "HolyNova;Renew;18"
+      ]
+    ],
+    "lastUpdate": 1719063121
+  },
+  "token": "58f76c0f-179b-49f4-8b87-5a90d136070f"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 51852518,
+    "btag": "Grarl",
+    "name": "Grarl",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Charlga_Pose",
+    "skulls": 150,
+    "level": 46,
+    "pvpWins": 1002,
+    "leaderA": "CharlgaLeader",
+    "leaderAWins": 66,
+    "leaderAHonor": 3540,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 94,
+    "leaderBHonor": 3540,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 62,
+    "leaderCHonor": 3451,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "Blizzard;ColdSnap;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "ChainLightning;Reverberation;20",
+        "Quilboar;TunnelVision;21",
+        "FireElemental;ImmolationAura;23",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "Blizzard;ColdSnap;21",
+        "Huntress;ElvenMight;23",
+        "Quilboar;TunnelVision;21",
+        "WitchDoctor;AmplifyCurse;21",
+        "PolymorphSpell;GoldenFleece;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "FireElemental;ImmolationAura;23",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Shaman;EarthShield;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "CheatDeath;Vampirism;19",
+        "Shaman;EarthShield;21",
+        "Harpy;InfectiousSwipes;21",
+        "EarthElemental;ObsidianShard;21",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "FireElemental;ImmolationAura;23",
+        "Pyromancer;Pyroblast;23",
+        "Harpy;InfectiousSwipes;21",
+        "EarthElemental;ObsidianShard;21",
+        "Quilboar;TunnelVision;21",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "Gargoyle;WingBuffet;20",
+        "Ghoul;BoneArmor;20",
+        "ArcaneBlast;Amplification;20",
+        "Pyromancer;Pyroblast;23",
+        "PolymorphSpell;GoldenFleece;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;21",
+        "Huntress;ElvenMight;23",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21",
+        "FireElemental;ImmolationAura;23"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;TunnelVision;21",
+        "PolymorphSpell;GoldenFleece;20",
+        "DefiasBandits;PickLock;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "ChainLightning;Reverberation;20",
+        "MurlocTidehunters;SafetyBubble;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Execute;Bloodthirsty;20",
+        "Banshee;WillOfTheNecropolis;20",
+        "Harpy;InfectiousSwipes;21",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;21",
+        "Banshee;WillOfTheNecropolis;22",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "WhelpEggs;FlameBurst;21",
+        "Huntress;ElvenMight;23",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "Execute;Bloodthirsty;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "EarthElemental;ObsidianShard;21",
+        "Harpy;InfectiousSwipes;21",
+        "Pyromancer;Pyroblast;23",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;ElvenMight;23",
+        "Shaman;EarthShield;21",
+        "FireElemental;ImmolationAura;23",
+        "ChainLightning;Reverberation;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Pyroblast;23",
+        "WhelpEggs;FlameBurst;21",
+        "Blizzard;ColdSnap;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "FireElemental;ImmolationAura;23",
+        "EarthElemental;ObsidianShard;21",
+        "DarkIronMiner;GoldMine;20",
+        "MurlocTidehunters;SafetyBubble;20",
+        "CheatDeath;Vampirism;19",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Necromancer;JeweledSkulls;20",
+        "Banshee;WillOfTheNecropolis;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;21"
+      ]
+    ],
+    "lastUpdate": 1719063111
+  },
+  "token": "bc5fe90d-0715-47b5-8004-b5db86f7fe97"
+}

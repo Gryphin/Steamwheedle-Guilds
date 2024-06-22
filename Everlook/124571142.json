@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 124571142,
+    "btag": "Auiken",
+    "name": "Auiken",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 108,
+    "level": 40,
+    "pvpWins": 35,
+    "leaderA": "SneedLeader",
+    "leaderAWins": 6,
+    "leaderAHonor": 1181,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 13,
+    "leaderBHonor": 1011,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 12,
+    "leaderCHonor": 951,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;18",
+        "Worgen;Premeditation;18",
+        "Blizzard;ColdSnap;20",
+        "Execute;Bloodthirsty;18",
+        "Harpy;InfectiousSwipes;20",
+        "WhelpEggs;FlameBurst;20",
+        "EarthElemental;ObsidianShard;18"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "Blizzard;ColdSnap;20",
+        "Worgen;Premeditation;18",
+        "Footmen;Fortification;18",
+        "Huntress;Shadowmeld;20",
+        "Harpy;InfectiousSwipes;20",
+        "MeatWagon;FiletTrebuchet;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;InfectiousSwipes;20",
+        "Prowler;OnTheProwl;19",
+        "Footmen;Fortification;18",
+        "Blizzard;Icecrown;20",
+        "Quilboar;TunnelVision;18",
+        "PlagueFarmer;SplashingPumpkins;20"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "OgreMage;FrostfireBolt;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "Shaman;EarthShield;19",
+        "Harpy;InfectiousSwipes;20",
+        "ChainLightning;Reverberation;16",
+        "MeatWagon;FiletTrebuchet;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Pyromancer;Pyroblast;20",
+        "WhelpEggs;Rookery;20",
+        "Harpy;InfectiousSwipes;20",
+        "DarkIronMiner;GoldMine;19",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Gargoyle;WingBuffet;18",
+        "MeatWagon;FiletTrebuchet;20",
+        "ArcaneBlast;Amplification;18",
+        "Abomination;Cannonball;20",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Huntress;DarnassianSteel;20",
+        "Worgen;Premeditation;18",
+        "Quilboar;TunnelVision;18",
+        "Harpy;TrinketCollectors;20",
+        "StonehoofTauren;Momentum;20",
+        "MeatWagon;FiletTrebuchet;20"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "GnollBrute;Rabid;18",
+        "Harpy;InfectiousSwipes;20",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Pyromancer;Pyroblast;20",
+        "Execute;Bloodthirsty;18",
+        "WarsongRaider;Saboteur;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "StonehoofTauren;Momentum;17",
+        "Shaman;EarthShield;18",
+        "OgreMage;FrostfireBolt;17",
+        "Quilboar;TunnelVision;17",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Abomination;Cannonball;20",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "SkeletonWarrior;Exhume;18",
+        "MeatWagon;FiletTrebuchet;18",
+        "Harpy;InfectiousSwipes;20",
+        "OgreMage;FrostfireBolt;18"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;20",
+        "OgreMage;FrostfireBolt;20",
+        "Shaman;EarthShield;20",
+        "MeatWagon;FiletTrebuchet;20",
+        "Harpy;InfectiousSwipes;20",
+        "Execute;Bloodthirsty;18",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;17",
+        "Prowler;OnTheProwl;17",
+        "GnollBrute;Rabid;16",
+        "Harpy;InfectiousSwipes;19",
+        "Quilboar;TunnelVision;17",
+        "MurlocTidehunters;;15",
+        "PlagueFarmer;SplashingPumpkins;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "MoltenGiant;ThreateningPresence;20",
+        "DarkIronMiner;GoldMine;19",
+        "Shaman;EarthShield;20",
+        "Pyromancer;Pyroblast;20",
+        "Harpy;InfectiousSwipes;20",
+        "HolyNova;AmplifyMagic;17"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "MoltenGiant;ThreateningPresence;20",
+        "DarkIronMiner;GoldMine;19",
+        "Shaman;EarthShield;20",
+        "Pyromancer;Pyroblast;20",
+        "Harpy;InfectiousSwipes;20",
+        "MeatWagon;FiletTrebuchet;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Abomination;Cannonball;20",
+        "MeatWagon;FiletTrebuchet;20",
+        "OgreMage;FrostfireBolt;20",
+        "Harpy;InfectiousSwipes;20",
+        "Shaman;EarthShield;20",
+        "Quilboar;TunnelVision;18"
+      ]
+    ],
+    "lastUpdate": 1719063144
+  },
+  "token": "ce0ada76-7a26-4dc6-835f-39dde78c4db6"
+}

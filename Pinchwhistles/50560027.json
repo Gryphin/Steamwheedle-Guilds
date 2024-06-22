@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 50560027,
+    "btag": "Derivative",
+    "name": "Derivative",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 150,
+    "level": 47,
+    "pvpWins": 989,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 99,
+    "leaderAHonor": 4118,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 105,
+    "leaderBHonor": 4173,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 70,
+    "leaderCHonor": 4067,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "DefiasBandits;PickLock;22",
+        "Blizzard;ColdSnap;21",
+        "DeepBreath;DoubleDragon;19",
+        "HarvestGolem;UnstableCore;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "DefiasBandits;PickLock;22",
+        "Footmen;Fortification;21",
+        "FireElemental;ImmolationAura;22",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;ElvenMight;21",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;22",
+        "Harpy;InfectiousSwipes;24",
+        "Prowler;OnTheProwl;21",
+        "Ghoul;BoneArmor;21",
+        "DarkIronMiner;GoldMine;21",
+        "WitchDoctor;SpiritWard;22",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;22",
+        "StonehoofTauren;Momentum;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Harpy;InfectiousSwipes;24",
+        "WitchDoctor;SpiritWard;21",
+        "Shaman;EarthShield;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;22",
+        "FireElemental;ImmolationAura;22",
+        "DarkIronMiner;GoldMine;21",
+        "Execute;Bloodthirsty;22",
+        "Shaman;EarthShield;24",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "GryphonRider;MightyThrow;21",
+        "Banshee;WillOfTheNecropolis;23",
+        "Execute;Bloodthirsty;22",
+        "Quilboar;Bristleback;22",
+        "DeepBreath;DoubleDragon;19",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "Quilboar;TunnelVision;22",
+        "GryphonRider;MightyThrow;21",
+        "DarkIronMiner;GoldMine;21",
+        "Execute;Bloodthirsty;21",
+        "Harpy;InfectiousSwipes;24",
+        "Chimaera;CorrosiveBreath;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;TunnelVision;22",
+        "Harpy;InfectiousSwipes;22",
+        "DarkIronMiner;GoldMine;21",
+        "WhelpEggs;FlameBurst;24",
+        "WitchDoctor;SpiritWard;20",
+        "DefiasBandits;PickLock;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Execute;Bloodthirsty;22",
+        "Shaman;EarthShield;24",
+        "Banshee;WillOfTheNecropolis;23",
+        "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "Banshee;WillOfTheNecropolis;23",
+        "Ghoul;BoneArmor;21",
+        "Quilboar;TunnelVision;22",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;ElvenMight;22",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Execute;Bloodthirsty;22",
+        "WarsongRaider;Saboteur;19",
+        "GryphonRider;MightyThrow;21",
+        "WitchDoctor;SpiritWard;22",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;19",
+        "5709c8989210cdd41943f35f5ffd8b6b;14113462a25ecea479d66e9675d3f895;21",
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;22",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;21",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;21",
+        "778362939e64ec04ab77644756c93815;7b7b7111d5ec76542932a732fc2c28f9;21",
+        "724ebbab65fd2477db54c91707f4a6d8;8f9bd07f0178c1d46a071bcef041138b;21"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;21",
+        "PolymorphSpell;GoldenFleece;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "GryphonRider;MightyThrow;21",
+        "HarvestGolem;UnstableCore;21",
+        "Execute;Bloodthirsty;22",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "Pyromancer;Pyroblast;24",
+        "DarkIronMiner;GoldMine;21",
+        "HolyNova;Renew;21",
+        "Shaman;EarthShield;24",
+        "Quilboar;TunnelVision;22",
+        "PolymorphSpell;GoldenFleece;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "DarkIronMiner;GoldMine;21",
+        "DeepBreath;DoubleDragon;19",
+        "Prowler;OnTheProwl;21",
+        "Harpy;InfectiousSwipes;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "DarkspearTroll;BigBadVoodoo;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Necromancer;CultOfTheDamned;21",
+        "Ghoul;BoneArmor;21",
+        "Execute;Bloodthirsty;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;TunnelVision;22"
+      ]
+    ],
+    "lastUpdate": 1719063103
+  },
+  "token": "b7ef0ae8-9da2-4bd9-ad7e-cc413c1d5f7c"
+}

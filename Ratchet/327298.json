@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 327298,
+    "btag": "Solacespecs",
+    "name": "Solacespecs",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 120,
+    "level": 44,
+    "pvpWins": 492,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 141,
+    "leaderAHonor": 3000,
+    "leaderB": "RendLeader",
+    "leaderBWins": 159,
+    "leaderBHonor": 3001,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 69,
+    "leaderCHonor": 3000,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Blizzard;ColdSnap;18",
+        "Execute;Bloodthirsty;19",
+        "Quilboar;Bristleback;21",
+        "Pyromancer;Pyroblast;21",
+        "Gargoyle;WingBuffet;19"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "DefiasBandits;PickLock;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;20",
+        "BatRider;EnchantedVials;19",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Prowler;OnTheProwl;22",
+        "PolymorphSpell;ExplodingSheep;21",
+        "Quilboar;TunnelVision;21",
+        "GoblinSapper;RocketBoots;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;19",
+        "GoblinSapper;RocketBoots;19",
+        "StonehoofTauren;Momentum;19",
+        "Harpy;InfectiousSwipes;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "DarkIronMiner;GoldMine;20",
+        "Drake;MotherDrake;19",
+        "Execute;Bloodthirsty;19",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;20",
+        "Prowler;PredatoryInstincts;23"
+      ],
+      [
+        "BloodmageThalnosLeader;;18",
+        "Gargoyle;WingBuffet;19",
+        "Banshee;WillOfTheNecropolis;19",
+        "CheatDeath;;18",
+        "WhelpEggs;FlameBurst;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "DefiasBandits;PickLock;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;21",
+        "Execute;Bloodthirsty;19",
+        "WhelpEggs;FlameBurst;20"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Chimaera;CorrosiveBreath;19",
+        "PolymorphSpell;ExplodingSheep;21",
+        "Quilboar;TunnelVision;21",
+        "Banshee;WillOfTheNecropolis;19",
+        "WhelpEggs;FlameBurst;20",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;19",
+        "Execute;Bloodthirsty;18",
+        "ChainLightning;BrilliantFlash;20",
+        "WitchDoctor;SpiritWard;18",
+        "BatRider;EnchantedVials;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "WhelpEggs;FlameBurst;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Necromancer;JeweledSkulls;20",
+        "MeatWagon;FiletTrebuchet;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "WhelpEggs;FlameBurst;20",
+        "DarkIronMiner;GoldMine;20",
+        "PolymorphSpell;GoldenFleece;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "WitchDoctor;SpiritWard;18",
+        "Execute;Bloodthirsty;18",
+        "EarthElemental;ObsidianShard;19",
+        "BatRider;EnchantedVials;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "PlagueFarmer;SplashingPumpkins;19"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;19",
+        "Chimaera;CorrosiveBreath;19",
+        "PolymorphSpell;ExplodingSheep;21",
+        "Harpy;InfectiousSwipes;21",
+        "BatRider;EnchantedVials;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "CheatDeath;;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;20",
+        "Shaman;EarthShield;19",
+        "PolymorphSpell;ExplodingSheep;21",
+        "BatRider;EnchantedVials;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;20",
+        "MoltenGiant;Bolster;21",
+        "PolymorphSpell;GoldenFleece;21",
+        "Harpy;InfectiousSwipes;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "Banshee;WillOfTheNecropolis;19",
+        "CheatDeath;;18",
+        "Execute;Bloodthirsty;19",
+        "Gargoyle;WingBuffet;19",
+        "WhelpEggs;FlameBurst;20",
+        "Harpy;InfectiousSwipes;21"
+      ]
+    ],
+    "lastUpdate": 1719062195
+  },
+  "token": "4a95569c-4f25-4516-ae99-780ce7e30d6d"
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "id": 70018851,
+    "btag": "TommytheCat",
+    "name": "TommytheCat",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 130,
+    "level": 37,
+    "pvpWins": 189,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 56,
+    "leaderAHonor": 3007,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 71,
+    "leaderBHonor": 3651,
+    "leaderC": "GrommashLeader",
+    "leaderCWins": 41,
+    "leaderCHonor": 3003,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;16",
+        "Blizzard;;15",
+        "Footmen;ShieldBash;20",
+        "ChainLightning;StormsReach;18",
+        "PolymorphSpell;;14",
+        "Execute;Overpower;19",
+        "DarkIronMiner;;15"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Footmen;ShieldBash;20",
+        "Worgen;;14",
+        "GnollBrute;Rabid;20",
+        "Drake;EngulfingFlames;18",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Execute;Overpower;19"
+      ],
+      [
+        "OldMurkEyeLeader;;16",
+        "MurlocTidehunters;;15",
+        "Prowler;OnTheProwl;18",
+        "GnollBrute;Rabid;19",
+        "Execute;Overpower;19",
+        "ChainLightning;StormsReach;18",
+        "DarkspearTroll;BigBadVoodoo;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;20",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Execute;Overpower;19",
+        "Footmen;ShieldBash;20",
+        "Chimaera;CorrosiveBreath;19",
+        "Necromancer;CultOfTheDamned;18",
+        "ChainLightning;StormsReach;18"
+      ],
+      [
+        "RendLeader;;16",
+        "GryphonRider;MightyThrow;17",
+        "ChainLightning;StormsReach;18",
+        "StonehoofTauren;;16",
+        "Drake;EngulfingFlames;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Execute;Overpower;18"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Prowler;OnTheProwl;18",
+        "GnollBrute;Rabid;20",
+        "ChainLightning;;18",
+        "GryphonRider;MightyThrow;18",
+        "Execute;Overpower;19",
+        "DarkspearTroll;BigBadVoodoo;19"
+      ],
+      [
+        "CairneLeader;;14",
+        "ChainLightning;StormsReach;18",
+        "Execute;Overpower;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Drake;EngulfingFlames;17",
+        "SkeletonParty;5Man;16",
+        "Necromancer;CultOfTheDamned;17"
+      ],
+      [
+        "BaronRivendareLeader;;15",
+        "Abomination;Cannonball;17",
+        "MeatWagon;;15",
+        "Necromancer;CultOfTheDamned;18",
+        "Drake;EngulfingFlames;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "ChainLightning;StormsReach;18"
+      ],
+      [
+        "SneedLeader;;14",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Execute;Overpower;18",
+        "Chimaera;CorrosiveBreath;18",
+        "GryphonRider;MightyThrow;17",
+        "ChainLightning;StormsReach;18",
+        "GnollBrute;Rabid;17"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;18",
+        "Pyromancer;Pyroblast;18",
+        "Drake;EngulfingFlames;18",
+        "Worgen;;14",
+        "Necromancer;CultOfTheDamned;18",
+        "Execute;Overpower;19",
+        "DarkspearTroll;BigBadVoodoo;19"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;18",
+        "Drake;EngulfingFlames;18",
+        "FireElemental;MoltenCore;18",
+        "Footmen;ShieldBash;20",
+        "Necromancer;CultOfTheDamned;18",
+        "Execute;Overpower;19",
+        "ChainLightning;StormsReach;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Necromancer;CultOfTheDamned;18",
+        "Abomination;Cannonball;18",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "GnollBrute;Rabid;20",
+        "GryphonRider;MightyThrow;18",
+        "Execute;Overpower;19"
+      ]
+    ],
+    "lastUpdate": 1719063119
+  },
+  "token": "2105057b-ccbd-4e40-ae77-af5ba812d660"
+}

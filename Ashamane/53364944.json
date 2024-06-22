@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 53364944,
+    "btag": "Shadycrabs",
+    "name": "Shadycrabs",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 140,
+    "level": 40,
+    "pvpWins": 153,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 31,
+    "leaderAHonor": 3134,
+    "leaderB": "MaievLeader",
+    "leaderBWins": 32,
+    "leaderBHonor": 2529,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 34,
+    "leaderCHonor": 2797,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;20",
+        "Huntress;Shadowmeld;21",
+        "GryphonRider;MightyThrow;18",
+        "HolyNova;InnerFire;20",
+        "Chimaera;FrostShock;23",
+        "WhelpEggs;FlameBurst;21",
+        "Drake;MotherDrake;23"
+      ],
+      [
+        "TirionLeader;ByTheLight;23",
+        "HolyNova;InnerFire;20",
+        "Huntress;Shadowmeld;21",
+        "Chimaera;FrostShock;24",
+        "Gargoyle;WingBuffet;23",
+        "WhelpEggs;FlameBurst;21",
+        "Drake;MotherDrake;23"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;18",
+        "Chimaera;FrostShock;23",
+        "Harpy;TrinketCollectors;18",
+        "StonehoofTauren;Momentum;20",
+        "Gargoyle;WingBuffet;22",
+        "OgreMage;FrostfireBolt;20",
+        "Huntress;Shadowmeld;18"
+      ],
+      [
+        "GrommashLeader;Bladestorm;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "WitchDoctor;SpiritWard;21",
+        "WhelpEggs;FlameBurst;21",
+        "StonehoofTauren;Momentum;20",
+        "Chimaera;FrostShock;23",
+        "Necromancer;CultOfTheDamned;21"
+      ],
+      [
+        "RendLeader;FlamingSoul;21",
+        "FireElemental;ImmolationAura;18",
+        "WhelpEggs;FlameBurst;21",
+        "Gargoyle;WingBuffet;23",
+        "Chimaera;FrostShock;23",
+        "Shaman;LightningMastery;20",
+        "Drake;MotherDrake;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Gargoyle;WingBuffet;23",
+        "Necromancer;CultOfTheDamned;21",
+        "HolyNova;InnerFire;20",
+        "WitchDoctor;SpiritWard;21",
+        "Chimaera;FrostShock;24",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Huntress;Shadowmeld;18",
+        "WhelpEggs;FlameBurst;21",
+        "Chimaera;FrostShock;23",
+        "StonehoofTauren;Momentum;20",
+        "DarkIronMiner;DwarvenAmbition;18"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Quilboar;TunnelVision;17",
+        "Chimaera;FrostShock;24",
+        "WitchDoctor;SpiritWard;21",
+        "WhelpEggs;FlameBurst;21",
+        "Gargoyle;WingBuffet;23",
+        "Firehammer;BlazingSpeed;20"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "OgreMage;FrostfireBolt;21",
+        "Shaman;LightningMastery;20",
+        "StonehoofTauren;Momentum;20",
+        "Chimaera;FrostShock;24",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Ghoul;TasteForBlood;18",
+        "Abomination;Cannonball;17",
+        "WhelpEggs;FlameBurst;21",
+        "Gargoyle;WingBuffet;23",
+        "WitchDoctor;SpiritWard;21",
+        "Necromancer;CultOfTheDamned;21"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "WarsongRaider;SunderArmor;18",
+        "Gargoyle;WingBuffet;23",
+        "Chimaera;FrostShock;23",
+        "Necromancer;CultOfTheDamned;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;19",
+        "Chimaera;FrostShock;23",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Harpy;TrinketCollectors;18",
+        "WhelpEggs;FlameBurst;21",
+        "Necromancer;CultOfTheDamned;21",
+        "OgreMage;FrostfireBolt;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;23",
+        "FireElemental;ImmolationAura;21",
+        "Drake;EngulfingFlames;23",
+        "WhelpEggs;FlameBurst;21",
+        "Chimaera;FrostShock;24",
+        "Gargoyle;WingBuffet;23",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;20",
+        "FireElemental;ImmolationAura;21",
+        "WhelpEggs;FlameBurst;21",
+        "StonehoofTauren;Momentum;20",
+        "Chimaera;FrostShock;23",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Gargoyle;WingBuffet;23"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;19",
+        "Gargoyle;WingBuffet;23",
+        "Necromancer;CultOfTheDamned;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "StonehoofTauren;Momentum;20",
+        "WitchDoctor;SpiritWard;21",
+        "Chimaera;FrostShock;23"
+      ]
+    ],
+    "lastUpdate": 1719063079
+  },
+  "token": "348af06a-0bca-40f8-9e6f-7633fe24ee75"
+}

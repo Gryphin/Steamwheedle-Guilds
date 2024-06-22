@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 51091656,
+    "btag": "Chipster",
+    "name": "Chipster",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 101,
+    "level": 34,
+    "pvpWins": 72,
+    "leaderA": "RendLeader",
+    "leaderAWins": 15,
+    "leaderAHonor": 1029,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 20,
+    "leaderBHonor": 1120,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 6,
+    "leaderCHonor": 754,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;19",
+        "ArcaneBlast;;14",
+        "Blizzard;Icecrown;16",
+        "Chimaera;Leviathan;22",
+        "Pyromancer;Pyroblast;17",
+        "Execute;;16",
+        "Banshee;;16"
+      ],
+      [
+        "TirionLeader;Consecrate;17",
+        "Quilboar;BrambleBurst;18",
+        "Chimaera;Leviathan;22",
+        "FireElemental;ImmolationAura;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Pyromancer;Pyroblast;17",
+        "Banshee;;16"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;17",
+        "Quilboar;BrambleBurst;18",
+        "Pyromancer;Pyroblast;17",
+        "FireElemental;ImmolationAura;17",
+        "DefiasBandits;PickLock;17",
+        "Abomination;Cannonball;17",
+        "Chimaera;Leviathan;22"
+      ],
+      [
+        "GrommashLeader;;14",
+        "Gargoyle;;13",
+        "DarkspearTroll;;14",
+        "Harpy;InfectiousSwipes;17",
+        "WhelpEggs;;14",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "Pyromancer;Pyroblast;16"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "DefiasBandits;PickLock;17",
+        "Banshee;;16",
+        "FaerieDragon;FaeBlessing;20",
+        "FireElemental;ImmolationAura;17",
+        "Chimaera;Leviathan;22",
+        "Pyromancer;Pyroblast;17"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;10",
+        "Pyromancer;;9",
+        "StonehoofTauren;;8",
+        "MurlocTidehunters;;8",
+        "ChainLightning;;8",
+        "S.A.F.E.PilotFlyingMachine;;8",
+        "CoreHounds;;7"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;17",
+        "SkeletonWarrior;Exhume;16",
+        "SkeletonParty;RitualOfRime;16",
+        "Worgen;;14",
+        "ChainLightning;;14",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "FireElemental;ImmolationAura;17"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Quilboar;BrambleBurst;18",
+        "Pyromancer;Pyroblast;17",
+        "Abomination;Cannonball;17",
+        "Chimaera;Leviathan;22",
+        "DefiasBandits;PickLock;17",
+        "FaerieDragon;FaeBlessing;20"
+      ],
+      [
+        "CairneLeader;Aftershock;17",
+        "Abomination;Cannonball;17",
+        "Chimaera;Leviathan;22",
+        "Banshee;;16",
+        "Quilboar;BrambleBurst;18",
+        "FaerieDragon;FaeBlessing;20",
+        "Pyromancer;Pyroblast;17"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;18",
+        "FaerieDragon;FaeBlessing;20",
+        "Banshee;;16",
+        "Chimaera;FrostShock;22",
+        "Abomination;Cannonball;17",
+        "Pyromancer;Pyroblast;17",
+        "Quilboar;BrambleBurst;18"
+      ],
+      [
+        "SneedLeader;;6",
+        "Pyromancer;;8",
+        "Necromancer;;7",
+        "FireElemental;;8",
+        "ChainLightning;;7",
+        "S.A.F.E.PilotFlyingMachine;;7",
+        "MeatWagon;;7"
+      ],
+      [
+        "DrakkisathLeader;;18",
+        "Pyromancer;Pyroblast;17",
+        "Abomination;Cannonball;18",
+        "Banshee;WillOfTheNecropolis;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Chimaera;FrostShock;22",
+        "FaerieDragon;FaeBlessing;20"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;19",
+        "Pyromancer;Pyroblast;17",
+        "Chimaera;Leviathan;22",
+        "FaerieDragon;FaeBlessing;20",
+        "Banshee;;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "Abomination;;16"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "FireElemental;;15",
+        "Chimaera;Leviathan;21",
+        "Banshee;;15",
+        "Harpy;InfectiousSwipes;17",
+        "Pyromancer;Pyroblast;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16"
+      ]
+    ],
+    "lastUpdate": 1719063114
+  },
+  "token": "9986f35f-5e12-43a1-b4b2-621031c6ea73"
+}

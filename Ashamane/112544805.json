@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 112544805,
+    "btag": "ShadowKick",
+    "name": "ShadowKick",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 135,
+    "level": 38,
+    "pvpWins": 1838,
+    "leaderA": "ThaurissanLeader",
+    "leaderAWins": 89,
+    "leaderAHonor": 4243,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 137,
+    "leaderBHonor": 4147,
+    "leaderC": "CharlgaLeader",
+    "leaderCWins": 233,
+    "leaderCHonor": 4153,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;18",
+        "Huntress;Shadowmeld;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Execute;Overpower;19",
+        "WhelpEggs;FlameBurst;20",
+        "StonehoofTauren;Momentum;19",
+        "PolymorphSpell;GoldenFleece;19"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "Blizzard;Icecrown;19",
+        "GryphonRider;MightyThrow;19",
+        "Abomination;NoxiousPresence;18",
+        "WhelpEggs;FlameBurst;20",
+        "Pyromancer;Conflagrate;19",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;18",
+        "PolymorphSpell;GoldenFleece;18",
+        "Harpy;TrinketCollectors;19",
+        "StonehoofTauren;Momentum;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Pyromancer;Conflagrate;19",
+        "ChainLightning;Reverberation;19"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "BatRider;EnchantedVials;19",
+        "WitchDoctor;Alchemist;20",
+        "Chimaera;FrostShock;20",
+        "Execute;Overpower;19",
+        "GoblinSapper;RocketBoots;19",
+        "Pyromancer;Conflagrate;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "FireElemental;ImmolationAura;18",
+        "WhelpEggs;FlameBurst;20",
+        "Harpy;TrinketCollectors;19",
+        "Prowler;OnTheProwl;20",
+        "Chimaera;FrostShock;20",
+        "DarkspearTroll;BigBadVoodoo;19"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;20",
+        "CheatDeath;Vampirism;20",
+        "Ghoul;BoneArmor;19",
+        "PolymorphSpell;GoldenFleece;19",
+        "FireElemental;ImmolationAura;18",
+        "Execute;Overpower;19",
+        "ChainLightning;Reverberation;19"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "DefiasBandits;PickLock;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "SkeletonParty;RitualOfRime;18",
+        "EarthElemental;ObsidianShard;18",
+        "WhelpEggs;FlameBurst;20",
+        "PolymorphSpell;GoldenFleece;19"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Prowler;OnTheProwl;20",
+        "Harpy;TrinketCollectors;19",
+        "GryphonRider;MightyThrow;19",
+        "Pyromancer;Conflagrate;19",
+        "WhelpEggs;FlameBurst;20",
+        "WarsongRaider;SunderArmor;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "BatRider;EnchantedVials;19",
+        "Execute;Overpower;19",
+        "Banshee;WillOfTheNecropolis;18",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "FireElemental;ImmolationAura;18",
+        "PolymorphSpell;GoldenFleece;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "SkeletonParty;RitualOfRime;18",
+        "Necromancer;JeweledSkulls;19",
+        "PolymorphSpell;GoldenFleece;19",
+        "WhelpEggs;FlameBurst;20",
+        "Prowler;OnTheProwl;20",
+        "ChainLightning;Reverberation;19"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Execute;Overpower;19",
+        "GoblinSapper;RocketBoots;19",
+        "WhelpEggs;FlameBurst;20",
+        "Pyromancer;Conflagrate;19",
+        "BatRider;EnchantedVials;19"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Quilboar;BrambleBurst;19",
+        "PolymorphSpell;GoldenFleece;19",
+        "Prowler;OnTheProwl;20",
+        "EarthElemental;ObsidianShard;18",
+        "WhelpEggs;FlameBurst;20",
+        "Pyromancer;Conflagrate;19"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "FireElemental;ImmolationAura;18",
+        "Pyromancer;Conflagrate;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "WhelpEggs;FlameBurst;20",
+        "WitchDoctor;Alchemist;20",
+        "Prowler;OnTheProwl;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "FireElemental;ImmolationAura;18",
+        "SmokeBombSpell;ThroughTheShadows;17",
+        "DefiasBandits;PickLock;18",
+        "WhelpEggs;FlameBurst;20",
+        "Pyromancer;Conflagrate;19",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;18",
+        "Banshee;WillOfTheNecropolis;19",
+        "Ghoul;BoneArmor;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "StonehoofTauren;Momentum;19",
+        "PolymorphSpell;GoldenFleece;19",
+        "WhelpEggs;FlameBurst;20"
+      ]
+    ],
+    "lastUpdate": 1719063081
+  },
+  "token": "768ab938-c588-4bfd-9a76-3786019ab4d3"
+}

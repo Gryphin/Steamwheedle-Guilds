@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 51605909,
+    "btag": "wolfgarr72",
+    "name": "wolfgarr72",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 105,
+    "level": 37,
+    "pvpWins": 81,
+    "leaderA": "RendLeader",
+    "leaderAWins": 13,
+    "leaderAHonor": 1548,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 14,
+    "leaderBHonor": 1614,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 15,
+    "leaderCHonor": 1007,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;18",
+        "Worgen;Frenzy;18",
+        "GryphonRider;OdynsFury;18",
+        "Blizzard;Icecrown;17",
+        "Quilboar;Bristleback;19",
+        "Drake;MotherDrake;18",
+        "DarkspearTroll;BigBadVoodoo;20"
+      ],
+      [
+        "TirionLeader;Consecrate;18",
+        "GryphonRider;OdynsFury;18",
+        "Huntress;Shadowmeld;18",
+        "Abomination;NoxiousPresence;21",
+        "AngryChickens;;15",
+        "BatRider;EnchantedVials;18",
+        "Shaman;;16"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;17",
+        "Drake;MotherDrake;18",
+        "Harpy;InfectiousSwipes;18",
+        "Ghoul;BoneArmor;18",
+        "MurlocTidehunters;;15",
+        "Quilboar;Bristleback;19",
+        "BatRider;EnchantedVials;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;19",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "OgreMage;FrostfireBolt;17",
+        "SkeletonWarrior;Exhume;20",
+        "Quilboar;Bristleback;19",
+        "BatRider;EnchantedVials;18",
+        "FaerieDragon;Invisibility;16"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Drake;MotherDrake;18",
+        "WhelpEggs;FlameBurst;18",
+        "BatRider;EnchantedVials;18",
+        "Gargoyle;AerialSuperiority;18",
+        "Chimaera;FrostShock;23",
+        "DarkspearTroll;BigBadVoodoo;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "SkeletonParty;CorpseRun;20",
+        "Abomination;NoxiousPresence;21",
+        "Blizzard;Icecrown;17",
+        "SkeletonWarrior;Exhume;20",
+        "Quilboar;Bristleback;19",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "Worgen;Frenzy;18",
+        "GryphonRider;OdynsFury;18",
+        "WhelpEggs;FlameBurst;18",
+        "Drake;MotherDrake;18",
+        "SkeletonParty;CorpseRun;20",
+        "Quilboar;Bristleback;19"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;18",
+        "Chimaera;FrostShock;23",
+        "Harpy;InfectiousSwipes;18",
+        "SkeletonWarrior;Exhume;20",
+        "Shaman;;16",
+        "BatRider;EnchantedVials;18",
+        "Quilboar;Bristleback;19"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "WarsongRaider;Saboteur;18",
+        "Necromancer;CultOfTheDamned;18",
+        "WitchDoctor;AmplifyCurse;16",
+        "Drake;MotherDrake;18",
+        "BatRider;EnchantedVials;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "PlagueFarmer;SplashingPumpkins;22",
+        "Gargoyle;AerialSuperiority;18",
+        "Quilboar;Bristleback;19",
+        "SkeletonWarrior;Exhume;20",
+        "BatRider;EnchantedVials;18",
+        "GryphonRider;OdynsFury;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;18",
+        "BatRider;EnchantedVials;18",
+        "Chimaera;Leviathan;23",
+        "WarsongRaider;;18",
+        "Drake;MotherDrake;18",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Quilboar;Bristleback;19"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;16",
+        "GnollBrute;;14",
+        "Harpy;InfectiousSwipes;17",
+        "Prowler;;14",
+        "Quilboar;Bristleback;17",
+        "Chimaera;FrostShock;21",
+        "SkeletonWarrior;Exhume;20"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;19",
+        "Drake;MotherDrake;18",
+        "Pyromancer;BlazeOfGlory;19",
+        "BatRider;EnchantedVials;18",
+        "Harpy;InfectiousSwipes;18",
+        "Blizzard;Icecrown;17",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "WhelpEggs;FlameBurst;18",
+        "Pyromancer;BlazeOfGlory;19",
+        "DefiasBandits;DeadlyPoison;18",
+        "Harpy;InfectiousSwipes;18",
+        "Quilboar;Bristleback;19",
+        "DarkspearTroll;BigBadVoodoo;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "PlagueFarmer;SplashingPumpkins;22",
+        "Necromancer;CultOfTheDamned;17",
+        "BatRider;EnchantedVials;18",
+        "Harpy;InfectiousSwipes;18",
+        "Ghoul;BoneArmor;18",
+        "DefiasBandits;DeadlyPoison;18"
+      ]
+    ],
+    "lastUpdate": 1719063094
+  },
+  "token": "d4466225-daef-4579-be34-d44f85895e6a"
+}

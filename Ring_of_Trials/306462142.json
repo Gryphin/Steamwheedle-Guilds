@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 306462142,
+    "btag": "Bignorm",
+    "name": "Bignorm",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Rend_Pose",
+    "skulls": 105,
+    "level": 33,
+    "pvpWins": 108,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 55,
+    "leaderAHonor": 1459,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 37,
+    "leaderBHonor": 1126,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 11,
+    "leaderCHonor": 790,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;19",
+        "StonehoofTauren;Momentum;16",
+        "Harpy;TalonDive;16",
+        "Huntress;DarnassianSteel;20",
+        "LivingBomb;;13",
+        "Footmen;Fortification;16",
+        "Flamewaker;Backdraft;19"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;17",
+        "Huntress;DarnassianSteel;20",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;16",
+        "Quilboar;BrambleBurst;16",
+        "Blizzard;Icecrown;17",
+        "EarthElemental;ObsidianShard;17",
+        "DarkspearTroll;Headhunting;18"
+      ],
+      [
+        "GrommashLeader;;13",
+        "OgreMage;FrostfireBolt;17",
+        "DarkspearTroll;Headhunting;17",
+        "Huntress;DarnassianSteel;17",
+        "BatRider;FierySurplus;16",
+        "Flamewaker;Backdraft;18",
+        "Chimaera;CorrosiveBreath;19"
+      ],
+      [
+        "RendLeader;Legionnaire;18",
+        "Harpy;TalonDive;16",
+        "Footmen;Fortification;16",
+        "Blizzard;Icecrown;16",
+        "Abomination;NoxiousPresence;15",
+        "Huntress;DarnassianSteel;17",
+        "DarkspearTroll;Headhunting;17"
+      ],
+      [
+        "BloodmageThalnosLeader;;10",
+        "Drake;;10",
+        "BatRider;;11",
+        "EarthElemental;;10",
+        "Gargoyle;;11",
+        "Necromancer;;11",
+        "Flamewaker;Backdraft;13"
+      ],
+      [
+        "MaievLeader;;12",
+        "GryphonRider;;14",
+        "DarkspearTroll;Headhunting;17",
+        "EarthElemental;;14",
+        "Flamewaker;Backdraft;19",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;16",
+        "Necromancer;BreathOfTheDying;17"
+      ],
+      [
+        "HoggerLeader;;13",
+        "Harpy;TalonDive;16",
+        "DarkspearTroll;Headhunting;17",
+        "Gargoyle;ObsidianStatue;16",
+        "Flamewaker;Backdraft;18",
+        "OgreMage;FrostfireBolt;17",
+        "Necromancer;BreathOfTheDying;16"
+      ],
+      [
+        "CairneLeader;Aftershock;17",
+        "SkeletonParty;RitualOfRime;17",
+        "Quilboar;BrambleBurst;16",
+        "Flamewaker;Backdraft;19",
+        "EarthElemental;ObsidianShard;17",
+        "Necromancer;BreathOfTheDying;20",
+        "DarkspearTroll;Headhunting;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Harpy;TalonDive;17",
+        "OgreMage;FrostfireBolt;19",
+        "BatRider;FierySurplus;17",
+        "Flamewaker;Backdraft;19",
+        "Footmen;Fortification;17",
+        "Huntress;DarnassianSteel;20"
+      ],
+      [
+        "SneedLeader;;12",
+        "OgreMage;FrostfireBolt;17",
+        "WitchDoctor;Alchemist;14",
+        "Huntress;DarnassianSteel;17",
+        "DarkspearTroll;Headhunting;17",
+        "Flamewaker;Backdraft;18",
+        "StonehoofTauren;;13"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;17",
+        "Harpy;TalonDive;16",
+        "Huntress;DarnassianSteel;20",
+        "Footmen;Fortification;16",
+        "Abomination;NoxiousPresence;15",
+        "Flamewaker;Backdraft;19",
+        "Blizzard;Icecrown;17"
+      ],
+      [
+        "DrakkisathLeader;;10",
+        "EarthElemental;;11",
+        "Abomination;;10",
+        "BatRider;;13",
+        "DarkspearTroll;;13",
+        "Flamewaker;Backdraft;14",
+        "StonehoofTauren;;11"
+      ],
+      [
+        "ThaurissanLeader;;11",
+        "Blizzard;Icecrown;15",
+        "Ghoul;BoneArmor;15",
+        "Gargoyle;ObsidianStatue;15",
+        "Necromancer;BreathOfTheDying;16",
+        "Harpy;TalonDive;15",
+        "OgreMage;FrostfireBolt;16"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "LivingBomb;BlastRadius;15",
+        "SkeletonParty;RitualOfRime;17",
+        "Footmen;Fortification;17",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;16",
+        "DarkspearTroll;Headhunting;18",
+        "Blizzard;Icecrown;17"
+      ]
+    ],
+    "lastUpdate": 1719063152
+  },
+  "token": "cd2fa9c1-e188-48f1-9d7e-96250903ba0c"
+}

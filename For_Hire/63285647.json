@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 63285647,
+    "btag": "Dark",
+    "name": "Dark",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 130,
+    "level": 40,
+    "pvpWins": 167,
+    "leaderA": "SneedLeader",
+    "leaderAWins": 18,
+    "leaderAHonor": 2742,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 25,
+    "leaderBHonor": 3652,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 28,
+    "leaderCHonor": 2585,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "Worgen;Premeditation;18",
+        "Huntress;Shadowmeld;23",
+        "Execute;KillingSpree;20",
+        "Blizzard;ColdSnap;18",
+        "Harpy;InfectiousSwipes;18",
+        "Abomination;NoxiousPresence;21"
+      ],
+      [
+        "TirionLeader;Consecrate;18",
+        "Huntress;Shadowmeld;23",
+        "Worgen;Premeditation;18",
+        "Abomination;NoxiousPresence;21",
+        "Shaman;LightningMastery;18",
+        "Execute;KillingSpree;20",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;InfectiousSwipes;17",
+        "Chimaera;CorrosiveBreath;20",
+        "Abomination;NoxiousPresence;20",
+        "Worgen;Premeditation;18",
+        "Spiderlings;Envenom;18",
+        "Execute;KillingSpree;20"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "Worgen;Premeditation;18",
+        "BatRider;FlamingPitch;18",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Huntress;Shadowmeld;22",
+        "Chimaera;CorrosiveBreath;20",
+        "DarkspearTroll;BigBadVoodoo;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;19",
+        "WhelpEggs;FlameBurst;18",
+        "Drake;MotherDrake;18",
+        "Harpy;InfectiousSwipes;18",
+        "Gargoyle;WingBuffet;18",
+        "Chimaera;CorrosiveBreath;20",
+        "FaerieDragon;FaeBlessing;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "CheatDeath;Vampirism;18",
+        "Abomination;NoxiousPresence;21",
+        "PolymorphSpell;GoldenFleece;18",
+        "Huntress;Shadowmeld;23",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "SkeletonWarrior;Exhume;18"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Worgen;Premeditation;18",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Quilboar;Bristleback;18",
+        "EarthElemental;ObsidianShard;18",
+        "SkeletonParty;5Man;18"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "PolymorphSpell;GoldenFleece;18",
+        "Chimaera;CorrosiveBreath;20",
+        "GoblinSapper;RocketBoots;18",
+        "Huntress;Shadowmeld;23",
+        "Harpy;InfectiousSwipes;18",
+        "Worgen;Premeditation;18"
+      ],
+      [
+        "CairneLeader;Plainsrunning;18",
+        "WitchDoctor;SpiritWard;17",
+        "Execute;KillingSpree;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "BatRider;FlamingPitch;17",
+        "WarsongGrunts;BloodPact;18",
+        "OgreMage;Avarice;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Abomination;NoxiousPresence;21",
+        "Necromancer;JeweledSkulls;18",
+        "WhelpEggs;FlameBurst;18",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Execute;KillingSpree;20",
+        "Huntress;Shadowmeld;23"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;18",
+        "WitchDoctor;SpiritWard;20",
+        "Shaman;EarthShield;20",
+        "GoblinSapper;RocketBoots;18",
+        "GryphonRider;MightyThrow;18",
+        "Huntress;Shadowmeld;23",
+        "Worgen;Premeditation;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;20",
+        "PolymorphSpell;GoldenFleece;18",
+        "Quilboar;Bristleback;18",
+        "AngryChickens;FuriousFowl;17",
+        "DarkIronMiner;;16",
+        "Huntress;Shadowmeld;22",
+        "SkeletonParty;5Man;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "Pyromancer;Conflagrate;21",
+        "WhelpEggs;FlameBurst;18",
+        "WitchDoctor;SpiritWard;20",
+        "SkeletonParty;5Man;18",
+        "DefiasBandits;PickLock;18",
+        "Shaman;EarthShield;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "EarthElemental;ObsidianShard;18",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Worgen;Premeditation;18",
+        "Huntress;Shadowmeld;23",
+        "Abomination;NoxiousPresence;21",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;18",
+        "CheatDeath;Vampirism;18",
+        "Ghoul;BoneArmor;20",
+        "Execute;KillingSpree;20",
+        "Abomination;NoxiousPresence;21",
+        "SkeletonWarrior;Exhume;18",
+        "WhelpEggs;FlameBurst;18"
+      ]
+    ],
+    "lastUpdate": 1719063134
+  },
+  "token": "dc195558-2fec-4a4b-9e02-6a652cc16b7f"
+}

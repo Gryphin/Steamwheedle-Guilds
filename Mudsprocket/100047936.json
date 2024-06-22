@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 100047936,
+    "btag": "Jermaine",
+    "name": "Jermaine",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 146,
+    "level": 42,
+    "pvpWins": 314,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 28,
+    "leaderAHonor": 3425,
+    "leaderB": "RendLeader",
+    "leaderBWins": 76,
+    "leaderBHonor": 3480,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 82,
+    "leaderCHonor": 3585,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "Huntress;Shadowmeld;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Blizzard;ColdSnap;22",
+        "Drake;MotherDrake;24",
+        "Gargoyle;WingBuffet;22",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "Huntress;Shadowmeld;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Footmen;Fortification;21",
+        "Harpy;InfectiousSwipes;24",
+        "GryphonRider;MightyThrow;22",
+        "Banshee;UnholyFrenzy;18"
+      ],
+      [
+        "OldMurkEyeLeader;;17",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;22",
+        "StonehoofTauren;Momentum;22",
+        "DefiasBandits;PickLock;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Gargoyle;WingBuffet;22"
+      ],
+      [
+        "GrommashLeader;MirrorImage;23",
+        "StonehoofTauren;Momentum;24",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Drake;MotherDrake;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "Drake;MotherDrake;24",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;24",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Quilboar;Bristleback;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "BloodmageThalnosLeader;;17",
+        "Gargoyle;WingBuffet;22",
+        "Necromancer;BreathOfTheDying;22",
+        "Blizzard;ColdSnap;22",
+        "Quilboar;Bristleback;22",
+        "Drake;MotherDrake;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "DefiasBandits;PickLock;21",
+        "WhelpEggs;FlameBurst;21",
+        "Huntress;Shadowmeld;22",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "HoggerLeader;HamHock;24",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;22",
+        "DefiasBandits;DeadlyPoison;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "GryphonRider;MightyThrow;22",
+        "DarkspearTroll;BigBadVoodoo;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "StonehoofTauren;Momentum;24",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Huntress;Shadowmeld;22",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Gargoyle;WingBuffet;22",
+        "Necromancer;BreathOfTheDying;22",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;24",
+        "Drake;MotherDrake;24",
+        "Blizzard;ColdSnap;22"
+      ],
+      [
+        "SneedLeader;;17",
+        "StonehoofTauren;Momentum;24",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Gargoyle;WingBuffet;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Harpy;InfectiousSwipes;24",
+        "DefiasBandits;PickLock;22"
+      ],
+      [
+        "CharlgaLeader;;17",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;22",
+        "Huntress;Shadowmeld;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Gargoyle;WingBuffet;22",
+        "MurlocTidehunters;SafetyBubble;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Drake;MotherDrake;24",
+        "WhelpEggs;FlameBurst;22",
+        "WitchDoctor;AmplifyCurse;19",
+        "GryphonRider;MightyThrow;22",
+        "Shaman;EarthwallTotem;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;20",
+        "Drake;MotherDrake;24",
+        "WhelpEggs;FlameBurst;22",
+        "StonehoofTauren;Momentum;24",
+        "Quilboar;Bristleback;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Necromancer;BreathOfTheDying;22",
+        "Gargoyle;WingBuffet;22",
+        "StonehoofTauren;Momentum;24",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ]
+    ],
+    "lastUpdate": 1719063098
+  },
+  "token": "024fed26-925d-4d41-b4e6-93cdd443c05e"
+}

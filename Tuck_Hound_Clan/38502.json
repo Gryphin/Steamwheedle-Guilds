@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 38502,
+    "btag": "Ryos",
+    "name": "Ryos",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 123,
+    "level": 41,
+    "pvpWins": 67,
+    "leaderA": "BloodmageThalnosLeader",
+    "leaderAWins": 25,
+    "leaderAHonor": 1978,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 11,
+    "leaderBHonor": 1074,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 10,
+    "leaderCHonor": 980,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "HarvestGolem;TrojanChickens;20",
+        "Huntress;Shadowmeld;20",
+        "ChainLightning;StormsReach;21",
+        "SkeletonWarrior;Exhume;20",
+        "Execute;KillingSpree;20",
+        "DarkIronMiner;DwarvenAmbition;17"
+      ],
+      [
+        "TirionLeader;Consecrate;21",
+        "Footmen;Fortification;18",
+        "DefiasBandits;LastResort;20",
+        "HarvestGolem;TrojanChickens;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;19",
+        "Chimaera;CorrosiveBreath;23",
+        "DarkspearTroll;Headhunting;20"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;21",
+        "Chimaera;CorrosiveBreath;23",
+        "Harpy;InfectiousSwipes;21",
+        "HarvestGolem;TrojanChickens;21",
+        "GnollBrute;ThickHide;17",
+        "ChainLightning;StormsReach;21",
+        "Raptors;FastFood;19"
+      ],
+      [
+        "GrommashLeader;Bladestorm;18",
+        "DarkspearTroll;Headhunting;19",
+        "StonehoofTauren;Pummel;18",
+        "SkeletonWarrior;QuestingBuddies;21",
+        "OgreMage;Ignite;17",
+        "FaerieDragon;FaeBlessing;17",
+        "Execute;KillingSpree;21"
+      ],
+      [
+        "RendLeader;Legionnaire;21",
+        "Firehammer;BlazingSpeed;18",
+        "EarthElemental;ReadyToRumble;18",
+        "Chimaera;FrostShock;23",
+        "HarvestGolem;TrojanChickens;21",
+        "FaerieDragon;FaeBlessing;18",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;24",
+        "SkeletonWarrior;Exhume;21",
+        "Ghoul;BoneArmor;18",
+        "Execute;KillingSpree;21",
+        "ArcaneBlast;Amplification;21",
+        "Shaman;EarthShield;19",
+        "Gargoyle;AerialSuperiority;17"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "HarvestGolem;TrojanChickens;21",
+        "Huntress;Shadowmeld;21",
+        "SkeletonWarrior;Exhume;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;19",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Quilboar;BrambleBurst;18"
+      ],
+      [
+        "HoggerLeader;FatalFrenzy;17",
+        "GnollBrute;ThickHide;17",
+        "Chimaera;CorrosiveBreath;22",
+        "SkeletonWarrior;Exhume;21",
+        "ChainLightning;StormsReach;21",
+        "Harpy;InfectiousSwipes;20",
+        "DarkspearTroll;Headhunting;18"
+      ],
+      [
+        "CairneLeader;Plainsrunning;17",
+        "StonehoofTauren;Pummel;18",
+        "DarkspearTroll;Headhunting;18",
+        "Shaman;EarthShield;17",
+        "ChainLightning;StormsReach;21",
+        "Execute;KillingSpree;21",
+        "SkeletonWarrior;Exhume;21"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;20",
+        "Gargoyle;AerialSuperiority;17",
+        "Abomination;NoxiousPresence;19",
+        "SkeletonWarrior;Exhume;21",
+        "Necromancer;CultOfTheDamned;18",
+        "ChainLightning;StormsReach;21",
+        "DarkspearTroll;Headhunting;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;21",
+        "StonehoofTauren;Pummel;18",
+        "Shaman;EarthShield;19",
+        "EarthElemental;ReadyToRumble;18",
+        "Chimaera;CorrosiveBreath;23",
+        "Execute;KillingSpree;21",
+        "DarkspearTroll;Headhunting;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;16",
+        "GnollBrute;ThickHide;16",
+        "Chimaera;CorrosiveBreath;19",
+        "Harpy;InfectiousSwipes;19",
+        "StonehoofTauren;Pummel;17",
+        "DarkspearTroll;Headhunting;17",
+        "Huntress;Shadowmeld;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "FireElemental;MoltenCore;17",
+        "Pyromancer;Conflagrate;17",
+        "ChainLightning;StormsReach;21",
+        "Blizzard;Icecrown;18",
+        "Chimaera;FrostShock;23",
+        "WitchDoctor;AmplifyCurse;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "EarthElemental;ReadyToRumble;18",
+        "Pyromancer;Conflagrate;17",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "DarkspearTroll;Headhunting;19",
+        "HarvestGolem;TrojanChickens;21",
+        "Execute;KillingSpree;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "SkeletonParty;CorpseRun;19",
+        "Ghoul;BoneArmor;17",
+        "OgreMage;Ignite;16",
+        "HarvestGolem;TrojanChickens;18",
+        "ChainLightning;StormsReach;18",
+        "BatRider;FlamingPitch;17"
+      ]
+    ],
+    "lastUpdate": 1719063142
+  },
+  "token": "117b6b16-8de7-4914-8417-9cfd500eda4c"
+}

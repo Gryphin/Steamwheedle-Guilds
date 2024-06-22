@@ -1,0 +1,108 @@
+{
+  "data": {
+    "id": 307679708,
+    "btag": "nneighbo",
+    "name": "nneighbo",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 65,
+    "level": 26,
+    "pvpWins": 36,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 14,
+    "leaderAHonor": 972,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 9,
+    "leaderBHonor": 566,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 10,
+    "leaderCHonor": 637,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;10",
+        "Worgen;;11",
+        "Mountaineer;;9",
+        "Blizzard;;7",
+        "Huntress;;7",
+        "ArcaneBlast;;8",
+        "HolyNova;;8"
+      ],
+      [
+        "TirionLeader;ByTheLight;11",
+        "Worgen;;11",
+        "S.A.F.E.PilotFlyingMachine;;10",
+        "Quilboar;;8",
+        "SkeletonParty;CorpseRun;13",
+        "BatRider;;10",
+        "DarkIronMiner;;7"
+      ],
+      [
+        "GrommashLeader;MirrorImage;13",
+        "OgreMage;;11",
+        "Shaman;;10",
+        "WhelpEggs;;11",
+        "Pyromancer;;11",
+        "DarkspearTroll;Headhunting;13",
+        "Gargoyle;AerialSuperiority;14"
+      ],
+      [
+        "RendLeader;;9",
+        "Drake;;9",
+        "Firehammer;;11",
+        "Gargoyle;AerialSuperiority;13",
+        "WhelpEggs;;7",
+        "MoltenGiant;BloodOfTheMountain;9",
+        "Harpy;;7"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;13",
+        "StonehoofTauren;;10",
+        "WarsongGrunts;GuardDuty;12",
+        "Harpy;;10",
+        "Drake;Roost;13",
+        "ChainLightning;;11",
+        "EarthElemental;;9"
+      ],
+      [
+        "CairneLeader;;10",
+        "BatRider;;10",
+        "StonehoofTauren;;8",
+        "DarkspearTroll;Headhunting;13",
+        "Harpy;;8",
+        "Pyromancer;;11",
+        "Quilboar;;9"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "SkeletonParty;CorpseRun;13",
+        "SkeletonWarrior;QuestingBuddies;14",
+        "WhelpEggs;;12",
+        "BatRider;;13",
+        "Huntress;ElvenMight;15",
+        "Pyromancer;Conflagrate;14"
+      ],
+      [
+        "DrakkisathLeader;;10",
+        "Drake;Roost;13",
+        "Firehammer;;11",
+        "WhelpEggs;;11",
+        "Pyromancer;;11",
+        "FireElemental;;10",
+        "Gargoyle;AerialSuperiority;14"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;14",
+        "SkeletonWarrior;QuestingBuddies;13",
+        "SkeletonParty;CorpseRun;13",
+        "BatRider;;10",
+        "DarkspearTroll;Headhunting;13",
+        "Gargoyle;AerialSuperiority;13",
+        "Pyromancer;;11"
+      ]
+    ],
+    "lastUpdate": 1719063114
+  },
+  "token": "5a5ccd6a-c521-4607-a695-cb16fd95e0cb"
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 439021421,
+    "name": "Gallywix Palace",
+    "member_count": 20,
+    "description": "We\u0027ll be the last rumble guild standing. 100\u002B Sigils \u0026 Gold\u002B pvp ranking req. =]",
+    "members": [
+      {
+        "id": 125452885,
+        "name": "Ruzakofuz",
+        "btag": "Ruzakofuz",
+        "skulls": 150,
+        "honor": 10330,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1718098103
+      },
+      {
+        "id": 318882757,
+        "name": "TheMailMan",
+        "btag": "TheMailMan",
+        "skulls": 66,
+        "honor": 2363,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062201
+      },
+      {
+        "id": 1155476058,
+        "name": "ApplesPotato",
+        "btag": "ApplesPotato",
+        "skulls": 133,
+        "honor": 9258,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719062202
+      },
+      {
+        "id": 1765148,
+        "name": "Greg",
+        "btag": "Greg",
+        "skulls": 135,
+        "honor": 9389,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062202
+      },
+      {
+        "id": 100803936,
+        "name": "StevenC",
+        "btag": "StevenC",
+        "skulls": 122,
+        "honor": 2484,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062202
+      },
+      {
+        "id": 1852958,
+        "name": "Dvveh",
+        "btag": "Dvveh",
+        "skulls": 129,
+        "honor": 8685,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062202
+      },
+      {
+        "id": 53295627,
+        "name": "Imfiredup",
+        "btag": "Imfiredup",
+        "skulls": 151,
+        "honor": 13004,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1717406895
+      },
+      {
+        "id": 51482655,
+        "name": "Nino",
+        "btag": "Nino",
+        "skulls": 150,
+        "honor": 13020,
+        "avatar": "Indicator_KoboldMurloc_Pose",
+        "lastUpdate": 1717406895
+      },
+      {
+        "id": 51023641,
+        "name": "Nokt",
+        "btag": "Nokt",
+        "skulls": 126,
+        "honor": 3492,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719062203
+      },
+      {
+        "id": 2195281,
+        "name": "Lip",
+        "btag": "Lip",
+        "skulls": 150,
+        "honor": 10399,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1718098104
+      },
+      {
+        "id": 129870380,
+        "name": "Anagram",
+        "btag": "Anagram",
+        "skulls": 150,
+        "honor": 10394,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1718170090
+      },
+      {
+        "id": 121001791,
+        "name": "Kilgore",
+        "btag": "Kilgore",
+        "skulls": 142,
+        "honor": 10485,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1718270889
+      },
+      {
+        "id": 51678542,
+        "name": "jdotb",
+        "btag": "jdotb",
+        "skulls": 140,
+        "honor": 5797,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062204
+      },
+      {
+        "id": 881733927,
+        "name": "Kosac",
+        "btag": "Kosac",
+        "skulls": 102,
+        "honor": 7172,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062203
+      },
+      {
+        "id": 52243435,
+        "name": "eddie6974",
+        "btag": "eddie6974",
+        "skulls": 137,
+        "honor": 10701,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062203
+      },
+      {
+        "id": 100714407,
+        "name": "Odin",
+        "btag": "Odin",
+        "skulls": 130,
+        "honor": 10107,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062204
+      },
+      {
+        "id": 400657908,
+        "name": "PriLLisH",
+        "btag": "PriLLisH",
+        "skulls": 134,
+        "honor": 10661,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062204
+      },
+      {
+        "id": 101223821,
+        "name": "Lackmo",
+        "btag": "Lackmo",
+        "skulls": 145,
+        "honor": 9547,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062204
+      },
+      {
+        "id": 107493697,
+        "name": "Dgal",
+        "btag": "Dgal",
+        "skulls": 108,
+        "honor": 3636,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062204
+      },
+      {
+        "id": 2266592,
+        "name": "Dree",
+        "btag": "Dree",
+        "skulls": 141,
+        "honor": 9585,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062204
+      }
+    ],
+    "lastUpdate": 1719062979
+  },
+  "token": "6d49f806-5c06-44a2-964b-5ca697b85b0c",
+  "link": "https://localhost:7080/guild/439021421?token=6d49f806-5c06-44a2-964b-5ca697b85b0c"
+}

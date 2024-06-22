@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 120254046,
+    "btag": "paddystar11",
+    "name": "paddystar11",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 135,
+    "level": 45,
+    "pvpWins": 155,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 14,
+    "leaderAHonor": 2472,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 33,
+    "leaderBHonor": 2321,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 35,
+    "leaderCHonor": 3325,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "HarvestGolem;UnstableCore;21",
+        "Execute;Bloodthirsty;21",
+        "GryphonRider;MightyThrow;19",
+        "Chimaera;CorrosiveBreath;23",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "HarvestGolem;UnstableCore;21",
+        "EarthElemental;ObsidianShard;21",
+        "WitchDoctor;SpiritWard;21",
+        "Chimaera;CorrosiveBreath;23",
+        "SkeletonParty;5Man;24"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;21",
+        "Harpy;TalonDive;22",
+        "Quilboar;TunnelVision;21",
+        "Abomination;NoxiousPresence;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Chimaera;CorrosiveBreath;23",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;21",
+        "Shaman;EarthShield;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Harpy;TalonDive;22",
+        "Execute;Bloodthirsty;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Drake;MotherDrake;22",
+        "Pyromancer;Conflagrate;22",
+        "Chimaera;CorrosiveBreath;23",
+        "WhelpEggs;FlameBurst;22",
+        "Gargoyle;WingBuffet;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;20",
+        "Abomination;NoxiousPresence;21",
+        "SkeletonParty;5Man;24",
+        "Execute;Bloodthirsty;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Ghoul;BoneArmor;21",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;20",
+        "Huntress;Shadowmeld;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;TalonDive;22",
+        "Worgen;Premeditation;18",
+        "FireElemental;ImmolationAura;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Chimaera;CorrosiveBreath;23",
+        "Quilboar;TunnelVision;21",
+        "WitchDoctor;SpiritWard;21",
+        "Execute;Bloodthirsty;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "FaerieDragon;FaeBlessing;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "StonehoofTauren;Momentum;20",
+        "OgreMage;FrostfireBolt;20",
+        "Huntress;Shadowmeld;21",
+        "WhelpEggs;FlameBurst;21",
+        "WitchDoctor;Alchemist;18",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Necromancer;JeweledSkulls;21",
+        "Gargoyle;WingBuffet;21",
+        "SkeletonWarrior;Exhume;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "FaerieDragon;FaeBlessing;21",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Execute;Bloodthirsty;21",
+        "Gargoyle;WingBuffet;21",
+        "WitchDoctor;SpiritWard;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "EarthElemental;ObsidianShard;21",
+        "DefiasBandits;PickLock;21",
+        "Harpy;TalonDive;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "Gargoyle;WingBuffet;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "DarkIronMiner;GoldMine;19",
+        "WhelpEggs;FlameBurst;22",
+        "Shaman;EarthShield;21",
+        "Drake;MotherDrake;22",
+        "Execute;Bloodthirsty;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "EarthElemental;ObsidianShard;21",
+        "WhelpEggs;FlameBurst;22",
+        "StonehoofTauren;Momentum;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "DefiasBandits;PickLock;22",
+        "Harpy;TalonDive;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "MeatWagon;FiletTrebuchet;21",
+        "Ghoul;BoneArmor;21",
+        "Execute;Bloodthirsty;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Quilboar;TunnelVision;21",
+        "Harpy;TalonDive;22"
+      ]
+    ],
+    "lastUpdate": 1719063094
+  },
+  "token": "3cd50826-d54e-47b0-a443-f34e3616bd6d"
+}

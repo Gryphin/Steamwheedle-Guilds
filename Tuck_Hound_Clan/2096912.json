@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 2096912,
+    "btag": "Colgin",
+    "name": "Colgin",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 140,
+    "level": 46,
+    "pvpWins": 1011,
+    "leaderA": "ThaurissanLeader",
+    "leaderAWins": 167,
+    "leaderAHonor": 4260,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 104,
+    "leaderBHonor": 3746,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 127,
+    "leaderCHonor": 4017,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "DefiasBandits;PickLock;21",
+        "Blizzard;ColdSnap;21",
+        "Execute;Bloodthirsty;21",
+        "Shaman;EarthwallTotem;24",
+        "ChainLightning;BrilliantFlash;21",
+        "PolymorphSpell;GoldenFleece;19"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "GryphonRider;AirDrop;21",
+        "DefiasBandits;PickLock;21",
+        "MoltenGiant;Bolster;19",
+        "Execute;Bloodthirsty;21",
+        "FaerieDragon;FaeBlessing;23",
+        "DarkspearTroll;BigBadVoodoo;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Vultures;Migration;21",
+        "FireElemental;ImmolationAura;19",
+        "Blizzard;ColdSnap;20",
+        "WhelpEggs;FlameBurst;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;21",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;21",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "RendLeader;FlamingSoul;24",
+        "GryphonRider;AirDrop;21",
+        "DarkIronMiner;GoldMine;21",
+        "FaerieDragon;FaeBlessing;21",
+        "DefiasBandits;PickLock;21",
+        "WitchDoctor;SpiritWard;21",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;22",
+        "Abomination;Cannonball;21",
+        "Banshee;WillOfTheNecropolis;19",
+        "Execute;Bloodthirsty;21",
+        "Harpy;InfectiousSwipes;21",
+        "PolymorphSpell;GoldenFleece;19",
+        "Shaman;EarthwallTotem;21"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "Worgen;Premeditation;21",
+        "Blizzard;ColdSnap;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Harpy;TrinketCollectors;21",
+        "Gargoyle;WingBuffet;21",
+        "SmokeBombSpell;ThroughTheShadows;20"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;21",
+        "DarkIronMiner;GoldMine;21",
+        "Blizzard;ColdSnap;20",
+        "Gargoyle;WingBuffet;21",
+        "DarkspearTroll;BigBadVoodoo;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Shaman;EarthShield;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "PolymorphSpell;GoldenFleece;19",
+        "FaerieDragon;FaeBlessing;21",
+        "DefiasBandits;PickLock;21",
+        "DarkIronMiner;GoldMine;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "CheatDeath;Vampirism;21",
+        "SkeletonWarrior;Exhume;19",
+        "SkeletonParty;RitualOfRime;21",
+        "Banshee;WillOfTheNecropolis;19",
+        "MeatWagon;FiletTrebuchet;21",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Execute;Bloodthirsty;21",
+        "Gargoyle;WingBuffet;21",
+        "Huntress;Shadowmeld;21",
+        "Blizzard;ColdSnap;20",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "DefiasBandits;PickLock;21",
+        "Raptors;StrengthInNumbers;21",
+        "GoblinSapper;RocketBoots;20",
+        "SmokeBombSpell;ThroughTheShadows;20",
+        "DarkIronMiner;GoldMine;21",
+        "CheatDeath;Vampirism;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Pyroblast;21",
+        "Drake;MotherDrake;21",
+        "Shaman;EarthShield;21",
+        "DefiasBandits;PickLock;21",
+        "GryphonRider;AirDrop;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;23",
+        "DarkIronMiner;GoldMine;21",
+        "GryphonRider;AirDrop;21",
+        "DefiasBandits;PickLock;21",
+        "FaerieDragon;FaeBlessing;21",
+        "WitchDoctor;SpiritWard;21",
+        "DarkspearTroll;BigBadVoodoo;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "Banshee;WillOfTheNecropolis;19",
+        "Abomination;Cannonball;21",
+        "Shaman;EarthShield;21",
+        "Blizzard;ColdSnap;20",
+        "WitchDoctor;SpiritWard;21",
+        "DarkIronMiner;GoldMine;21"
+      ]
+    ],
+    "lastUpdate": 1719063140
+  },
+  "token": "87a1ad00-321f-42a3-bb5b-058931c11c2f"
+}

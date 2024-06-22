@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 50104215,
+    "btag": "Banda",
+    "name": "Banda",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 139,
+    "level": 42,
+    "pvpWins": 170,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 30,
+    "leaderAHonor": 1970,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 26,
+    "leaderBHonor": 3502,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 31,
+    "leaderCHonor": 2832,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "HarvestGolem;UnstableCore;18",
+        "DefiasBandits;PickLock;21",
+        "Execute;Bloodthirsty;21",
+        "Quilboar;Bristleback;22",
+        "Blizzard;ColdSnap;21",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "GryphonRider;MightyThrow;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "EarthElemental;ObsidianShard;21",
+        "Harpy;InfectiousSwipes;22",
+        "DarkIronMiner;DwarvenAmbition;20",
+        "Pyromancer;Pyroblast;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;InfectiousSwipes;22",
+        "Chimaera;Leviathan;20",
+        "EarthElemental;ObsidianShard;21",
+        "Quilboar;Bristleback;22",
+        "Pyromancer;Pyroblast;22",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "Shaman;EarthShield;21",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;22",
+        "EarthElemental;ObsidianShard;21",
+        "BatRider;EnchantedVials;21",
+        "Pyromancer;Pyroblast;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "EarthElemental;ObsidianShard;21",
+        "Drake;MotherDrake;21",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;Bristleback;22",
+        "Pyromancer;Pyroblast;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "CheatDeath;Vampirism;18",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Execute;Bloodthirsty;21",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;22",
+        "Prowler;OnTheProwl;21"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "Footmen;Fortification;19",
+        "GryphonRider;MightyThrow;21",
+        "EarthElemental;ObsidianShard;21",
+        "WitchDoctor;SpiritWard;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Chimaera;Leviathan;20"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;22",
+        "WitchDoctor;SpiritWard;21",
+        "FaerieDragon;FaeBlessing;17",
+        "DefiasBandits;DeadlyPoison;19",
+        "DarkspearTroll;BigBadVoodoo;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "WitchDoctor;SpiritWard;21",
+        "StonehoofTauren;Momentum;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Chimaera;CorrosiveBreath;20",
+        "Quilboar;Bristleback;22",
+        "Pyromancer;Pyroblast;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Ghoul;BoneArmor;21",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;22",
+        "GryphonRider;MightyThrow;21",
+        "Pyromancer;Pyroblast;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "Shaman;EarthShield;21",
+        "WitchDoctor;SpiritWard;21",
+        "EarthElemental;ObsidianShard;21",
+        "Pyromancer;Pyroblast;22",
+        "Harpy;InfectiousSwipes;22",
+        "PlagueFarmer;SplashingPumpkins;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Harpy;InfectiousSwipes;22",
+        "Chimaera;CorrosiveBreath;20",
+        "Prowler;OnTheProwl;21",
+        "EarthElemental;ObsidianShard;21",
+        "Blizzard;ColdSnap;21",
+        "Pyromancer;Pyroblast;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Drake;MotherDrake;21",
+        "Pyromancer;Pyroblast;22",
+        "Shaman;EarthShield;21",
+        "DefiasBandits;PickLock;21",
+        "WitchDoctor;SpiritWard;21",
+        "OgreMage;FrostfireBolt;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "EarthElemental;ObsidianShard;21",
+        "Pyromancer;Pyroblast;22",
+        "HarvestGolem;UnstableCore;18",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;22",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;20",
+        "Abomination;NoxiousPresence;21",
+        "Ghoul;BoneArmor;21",
+        "WitchDoctor;SpiritWard;21",
+        "PolymorphSpell;GoldenFleece;18",
+        "Chimaera;CorrosiveBreath;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ]
+    ],
+    "lastUpdate": 1719063131
+  },
+  "token": "b62a7183-e127-42ce-807f-83eabe85f352"
+}

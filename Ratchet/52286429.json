@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 52286429,
+    "btag": "Sinestro",
+    "name": "Sinestro",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Rend_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 711,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 47,
+    "leaderAHonor": 3788,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 82,
+    "leaderBHonor": 3818,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 55,
+    "leaderCHonor": 3821,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;26",
+        "DefiasBandits;PickLock;26",
+        "HarvestGolem;TrojanChickens;25",
+        "Execute;Bloodthirsty;25",
+        "ArcaneBlast;Torrent;26",
+        "Shaman;EarthwallTotem;26",
+        "DeepBreath;Attunement;25"
+      ],
+      [
+        "TirionLeader;ByTheLight;26",
+        "DefiasBandits;PickLock;26",
+        "Blizzard;ColdSnap;25",
+        "Ghoul;BoneArmor;25",
+        "DarkspearTroll;BigBadVoodoo;26",
+        "GryphonRider;AirDrop;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;26",
+        "Quilboar;BrambleBurst;26",
+        "Chimaera;CorrosiveBreath;25",
+        "FireElemental;ImmolationAura;25",
+        "Prowler;OnTheProwl;25",
+        "GryphonRider;AirDrop;25",
+        "DefiasBandits;DeadlyPoison;26"
+      ],
+      [
+        "GrommashLeader;MirrorImage;26",
+        "WarsongRaider;Saboteur;25",
+        "DarkspearTroll;BigBadVoodoo;26",
+        "DefiasBandits;PickLock;26",
+        "DeepBreath;Attunement;25",
+        "Harpy;TrinketCollectors;26",
+        "WitchDoctor;SpiritWard;26"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;26",
+        "Drake;EngulfingFlames;26",
+        "Firehammer;MoultinMetal;25",
+        "Harpy;TrinketCollectors;26",
+        "DefiasBandits;DeadlyPoison;26",
+        "Quilboar;BrambleBurst;26",
+        "WitchDoctor;SpiritWard;26"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;26",
+        "Ghoul;BoneArmor;25",
+        "CheatDeath;Vampirism;23",
+        "HolyNova;AmplifyMagic;25",
+        "ArcaneBlast;Torrent;26",
+        "Shaman;EarthwallTotem;26",
+        "PolymorphSpell;GoldenFleece;25"
+      ],
+      [
+        "MaievLeader;Remorseless;26",
+        "DefiasBandits;PickLock;26",
+        "GryphonRider;AirDrop;25",
+        "EarthElemental;ObsidianShard;26",
+        "DeepBreath;Attunement;25",
+        "DarkIronMiner;DarkIronArmaments;25",
+        "Huntress;ElvenMight;25"
+      ],
+      [
+        "HoggerLeader;HamHock;26",
+        "GnollBrute;Rabid;25",
+        "Chimaera;CorrosiveBreath;25",
+        "DefiasBandits;DeadlyPoison;26",
+        "DarkspearTroll;BigBadVoodoo;26",
+        "Prowler;OnTheProwl;25",
+        "GryphonRider;AirDrop;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;26",
+        "Shaman;EarthShield;26",
+        "StonehoofTauren;Momentum;25",
+        "DarkspearTroll;BigBadVoodoo;26",
+        "Harpy;TrinketCollectors;26",
+        "WitchDoctor;SpiritWard;26",
+        "Blizzard;ColdSnap;25"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;26",
+        "Ghoul;BoneArmor;25",
+        "PlagueFarmer;SplashingPumpkins;23",
+        "EarthElemental;ObsidianShard;26",
+        "GryphonRider;AirDrop;25",
+        "DeepBreath;Attunement;25",
+        "Chimaera;CorrosiveBreath;25"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;26",
+        "DarkspearTroll;BigBadVoodoo;26",
+        "WitchDoctor;SpiritWard;26",
+        "Gargoyle;AerialSuperiority;25",
+        "Quilboar;BrambleBurst;26",
+        "Harpy;InfectiousSwipes;26",
+        "Huntress;ElvenMight;25"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;26",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Vultures;Migration;23",
+        "PolymorphSpell;GoldenFleece;25",
+        "Gargoyle;WingBuffet;25",
+        "DeepBreath;DoubleDragon;25",
+        "ChainLightning;BrilliantFlash;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;26",
+        "Flamewaker;Engulf;25",
+        "DeepBreath;MeltingPoint;25",
+        "WitchDoctor;SpiritWard;26",
+        "GryphonRider;AirDrop;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Huntress;ElvenMight;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;26",
+        "MoltenGiant;Bolster;25",
+        "Firehammer;MoultinMetal;25",
+        "DefiasBandits;PickLock;26",
+        "GryphonRider;AirDrop;25",
+        "Blizzard;ColdSnap;25",
+        "Huntress;Shadowmeld;25"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;26",
+        "Banshee;WillOfTheNecropolis;25",
+        "Ghoul;BoneArmor;25",
+        "WitchDoctor;SpiritWard;26",
+        "Harpy;TrinketCollectors;26",
+        "GryphonRider;MightyThrow;25",
+        "Quilboar;BrambleBurst;26"
+      ]
+    ],
+    "lastUpdate": 1717307847
+  },
+  "token": "22d9b6e0-0347-4656-8fde-790612ac9b83"
+}

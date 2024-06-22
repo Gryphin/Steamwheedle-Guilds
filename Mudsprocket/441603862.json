@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 441603862,
+    "btag": "Mvk",
+    "name": "Mvk",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Rend_Pose",
+    "skulls": 142,
+    "level": 45,
+    "pvpWins": 298,
+    "leaderA": "RendLeader",
+    "leaderAWins": 117,
+    "leaderAHonor": 3040,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 34,
+    "leaderBHonor": 3206,
+    "leaderC": "MaievLeader",
+    "leaderCWins": 53,
+    "leaderCHonor": 2551,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;21",
+        "FireElemental;MoltenCore;22",
+        "Blizzard;ColdSnap;21",
+        "Execute;KillingSpree;21",
+        "Harpy;TalonDive;22",
+        "Gargoyle;WingBuffet;24",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "TirionLeader;DivineShield;23",
+        "DefiasBandits;PickLock;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;BrambleBurst;22",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;TrinketCollectors;22",
+        "Banshee;WillOfTheNecropolis;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "PolymorphSpell;ExplodingSheep;18",
+        "Harpy;TalonDive;22",
+        "Footmen;ShieldBash;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Huntress;ElvenMight;21",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "Execute;KillingSpree;21",
+        "Shaman;EarthShield;21",
+        "Harpy;TalonDive;22",
+        "DarkIronMiner;GoldMine;21",
+        "Pyromancer;Conflagrate;22",
+        "Gargoyle;AerialSuperiority;24"
+      ],
+      [
+        "RendLeader;Legionnaire;24",
+        "Pyromancer;Pyroblast;22",
+        "FireElemental;MoltenCore;22",
+        "Shaman;EarthShield;21",
+        "Harpy;TalonDive;22",
+        "DarkIronMiner;GoldMine;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;24",
+        "Necromancer;JeweledSkulls;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "ArcaneBlast;Amplification;22",
+        "WhelpEggs;FlameBurst;22",
+        "DarkIronMiner;GoldMine;21",
+        "Gargoyle;AerialSuperiority;24"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "GryphonRider;MightyThrow;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "BatRider;EnchantedVials;21",
+        "Shaman;EarthShield;21",
+        "FireElemental;MoltenCore;22",
+        "Harpy;TalonDive;22"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Harpy;TrinketCollectors;22",
+        "Quilboar;BrambleBurst;22",
+        "DefiasBandits;PickLock;20",
+        "Banshee;WillOfTheNecropolis;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "StonehoofTauren;Pummel;21",
+        "BatRider;EnchantedVials;21",
+        "Shaman;EarthShield;21",
+        "Gargoyle;AerialSuperiority;24",
+        "DarkIronMiner;GoldMine;21",
+        "Harpy;TalonDive;22"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;24",
+        "Gargoyle;WingBuffet;24",
+        "Abomination;Cannonball;21",
+        "WhelpEggs;FlameBurst;22",
+        "Execute;Bloodthirsty;21",
+        "Chimaera;CorrosiveBreath;20",
+        "Pyromancer;Conflagrate;22"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;22",
+        "Shaman;EarthShield;21",
+        "BatRider;EnchantedVials;21",
+        "Gargoyle;AerialSuperiority;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "GryphonRider;MightyThrow;19",
+        "Harpy;TalonDive;22"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;21",
+        "WitchDoctor;Alchemist;20",
+        "Harpy;TalonDive;22",
+        "Blizzard;ColdSnap;21",
+        "EarthElemental;ObsidianShard;21",
+        "WhelpEggs;FlameBurst;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "FireElemental;MoltenCore;22",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Conflagrate;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Shaman;EarthShield;21",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;21",
+        "EarthElemental;ObsidianShard;21",
+        "Pyromancer;Conflagrate;22",
+        "FireElemental;MoltenCore;22",
+        "Shaman;EarthShield;21",
+        "WhelpEggs;FlameBurst;22",
+        "Chimaera;CorrosiveBreath;20"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;23",
+        "Execute;Bloodthirsty;21",
+        "SkeletonParty;5Man;21",
+        "Shaman;EarthShield;21",
+        "WhelpEggs;FlameBurst;22",
+        "FireElemental;MoltenCore;22",
+        "DarkIronMiner;GoldMine;21"
+      ]
+    ],
+    "lastUpdate": 1719063099
+  },
+  "token": "7c8eb152-4f40-4b5a-a06d-b7c91d5ea048"
+}

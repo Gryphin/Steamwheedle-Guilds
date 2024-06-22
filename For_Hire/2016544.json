@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 2016544,
+    "btag": "Shen",
+    "name": "Shen",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 100,
+    "level": 36,
+    "pvpWins": 59,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 15,
+    "leaderAHonor": 1023,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 10,
+    "leaderBHonor": 1034,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 6,
+    "leaderCHonor": 1184,
+    "socials": null,
+    "armies": [
+      [
+        "04320a384d8cbf648b5fd5eb2f061208;00000000000000000000000000000000;13",
+        "5b893c52c1e623541bececb01409caf3;00000000000000000000000000000000;15",
+        "af242a8c5fe2242dabfaab2a6e2174c2;00000000000000000000000000000000;15",
+        "a0c557d62d9b14debb29becc6d156ee8;00000000000000000000000000000000;15",
+        "94935a651322443599aadc0ae5300e9b;00000000000000000000000000000000;15",
+        "7a13f5402e23bed4a97d17ffc9192b55;25c1387183e1276428345a2aeb68d210;19",
+        "4affac52400e3493d99aabe48b34873c;7ea10e78efda9df49a3f8f51212c4465;17"
+      ],
+      [
+        "TirionLeader;Consecrate;15",
+        "S.A.F.E.PilotFlyingMachine;;15",
+        "Footmen;Fortification;17",
+        "Quilboar;;16",
+        "Blizzard;ColdSnap;18",
+        "WitchDoctor;;15",
+        "BatRider;EnchantedVials;18"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;16",
+        "Quilboar;;16",
+        "Harpy;InfectiousSwipes;18",
+        "CoreHounds;EternalBond;20",
+        "EarthElemental;ObsidianShard;18",
+        "WhelpEggs;FlameBurst;18",
+        "Pyromancer;Pyroblast;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;15",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Execute;Bloodthirsty;18",
+        "DefiasBandits;DeadlyPoison;17",
+        "WhelpEggs;FlameBurst;17",
+        "Quilboar;;16",
+        "S.A.F.E.PilotFlyingMachine;;15"
+      ],
+      [
+        "RendLeader;;14",
+        "WhelpEggs;FlameBurst;18",
+        "Pyromancer;Pyroblast;18",
+        "Harpy;InfectiousSwipes;18",
+        "SkeletonParty;CorpseRun;20",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "Quilboar;;16"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;15",
+        "SkeletonWarrior;Exhume;17",
+        "SkeletonParty;CorpseRun;19",
+        "Execute;;16",
+        "Harpy;InfectiousSwipes;17",
+        "ChainLightning;BrilliantFlash;17",
+        "Quilboar;;15"
+      ],
+      [
+        "MaievLeader;;14",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "Worgen;Premeditation;18",
+        "SkeletonWarrior;Exhume;18",
+        "ChainLightning;BrilliantFlash;18",
+        "Harpy;InfectiousSwipes;18",
+        "EarthElemental;ObsidianShard;18"
+      ],
+      [
+        "HoggerLeader;HamHock;16",
+        "Harpy;InfectiousSwipes;18",
+        "Prowler;OnTheProwl;18",
+        "GoblinSapper;RocketBoots;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "GryphonRider;MightyThrow;17",
+        "ChainLightning;BrilliantFlash;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Execute;Bloodthirsty;18",
+        "Firehammer;HeightenedRage;20",
+        "Footmen;Fortification;20",
+        "SkeletonParty;CorpseRun;20",
+        "WitchDoctor;SpiritWard;18"
+      ],
+      [
+        "BaronRivendareLeader;;14",
+        "SkeletonWarrior;Exhume;18",
+        "SkeletonParty;CorpseRun;20",
+        "EarthElemental;ObsidianShard;18",
+        "Harpy;InfectiousSwipes;18",
+        "Pyromancer;Pyroblast;18",
+        "ChainLightning;BrilliantFlash;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;15",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Execute;Bloodthirsty;17",
+        "S.A.F.E.PilotFlyingMachine;;15",
+        "WhelpEggs;FlameBurst;17",
+        "Quilboar;;16",
+        "DefiasBandits;DeadlyPoison;17"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;15",
+        "Quilboar;;16",
+        "Prowler;OnTheProwl;18",
+        "Execute;Bloodthirsty;18",
+        "Shaman;;16",
+        "FireElemental;ImmolationAura;18",
+        "DefiasBandits;DeadlyPoison;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;16",
+        "EarthElemental;ObsidianShard;18",
+        "WhelpEggs;FlameBurst;18",
+        "SkeletonParty;CorpseRun;20",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "Execute;Bloodthirsty;18",
+        "MurlocTidehunters;SafetyBubble;18"
+      ],
+      [
+        "ThaurissanLeader;;13",
+        "Pyromancer;Pyroblast;18",
+        "WhelpEggs;FlameBurst;18",
+        "Quilboar;;16",
+        "Harpy;InfectiousSwipes;18",
+        "SkeletonParty;CorpseRun;20",
+        "S.A.F.E.PilotFlyingMachine;;16"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;15",
+        "Ghoul;;15",
+        "Necromancer;;15",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "Harpy;InfectiousSwipes;17",
+        "BatRider;EnchantedVials;18",
+        "S.A.F.E.PilotFlyingMachine;;15"
+      ]
+    ],
+    "lastUpdate": 1719063135
+  },
+  "token": "19e58633-f1c0-41bc-b352-b360ccee8a91"
+}

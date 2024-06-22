@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 489584994,
+    "btag": "Mystic",
+    "name": "Mystic",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 150,
+    "level": 49,
+    "pvpWins": 627,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 72,
+    "leaderAHonor": 3574,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 98,
+    "leaderBHonor": 3480,
+    "leaderC": "RendLeader",
+    "leaderCWins": 69,
+    "leaderCHonor": 3520,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "GryphonRider;MightyThrow;25",
+        "DefiasBandits;DeadlyPoison;23",
+        "Blizzard;ColdSnap;24",
+        "HarvestGolem;TrojanChickens;22",
+        "Execute;Overpower;24",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "GryphonRider;MightyThrow;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "Footmen;Fortification;21",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Blizzard;ColdSnap;24",
+        "DarkIronMiner;DwarvenAmbition;23"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
+        "Quilboar;BrambleBurst;24",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Prowler;OnTheProwl;22",
+        "DarkIronMiner;DwarvenAmbition;23",
+        "Blizzard;ColdSnap;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24"
+      ],
+      [
+        "GrommashLeader;MirrorImage;22",
+        "Shaman;EarthwallTotem;24",
+        "DarkIronMiner;DwarvenAmbition;23",
+        "WhelpEggs;FlameBurst;24",
+        "DeepBreath;DoubleDragon;22",
+        "GryphonRider;MightyThrow;25",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "DeepBreath;DoubleDragon;22",
+        "DarkIronMiner;DwarvenAmbition;23",
+        "Gargoyle;WingBuffet;22",
+        "Harpy;InfectiousSwipes;24",
+        "WitchDoctor;SpiritWard;23",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;22",
+        "SmokeBombSpell;BandOfThieves;21",
+        "CheatDeath;Vampirism;22",
+        "PolymorphSpell;GoldenFleece;22",
+        "GoblinSapper;RocketBoots;21",
+        "HolyNova;AmplifyMagic;23",
+        "ArcaneBlast;Amplification;22"
+      ],
+      [
+        "MaievLeader;Remorseless;22",
+        "GryphonRider;MightyThrow;25",
+        "Blizzard;ColdSnap;24",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;BrambleBurst;24",
+        "DarkIronMiner;DwarvenAmbition;23",
+        "EarthElemental;ObsidianShard;22"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Quilboar;BrambleBurst;24",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Ghoul;BoneArmor;22",
+        "GryphonRider;MightyThrow;25",
+        "WitchDoctor;SpiritWard;24",
+        "PolymorphSpell;GoldenFleece;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "WitchDoctor;SpiritWard;23",
+        "DarkIronMiner;DwarvenAmbition;23",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "DeepBreath;DoubleDragon;22",
+        "GryphonRider;MightyThrow;25",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Gargoyle;WingBuffet;22",
+        "Ghoul;BoneArmor;22",
+        "DarkIronMiner;DwarvenAmbition;23",
+        "MurlocTidehunters;SafetyBubble;22",
+        "GryphonRider;MightyThrow;25",
+        "Blizzard;ColdSnap;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "GryphonRider;MightyThrow;25",
+        "Execute;Bloodthirsty;24",
+        "EarthElemental;ObsidianShard;21",
+        "Blizzard;ColdSnap;24",
+        "MurlocTidehunters;SafetyBubble;22",
+        "WhelpEggs;Rookery;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;22",
+        "PolymorphSpell;GoldenFleece;22",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Prowler;OnTheProwl;22",
+        "GryphonRider;MightyThrow;25",
+        "Blizzard;ColdSnap;24",
+        "WitchDoctor;SpiritWard;23"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "DeepBreath;DoubleDragon;22",
+        "DarkIronMiner;DwarvenAmbition;23",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;SpiritWard;24",
+        "Quilboar;BrambleBurst;24",
+        "GryphonRider;MightyThrow;25"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;22",
+        "WhelpEggs;FlameBurst;24",
+        "EarthElemental;ObsidianShard;21",
+        "Quilboar;BrambleBurst;24",
+        "Blizzard;Icecrown;24",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Shaman;EarthwallTotem;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;BoneArmor;21",
+        "Necromancer;JeweledSkulls;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "DeepBreath;DoubleDragon;21",
+        "GryphonRider;MightyThrow;24",
+        "Quilboar;BrambleBurst;23"
+      ]
+    ],
+    "lastUpdate": 1717414085
+  },
+  "token": "c5abd0b1-52e8-4284-ad38-478e0c388e79"
+}

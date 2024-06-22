@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 51207295,
+    "btag": "Salahadim",
+    "name": "Salahadim",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 138,
+    "level": 38,
+    "pvpWins": 642,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 51,
+    "leaderAHonor": 3670,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 128,
+    "leaderBHonor": 3568,
+    "leaderC": "BloodmageThalnosLeader",
+    "leaderCWins": 76,
+    "leaderCHonor": 3694,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "GryphonRider;MightyThrow;18",
+        "Necromancer;CultOfTheDamned;18",
+        "PolymorphSpell;GoldenFleece;17",
+        "Blizzard;ColdSnap;18",
+        "Prowler;PredatoryInstincts;21",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "TirionLeader;ByTheLight;19",
+        "GryphonRider;MightyThrow;18",
+        "Abomination;NoxiousPresence;21",
+        "Prowler;PredatoryInstincts;21",
+        "GoblinSapper;RocketBoots;18",
+        "WhelpEggs;FlameBurst;19",
+        "DarkspearTroll;BigBadVoodoo;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Banshee;WillOfTheNecropolis;16",
+        "Prowler;PredatoryInstincts;21",
+        "Quilboar;TunnelVision;18",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Blizzard;ColdSnap;19",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "GoblinSapper;RocketBoots;18",
+        "WarsongRaider;Saboteur;16",
+        "WhelpEggs;FlameBurst;19",
+        "Prowler;PredatoryInstincts;21",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Harpy;TrinketCollectors;18"
+      ],
+      [
+        "RendLeader;Legionnaire;19",
+        "Pyromancer;Pyroblast;18",
+        "ArcaneBlast;;15",
+        "Drake;MotherDrake;19",
+        "WhelpEggs;FlameBurst;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Prowler;PredatoryInstincts;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;22",
+        "CheatDeath;Vampirism;17",
+        "Abomination;NoxiousPresence;21",
+        "GoblinSapper;RocketBoots;18",
+        "WhelpEggs;FlameBurst;19",
+        "Blizzard;ColdSnap;19",
+        "Prowler;PredatoryInstincts;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Blizzard;ColdSnap;18",
+        "Worgen;Premeditation;18",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;TunnelVision;18",
+        "AngryChickens;;17",
+        "PolymorphSpell;GoldenFleece;17"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "Blizzard;ColdSnap;19",
+        "Banshee;WillOfTheNecropolis;16",
+        "GryphonRider;MightyThrow;18",
+        "Prowler;PredatoryInstincts;21",
+        "WhelpEggs;FlameBurst;19",
+        "DarkspearTroll;BigBadVoodoo;19"
+      ],
+      [
+        "CairneLeader;Reincarnation;19",
+        "StonehoofTauren;Momentum;17",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "OgreMage;FrostfireBolt;17",
+        "Blizzard;ColdSnap;19",
+        "WhelpEggs;FlameBurst;19",
+        "Chimaera;CorrosiveBreath;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Necromancer;CultOfTheDamned;18",
+        "SkeletonParty;RitualOfRime;17",
+        "Quilboar;TunnelVision;18",
+        "Abomination;NoxiousPresence;21",
+        "GoblinSapper;RocketBoots;18",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;18",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "OgreMage;FrostfireBolt;17",
+        "WarsongRaider;Saboteur;16",
+        "WhelpEggs;FlameBurst;19",
+        "Prowler;PredatoryInstincts;21",
+        "DarkIronMiner;GoldMine;18"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "AngryChickens;WalkingCrate;18",
+        "Vultures;TendonRip;17",
+        "Prowler;PredatoryInstincts;21",
+        "GryphonRider;MightyThrow;18",
+        "Drake;MotherDrake;18",
+        "Abomination;NoxiousPresence;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "Drake;MotherDrake;19",
+        "DarkIronMiner;GoldMine;18",
+        "OgreMage;FrostfireBolt;18",
+        "Blizzard;ColdSnap;19",
+        "Shaman;EarthShield;18",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Pyroblast;18",
+        "DarkIronMiner;GoldMine;18",
+        "Prowler;PredatoryInstincts;21",
+        "WhelpEggs;FlameBurst;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Abomination;NoxiousPresence;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Necromancer;CultOfTheDamned;18",
+        "Abomination;NoxiousPresence;21",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "GryphonRider;MightyThrow;18",
+        "WhelpEggs;FlameBurst;19",
+        "Prowler;PredatoryInstincts;21"
+      ]
+    ],
+    "lastUpdate": 1719063137
+  },
+  "token": "3687cfd1-78a3-42b7-be0b-cfcea1470dd4"
+}

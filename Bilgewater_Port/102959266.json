@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 102959266,
+    "btag": "Grower",
+    "name": "Grower",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Thaurissan_Pose",
+    "skulls": 150,
+    "level": 45,
+    "pvpWins": 366,
+    "leaderA": "RendLeader",
+    "leaderAWins": 41,
+    "leaderAHonor": 3752,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 29,
+    "leaderBHonor": 3740,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 48,
+    "leaderCHonor": 3743,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Huntress;Shadowmeld;22",
+        "Execute;Bloodthirsty;22",
+        "DeepBreath;;18",
+        "FireElemental;ImmolationAura;22",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "GryphonRider;MightyThrow;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "FireElemental;ImmolationAura;22",
+        "Execute;Bloodthirsty;21",
+        "Pyromancer;Conflagrate;22",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;20",
+        "PolymorphSpell;GoldenFleece;19",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Prowler;OnTheProwl;21",
+        "Quilboar;BrambleBurst;22",
+        "Harpy;InfectiousSwipes;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;22",
+        "Execute;Bloodthirsty;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "WitchDoctor;SpiritWard;22",
+        "Huntress;Shadowmeld;22",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Pyroblast;22",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "PlagueFarmer;SplashingPumpkins;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "Ghoul;BoneArmor;19",
+        "Necromancer;JeweledSkulls;22",
+        "Execute;Bloodthirsty;22",
+        "GryphonRider;MightyThrow;22",
+        "FireElemental;ImmolationAura;22",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "HarvestGolem;UnstableCore;18",
+        "GryphonRider;MightyThrow;22",
+        "WhelpEggs;FlameBurst;22",
+        "EarthElemental;ObsidianShard;20",
+        "Prowler;OnTheProwl;21",
+        "Execute;Bloodthirsty;22"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Prowler;OnTheProwl;21",
+        "Harpy;InfectiousSwipes;24",
+        "GryphonRider;MightyThrow;22",
+        "Huntress;Shadowmeld;22",
+        "WhelpEggs;FlameBurst;22",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "Execute;Bloodthirsty;22",
+        "WitchDoctor;SpiritWard;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Prowler;OnTheProwl;21",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "Ghoul;BoneArmor;19",
+        "Gargoyle;WingBuffet;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Execute;Bloodthirsty;22",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "SneedLeader;LandGrab;22",
+        "WitchDoctor;SpiritWard;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "MeatWagon;FiletTrebuchet;20",
+        "WhelpEggs;FlameBurst;22",
+        "Execute;Bloodthirsty;21",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;00000000000000000000000000000000;17",
+        "5709c8989210cdd41943f35f5ffd8b6b;bbaa119635e291d43996f67e97c6273a;18",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;22",
+        "d6df87a31e7c2ae44aafe5d70fda7322;bbae4f098e1016846811a50a1e02cbb7;20",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;9a83af5b4c2bdbb4dbe7cdf82834cfbf;24",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;22",
+        "8e4de308ad10b4b4d8774653a0243691;bb3ae2d8c12d8df418a1ac9c2f98d695;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Chimaera;CorrosiveBreath;22",
+        "AngryChickens;WalkingCrate;20",
+        "Prowler;OnTheProwl;21",
+        "Pyromancer;Conflagrate;22",
+        "HarvestGolem;UnstableCore;18",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "Pyromancer;Conflagrate;22",
+        "WhelpEggs;FlameBurst;22",
+        "Shaman;EarthShield;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Execute;Bloodthirsty;22",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;20",
+        "FireElemental;ImmolationAura;22",
+        "WhelpEggs;FlameBurst;22",
+        "Prowler;OnTheProwl;21",
+        "Execute;Bloodthirsty;22",
+        "Huntress;Shadowmeld;22",
+        "Gargoyle;WingBuffet;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Necromancer;JeweledSkulls;22",
+        "Ghoul;BoneArmor;19",
+        "Execute;Bloodthirsty;22",
+        "FireElemental;ImmolationAura;22",
+        "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;FlameBurst;22"
+      ]
+    ],
+    "lastUpdate": 1719063089
+  },
+  "token": "aa13f5d9-0e3c-41ec-8c1a-84054324251f"
+}

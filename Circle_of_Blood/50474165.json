@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 50474165,
+    "btag": "Karoo",
+    "name": "Karoo",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_OldMurkEye_Pose",
+    "skulls": 139,
+    "level": 41,
+    "pvpWins": 141,
+    "leaderA": "SneedLeader",
+    "leaderAWins": 26,
+    "leaderAHonor": 3011,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 51,
+    "leaderBHonor": 3292,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 20,
+    "leaderCHonor": 3000,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "Footmen;Fortification;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Blizzard;ColdSnap;21",
+        "MurlocTidehunters;Morelocs;21",
+        "Gargoyle;WingBuffet;23",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "Footmen;Fortification;20",
+        "Blizzard;ColdSnap;21",
+        "FireElemental;ImmolationAura;21",
+        "WhelpEggs;FlameBurst;21",
+        "Shaman;EarthShield;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21",
+        "Gargoyle;WingBuffet;23",
+        "Blizzard;ColdSnap;21",
+        "FireElemental;ImmolationAura;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WitchDoctor;SpiritWard;21",
+        "Banshee;WillOfTheNecropolis;20",
+        "Quilboar;TunnelVision;21",
+        "Gargoyle;WingBuffet;22",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "LivingBomb;ChainReaction;16",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;InfectiousSwipes;21",
+        "Gargoyle;WingBuffet;21",
+        "Blizzard;ColdSnap;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;18",
+        "Gargoyle;WingBuffet;23",
+        "Banshee;WillOfTheNecropolis;20",
+        "Blizzard;ColdSnap;21",
+        "GoblinSapper;RocketBoots;21",
+        "FireElemental;ImmolationAura;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Worgen;Premeditation;18",
+        "Quilboar;TunnelVision;21",
+        "EarthElemental;ObsidianShard;18",
+        "WhelpEggs;FlameBurst;21",
+        "SkeletonParty;RitualOfRime;19"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "ChainLightning;StormsReach;16",
+        "Execute;Bloodthirsty;16",
+        "DarkIronMiner;DarkIronArmaments;17",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "Shaman;EarthShield;20",
+        "WitchDoctor;SpiritWard;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "GoblinSapper;RocketBoots;20",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Gargoyle;WingBuffet;23",
+        "Banshee;WillOfTheNecropolis;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Blizzard;ColdSnap;21",
+        "FireElemental;ImmolationAura;21",
+        "GoblinSapper;RocketBoots;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;17",
+        "BatRider;EnchantedVials;18",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Gargoyle;WingBuffet;21",
+        "Blizzard;ColdSnap;21",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;17",
+        "MurlocTidehunters;Morelocs;21",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;ElvenMight;21",
+        "Blizzard;ColdSnap;21",
+        "FireElemental;ImmolationAura;21",
+        "DarkspearTroll;BigBadVoodoo;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Pyroblast;18",
+        "WhelpEggs;FlameBurst;21",
+        "Shaman;EarthShield;21",
+        "GoblinSapper;RocketBoots;21",
+        "Blizzard;ColdSnap;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "Pyromancer;Pyroblast;18",
+        "WhelpEggs;FlameBurst;21",
+        "FireElemental;ImmolationAura;21",
+        "Harpy;InfectiousSwipes;21",
+        "Blizzard;ColdSnap;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;22",
+        "Gargoyle;WingBuffet;23",
+        "SkeletonParty;RitualOfRime;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Quilboar;TunnelVision;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "FireElemental;ImmolationAura;21"
+      ]
+    ],
+    "lastUpdate": 1719062201
+  },
+  "token": "6e9f3eb7-b786-434b-bef2-9267733a9e46"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 129949968,
+    "btag": "KzaKzarol",
+    "name": "KzaKzarol",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_OldMurkEye_Pose",
+    "skulls": 113,
+    "level": 36,
+    "pvpWins": 15,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 4,
+    "leaderAHonor": 500,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 3,
+    "leaderBHonor": 550,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 4,
+    "leaderCHonor": 724,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Huntress;Shadowmeld;20",
+        "Execute;KillingSpree;17",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;Bristleback;18",
+        "ChainLightning;Reverberation;16"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Huntress;Shadowmeld;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "StonehoofTauren;Momentum;21",
+        "Quilboar;Bristleback;19",
+        "Harpy;InfectiousSwipes;20",
+        "Mountaineer;FrenziedSpirit;17"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;Bristleback;19",
+        "StonehoofTauren;Momentum;21",
+        "Execute;KillingSpree;18",
+        "WhelpEggs;FlameBurst;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;17",
+        "StonehoofTauren;Momentum;20",
+        "Shaman;EarthShield;17",
+        "Harpy;InfectiousSwipes;20",
+        "WhelpEggs;FlameBurst;18",
+        "Huntress;Shadowmeld;21",
+        "DefiasBandits;DeadlyPoison;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;19",
+        "DarkIronMiner;GoldMine;18",
+        "FireElemental;MoltenCore;18",
+        "Harpy;InfectiousSwipes;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Mountaineer;FrenziedSpirit;17",
+        "Quilboar;Bristleback;19"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Ghoul;TasteForBlood;17",
+        "SkeletonParty;5Man;17",
+        "LivingBomb;ChainReaction;15",
+        "Huntress;Shadowmeld;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "DefiasBandits;DeadlyPoison;17"
+      ],
+      [
+        "MaievLeader;Shadowstep;17",
+        "DefiasBandits;DeadlyPoison;17",
+        "Huntress;Shadowmeld;20",
+        "Quilboar;Bristleback;18",
+        "StonehoofTauren;Momentum;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;18",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;Bristleback;19",
+        "DefiasBandits;DeadlyPoison;18",
+        "WhelpEggs;FlameBurst;18",
+        "Huntress;Shadowmeld;21",
+        "StonehoofTauren;Momentum;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "StonehoofTauren;Momentum;21",
+        "Shaman;EarthShield;17",
+        "Huntress;Shadowmeld;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;Bristleback;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Gargoyle;WingBuffet;17",
+        "Ghoul;TasteForBlood;20",
+        "WhelpEggs;FlameBurst;18",
+        "Huntress;Shadowmeld;21",
+        "Quilboar;Bristleback;19",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "SneedLeader;;15",
+        "Shaman;EarthShield;17",
+        "StonehoofTauren;Momentum;19",
+        "Gargoyle;WingBuffet;17",
+        "Huntress;Shadowmeld;20",
+        "WhelpEggs;FlameBurst;18",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "CharlgaLeader;;16",
+        "Quilboar;Bristleback;19",
+        "Harpy;InfectiousSwipes;20",
+        "Huntress;Shadowmeld;21",
+        "WitchDoctor;Alchemist;16",
+        "DefiasBandits;DeadlyPoison;18",
+        "StonehoofTauren;Momentum;20"
+      ],
+      [
+        "DrakkisathLeader;;8",
+        "MoltenGiant;;8",
+        "WhelpEggs;;8",
+        "Pyromancer;;9",
+        "Shaman;;9",
+        "Harpy;InfectiousSwipes;12",
+        "StonehoofTauren;;10"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;18",
+        "WhelpEggs;FlameBurst;18",
+        "FireElemental;MoltenCore;18",
+        "StonehoofTauren;Momentum;19",
+        "Harpy;InfectiousSwipes;19",
+        "DefiasBandits;DeadlyPoison;18",
+        "Huntress;Shadowmeld;20"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;17",
+        "Ghoul;TasteForBlood;18",
+        "SkeletonParty;5Man;18",
+        "StonehoofTauren;Momentum;21",
+        "Harpy;InfectiousSwipes;20",
+        "Huntress;Shadowmeld;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ]
+    ],
+    "lastUpdate": 1719063110
+  },
+  "token": "53bad053-eacc-40ec-80a4-653bc2d06c42"
+}

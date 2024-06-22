@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 54725226,
+    "btag": "Marauder",
+    "name": "Marauder",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 105,
+    "level": 38,
+    "pvpWins": 231,
+    "leaderA": "RendLeader",
+    "leaderAWins": 59,
+    "leaderAHonor": 3185,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 26,
+    "leaderBHonor": 3333,
+    "leaderC": "GrommashLeader",
+    "leaderCWins": 24,
+    "leaderCHonor": 3321,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;20",
+        "DefiasBandits;PickLock;18",
+        "Blizzard;;16",
+        "Execute;;17",
+        "Mountaineer;MendPets;18",
+        "Raptors;;17",
+        "Shaman;EarthwallTotem;18"
+      ],
+      [
+        "TirionLeader;Consecrate;19",
+        "GryphonRider;MightyThrow;18",
+        "HolyNova;InnerFire;18",
+        "Footmen;Fortification;20",
+        "Shaman;EarthwallTotem;18",
+        "Execute;;17",
+        "WitchDoctor;SpiritWard;19"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;17",
+        "AngryChickens;FuriousFowl;18",
+        "Prowler;OnTheProwl;17",
+        "Quilboar;TunnelVision;17",
+        "DefiasBandits;PickLock;17",
+        "GryphonRider;MightyThrow;18",
+        "MurlocTidehunters;CarefulAim;18"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "Shaman;EarthwallTotem;18",
+        "DarkspearTroll;Headhunting;18",
+        "DefiasBandits;PickLock;18",
+        "Execute;;16",
+        "Huntress;Shadowmeld;18",
+        "WitchDoctor;SpiritWard;19"
+      ],
+      [
+        "RendLeader;FlamingSoul;20",
+        "WhelpEggs;FlameBurst;18",
+        "SmokeBombSpell;;16",
+        "Chimaera;Leviathan;19",
+        "EarthElemental;ObsidianShard;20",
+        "DarkspearTroll;Headhunting;18",
+        "Shaman;EarthwallTotem;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Banshee;;15",
+        "Ghoul;TasteForBlood;18",
+        "CheatDeath;;16",
+        "SkeletonParty;5Man;18",
+        "Harpy;TrinketCollectors;17",
+        "ChainLightning;StormsReach;17"
+      ],
+      [
+        "MaievLeader;Shadowstep;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Huntress;Shadowmeld;18",
+        "DarkIronMiner;GoldMine;17",
+        "DefiasBandits;PickLock;17",
+        "Quilboar;TunnelVision;17",
+        "Prowler;OnTheProwl;17"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "AngryChickens;FuriousFowl;18",
+        "MurlocTidehunters;CarefulAim;18",
+        "Raptors;;17",
+        "WarsongRaider;RazingFocus;19",
+        "Huntress;Shadowmeld;18",
+        "Execute;;17"
+      ],
+      [
+        "CairneLeader;Plainsrunning;17",
+        "DarkspearTroll;Headhunting;18",
+        "WitchDoctor;SpiritWard;19",
+        "MeatWagon;FiletTrebuchet;17",
+        "ChainLightning;StormsReach;18",
+        "MurlocTidehunters;CarefulAim;18",
+        "Drake;Roost;17"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;18",
+        "Ghoul;TasteForBlood;18",
+        "Gargoyle;WingBuffet;18",
+        "SkeletonWarrior;Exhume;18",
+        "GryphonRider;MightyThrow;18",
+        "SkeletonParty;5Man;18",
+        "Necromancer;JeweledSkulls;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;17",
+        "ChainLightning;StormsReach;18",
+        "DarkspearTroll;Headhunting;18",
+        "Gargoyle;WingBuffet;18",
+        "WarsongRaider;RazingFocus;19",
+        "SkeletonParty;5Man;18",
+        "EarthElemental;ObsidianShard;20"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;17",
+        "PolymorphSpell;;15",
+        "FireElemental;MoltenCore;18",
+        "SkeletonParty;5Man;18",
+        "EarthElemental;ObsidianShard;20",
+        "Necromancer;JeweledSkulls;18",
+        "Drake;Roost;17"
+      ],
+      [
+        "DrakkisathLeader;;17",
+        "CoreHounds;FieryRebirth;18",
+        "WhelpEggs;FlameBurst;18",
+        "Execute;;17",
+        "WitchDoctor;SpiritWard;19",
+        "Shaman;EarthwallTotem;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;20",
+        "CoreHounds;FieryRebirth;18",
+        "DarkIronMiner;GoldMine;17",
+        "DefiasBandits;PickLock;18",
+        "MurlocTidehunters;CarefulAim;18",
+        "WarsongRaider;RazingFocus;19",
+        "DarkspearTroll;Headhunting;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Banshee;;16",
+        "SkeletonWarrior;Exhume;18",
+        "Execute;;16",
+        "Prowler;OnTheProwl;18",
+        "SkeletonParty;5Man;18",
+        "Vultures;TendonRip;18"
+      ]
+    ],
+    "lastUpdate": 1719063155
+  },
+  "token": "48bf6aae-18bd-4779-b4e8-d97c83ee3a3b"
+}

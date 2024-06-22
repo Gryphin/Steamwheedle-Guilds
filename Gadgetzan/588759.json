@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 588759,
+    "btag": "Thovar",
+    "name": "Thovar",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 120,
+    "level": 38,
+    "pvpWins": 77,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 20,
+    "leaderAHonor": 1505,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 14,
+    "leaderBHonor": 1538,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 27,
+    "leaderCHonor": 2510,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;17",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "DefiasBandits;PickLock;20",
+        "Execute;Bloodthirsty;18",
+        "Banshee;WillOfTheNecropolis;17",
+        "WhelpEggs;FlameBurst;18",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "TirionLeader;DivineShield;17",
+        "Footmen;Fortification;19",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "Quilboar;TunnelVision;18",
+        "Harpy;InfectiousSwipes;20",
+        "WhelpEggs;FlameBurst;19",
+        "Shaman;LightningMastery;17"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;17",
+        "Quilboar;TunnelVision;18",
+        "Execute;Bloodthirsty;18",
+        "Banshee;WillOfTheNecropolis;17",
+        "WhelpEggs;FlameBurst;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "DefiasBandits;PickLock;20"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "AngryChickens;Snackrifice;18",
+        "Worgen;Frenzy;17",
+        "WhelpEggs;FlameBurst;18",
+        "Quilboar;TunnelVision;18",
+        "EarthElemental;ObsidianShard;18",
+        "Banshee;WillOfTheNecropolis;17"
+      ],
+      [
+        "RendLeader;Legionnaire;17",
+        "WhelpEggs;FlameBurst;18",
+        "FireElemental;ImmolationAura;17",
+        "Harpy;InfectiousSwipes;20",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "Banshee;WillOfTheNecropolis;17",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Ghoul;TasteForBlood;17",
+        "CheatDeath;Vampirism;17",
+        "ArcaneBlast;Amplification;17",
+        "HolyNova;InnerFire;17",
+        "SmokeBombSpell;ThroughTheShadows;17",
+        "PolymorphSpell;GoldenFleece;19"
+      ],
+      [
+        "MaievLeader;Shadowstep;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "Worgen;Frenzy;17",
+        "EarthElemental;ObsidianShard;18",
+        "WhelpEggs;FlameBurst;19",
+        "AngryChickens;Snackrifice;18",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "HoggerLeader;FatalFrenzy;17",
+        "AngryChickens;Snackrifice;18",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;TunnelVision;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "WhelpEggs;FlameBurst;17",
+        "DarkspearTroll;Headhunting;17"
+      ],
+      [
+        "CairneLeader;Plainsrunning;18",
+        "DarkspearTroll;Headhunting;18",
+        "StonehoofTauren;Provoke;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "WitchDoctor;SpiritWard;19",
+        "Blizzard;Icecrown;17",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Execute;Bloodthirsty;18",
+        "Banshee;WillOfTheNecropolis;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "WhelpEggs;FlameBurst;19",
+        "DefiasBandits;PickLock;20",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;17",
+        "AngryChickens;Snackrifice;18",
+        "Quilboar;TunnelVision;18",
+        "EarthElemental;ObsidianShard;18",
+        "Harpy;InfectiousSwipes;20",
+        "Banshee;WillOfTheNecropolis;17",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;17",
+        "Quilboar;TunnelVision;18",
+        "Harpy;InfectiousSwipes;20",
+        "EarthElemental;ObsidianShard;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "WhelpEggs;FlameBurst;19",
+        "Banshee;WillOfTheNecropolis;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;TunnelVision;18",
+        "FireElemental;ImmolationAura;17",
+        "S.A.F.E.PilotFlyingMachine;;18",
+        "Banshee;WillOfTheNecropolis;18",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "WhelpEggs;FlameBurst;18",
+        "EarthElemental;ObsidianShard;18",
+        "AngryChickens;Snackrifice;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;18",
+        "MeatWagon;FiletTrebuchet;17",
+        "Necromancer;JeweledSkulls;17",
+        "WitchDoctor;SpiritWard;19",
+        "SkeletonParty;RitualOfRime;18",
+        "Spiderlings;Frostbite;17",
+        "Abomination;NoxiousPresence;17"
+      ]
+    ],
+    "lastUpdate": 1719063109
+  },
+  "token": "ad9e84f2-b41f-4154-97b5-17c6afd4ba87"
+}

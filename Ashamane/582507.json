@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 582507,
+    "btag": "Darkshadow",
+    "name": "Darkshadow",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 145,
+    "level": 37,
+    "pvpWins": 49,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 25,
+    "leaderAHonor": 1170,
+    "leaderB": "CharlgaLeader",
+    "leaderBWins": 3,
+    "leaderBHonor": 600,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 18,
+    "leaderCHonor": 2243,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "GryphonRider;OdynsFury;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Execute;KillingSpree;18",
+        "Shaman;LightningMastery;21",
+        "Drake;MotherDrake;24",
+        "StonehoofTauren;Momentum;24"
+      ],
+      [
+        "TirionLeader;Consecrate;19",
+        "WhelpEggs;;15",
+        "Drake;EngulfingFlames;24",
+        "EarthElemental;ObsidianShard;17",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "Harpy;TrinketCollectors;19",
+        "Banshee;;14"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;18",
+        "Harpy;TrinketCollectors;19",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "StonehoofTauren;Provoke;24",
+        "Drake;MotherDrake;24",
+        "Flamewaker;HeatStroke;22",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "StonehoofTauren;Pummel;24",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "DarkIronMiner;GoldMine;21",
+        "Drake;EngulfingFlames;24",
+        "Harpy;InfectiousSwipes;21",
+        "Flamewaker;HeatStroke;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Drake;EngulfingFlames;24",
+        "Harpy;InfectiousSwipes;21",
+        "Flamewaker;HeatStroke;22",
+        "StonehoofTauren;Pummel;24",
+        "Banshee;;15"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "SkeletonParty;CorpseRun;19",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Blizzard;BrittleIce;18",
+        "Flamewaker;HeatStroke;22",
+        "Drake;EngulfingFlames;24",
+        "StonehoofTauren;Pummel;24"
+      ],
+      [
+        "MaievLeader;Shadowstep;18",
+        "GryphonRider;OdynsFury;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "DarkIronMiner;GoldMine;18",
+        "Flamewaker;HeatStroke;22",
+        "StonehoofTauren;Momentum;24",
+        "Drake;MotherDrake;22"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;18",
+        "Flamewaker;HeatStroke;22",
+        "StonehoofTauren;Momentum;24",
+        "GryphonRider;MightyThrow;21",
+        "WarsongRaider;Saboteur;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Drake;MotherDrake;24"
+      ],
+      [
+        "CairneLeader;Aftershock;19",
+        "StonehoofTauren;Momentum;24",
+        "WarsongRaider;Saboteur;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Drake;MotherDrake;24",
+        "GryphonRider;OdynsFury;22",
+        "Flamewaker;HeatStroke;22"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;21",
+        "Flamewaker;HeatStroke;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "StonehoofTauren;Pummel;24",
+        "Drake;EngulfingFlames;24",
+        "DarkIronMiner;GoldMine;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "SneedLeader;LandGrab;18",
+        "WhelpEggs;;15",
+        "Blizzard;BrittleIce;18",
+        "EarthElemental;ObsidianShard;17",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "Harpy;InfectiousSwipes;21",
+        "Banshee;;15"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Blizzard;BrittleIce;18",
+        "WhelpEggs;;15",
+        "Banshee;;14",
+        "Harpy;TrinketCollectors;19",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "EarthElemental;ObsidianShard;17"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;21",
+        "Flamewaker;HeatStroke;22",
+        "StonehoofTauren;Pummel;24",
+        "Shaman;LightningMastery;21",
+        "Drake;EngulfingFlames;24",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "WarsongRaider;SunderArmor;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "WhelpEggs;;15",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "Blizzard;BrittleIce;18",
+        "EarthElemental;ObsidianShard;17",
+        "Banshee;;15",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;18",
+        "Flamewaker;HeatStroke;22",
+        "SkeletonParty;CorpseRun;19",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "StonehoofTauren;Pummel;24",
+        "Drake;EngulfingFlames;24",
+        "WitchDoctor;SpiritWard;21"
+      ]
+    ],
+    "lastUpdate": 1719063080
+  },
+  "token": "0646ad8c-d037-440d-859b-45856f739768"
+}

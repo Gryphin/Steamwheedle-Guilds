@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 304574373,
+    "btag": "SpacePirate",
+    "name": "SpacePirate",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Rend_Pose",
+    "skulls": 105,
+    "level": 38,
+    "pvpWins": 171,
+    "leaderA": "BloodmageThalnosLeader",
+    "leaderAWins": 37,
+    "leaderAHonor": 3070,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 20,
+    "leaderBHonor": 3061,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 20,
+    "leaderCHonor": 2915,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "HarvestGolem;;16",
+        "Huntress;ElvenMight;19",
+        "Blizzard;ColdSnap;17",
+        "GryphonRider;MightyThrow;18",
+        "Quilboar;TunnelVision;18",
+        "HolyNova;InnerFire;18"
+      ],
+      [
+        "TirionLeader;ByTheLight;17",
+        "Blizzard;ColdSnap;17",
+        "GryphonRider;MightyThrow;18",
+        "CoreHounds;EternalBond;18",
+        "Shaman;;17",
+        "Footmen;Fortification;17",
+        "MurlocTidehunters;SafetyBubble;18"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+        "Harpy;InfectiousSwipes;17",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Quilboar;TunnelVision;18",
+        "Huntress;ElvenMight;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "PolymorphSpell;;16"
+      ],
+      [
+        "GrommashLeader;;17",
+        "BatRider;EnchantedVials;20",
+        "ChainLightning;BrilliantFlash;17",
+        "SkeletonWarrior;;16",
+        "Necromancer;JeweledSkulls;17",
+        "Harpy;InfectiousSwipes;18",
+        "WarsongRaider;;16"
+      ],
+      [
+        "RendLeader;FlamingSoul;17",
+        "Drake;MotherDrake;17",
+        "EarthElemental;ObsidianShard;18",
+        "Harpy;InfectiousSwipes;17",
+        "Quilboar;TunnelVision;18",
+        "WhelpEggs;FlameBurst;18",
+        "DefiasBandits;;16"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;19",
+        "CheatDeath;;16",
+        "SmokeBombSpell;ThroughTheShadows;17",
+        "PolymorphSpell;;16",
+        "GoblinSapper;RocketBoots;18",
+        "HolyNova;InnerFire;18",
+        "ArcaneBlast;Amplification;18"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Worgen;;16",
+        "ArcaneBlast;Amplification;18",
+        "Quilboar;TunnelVision;18",
+        "EarthElemental;ObsidianShard;18",
+        "SkeletonParty;RitualOfRime;18",
+        "DefiasBandits;;17"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "AngryChickens;;16",
+        "Harpy;InfectiousSwipes;18",
+        "GoblinSapper;RocketBoots;18",
+        "Quilboar;TunnelVision;18",
+        "ChainLightning;BrilliantFlash;17",
+        "Ghoul;BoneArmor;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "ChainLightning;BrilliantFlash;17",
+        "DarkspearTroll;;17",
+        "MurlocTidehunters;SafetyBubble;18",
+        "GoblinSapper;RocketBoots;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Ghoul;BoneArmor;17",
+        "Gargoyle;WingBuffet;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "GryphonRider;MightyThrow;18",
+        "Blizzard;ColdSnap;17",
+        "PolymorphSpell;;16"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;17",
+        "GoblinSapper;RocketBoots;17",
+        "WarsongRaider;;16",
+        "EarthElemental;ObsidianShard;17",
+        "Quilboar;TunnelVision;18",
+        "Huntress;ElvenMight;19",
+        "Harpy;InfectiousSwipes;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Pyroblast;18",
+        "WhelpEggs;FlameBurst;18",
+        "Shaman;EarthShield;19",
+        "OgreMage;FrostfireBolt;18",
+        "DefiasBandits;;17",
+        "WitchDoctor;SpiritWard;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "CoreHounds;EternalBond;18",
+        "EarthElemental;ObsidianShard;18",
+        "GnollBrute;Rabid;17",
+        "DarkspearTroll;;17",
+        "Gargoyle;WingBuffet;18",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "SylvanasLeader;;15",
+        "Ghoul;BoneArmor;17",
+        "Banshee;;16",
+        "ChainLightning;BrilliantFlash;17",
+        "GryphonRider;MightyThrow;18",
+        "HolyNova;InnerFire;18",
+        "FireElemental;;15"
+      ]
+    ],
+    "lastUpdate": 1719063152
+  },
+  "token": "ab4fe952-b7f7-4df2-85ec-67cd11d1f2a0"
+}

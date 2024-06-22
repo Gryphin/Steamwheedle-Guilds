@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 102587149,
+    "btag": "Alan",
+    "name": "Alan",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 150,
+    "level": 44,
+    "pvpWins": 1852,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 140,
+    "leaderAHonor": 4054,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 321,
+    "leaderBHonor": 3611,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 107,
+    "leaderCHonor": 3755,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "DefiasBandits;PickLock;21",
+        "Abomination;NoxiousPresence;23",
+        "Harpy;TrinketCollectors;22",
+        "CheatDeath;Vampirism;22",
+        "EarthElemental;ReadyToRumble;21"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "GryphonRider;AirDrop;21",
+        "Huntress;ElvenMight;22",
+        "Abomination;NoxiousPresence;23",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;21",
+        "Banshee;WillOfTheNecropolis;21",
+        "CheatDeath;Vampirism;21"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;21",
+        "Raptors;FastFood;21",
+        "Quilboar;Bristleback;22",
+        "CoreHounds;EternalBond;21",
+        "WitchDoctor;AmplifyCurse;21",
+        "Harpy;InfectiousSwipes;22",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;22"
+      ],
+      [
+        "GrommashLeader;MirrorImage;19",
+        "Execute;Bloodthirsty;21",
+        "CheatDeath;Vampirism;21",
+        "Harpy;InfectiousSwipes;22",
+        "Banshee;WillOfTheNecropolis;21",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;21",
+        "Huntress;ElvenMight;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "DarkIronMiner;GoldMine;22",
+        "Pyromancer;Conflagrate;21",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;Bristleback;22",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;21",
+        "SkeletonParty;RitualOfRime;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;19",
+        "CheatDeath;Vampirism;21",
+        "Abomination;NoxiousPresence;23",
+        "Execute;Bloodthirsty;21",
+        "Huntress;ElvenMight;22",
+        "Quilboar;TunnelVision;22",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Worgen;Premeditation;20",
+        "SkeletonParty;RitualOfRime;21",
+        "DarkIronMiner;GoldMine;22",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;22",
+        "Spiderlings;Frostbite;18",
+        "Worgen;Premeditation;20",
+        "Pyromancer;Conflagrate;22",
+        "Vultures;Migration;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Shaman;EarthShield;22",
+        "Execute;Bloodthirsty;21",
+        "Huntress;ElvenMight;22",
+        "FaerieDragon;FaeBlessing;21",
+        "CheatDeath;Vampirism;22",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;21"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;21",
+        "Banshee;WillOfTheNecropolis;21",
+        "Abomination;NoxiousPresence;23",
+        "SkeletonParty;RitualOfRime;21",
+        "GryphonRider;OdynsFury;21",
+        "Drake;Roost;21",
+        "Huntress;ElvenMight;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Shaman;EarthShield;22",
+        "MeatWagon;FiletTrebuchet;21",
+        "DarkIronMiner;GoldMine;22",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;21",
+        "Huntress;ElvenMight;22"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;21",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;Bristleback;22",
+        "Huntress;ElvenMight;22",
+        "Abomination;NoxiousPresence;23",
+        "Banshee;WillOfTheNecropolis;21",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "EarthElemental;ReadyToRumble;21",
+        "Firehammer;HeightenedRage;21",
+        "Shaman;EarthShield;22",
+        "WitchDoctor;SpiritWard;21",
+        "HolyNova;Renew;22",
+        "DarkIronMiner;GoldMine;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "DarkIronMiner;GoldMine;22",
+        "Pyromancer;Conflagrate;22",
+        "Abomination;NoxiousPresence;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "HolyNova;Renew;22",
+        "CheatDeath;Vampirism;22"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;21",
+        "CheatDeath;Vampirism;21",
+        "Abomination;NoxiousPresence;23",
+        "WarsongRaider;Saboteur;21",
+        "WhelpEggs;FlameBurst;22",
+        "Huntress;ElvenMight;22",
+        "Quilboar;Bristleback;22"
+      ]
+    ],
+    "lastUpdate": 1719063154
+  },
+  "token": "d1cebb04-e533-453d-962d-85191723fd81"
+}

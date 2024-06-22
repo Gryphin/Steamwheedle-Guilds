@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 949291,
+    "btag": "MrMagus",
+    "name": "MrMagus",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "",
+    "skulls": 93,
+    "level": 36,
+    "pvpWins": 34,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 24,
+    "leaderAHonor": 2718,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 10,
+    "leaderBHonor": 1753,
+    "leaderC": "",
+    "leaderCWins": 0,
+    "leaderCHonor": 0,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;16",
+        "Footmen;LastStand;20",
+        "Huntress;ElvenMight;19",
+        "Blizzard;Icecrown;18",
+        "GryphonRider;OdynsFury;18",
+        "PolymorphSpell;;16",
+        "Chimaera;FrostShock;16"
+      ],
+      [
+        "TirionLeader;Consecrate;21",
+        "Huntress;ElvenMight;21",
+        "GryphonRider;OdynsFury;18",
+        "Footmen;ShieldBash;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;17",
+        "Blizzard;Icecrown;18",
+        "DarkspearTroll;BigBadVoodoo;17"
+      ],
+      [
+        "OldMurkEyeLeader;;11",
+        "Huntress;ElvenMight;15",
+        "GryphonRider;OdynsFury;15",
+        "Footmen;LastStand;15",
+        "Blizzard;Icecrown;15",
+        "DefiasBandits;;12",
+        "DarkspearTroll;BigBadVoodoo;14"
+      ],
+      [
+        "GrommashLeader;;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "Shaman;LightningMastery;17",
+        "Footmen;LastStand;21",
+        "Huntress;ElvenMight;20",
+        "GryphonRider;OdynsFury;18",
+        "Blizzard;Icecrown;18"
+      ],
+      [
+        "RendLeader;FlamingSoul;15",
+        "Drake;Roost;14",
+        "Flamewaker;;13",
+        "GryphonRider;OdynsFury;18",
+        "Blizzard;Icecrown;17",
+        "Footmen;LastStand;20",
+        "Huntress;ElvenMight;17"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;17",
+        "Firehammer;BlazingSpeed;18",
+        "MeatWagon;FiletTrebuchet;16",
+        "ArcaneBlast;Torrent;16",
+        "Huntress;ElvenMight;20",
+        "Footmen;LastStand;21",
+        "DarkIronMiner;DarkIronArmaments;17"
+      ],
+      [
+        "MaievLeader;Shadowstep;17",
+        "Huntress;ElvenMight;19",
+        "Footmen;LastStand;20",
+        "Worgen;Premeditation;16",
+        "Blizzard;Icecrown;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;16",
+        "DarkspearTroll;BigBadVoodoo;17"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Chimaera;FrostShock;17",
+        "Huntress;ElvenMight;21",
+        "AngryChickens;;15",
+        "PolymorphSpell;ExplodingSheep;17",
+        "Footmen;ShieldBash;21",
+        "DarkspearTroll;BigBadVoodoo;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "Shaman;LightningMastery;17",
+        "Footmen;ShieldBash;21",
+        "Huntress;ElvenMight;20",
+        "Firehammer;BlazingSpeed;18",
+        "Blizzard;Icecrown;18",
+        "WarsongRaider;Saboteur;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;14",
+        "GryphonRider;OdynsFury;18",
+        "MeatWagon;FiletTrebuchet;15",
+        "Worgen;Premeditation;15",
+        "Blizzard;Icecrown;17",
+        "Footmen;LastStand;20",
+        "Huntress;ElvenMight;17"
+      ],
+      [
+        "SneedLeader;;12",
+        "DarkspearTroll;BigBadVoodoo;15",
+        "GryphonRider;OdynsFury;15",
+        "MeatWagon;FiletTrebuchet;13",
+        "Footmen;LastStand;15",
+        "Blizzard;Icecrown;16",
+        "Huntress;ElvenMight;15"
+      ],
+      [
+        "CharlgaLeader;;9",
+        "Footmen;LastStand;15",
+        "GryphonRider;OdynsFury;15",
+        "Huntress;ElvenMight;15",
+        "Blizzard;Icecrown;15",
+        "DefiasBandits;;12",
+        "DarkspearTroll;BigBadVoodoo;14"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;16",
+        "Firehammer;BlazingSpeed;18",
+        "Pyromancer;Conflagrate;16",
+        "Blizzard;Icecrown;18",
+        "MoltenGiant;Bolster;16",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "WhelpEggs;FlameBurst;17"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;19",
+        "Firehammer;BlazingSpeed;18",
+        "GryphonRider;OdynsFury;18",
+        "DarkIronMiner;DarkIronArmaments;17",
+        "Footmen;ShieldBash;21",
+        "Huntress;ElvenMight;21",
+        "PolymorphSpell;ExplodingSheep;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;17",
+        "Ghoul;TasteForBlood;17",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "WarsongRaider;Saboteur;17",
+        "Blizzard;Icecrown;18",
+        "GryphonRider;OdynsFury;18",
+        "SkeletonWarrior;QuestingBuddies;17"
+      ]
+    ],
+    "lastUpdate": 1719063133
+  },
+  "token": "7350b5b5-46b7-4752-b8ae-90ac46068da9"
+}

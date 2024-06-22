@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 72677888,
+    "btag": "BabyMage",
+    "name": "BabyMage",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 150,
+    "level": 47,
+    "pvpWins": 117,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 36,
+    "leaderAHonor": 3026,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 19,
+    "leaderBHonor": 1615,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 26,
+    "leaderCHonor": 2449,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;21",
+        "GryphonRider;AirDrop;21",
+        "HolyNova;InnerFire;20",
+        "Execute;Bloodthirsty;20",
+        "Gargoyle;AerialSuperiority;21",
+        "Blizzard;Icecrown;21",
+        "FaerieDragon;FaeBlessing;22"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "Huntress;ElvenMight;25",
+        "DefiasBandits;PickLock;22",
+        "FireElemental;ImmolationAura;24",
+        "Banshee;WillOfTheNecropolis;20",
+        "Harpy;InfectiousSwipes;23",
+        "Drake;EngulfingFlames;21"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;19",
+        "Vultures;FeedingFrenzy;22",
+        "Quilboar;BrambleBurst;21",
+        "FireElemental;ImmolationAura;20",
+        "Shaman;EarthShield;23",
+        "Huntress;Shadowmeld;23",
+        "CheatDeath;Vampirism;19"
+      ],
+      [
+        "GrommashLeader;MirrorImage;24",
+        "DarkspearTroll;SerpentSting;24",
+        "WitchDoctor;SpiritWard;22",
+        "Huntress;Shadowmeld;25",
+        "Banshee;WillOfTheNecropolis;20",
+        "DefiasBandits;PickLock;22",
+        "Harpy;InfectiousSwipes;23"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Pyromancer;Conflagrate;21",
+        "Drake;EngulfingFlames;21",
+        "Harpy;InfectiousSwipes;23",
+        "DefiasBandits;PickLock;22",
+        "Quilboar;BrambleBurst;22",
+        "MeatWagon;FiletTrebuchet;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;23",
+        "CheatDeath;Vampirism;20",
+        "Banshee;WillOfTheNecropolis;20",
+        "Execute;Bloodthirsty;20",
+        "DarkIronMiner;GoldMine;21",
+        "Huntress;Shadowmeld;24",
+        "FireElemental;ImmolationAura;24"
+      ],
+      [
+        "MaievLeader;Shadowstep;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Footmen;ShieldBash;22",
+        "EarthElemental;ObsidianShard;20",
+        "Huntress;Shadowmeld;23",
+        "DarkIronMiner;DarkIronArmaments;21",
+        "Quilboar;BrambleBurst;21"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;22",
+        "Harpy;InfectiousSwipes;21",
+        "Vultures;TendonRip;23",
+        "Banshee;WillOfTheNecropolis;20",
+        "Huntress;Shadowmeld;24",
+        "Execute;Bloodthirsty;20",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Shaman;EarthwallTotem;24",
+        "Banshee;WillOfTheNecropolis;20",
+        "WarsongGrunts;GuardDuty;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "WhelpEggs;Rookery;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Ghoul;BoneArmor;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "DefiasBandits;DeadlyPoison;22",
+        "FireElemental;ImmolationAura;24",
+        "FaerieDragon;FaeBlessing;22"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;22",
+        "DarkspearTroll;Headhunting;24",
+        "Shaman;EarthShield;24",
+        "GoblinSapper;RocketBoots;21",
+        "DarkIronMiner;GoldMine;21",
+        "Huntress;Shadowmeld;25",
+        "FaerieDragon;FaeBlessing;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "Vultures;TendonRip;23",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;Shadowmeld;24",
+        "Banshee;WillOfTheNecropolis;20",
+        "WhelpEggs;FlameBurst;21",
+        "Execute;Bloodthirsty;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "Banshee;WillOfTheNecropolis;20",
+        "DarkIronMiner;GoldMine;21",
+        "Drake;EngulfingFlames;21",
+        "WhelpEggs;FlameBurst;21",
+        "Huntress;Shadowmeld;24",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;22",
+        "DarkIronMiner;GoldMine;21",
+        "FireElemental;ImmolationAura;24",
+        "Huntress;Shadowmeld;25",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;SpiritWard;22",
+        "DefiasBandits;PickLock;22"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;20",
+        "Abomination;Cannonball;21",
+        "Banshee;WillOfTheNecropolis;20",
+        "Execute;Bloodthirsty;20",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;Shadowmeld;24",
+        "FireElemental;ImmolationAura;24"
+      ]
+    ],
+    "lastUpdate": 1719063142
+  },
+  "token": "be7bd73d-2b01-4db8-9458-1876bd14380d"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 107764904,
+    "btag": "KyotoPROTCL",
+    "name": "KyotoPROTCL",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Maiev_Pose",
+    "skulls": 150,
+    "level": 46,
+    "pvpWins": 492,
+    "leaderA": "SylvanasLeader",
+    "leaderAWins": 42,
+    "leaderAHonor": 3958,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 36,
+    "leaderBHonor": 3975,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 34,
+    "leaderCHonor": 4248,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "GryphonRider;MightyThrow;24",
+        "Execute;KillingSpree;22",
+        "Shaman;LightningMastery;24",
+        "Quilboar;BrambleBurst;24",
+        "DeepBreath;DoubleDragon;21"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "DefiasBandits;DeadlyPoison;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "Quilboar;Bristleback;24",
+        "Shaman;EarthShield;24",
+        "WhelpEggs;FlameBurst;24",
+        "Execute;Bloodthirsty;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "MurlocTidehunters;SafetyBubble;21",
+        "PolymorphSpell;GoldenFleece;18",
+        "Quilboar;Bristleback;24",
+        "ArcaneBlast;Amplification;19",
+        "EarthElemental;ObsidianShard;20",
+        "CheatDeath;Vampirism;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "Execute;Bloodthirsty;22",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "WitchDoctor;SpiritWard;24",
+        "DarkIronMiner;GoldMine;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "WhelpEggs;FlameBurst;24",
+        "DeepBreath;DoubleDragon;21",
+        "GryphonRider;MightyThrow;24",
+        "WitchDoctor;SpiritWard;24",
+        "Quilboar;Bristleback;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "Ghoul;BoneArmor;21",
+        "SmokeBombSpell;BandOfThieves;20",
+        "PolymorphSpell;GoldenFleece;18",
+        "HolyNova;AmplifyMagic;20",
+        "ArcaneBlast;Amplification;21",
+        "DefiasBandits;DeadlyPoison;24"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "DefiasBandits;DeadlyPoison;24",
+        "Worgen;Premeditation;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "DarkIronMiner;DarkIronArmaments;22",
+        "Execute;Bloodthirsty;22",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Quilboar;Bristleback;24",
+        "PolymorphSpell;GoldenFleece;18",
+        "DefiasBandits;DeadlyPoison;24",
+        "MurlocTidehunters;SafetyBubble;21",
+        "WitchDoctor;SpiritWard;24",
+        "DarkIronMiner;DarkIronArmaments;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Execute;KillingSpree;22",
+        "Shaman;EarthwallTotem;24",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WitchDoctor;SpiritWard;24",
+        "BatRider;EnchantedVials;21",
+        "DefiasBandits;DeadlyPoison;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Ghoul;BoneArmor;21",
+        "MeatWagon;FiletTrebuchet;24",
+        "Quilboar;BrambleBurst;24",
+        "SmokeBombSpell;BandOfThieves;20",
+        "GryphonRider;MightyThrow;24",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "StonehoofTauren;Momentum;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "MeatWagon;FiletTrebuchet;24",
+        "DefiasBandits;DeadlyPoison;24",
+        "WitchDoctor;SpiritWard;24",
+        "DarkIronMiner;GoldMine;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "PolymorphSpell;GoldenFleece;18",
+        "Chimaera;CorrosiveBreath;20",
+        "Harpy;InfectiousSwipes;24",
+        "HolyNova;InnerFire;20",
+        "DarkIronMiner;GoldMine;22",
+        "Execute;Bloodthirsty;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "DarkIronMiner;GoldMine;22",
+        "SmokeBombSpell;BandOfThieves;20",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;SpiritWard;24",
+        "HolyNova;AmplifyMagic;20",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "WhelpEggs;FlameBurst;24",
+        "DarkIronMiner;GoldMine;22",
+        "Quilboar;BrambleBurst;24",
+        "DefiasBandits;PickLock;24",
+        "MeatWagon;FiletTrebuchet;24",
+        "Banshee;WillOfTheNecropolis;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "DarkIronMiner;GoldMine;22",
+        "MeatWagon;FiletTrebuchet;24",
+        "WitchDoctor;SpiritWard;24",
+        "Quilboar;BrambleBurst;24",
+        "DefiasBandits;DeadlyPoison;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24"
+      ]
+    ],
+    "lastUpdate": 1719063143
+  },
+  "token": "627af8bf-0e6d-4d7f-8996-589315e50afd"
+}

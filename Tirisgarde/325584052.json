@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 325584052,
+    "btag": "Ceyah",
+    "name": "Ceyah",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Jaina_Pose",
+    "skulls": 150,
+    "level": 49,
+    "pvpWins": 457,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 89,
+    "leaderAHonor": 4108,
+    "leaderB": "RendLeader",
+    "leaderBWins": 72,
+    "leaderBHonor": 3297,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 61,
+    "leaderCHonor": 3620,
+    "socials": null,
+    "armies": [
+      [
+        "04320a384d8cbf648b5fd5eb2f061208;6783d455b088edb4c9f86e293698922f;21",
+        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;24",
+        "ddd9c76766fce4940afe7512cf2d8ced;e6daaee1092311e46aa247d90095a9bf;21",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;19",
+        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;21",
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;22",
+        "5709c8989210cdd41943f35f5ffd8b6b;14113462a25ecea479d66e9675d3f895;22"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "GryphonRider;AirDrop;23",
+        "DefiasBandits;PickLock;21",
+        "FireElemental;ImmolationAura;22",
+        "Shaman;EarthShield;24",
+        "WhelpEggs;FlameBurst;23",
+        "Execute;Bloodthirsty;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Raptors;Motivation;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "FireElemental;ImmolationAura;22",
+        "Harpy;InfectiousSwipes;22",
+        "Shaman;EarthShield;24",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "WitchDoctor;SpiritWard;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "ArcaneBlast;Amplification;21",
+        "GryphonRider;AirDrop;21",
+        "Huntress;ElvenMight;23",
+        "DarkIronMiner;DarkIronArmaments;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "DarkIronMiner;DarkIronArmaments;22",
+        "WhelpEggs;FlameBurst;23",
+        "Gargoyle;WingBuffet;23",
+        "FaerieDragon;FaeBlessing;20",
+        "Quilboar;Bristleback;22",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;22",
+        "Gargoyle;WingBuffet;23",
+        "CheatDeath;Vampirism;21",
+        "Execute;Bloodthirsty;22",
+        "HolyNova;InnerFire;21",
+        "ArcaneBlast;Amplification;21",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;21",
+        "Worgen;Premeditation;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "DarkIronMiner;DarkIronArmaments;22",
+        "WhelpEggs;FlameBurst;23",
+        "Quilboar;Bristleback;22",
+        "SkeletonWarrior;Exhume;21"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Quilboar;Bristleback;22",
+        "Prowler;PredatoryInstincts;21",
+        "DefiasBandits;PickLock;21",
+        "DarkIronMiner;DarkIronArmaments;22",
+        "Pyromancer;Conflagrate;22",
+        "GryphonRider;AirDrop;23"
+      ],
+      [
+        "CairneLeader;Reincarnation;24",
+        "StonehoofTauren;Momentum;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WitchDoctor;SpiritWard;21",
+        "Shaman;EarthShield;24",
+        "DefiasBandits;PickLock;21",
+        "GryphonRider;AirDrop;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "Gargoyle;WingBuffet;23",
+        "Necromancer;JeweledSkulls;21",
+        "DarkIronMiner;DarkIronArmaments;22",
+        "DefiasBandits;PickLock;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;23",
+        "StonehoofTauren;Momentum;21",
+        "BatRider;EnchantedVials;21",
+        "WarsongRaider;SunderArmor;21",
+        "Huntress;ElvenMight;24",
+        "Quilboar;Bristleback;22",
+        "WhelpEggs;FlameBurst;23"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;00000000000000000000000000000000;18",
+        "5709c8989210cdd41943f35f5ffd8b6b;14113462a25ecea479d66e9675d3f895;22",
+        "4d60f72627b7c36468f3107e40109845;60e2a46328808bc41a62f09faf20e940;22",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;23",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;21",
+        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;24",
+        "1cdeebe6970781b4089ccd136a4732b8;d1028d2eba65a874e8ce2de9ad576196;20"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;21",
+        "Chimaera;CorrosiveBreath;23",
+        "PolymorphSpell;GoldenFleece;21",
+        "FaerieDragon;FaeBlessing;20",
+        "Banshee;WillOfTheNecropolis;23",
+        "Quilboar;Bristleback;22",
+        "HolyNova;InnerFire;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "WhelpEggs;FlameBurst;23",
+        "DarkIronMiner;DarkIronArmaments;22",
+        "WitchDoctor;SpiritWard;21",
+        "Shaman;EarthShield;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GryphonRider;AirDrop;23"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "DarkIronMiner;DarkIronArmaments;22",
+        "Pyromancer;Conflagrate;22",
+        "FireElemental;ImmolationAura;22",
+        "Shaman;EarthShield;24",
+        "GryphonRider;MightyThrow;23",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;22",
+        "Gargoyle;WingBuffet;23",
+        "SkeletonWarrior;Exhume;21",
+        "Shaman;EarthShield;24",
+        "DefiasBandits;PickLock;21",
+        "Harpy;InfectiousSwipes;22",
+        "DarkIronMiner;DarkIronArmaments;22"
+      ]
+    ],
+    "lastUpdate": 1719063094
+  },
+  "token": "28dc45db-417a-4cf6-9f0e-bd9adabb37c6"
+}

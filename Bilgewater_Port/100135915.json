@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 100135915,
+    "btag": "berra",
+    "name": "berra",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "CombatHUD_Tex_Player_Default",
+    "skulls": 150,
+    "level": 43,
+    "pvpWins": 920,
+    "leaderA": "ThaurissanLeader",
+    "leaderAWins": 61,
+    "leaderAHonor": 4452,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 133,
+    "leaderBHonor": 4370,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 84,
+    "leaderCHonor": 4440,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;22",
+        "Huntress;ElvenMight;22",
+        "HarvestGolem;TrojanChickens;22",
+        "Execute;Bloodthirsty;21",
+        "DeepBreath;DoubleDragon;22",
+        "Prowler;PredatoryInstincts;22",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "TirionLeader;DivineShield;23",
+        "Blizzard;ColdSnap;22",
+        "Huntress;ElvenMight;22",
+        "Prowler;PredatoryInstincts;22",
+        "PolymorphSpell;GoldenFleece;21",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;Bristleback;22",
+        "Prowler;PredatoryInstincts;22",
+        "WitchDoctor;SpiritWard;22",
+        "WhelpEggs;FlameBurst;24",
+        "Chimaera;CorrosiveBreath;24"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "WitchDoctor;SpiritWard;22",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WhelpEggs;FlameBurst;24",
+        "Execute;Bloodthirsty;21",
+        "Quilboar;TunnelVision;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "Pyromancer;Conflagrate;22",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;22",
+        "Chimaera;CorrosiveBreath;24",
+        "Gargoyle;WingBuffet;20",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Necromancer;JeweledSkulls;21",
+        "Abomination;NoxiousPresence;22",
+        "PolymorphSpell;GoldenFleece;19",
+        "FaerieDragon;FaeBlessing;20",
+        "Quilboar;TunnelVision;22",
+        "Blizzard;ColdSnap;22"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Blizzard;ColdSnap;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "WhelpEggs;FlameBurst;24",
+        "Huntress;Shadowmeld;21",
+        "Abomination;NoxiousPresence;21",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;22",
+        "Execute;Bloodthirsty;20",
+        "Banshee;WillOfTheNecropolis;18",
+        "CheatDeath;Vampirism;18",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "Shaman;EarthShield;22",
+        "Execute;Bloodthirsty;21",
+        "WitchDoctor;SpiritWard;22",
+        "Huntress;Shadowmeld;22",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "Necromancer;JeweledSkulls;21",
+        "Ghoul;BoneArmor;20",
+        "Quilboar;TunnelVision;22",
+        "Blizzard;ColdSnap;22",
+        "PolymorphSpell;GoldenFleece;21",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "StonehoofTauren;Momentum;21",
+        "WitchDoctor;SpiritWard;22",
+        "Gargoyle;WingBuffet;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Shaman;EarthShield;22",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Chimaera;CorrosiveBreath;24",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;22",
+        "WhelpEggs;FlameBurst;24",
+        "WitchDoctor;SpiritWard;22",
+        "GnollBrute;ThickHide;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "WhelpEggs;FlameBurst;24",
+        "Pyromancer;Conflagrate;22",
+        "Shaman;EarthShield;22",
+        "Blizzard;ColdSnap;22",
+        "Chimaera;CorrosiveBreath;24",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Pyromancer;Pyroblast;22",
+        "DeepBreath;DoubleDragon;22",
+        "HarvestGolem;TrojanChickens;21",
+        "Execute;Bloodthirsty;21",
+        "Ghoul;BoneArmor;19",
+        "Huntress;ElvenMight;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Abomination;NoxiousPresence;22",
+        "Ghoul;BoneArmor;19",
+        "Shaman;EarthShield;22",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;22",
+        "WitchDoctor;SpiritWard;22"
+      ]
+    ],
+    "lastUpdate": 1719063088
+  },
+  "token": "385e126b-25cc-4b97-a4c6-d48e31536bab"
+}

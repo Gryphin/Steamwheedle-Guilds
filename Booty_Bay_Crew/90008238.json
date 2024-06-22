@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 90008238,
+    "btag": "Dionysos",
+    "name": "Dionysos",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 121,
+    "level": 36,
+    "pvpWins": 384,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 33,
+    "leaderAHonor": 3581,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 39,
+    "leaderBHonor": 3593,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 26,
+    "leaderCHonor": 3633,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;17",
+        "HarvestGolem;TrojanChickens;17",
+        "GryphonRider;MightyThrow;18",
+        "ArcaneBlast;Amplification;16",
+        "Execute;KillingSpree;17",
+        "Blizzard;ColdSnap;19",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "Footmen;Fortification;17",
+        "GryphonRider;MightyThrow;18",
+        "HarvestGolem;TrojanChickens;18",
+        "Blizzard;ColdSnap;20",
+        "EarthElemental;ObsidianShard;17",
+        "DefiasBandits;PickLock;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Chimaera;Leviathan;18",
+        "Quilboar;TunnelVision;18",
+        "HarvestGolem;TrojanChickens;18",
+        "DefiasBandits;PickLock;20",
+        "Blizzard;ColdSnap;20",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "StonehoofTauren;Provoke;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "DefiasBandits;PickLock;20",
+        "Shaman;EarthwallTotem;18",
+        "EarthElemental;ObsidianShard;17",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;17",
+        "Drake;MotherDrake;17",
+        "WhelpEggs;FlameBurst;17",
+        "Harpy;InfectiousSwipes;17",
+        "Chimaera;Leviathan;16",
+        "HarvestGolem;TrojanChickens;17",
+        "DarkspearTroll;BigBadVoodoo;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Gargoyle;WingBuffet;17",
+        "Ghoul;BoneArmor;17",
+        "Execute;KillingSpree;17",
+        "ArcaneBlast;Amplification;17",
+        "DefiasBandits;PickLock;20",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "MaievLeader;Remorseless;17",
+        "HarvestGolem;TrojanChickens;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "EarthElemental;ObsidianShard;17",
+        "Quilboar;TunnelVision;18",
+        "WhelpEggs;FlameBurst;18",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Chimaera;Leviathan;18",
+        "Quilboar;TunnelVision;18",
+        "DefiasBandits;PickLock;20",
+        "GryphonRider;MightyThrow;18",
+        "Blizzard;ColdSnap;20",
+        "Shaman;EarthwallTotem;18"
+      ],
+      [
+        "CairneLeader;Aftershock;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "StonehoofTauren;Provoke;17",
+        "Shaman;EarthwallTotem;18",
+        "DefiasBandits;PickLock;20",
+        "EarthElemental;ObsidianShard;17",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "SkeletonWarrior;Exhume;17",
+        "Necromancer;JeweledSkulls;16",
+        "EarthElemental;ObsidianShard;17",
+        "DefiasBandits;PickLock;20",
+        "Chimaera;Leviathan;18",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "SneedLeader;;14",
+        "WarsongRaider;;15",
+        "Shaman;EarthwallTotem;18",
+        "MeatWagon;;14",
+        "Quilboar;TunnelVision;18",
+        "MurlocTidehunters;SafetyBubble;16",
+        "Gargoyle;;15"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "Vultures;FeedingFrenzy;17",
+        "Quilboar;TunnelVision;18",
+        "Huntress;DarnassianSteel;17",
+        "EarthElemental;ObsidianShard;17",
+        "Shaman;EarthwallTotem;18",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "Drake;MotherDrake;18",
+        "WhelpEggs;FlameBurst;18",
+        "Shaman;EarthwallTotem;18",
+        "GryphonRider;MightyThrow;18",
+        "WitchDoctor;SpiritWard;17",
+        "OgreMage;FrostfireBolt;17"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "CoreHounds;EternalBond;18",
+        "Drake;MotherDrake;18",
+        "EarthElemental;ObsidianShard;17",
+        "DefiasBandits;PickLock;20",
+        "Blizzard;ColdSnap;20",
+        "DarkspearTroll;BigBadVoodoo;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;17",
+        "Gargoyle;WingBuffet;17",
+        "SkeletonWarrior;Exhume;17",
+        "WarsongRaider;Saboteur;16",
+        "DefiasBandits;PickLock;20",
+        "WhelpEggs;FlameBurst;18",
+        "Harpy;InfectiousSwipes;17"
+      ]
+    ],
+    "lastUpdate": 1719063118
+  },
+  "token": "f702d5e9-6f02-411a-90b0-c072b3298632"
+}

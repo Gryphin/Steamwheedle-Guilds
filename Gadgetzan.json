@@ -12,7 +12,7 @@
         "skulls": 134,
         "honor": 9701,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719062128
+        "lastUpdate": 1719063108
       },
       {
         "id": 103487001,
@@ -21,7 +21,7 @@
         "skulls": 150,
         "honor": 11665,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719062128
+        "lastUpdate": 1719063108
       },
       {
         "id": 846890,
@@ -30,7 +30,7 @@
         "skulls": 145,
         "honor": 5343,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062128
+        "lastUpdate": 1719063109
       },
       {
         "id": 101322007,
@@ -39,7 +39,7 @@
         "skulls": 150,
         "honor": 8602,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062128
+        "lastUpdate": 1719063109
       },
       {
         "id": 408351313,
@@ -57,7 +57,7 @@
         "skulls": 120,
         "honor": 5553,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062129
+        "lastUpdate": 1719063109
       },
       {
         "id": 70978481,
@@ -84,7 +84,7 @@
         "skulls": 113,
         "honor": 1774,
         "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719062129
+        "lastUpdate": 1719063110
       },
       {
         "id": 113233935,
@@ -93,7 +93,7 @@
         "skulls": 130,
         "honor": 5586,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062130
+        "lastUpdate": 1719063110
       },
       {
         "id": 130861409,
@@ -102,7 +102,7 @@
         "skulls": 125,
         "honor": 5028,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062130
+        "lastUpdate": 1719063110
       },
       {
         "id": 1348461,
@@ -111,7 +111,7 @@
         "skulls": 132,
         "honor": 8842,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062130
+        "lastUpdate": 1719063110
       },
       {
         "id": 1349122,
@@ -120,7 +120,7 @@
         "skulls": 125,
         "honor": 5395,
         "avatar": "Indicator_Maiev_Pose",
-        "lastUpdate": 1719062130
+        "lastUpdate": 1719063110
       },
       {
         "id": 1003632,
@@ -129,7 +129,7 @@
         "skulls": 150,
         "honor": 12604,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719062130
+        "lastUpdate": 1719063111
       },
       {
         "id": 100418458,
@@ -138,7 +138,7 @@
         "skulls": 126,
         "honor": 7296,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062130
+        "lastUpdate": 1719063111
       },
       {
         "id": 51852518,
@@ -147,16 +147,7 @@
         "skulls": 150,
         "honor": 10531,
         "avatar": "Indicator_Charlga_Pose",
-        "lastUpdate": 1719062131
-      },
-      {
-        "id": 845900,
-        "name": "Burzolog",
-        "btag": "Burzolog",
-        "skulls": 122,
-        "honor": 6514,
-        "avatar": "Indicator_KoboldMurloc_Pose",
-        "lastUpdate": 1719062131
+        "lastUpdate": 1719063111
       },
       {
         "id": 681921,
@@ -165,16 +156,7 @@
         "skulls": 138,
         "honor": 8596,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062131
-      },
-      {
-        "id": 1032602,
-        "name": "Haaaaanky",
-        "btag": "Haaaaanky",
-        "skulls": 134,
-        "honor": 10198,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062129
+        "lastUpdate": 1719063111
       },
       {
         "id": 404789987,
@@ -183,11 +165,29 @@
         "skulls": 137,
         "honor": 10072,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062131
+        "lastUpdate": 1719063112
+      },
+      {
+        "id": 845900,
+        "name": "Burzolog",
+        "btag": "Burzolog",
+        "skulls": 122,
+        "honor": 6514,
+        "avatar": "Indicator_KoboldMurloc_Pose",
+        "lastUpdate": 1719063111
+      },
+      {
+        "id": 1032602,
+        "name": "Haaaaanky",
+        "btag": "Haaaaanky",
+        "skulls": 134,
+        "honor": 10198,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063111
       }
     ],
-    "lastUpdate": 1719062128
+    "lastUpdate": 1719063108
   },
-  "token": "356fddc6-608d-4a8a-b208-030915faf32d",
-  "link": "https://localhost:7080/guild/437378721?token=356fddc6-608d-4a8a-b208-030915faf32d"
+  "token": "cf2940f0-6415-45db-95bc-1f6b62acdee3",
+  "link": "https://localhost:7080/guild/437378721?token=cf2940f0-6415-45db-95bc-1f6b62acdee3"
 }

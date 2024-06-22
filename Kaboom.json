@@ -12,16 +12,7 @@
         "skulls": 139,
         "honor": 8799,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062139
-      },
-      {
-        "id": 105602596,
-        "name": "Kondrup",
-        "btag": "Kondrup",
-        "skulls": 125,
-        "honor": 5962,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062139
+        "lastUpdate": 1719063120
       },
       {
         "id": 464867844,
@@ -30,11 +21,20 @@
         "skulls": 110,
         "honor": 8642,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062139
+        "lastUpdate": 1719063120
+      },
+      {
+        "id": 105602596,
+        "name": "Kondrup",
+        "btag": "Kondrup",
+        "skulls": 125,
+        "honor": 5962,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063120
       }
     ],
-    "lastUpdate": 1719062139
+    "lastUpdate": 1719063119
   },
-  "token": "5f8fed81-c05e-43e2-8315-698f5498672f",
-  "link": "https://localhost:7080/guild/204596792?token=5f8fed81-c05e-43e2-8315-698f5498672f"
+  "token": "51ca5c13-6c2d-420b-afd2-9c74be7de1ec",
+  "link": "https://localhost:7080/guild/204596792?token=51ca5c13-6c2d-420b-afd2-9c74be7de1ec"
 }

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "id": 58385532,
+    "btag": "Divilius",
+    "name": "Divilius",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 61,
+    "level": 22,
+    "pvpWins": 118,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 34,
+    "leaderAHonor": 1218,
+    "leaderB": "MaievLeader",
+    "leaderBWins": 9,
+    "leaderBHonor": 941,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 27,
+    "leaderCHonor": 860,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;10",
+        "Mountaineer;;9",
+        "Huntress;;9",
+        "ArcaneBlast;;11",
+        "Blizzard;;10",
+        "GryphonRider;;9",
+        "Prowler;;10"
+      ],
+      [
+        "TirionLeader;;10",
+        "Huntress;;10",
+        "GryphonRider;;10",
+        "Mountaineer;;10",
+        "Execute;;10",
+        "Quilboar;;10",
+        "FaerieDragon;PhaseShift;16"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;13",
+        "Prowler;;10",
+        "Quilboar;;10",
+        "MoltenGiant;Bolster;13",
+        "Harpy;;10",
+        "WarsongRaider;SunderArmor;13",
+        "Execute;;9"
+      ],
+      [
+        "GrommashLeader;;7",
+        "OgreMage;;8",
+        "DarkspearTroll;;7",
+        "WarsongGrunts;;7",
+        "Harpy;;8",
+        "WarsongRaider;;8",
+        "Banshee;;8"
+      ],
+      [
+        "RendLeader;;11",
+        "Flamewaker;;9",
+        "Drake;;10",
+        "Harpy;;10",
+        "MoltenGiant;Bolster;13",
+        "FaerieDragon;PhaseShift;16",
+        "Execute;;11"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;13",
+        "Necromancer;;11",
+        "Ghoul;;11",
+        "Execute;;11",
+        "MoltenGiant;Bolster;13",
+        "SkeletonWarrior;Exhume;13",
+        "ArcaneBlast;Amplification;13"
+      ],
+      [
+        "MaievLeader;;10",
+        "Huntress;;10",
+        "Mountaineer;;10",
+        "Quilboar;;10",
+        "GryphonRider;;10",
+        "Execute;;10",
+        "FaerieDragon;PhaseShift;16"
+      ],
+      [
+        "HoggerLeader;HamHock;13",
+        "Harpy;;10",
+        "Quilboar;;11",
+        "Vultures;;9",
+        "MoltenGiant;Bolster;13",
+        "Execute;;11",
+        "FaerieDragon;PhaseShift;16"
+      ],
+      [
+        "CairneLeader;;9",
+        "ChainLightning;;9",
+        "DarkspearTroll;;9",
+        "OgreMage;;9",
+        "WarsongRaider;;9",
+        "WarsongGrunts;;8",
+        "Drake;;9"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;13",
+        "Necromancer;;10",
+        "Abomination;;10",
+        "SkeletonParty;5Man;13",
+        "Harpy;;10",
+        "FaerieDragon;PhaseShift;16",
+        "Execute;;10"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;14",
+        "OgreMage;FrostfireBolt;12",
+        "DarkspearTroll;;10",
+        "MoltenGiant;Bolster;13",
+        "Execute;;9",
+        "BatRider;;9",
+        "Harpy;;10"
+      ],
+      [
+        "SylvanasLeader;;12",
+        "Necromancer;;11",
+        "Ghoul;;10",
+        "DarkspearTroll;;11",
+        "Execute;;11",
+        "MoltenGiant;Bolster;13",
+        "FaerieDragon;FaeBlessing;16"
+      ]
+    ],
+    "lastUpdate": 1719063153
+  },
+  "token": "e31bb2c7-e6c6-45d3-8075-f645dc75ea4a"
+}

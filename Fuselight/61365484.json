@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 61365484,
+    "btag": "Beast",
+    "name": "Beast",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 121,
+    "level": 38,
+    "pvpWins": 285,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 48,
+    "leaderAHonor": 3046,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 32,
+    "leaderBHonor": 3434,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 67,
+    "leaderCHonor": 3193,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;15",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;17",
+        "Huntress;ElvenMight;17",
+        "Blizzard;ColdSnap;20",
+        "Harpy;InfectiousSwipes;19",
+        "OgreMage;FrostfireBolt;18",
+        "GoblinSapper;RocketBoots;20"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Blizzard;ColdSnap;20",
+        "GryphonRider;MightyThrow;20",
+        "Gargoyle;WingBuffet;21",
+        "Chimaera;Leviathan;20",
+        "CoreHounds;FieryRebirth;20",
+        "Shaman;LightningMastery;20"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;20",
+        "Harpy;InfectiousSwipes;19",
+        "Prowler;OnTheProwl;18",
+        "FireElemental;ImmolationAura;19",
+        "MurlocTidehunters;CarefulAim;18",
+        "Chimaera;Leviathan;20",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;17",
+        "StonehoofTauren;Provoke;19",
+        "PlagueFarmer;SplashingPumpkins;16",
+        "DefiasBandits;;14",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;17",
+        "Pyromancer;BlazeOfGlory;18",
+        "Prowler;OnTheProwl;18"
+      ],
+      [
+        "RendLeader;FlamingSoul;20",
+        "WhelpEggs;FlameBurst;18",
+        "FireElemental;ImmolationAura;18",
+        "Drake;EngulfingFlames;18",
+        "Blizzard;BrittleIce;20",
+        "Gargoyle;WingBuffet;21",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "BloodmageThalnosLeader;;14",
+        "Abomination;NoxiousPresence;20",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;17",
+        "Prowler;OnTheProwl;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "DefiasBandits;;16"
+      ],
+      [
+        "MaievLeader;;16",
+        "Footmen;ShieldBash;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;17",
+        "Worgen;LoneWolf;17",
+        "Gargoyle;WingBuffet;21",
+        "WhelpEggs;FlameBurst;18",
+        "Quilboar;BrambleBurst;18"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "Quilboar;BrambleBurst;18",
+        "Vultures;;15",
+        "MurlocTidehunters;CarefulAim;18",
+        "Harpy;InfectiousSwipes;19",
+        "GoblinSapper;RocketBoots;20",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;23",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WarsongRaider;RazingFocus;18",
+        "Pyromancer;BlazeOfGlory;20",
+        "Quilboar;BrambleBurst;18",
+        "Blizzard;ColdSnap;20",
+        "Chimaera;Leviathan;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Abomination;NoxiousPresence;20",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "BatRider;FlamingPitch;18",
+        "Gargoyle;WingBuffet;21",
+        "Harpy;InfectiousSwipes;19",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "SneedLeader;;10",
+        "StonehoofTauren;Provoke;12",
+        "DarkspearTroll;;11",
+        "GoblinSapper;;10",
+        "WarsongRaider;;10",
+        "Blizzard;BrittleIce;12",
+        "Shaman;;10"
+      ],
+      [
+        "DrakkisathLeader;;10",
+        "FireElemental;ImmolationAura;17",
+        "CoreHounds;FieryRebirth;19",
+        "Blizzard;BrittleIce;17",
+        "Gargoyle;WingBuffet;18",
+        "Quilboar;BrambleBurst;17",
+        "DarkspearTroll;Headhunting;19"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;20",
+        "Pyromancer;BlazeOfGlory;20",
+        "CoreHounds;FieryRebirth;20",
+        "DefiasBandits;PickLock;19",
+        "FireElemental;ImmolationAura;19",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "DarkspearTroll;BigBadVoodoo;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Abomination;NoxiousPresence;20",
+        "Banshee;WillOfTheNecropolis;18",
+        "Shaman;LightningMastery;20",
+        "GoblinSapper;RocketBoots;20",
+        "Execute;Bloodthirsty;18",
+        "Harpy;InfectiousSwipes;19"
+      ]
+    ],
+    "lastUpdate": 1719063156
+  },
+  "token": "a592369d-5fc8-4019-b346-7b1ee5fedda9"
+}

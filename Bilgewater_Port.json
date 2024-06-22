@@ -12,7 +12,7 @@
         "skulls": 150,
         "honor": 13369,
         "avatar": "CombatHUD_Tex_Player_Default",
-        "lastUpdate": 1719062106
+        "lastUpdate": 1719063085
       },
       {
         "id": 1159395,
@@ -21,7 +21,7 @@
         "skulls": 150,
         "honor": 9836,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062106
+        "lastUpdate": 1719063086
       },
       {
         "id": 332513495,
@@ -30,16 +30,7 @@
         "skulls": 150,
         "honor": 11873,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062106
-      },
-      {
-        "id": 1537140,
-        "name": "SUDiver",
-        "btag": "SUDiver",
-        "skulls": 140,
-        "honor": 14186,
-        "avatar": "Indicator_Maiev_Pose",
-        "lastUpdate": 1719062106
+        "lastUpdate": 1719063086
       },
       {
         "id": 100175980,
@@ -57,7 +48,7 @@
         "skulls": 150,
         "honor": 4560,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062106
+        "lastUpdate": 1719063086
       },
       {
         "id": 70725739,
@@ -84,7 +75,7 @@
         "skulls": 150,
         "honor": 11463,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719062107
+        "lastUpdate": 1719063087
       },
       {
         "id": 56544021,
@@ -93,7 +84,7 @@
         "skulls": 150,
         "honor": 10733,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062107
+        "lastUpdate": 1719063087
       },
       {
         "id": 373103380,
@@ -105,40 +96,22 @@
         "lastUpdate": 1716771517
       },
       {
-        "id": 872478824,
-        "name": "Winner",
-        "btag": "Winner",
-        "skulls": 142,
-        "honor": 10070,
-        "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719062108
-      },
-      {
         "id": 53264538,
         "name": "Dominici",
         "btag": "Dominici",
         "skulls": 150,
         "honor": 11912,
         "avatar": "Indicator_Charlga_Pose",
-        "lastUpdate": 1719062108
-      },
-      {
-        "id": 1417069,
-        "name": "Kiey",
-        "btag": "Kiey",
-        "skulls": 150,
-        "honor": 10063,
-        "avatar": "Indicator_Hogger_Pose",
-        "lastUpdate": 1719062109
+        "lastUpdate": 1719063088
       },
       {
         "id": 100135915,
         "name": "berra",
         "btag": "berra",
         "skulls": 150,
-        "honor": 13208,
+        "honor": 13262,
         "avatar": "CombatHUD_Tex_Player_Default",
-        "lastUpdate": 1719062109
+        "lastUpdate": 1719063088
       },
       {
         "id": 65321583,
@@ -147,16 +120,7 @@
         "skulls": 149,
         "honor": 13195,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062108
-      },
-      {
-        "id": 2047128,
-        "name": "Sumsarg",
-        "btag": "Sumsarg",
-        "skulls": 150,
-        "honor": 5776,
-        "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719062109
+        "lastUpdate": 1719063088
       },
       {
         "id": 1586602,
@@ -165,16 +129,7 @@
         "skulls": 150,
         "honor": 13611,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719062107
-      },
-      {
-        "id": 56016005,
-        "name": "Mishrael",
-        "btag": "Mishrael",
-        "skulls": 150,
-        "honor": 11663,
-        "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719062109
+        "lastUpdate": 1719063089
       },
       {
         "id": 102959266,
@@ -183,11 +138,56 @@
         "skulls": 150,
         "honor": 11235,
         "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719062109
+        "lastUpdate": 1719063089
+      },
+      {
+        "id": 872478824,
+        "name": "Winner",
+        "btag": "Winner",
+        "skulls": 142,
+        "honor": 10070,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719063087
+      },
+      {
+        "id": 1537140,
+        "name": "SUDiver",
+        "btag": "SUDiver",
+        "skulls": 140,
+        "honor": 14186,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1719063086
+      },
+      {
+        "id": 56016005,
+        "name": "Mishrael",
+        "btag": "Mishrael",
+        "skulls": 150,
+        "honor": 11663,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719063089
+      },
+      {
+        "id": 1417069,
+        "name": "Kiey",
+        "btag": "Kiey",
+        "skulls": 150,
+        "honor": 10063,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719063088
+      },
+      {
+        "id": 2047128,
+        "name": "Sumsarg",
+        "btag": "Sumsarg",
+        "skulls": 150,
+        "honor": 5776,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719063088
       }
     ],
-    "lastUpdate": 1719062105
+    "lastUpdate": 1719063085
   },
-  "token": "6a648886-62e7-47ae-ba17-583349517791",
-  "link": "https://localhost:7080/guild/469001351?token=6a648886-62e7-47ae-ba17-583349517791"
+  "token": "075e4833-91f9-4928-b62c-22bbc915b29d",
+  "link": "https://localhost:7080/guild/469001351?token=075e4833-91f9-4928-b62c-22bbc915b29d"
 }

@@ -12,7 +12,7 @@
         "skulls": 135,
         "honor": 10163,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719062117
+        "lastUpdate": 1719063097
       },
       {
         "id": 52236598,
@@ -21,7 +21,7 @@
         "skulls": 115,
         "honor": 550,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062117
+        "lastUpdate": 1719063097
       },
       {
         "id": 100047936,
@@ -30,16 +30,7 @@
         "skulls": 146,
         "honor": 10490,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062117
-      },
-      {
-        "id": 310545883,
-        "name": "HiddenSquid",
-        "btag": "HiddenSquid",
-        "skulls": 150,
-        "honor": 10863,
-        "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062118
+        "lastUpdate": 1719063098
       },
       {
         "id": 125549976,
@@ -48,7 +39,7 @@
         "skulls": 137,
         "honor": 10051,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062118
+        "lastUpdate": 1719063098
       },
       {
         "id": 76411995,
@@ -57,7 +48,7 @@
         "skulls": 136,
         "honor": 7563,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062118
+        "lastUpdate": 1719063098
       },
       {
         "id": 1482957,
@@ -66,7 +57,7 @@
         "skulls": 140,
         "honor": 9235,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062118
+        "lastUpdate": 1719063098
       },
       {
         "id": 50379741,
@@ -75,7 +66,7 @@
         "skulls": 149,
         "honor": 9573,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062118
+        "lastUpdate": 1719063098
       },
       {
         "id": 378189525,
@@ -84,7 +75,7 @@
         "skulls": 150,
         "honor": 9925,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062119
+        "lastUpdate": 1719063099
       },
       {
         "id": 441603862,
@@ -93,7 +84,7 @@
         "skulls": 142,
         "honor": 8797,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062119
+        "lastUpdate": 1719063099
       },
       {
         "id": 346885,
@@ -102,7 +93,7 @@
         "skulls": 144,
         "honor": 5576,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062119
+        "lastUpdate": 1719063099
       },
       {
         "id": 824921384,
@@ -111,7 +102,7 @@
         "skulls": 150,
         "honor": 12370,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719062119
+        "lastUpdate": 1719063099
       },
       {
         "id": 51130385,
@@ -120,7 +111,7 @@
         "skulls": 150,
         "honor": 9584,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062119
+        "lastUpdate": 1719063099
       },
       {
         "id": 725730,
@@ -129,16 +120,7 @@
         "skulls": 140,
         "honor": 8111,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062120
-      },
-      {
-        "id": 125552558,
-        "name": "Kurton",
-        "btag": "Kurton",
-        "skulls": 145,
-        "honor": 9567,
-        "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062120
+        "lastUpdate": 1719063099
       },
       {
         "id": 79026907,
@@ -147,7 +129,7 @@
         "skulls": 149,
         "honor": 9660,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062120
+        "lastUpdate": 1719063100
       },
       {
         "id": 50466304,
@@ -156,7 +138,7 @@
         "skulls": 146,
         "honor": 10197,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719062120
+        "lastUpdate": 1719063100
       },
       {
         "id": 766879910,
@@ -165,16 +147,7 @@
         "skulls": 150,
         "honor": 9721,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719062118
-      },
-      {
-        "id": 1061889,
-        "name": "Emicron",
-        "btag": "Emicron",
-        "skulls": 150,
-        "honor": 10754,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062120
+        "lastUpdate": 1719063100
       },
       {
         "id": 468381475,
@@ -183,11 +156,38 @@
         "skulls": 146,
         "honor": 5862,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062119
+        "lastUpdate": 1719063100
+      },
+      {
+        "id": 310545883,
+        "name": "HiddenSquid",
+        "btag": "HiddenSquid",
+        "skulls": 150,
+        "honor": 10863,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719063098
+      },
+      {
+        "id": 125552558,
+        "name": "Kurton",
+        "btag": "Kurton",
+        "skulls": 145,
+        "honor": 9567,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719063100
+      },
+      {
+        "id": 1061889,
+        "name": "Emicron",
+        "btag": "Emicron",
+        "skulls": 150,
+        "honor": 11050,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063100
       }
     ],
-    "lastUpdate": 1719062117
+    "lastUpdate": 1719063097
   },
-  "token": "0496196e-eaed-4971-8efb-184af7d0282c",
-  "link": "https://localhost:7080/guild/439001941?token=0496196e-eaed-4971-8efb-184af7d0282c"
+  "token": "242eeac3-736b-4560-8197-1d894e8b27a8",
+  "link": "https://localhost:7080/guild/439001941?token=242eeac3-736b-4560-8197-1d894e8b27a8"
 }

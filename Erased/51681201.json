@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 51681201,
+    "btag": "Fizwocket",
+    "name": "Fizwocket",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 150,
+    "level": 48,
+    "pvpWins": 79,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 23,
+    "leaderAHonor": 3336,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 5,
+    "leaderBHonor": 871,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 16,
+    "leaderCHonor": 1300,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;21",
+        "GryphonRider;MightyThrow;22",
+        "HarvestGolem;UnstableCore;21",
+        "Blizzard;ColdSnap;21",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;TunnelVision;23",
+        "Execute;Bloodthirsty;24"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "Huntress;ElvenMight;21",
+        "GryphonRider;MightyThrow;22",
+        "Quilboar;Bristleback;23",
+        "WhelpEggs;FlameBurst;24",
+        "Banshee;WillOfTheNecropolis;21",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;BrambleBurst;23",
+        "Prowler;OnTheProwl;22",
+        "WitchDoctor;SpiritWard;23",
+        "Huntress;ElvenMight;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;23",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;SpiritWard;23",
+        "WhelpEggs;FlameBurst;24",
+        "Banshee;WillOfTheNecropolis;21",
+        "Quilboar;Bristleback;23",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;22",
+        "DarkIronMiner;GoldMine;23",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;24",
+        "GryphonRider;MightyThrow;22",
+        "Quilboar;Bristleback;23",
+        "Banshee;WillOfTheNecropolis;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "CheatDeath;Vampirism;21",
+        "Banshee;WillOfTheNecropolis;21",
+        "Execute;Bloodthirsty;24",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;23",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "MaievLeader;Remorseless;22",
+        "HarvestGolem;UnstableCore;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23",
+        "DarkIronMiner;GoldMine;23",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;BrambleBurst;23",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "PolymorphSpell;GoldenFleece;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;TunnelVision;23",
+        "DarkIronMiner;GoldMine;23",
+        "Banshee;WillOfTheNecropolis;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "StonehoofTauren;Momentum;21",
+        "WitchDoctor;SpiritWard;23",
+        "Banshee;WillOfTheNecropolis;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Drake;MotherDrake;21",
+        "ChainLightning;BrilliantFlash;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "PlagueFarmer;SplashingPumpkins;22",
+        "SkeletonParty;RitualOfRime;21",
+        "Quilboar;Bristleback;23",
+        "Chimaera;CorrosiveBreath;23",
+        "Firehammer;HeightenedRage;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Execute;Bloodthirsty;24",
+        "GoblinSapper;RocketBoots;21",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;BrambleBurst;23",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;23",
+        "Huntress;ElvenMight;21",
+        "WhelpEggs;FlameBurst;24",
+        "Banshee;WillOfTheNecropolis;21",
+        "GryphonRider;MightyThrow;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "DarkIronMiner;GoldMine;23",
+        "Pyromancer;Pyroblast;22",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;SpiritWard;23",
+        "Quilboar;TunnelVision;23",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;22",
+        "Firehammer;HeightenedRage;21",
+        "Drake;MotherDrake;21",
+        "HarvestGolem;UnstableCore;21",
+        "Mountaineer;MendPets;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Banshee;WillOfTheNecropolis;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "Ghoul;BoneArmor;21",
+        "PlagueFarmer;SplashingPumpkins;22",
+        "BatRider;EnchantedVials;21",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;23"
+      ]
+    ],
+    "lastUpdate": 1719063116
+  },
+  "token": "557034ea-1173-44bc-9a12-85e47ab88aac"
+}

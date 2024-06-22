@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 303401587,
+    "btag": "Blitzschwert",
+    "name": "Blitzschwert",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "CombatHUD_Tex_Player_Default",
+    "skulls": 109,
+    "level": 44,
+    "pvpWins": 1533,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 275,
+    "leaderAHonor": 3923,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 196,
+    "leaderBHonor": 4107,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 157,
+    "leaderCHonor": 4025,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "GryphonRider;MightyThrow;24",
+        "HarvestGolem;UnstableCore;20",
+        "Execute;Overpower;22",
+        "Harpy;InfectiousSwipes;21",
+        "Blizzard;ColdSnap;24",
+        "Prowler;PredatoryInstincts;24"
+      ],
+      [
+        "TirionLeader;;16",
+        "DefiasBandits;PickLock;21",
+        "HolyNova;AmplifyMagic;20",
+        "HarvestGolem;UnstableCore;20",
+        "Banshee;WillOfTheNecropolis;17",
+        "Harpy;InfectiousSwipes;21",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;22",
+        "Prowler;PredatoryInstincts;24",
+        "DarkIronMiner;GoldMine;21",
+        "WitchDoctor;SpiritWard;21",
+        "Execute;Overpower;22"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "WitchDoctor;SpiritWard;22",
+        "Execute;Overpower;22",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;23",
+        "GryphonRider;MightyThrow;24",
+        "Prowler;PredatoryInstincts;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Pyroblast;22",
+        "Harpy;InfectiousSwipes;21",
+        "Gargoyle;WingBuffet;20",
+        "Blizzard;ColdSnap;24",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;16",
+        "Ghoul;TasteForBlood;24",
+        "DarkIronMiner;GoldMine;21",
+        "ChainLightning;BrilliantFlash;20",
+        "Quilboar;TunnelVision;22",
+        "Execute;Overpower;22",
+        "ArcaneBlast;ArcanePower;19"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "HarvestGolem;UnstableCore;20",
+        "Blizzard;ColdSnap;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "PolymorphSpell;GoldenFleece;18",
+        "WhelpEggs;FlameBurst;21",
+        "Prowler;PredatoryInstincts;24"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;PredatoryInstincts;22",
+        "GoblinSapper;RocketBoots;19",
+        "Pyromancer;Pyroblast;21",
+        "Quilboar;TunnelVision;22",
+        "ChainLightning;BrilliantFlash;19"
+      ],
+      [
+        "CairneLeader;;17",
+        "Execute;Overpower;22",
+        "DarkspearTroll;Headhunting;21",
+        "Banshee;WillOfTheNecropolis;17",
+        "Blizzard;ColdSnap;22",
+        "Harpy;InfectiousSwipes;21",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Ghoul;BoneArmor;24",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Prowler;PredatoryInstincts;24",
+        "GryphonRider;MightyThrow;24",
+        "WitchDoctor;SpiritWard;22",
+        "Execute;Overpower;22"
+      ],
+      [
+        "SneedLeader;LandGrab;17",
+        "WitchDoctor;SpiritWard;22",
+        "Execute;Overpower;22",
+        "Gargoyle;WingBuffet;20",
+        "GryphonRider;MightyThrow;24",
+        "Pyromancer;Pyroblast;22",
+        "Prowler;PredatoryInstincts;24"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;00000000000000000000000000000000;17",
+        "5709c8989210cdd41943f35f5ffd8b6b;121b7fc1ce92c0347835bdcb86884bec;21",
+        "4d60f72627b7c36468f3107e40109845;fcc5c64ae7d56af4886c6cba42a594c6;22",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;20",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;21",
+        "f6379dec39f4447b483eb7b6a672597e;906bf0f651033fe4e89f7c4d0a80c7fe;24",
+        "724ebbab65fd2477db54c91707f4a6d8;8f9bd07f0178c1d46a071bcef041138b;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Quilboar;TunnelVision;22",
+        "Prowler;PredatoryInstincts;24",
+        "GoblinSapper;RocketBoots;20",
+        "GryphonRider;MightyThrow;24",
+        "Execute;Overpower;22",
+        "Ghoul;BoneArmor;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Pyroblast;22",
+        "Shaman;EarthShield;21",
+        "Prowler;PredatoryInstincts;24",
+        "WitchDoctor;SpiritWard;22",
+        "HolyNova;AmplifyMagic;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Pyroblast;22",
+        "DarkIronMiner;DwarvenAmbition;22",
+        "Prowler;PredatoryInstincts;24",
+        "Execute;Overpower;22",
+        "Huntress;Shadowmeld;20",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;TasteForBlood;24",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Execute;Overpower;22",
+        "GryphonRider;MightyThrow;24",
+        "WitchDoctor;SpiritWard;22",
+        "DarkIronMiner;GoldMine;21"
+      ]
+    ],
+    "lastUpdate": 1719063107
+  },
+  "token": "b6407b57-9a3a-4f95-9ded-545c0bb27be6"
+}

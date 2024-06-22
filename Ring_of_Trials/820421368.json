@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 820421368,
+    "btag": "BlackPanther",
+    "name": "BlackPanther",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Rend_Pose",
+    "skulls": 140,
+    "level": 43,
+    "pvpWins": 291,
+    "leaderA": "SylvanasLeader",
+    "leaderAWins": 14,
+    "leaderAHonor": 2233,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 22,
+    "leaderBHonor": 3046,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 22,
+    "leaderCHonor": 1827,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "GryphonRider;MightyThrow;21",
+        "Huntress;ElvenMight;21",
+        "Execute;Bloodthirsty;21",
+        "Necromancer;JeweledSkulls;24",
+        "Quilboar;Bristleback;24",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "Blizzard;ColdSnap;23",
+        "Huntress;ElvenMight;21",
+        "Quilboar;TunnelVision;24",
+        "Necromancer;JeweledSkulls;24",
+        "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;Rookery;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;24",
+        "WarsongRaider;Saboteur;21",
+        "Necromancer;JeweledSkulls;24",
+        "WhelpEggs;Rookery;24",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Execute;Bloodthirsty;21",
+        "Harpy;InfectiousSwipes;24",
+        "WarsongRaider;Saboteur;21",
+        "BatRider;FierySurplus;20",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "WhelpEggs;FlameBurst;24",
+        "Drake;MotherDrake;23",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;24",
+        "MeatWagon;FiletTrebuchet;24",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;20",
+        "Quilboar;Bristleback;24",
+        "Necromancer;JeweledSkulls;24",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;24",
+        "ChainLightning;BrilliantFlash;20",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "MaievLeader;Remorseless;16",
+        "EarthElemental;ObsidianShard;17",
+        "Worgen;Premeditation;17",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "WhelpEggs;Rookery;23",
+        "DarkIronMiner;DwarvenAmbition;17",
+        "Quilboar;Bristleback;23"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Prowler;OnTheProwl;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;TunnelVision;24",
+        "Blizzard;ColdSnap;23",
+        "WhelpEggs;FlameBurst;24",
+        "Necromancer;JeweledSkulls;24"
+      ],
+      [
+        "CairneLeader;Aftershock;18",
+        "WarsongRaider;Saboteur;20",
+        "BatRider;FierySurplus;19",
+        "DarkspearTroll;Headhunting;21",
+        "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "DefiasBandits;PickLock;21",
+        "MeatWagon;FiletTrebuchet;22",
+        "Quilboar;Bristleback;24",
+        "WhelpEggs;FlameBurst;24",
+        "Blizzard;ColdSnap;23",
+        "Drake;MotherDrake;23"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WarsongRaider;Saboteur;20",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;Bristleback;24",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;20",
+        "Quilboar;BrambleBurst;24",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;DarnassianSteel;21",
+        "Necromancer;JeweledSkulls;24",
+        "WhelpEggs;FlameBurst;24",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "DrakkisathLeader;LastingLegacy;17",
+        "WhelpEggs;Rookery;23",
+        "Pyromancer;Pyroblast;20",
+        "Execute;Bloodthirsty;21",
+        "Harpy;InfectiousSwipes;23",
+        "Quilboar;TunnelVision;23",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "WhelpEggs;Rookery;24",
+        "Flamewaker;Backdraft;21",
+        "Harpy;InfectiousSwipes;24",
+        "EarthElemental;ObsidianShard;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "LivingBomb;BurdenOfFate;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Necromancer;JeweledSkulls;24",
+        "MeatWagon;FiletTrebuchet;22",
+        "Execute;Bloodthirsty;21",
+        "Harpy;InfectiousSwipes;24",
+        "Chimaera;CorrosiveBreath;20",
+        "Quilboar;Bristleback;24"
+      ]
+    ],
+    "lastUpdate": 1716751625
+  },
+  "token": "1959bb91-dbaa-4b5a-93b1-8e2fa5cc7b2e"
+}

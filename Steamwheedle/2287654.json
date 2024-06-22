@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 2287654,
+    "btag": "Vessel",
+    "name": "Vessel",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Cairne_Pose",
+    "skulls": 115,
+    "level": 40,
+    "pvpWins": 26,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 2,
+    "leaderAHonor": 300,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 22,
+    "leaderBHonor": 2828,
+    "leaderC": "CharlgaLeader",
+    "leaderCWins": 2,
+    "leaderCHonor": 400,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;17",
+        "DefiasBandits;DeadlyPoison;18",
+        "Huntress;ElvenMight;19",
+        "Execute;Bloodthirsty;18",
+        "GoblinSapper;RocketBoots;17",
+        "Shaman;EarthwallTotem;18",
+        "GnollBrute;Rabid;20"
+      ],
+      [
+        "TirionLeader;ByTheLight;20",
+        "Footmen;ShieldBash;18",
+        "DefiasBandits;DeadlyPoison;20",
+        "GnollBrute;Rabid;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Execute;Bloodthirsty;18",
+        "WitchDoctor;SpiritWard;20"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;15",
+        "Prowler;PredatoryInstincts;16",
+        "Harpy;TalonDive;16",
+        "GnollBrute;Rabid;18",
+        "Drake;MotherDrake;16",
+        "Execute;Bloodthirsty;17",
+        "Spiderlings;Envenom;15"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "Shaman;EarthwallTotem;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Harpy;TalonDive;18",
+        "WitchDoctor;SpiritWard;20",
+        "GnollBrute;Rabid;20",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "RendLeader;Legionnaire;18",
+        "Drake;MotherDrake;18",
+        "WhelpEggs;ChromaticPlating;17",
+        "Harpy;TalonDive;18",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "WitchDoctor;SpiritWard;20",
+        "GnollBrute;Rabid;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;19",
+        "SkeletonWarrior;Exhume;18",
+        "SkeletonParty;5Man;20",
+        "CheatDeath;Vampirism;18",
+        "GnollBrute;Rabid;20",
+        "WitchDoctor;SpiritWard;21",
+        "ArcaneBlast;Amplification;18"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Worgen;Premeditation;19",
+        "Huntress;Shadowmeld;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "DefiasBandits;PickLock;20",
+        "SmokeBombSpell;ThroughTheShadows;17",
+        "DarkIronMiner;DwarvenAmbition;18"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;17",
+        "Prowler;PredatoryInstincts;17",
+        "GnollBrute;Rabid;20",
+        "WitchDoctor;SpiritWard;20",
+        "Execute;Bloodthirsty;18",
+        "Mountaineer;Growl;20",
+        "DarkspearTroll;BigBadVoodoo;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Shaman;LightningMastery;20",
+        "StonehoofTauren;Pummel;19",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Execute;Bloodthirsty;19",
+        "GnollBrute;Rabid;20",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "SkeletonParty;5Man;20",
+        "Necromancer;CultOfTheDamned;18",
+        "SkeletonWarrior;Exhume;18",
+        "Pyromancer;Conflagrate;20",
+        "CheatDeath;Vampirism;18",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "DarkspearTroll;SerpentSting;20",
+        "Execute;Bloodthirsty;18",
+        "WarsongRaider;SunderArmor;18",
+        "GnollBrute;Rabid;20",
+        "Harpy;TalonDive;17",
+        "Shaman;EarthwallTotem;19"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "GnollBrute;Rabid;20",
+        "Harpy;TalonDive;18",
+        "GoblinSapper;RocketBoots;20",
+        "PolymorphSpell;ExplodingSheep;17",
+        "Pyromancer;Conflagrate;20",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;17",
+        "DarkIronMiner;DwarvenAmbition;17",
+        "EarthElemental;ObsidianShard;18",
+        "WitchDoctor;SpiritWard;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Execute;Bloodthirsty;18",
+        "GnollBrute;Rabid;20"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;20",
+        "Drake;MotherDrake;20",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "GnollBrute;Rabid;20",
+        "WitchDoctor;SpiritWard;21",
+        "Execute;Bloodthirsty;19",
+        "Pyromancer;Conflagrate;20"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;15",
+        "SkeletonWarrior;Exhume;15",
+        "SkeletonParty;RitualOfRime;16",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "ChainLightning;Reverberation;15",
+        "GnollBrute;Rabid;19",
+        "Gargoyle;;14"
+      ]
+    ],
+    "lastUpdate": 1719063127
+  },
+  "token": "3062513b-3a11-4aae-9070-8ab97d24a894"
+}

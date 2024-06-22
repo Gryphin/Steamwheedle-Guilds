@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 71418133,
+    "btag": "Blayed",
+    "name": "Blayed",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 976,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 43,
+    "leaderAHonor": 3645,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 196,
+    "leaderBHonor": 3838,
+    "leaderC": "RendLeader",
+    "leaderCWins": 152,
+    "leaderCHonor": 3616,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;24",
+        "Blizzard;ColdSnap;25",
+        "DefiasBandits;DeadlyPoison;21",
+        "Execute;Bloodthirsty;24",
+        "Quilboar;BrambleBurst;26",
+        "Harpy;InfectiousSwipes;26",
+        "Prowler;OnTheProwl;25"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "Blizzard;ColdSnap;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Abomination;NoxiousPresence;21",
+        "Harpy;InfectiousSwipes;26",
+        "Quilboar;BrambleBurst;26",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;24",
+        "Quilboar;BrambleBurst;26",
+        "Harpy;InfectiousSwipes;26",
+        "Prowler;PackLeader;25",
+        "MurlocTidehunters;SafetyBubble;22",
+        "DeepBreath;Attunement;21",
+        "Raptors;StrengthInNumbers;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;22",
+        "StonehoofTauren;Momentum;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Harpy;InfectiousSwipes;26",
+        "Blizzard;ColdSnap;25",
+        "Prowler;OnTheProwl;25",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;26",
+        "DarkIronMiner;DwarvenAmbition;24",
+        "CheatDeath;Apocalypse;21",
+        "Gargoyle;WingBuffet;24",
+        "Harpy;InfectiousSwipes;26",
+        "Execute;Bloodthirsty;24",
+        "Quilboar;BrambleBurst;26"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;24",
+        "Ghoul;BoneArmor;21",
+        "Banshee;WillOfTheNecropolis;22",
+        "Execute;Bloodthirsty;24",
+        "Prowler;OnTheProwl;25",
+        "HolyNova;InnerFire;21",
+        "Blizzard;ColdSnap;25"
+      ],
+      [
+        "MaievLeader;Remorseless;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Worgen;Premeditation;21",
+        "SkeletonWarrior;Exhume;21",
+        "DeepBreath;Attunement;21",
+        "Quilboar;BrambleBurst;26",
+        "DarkIronMiner;DwarvenAmbition;24"
+      ],
+      [
+        "HoggerLeader;HamHock;24",
+        "Prowler;OnTheProwl;25",
+        "MurlocTidehunters;SafetyBubble;22",
+        "WitchDoctor;SpiritWard;24",
+        "Quilboar;BrambleBurst;26",
+        "Blizzard;ColdSnap;25",
+        "Harpy;InfectiousSwipes;26"
+      ],
+      [
+        "CairneLeader;Reincarnation;25",
+        "WitchDoctor;SpiritWard;24",
+        "Shaman;EarthShield;24",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Prowler;OnTheProwl;25",
+        "Harpy;InfectiousSwipes;26",
+        "Quilboar;BrambleBurst;26"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;25",
+        "Ghoul;BoneArmor;21",
+        "Gargoyle;WingBuffet;24",
+        "EarthElemental;ObsidianShard;23",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Blizzard;ColdSnap;25",
+        "Harpy;InfectiousSwipes;26"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "OgreMage;Ignite;21",
+        "WitchDoctor;SpiritWard;24",
+        "WarsongRaider;Saboteur;21",
+        "Prowler;OnTheProwl;25",
+        "Harpy;InfectiousSwipes;26",
+        "Pyromancer;Conflagrate;23"
+      ],
+      [
+        "cd2137bffb5084548a4b1a81f47c725f;4d61d5f1d696c1245830bee1312254b4;23",
+        "f6379dec39f4447b483eb7b6a672597e;a7562a08ec021cb4eb8367c83a3b885a;25",
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;26",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;9a83af5b4c2bdbb4dbe7cdf82834cfbf;26",
+        "5b893c52c1e623541bececb01409caf3;00000000000000000000000000000000;16",
+        "5709c8989210cdd41943f35f5ffd8b6b;121b7fc1ce92c0347835bdcb86884bec;24",
+        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;25",
+        "Flamewaker;Backdraft;21",
+        "WhelpEggs;FlameBurst;24",
+        "Shaman;EarthShield;24",
+        "Blizzard;ColdSnap;25",
+        "Execute;Bloodthirsty;24",
+        "Harpy;InfectiousSwipes;26"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;24",
+        "Firehammer;BlazingSpeed;20",
+        "EarthElemental;ObsidianShard;23",
+        "Quilboar;BrambleBurst;26",
+        "Prowler;OnTheProwl;25",
+        "Harpy;InfectiousSwipes;26",
+        "DeepBreath;Attunement;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "Ghoul;BoneArmor;21",
+        "Banshee;WillOfTheNecropolis;22",
+        "WitchDoctor;SpiritWard;24",
+        "Quilboar;BrambleBurst;26",
+        "Harpy;InfectiousSwipes;26",
+        "Blizzard;ColdSnap;25"
+      ]
+    ],
+    "lastUpdate": 1717960583
+  },
+  "token": "dc2a18cf-63cb-459d-a578-786ae8c38098"
+}

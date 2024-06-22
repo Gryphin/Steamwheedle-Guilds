@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 92529720,
+    "btag": "Crazyscorp",
+    "name": "Crazyscorp",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 140,
+    "level": 48,
+    "pvpWins": 252,
+    "leaderA": "SylvanasLeader",
+    "leaderAWins": 16,
+    "leaderAHonor": 2519,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 67,
+    "leaderBHonor": 2399,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 35,
+    "leaderCHonor": 1797,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;21",
+        "GryphonRider;MightyThrow;24",
+        "Huntress;Shadowmeld;21",
+        "Blizzard;ColdSnap;23",
+        "Pyromancer;Conflagrate;23",
+        "Drake;MotherDrake;23",
+        "MoltenGiant;ThreateningPresence;23"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "GryphonRider;MightyThrow;24",
+        "Blizzard;ColdSnap;23",
+        "Abomination;FreshMeat;23",
+        "Drake;MotherDrake;23",
+        "Pyromancer;Conflagrate;24",
+        "DefiasBandits;PickLock;23"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;TalonDive;21",
+        "Chimaera;CorrosiveBreath;23",
+        "MoltenGiant;ThreateningPresence;23",
+        "Blizzard;ColdSnap;23",
+        "GryphonRider;MightyThrow;24",
+        "Pyromancer;Conflagrate;24"
+      ],
+      [
+        "GrommashLeader;Bladestorm;20",
+        "DarkspearTroll;BigBadVoodoo;23",
+        "StonehoofTauren;Pummel;23",
+        "Harpy;TalonDive;21",
+        "Worgen;Premeditation;21",
+        "Pyromancer;Pyroblast;23",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "RendLeader;FlamingSoul;21",
+        "Pyromancer;Pyroblast;24",
+        "Drake;MotherDrake;23",
+        "Harpy;TalonDive;21",
+        "MeatWagon;FiletTrebuchet;23",
+        "DefiasBandits;PickLock;23",
+        "Quilboar;TunnelVision;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "SkeletonParty;RitualOfRime;21",
+        "MeatWagon;FiletTrebuchet;23",
+        "Blizzard;ColdSnap;23",
+        "Pyromancer;Conflagrate;23",
+        "MoltenGiant;ThreateningPresence;23",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "Worgen;Premeditation;21",
+        "GryphonRider;MightyThrow;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Blizzard;ColdSnap;23",
+        "DarkIronMiner;DarkIronArmaments;20",
+        "DarkspearTroll;BigBadVoodoo;23"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "GnollBrute;Pillage;20",
+        "Harpy;TalonDive;21",
+        "GryphonRider;MightyThrow;24",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Blizzard;ColdSnap;23"
+      ],
+      [
+        "CairneLeader;Aftershock;21",
+        "StonehoofTauren;Pummel;23",
+        "DarkspearTroll;BigBadVoodoo;23",
+        "Pyromancer;Pyroblast;23",
+        "Blizzard;ColdSnap;23",
+        "GryphonRider;MightyThrow;24",
+        "MoltenGiant;ThreateningPresence;23"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;21",
+        "Abomination;FreshMeat;23",
+        "SkeletonParty;RitualOfRime;21",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;TalonDive;21",
+        "Execute;Bloodthirsty;18",
+        "Pyromancer;Conflagrate;23"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;23",
+        "DarkspearTroll;BigBadVoodoo;23",
+        "StonehoofTauren;Pummel;23",
+        "MoltenGiant;ThreateningPresence;23",
+        "Pyromancer;Pyroblast;24",
+        "Blizzard;ColdSnap;23",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;20",
+        "Harpy;TalonDive;21",
+        "Chimaera;CorrosiveBreath;23",
+        "Huntress;Shadowmeld;21",
+        "Pyromancer;Conflagrate;23",
+        "MoltenGiant;ThreateningPresence;23",
+        "DarkspearTroll;BigBadVoodoo;23"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;23",
+        "MoltenGiant;ThreateningPresence;23",
+        "Flamewaker;HeatStroke;21",
+        "Pyromancer;Conflagrate;23",
+        "DarkspearTroll;BigBadVoodoo;23",
+        "Blizzard;ColdSnap;23",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;23",
+        "MoltenGiant;ThreateningPresence;23",
+        "Drake;MotherDrake;23",
+        "StonehoofTauren;Pummel;23",
+        "GryphonRider;MightyThrow;24",
+        "Blizzard;ColdSnap;23",
+        "Pyromancer;Conflagrate;23"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "Abomination;FreshMeat;23",
+        "MeatWagon;FiletTrebuchet;23",
+        "DarkspearTroll;BigBadVoodoo;23",
+        "Blizzard;ColdSnap;23",
+        "Chimaera;CorrosiveBreath;23",
+        "GryphonRider;MightyThrow;24"
+      ]
+    ],
+    "lastUpdate": 1719063151
+  },
+  "token": "633461b2-8556-4144-97ca-a8796f52dd1a"
+}

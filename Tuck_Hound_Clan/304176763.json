@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 304176763,
+    "btag": "ZakAttack",
+    "name": "ZakAttack",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sneed_Pose",
+    "skulls": 113,
+    "level": 38,
+    "pvpWins": 49,
+    "leaderA": "SylvanasLeader",
+    "leaderAWins": 6,
+    "leaderAHonor": 1200,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 22,
+    "leaderBHonor": 2284,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 6,
+    "leaderCHonor": 1200,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;17",
+        "GryphonRider;MightyThrow;17",
+        "Blizzard;ColdSnap;17",
+        "ChainLightning;StormsReach;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "WhelpEggs;ChromaticPlating;17",
+        "DefiasBandits;DeadlyPoison;17"
+      ],
+      [
+        "TirionLeader;Consecrate;18",
+        "Footmen;Fortification;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Worgen;LoneWolf;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;18",
+        "MurlocTidehunters;CarefulAim;18",
+        "Raptors;StrengthInNumbers;18",
+        "GnollBrute;Rabid;18",
+        "Harpy;InfectiousSwipes;18",
+        "Vultures;TendonRip;18",
+        "GoblinSapper;ExtraBoom;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "WitchDoctor;Alchemist;17",
+        "Harpy;InfectiousSwipes;18",
+        "StonehoofTauren;Momentum;18",
+        "Execute;KillingSpree;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "RendLeader;FlamingSoul;18",
+        "Pyromancer;Pyroblast;18",
+        "WhelpEggs;ChromaticPlating;17",
+        "Harpy;InfectiousSwipes;18",
+        "DarkIronMiner;GoldMine;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Prowler;OnTheProwl;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Necromancer;JeweledSkulls;18",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "ChainLightning;StormsReach;18",
+        "Prowler;OnTheProwl;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "MaievLeader;;17",
+        "Huntress;DarnassianSteel;17",
+        "DefiasBandits;DeadlyPoison;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "GryphonRider;MightyThrow;17",
+        "Quilboar;;17",
+        "DarkspearTroll;BigBadVoodoo;18"
+      ],
+      [
+        "HoggerLeader;;16",
+        "GnollBrute;Rabid;17",
+        "Prowler;OnTheProwl;17",
+        "ChainLightning;StormsReach;17",
+        "GoblinSapper;;15",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "BatRider;FierySurplus;18",
+        "WarsongRaider;Saboteur;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "DefiasBandits;DeadlyPoison;18",
+        "ChainLightning;StormsReach;18",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Ghoul;BoneArmor;18",
+        "ChainLightning;StormsReach;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "MoltenGiant;BloodOfTheMountain;17",
+        "DefiasBandits;DeadlyPoison;18",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;19",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "ChainLightning;StormsReach;18",
+        "WarsongRaider;Saboteur;18",
+        "StonehoofTauren;Momentum;18",
+        "Harpy;InfectiousSwipes;18",
+        "DefiasBandits;DeadlyPoison;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Chimaera;Leviathan;18",
+        "Prowler;OnTheProwl;18",
+        "Harpy;InfectiousSwipes;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "ChainLightning;StormsReach;17"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;18",
+        "Pyromancer;Pyroblast;18",
+        "EarthElemental;ObsidianShard;17",
+        "Flamewaker;Engulf;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "ChainLightning;StormsReach;18",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "Pyromancer;Pyroblast;18",
+        "DarkIronMiner;GoldMine;17",
+        "DefiasBandits;DeadlyPoison;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "ChainLightning;StormsReach;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "Ghoul;BoneArmor;18",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Gargoyle;WingBuffet;18",
+        "Harpy;InfectiousSwipes;18",
+        "ChainLightning;StormsReach;18"
+      ]
+    ],
+    "lastUpdate": 1719063141
+  },
+  "token": "142e6cb5-f6d9-43d9-a615-b3a9a1851857"
+}

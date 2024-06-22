@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 464867844,
+    "btag": "jivve",
+    "name": "jivve",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 110,
+    "level": 36,
+    "pvpWins": 195,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 43,
+    "leaderAHonor": 3052,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 23,
+    "leaderBHonor": 3022,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 34,
+    "leaderCHonor": 2568,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "DefiasBandits;PickLock;17",
+        "Blizzard;BrittleIce;17",
+        "Prowler;OnTheProwl;17",
+        "Gargoyle;AerialSuperiority;17",
+        "LivingBomb;BlastRadius;20"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Worgen;Premeditation;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "HarvestGolem;TrojanChickens;17",
+        "LivingBomb;ChainReaction;21",
+        "Harpy;TrinketCollectors;18",
+        "Pyromancer;Conflagrate;18"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;18",
+        "GnollBrute;ThickHide;18",
+        "Raptors;StrengthInNumbers;17",
+        "CoreHounds;GuardDog;20",
+        "Chimaera;Leviathan;17",
+        "Worgen;Premeditation;17",
+        "LivingBomb;ChainReaction;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "StonehoofTauren;Pummel;17",
+        "GoblinSapper;ExtraBoom;17",
+        "Harpy;TrinketCollectors;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Huntress;DarnassianSteel;18",
+        "ChainLightning;BrilliantFlash;17"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;17",
+        "Pyromancer;Conflagrate;18",
+        "Flamewaker;HeatStroke;17",
+        "Gargoyle;AerialSuperiority;17",
+        "FireElemental;MoltenCore;16",
+        "Worgen;Premeditation;17",
+        "LivingBomb;BlastRadius;20"
+      ],
+      [
+        "61df20ddc31aff04dbc5393d831fbba5;aa625aeb4c49fce4184ab17aeca6f6e8;20",
+        "8f4961fc47d4e1242abfe7a6d69331a0;08cf028b5650dc549a245b704605a023;17",
+        "aefd32eb6d8243047a104a9cf4f3204b;e5c8c26df7ee33642b7c551b553da3a3;19",
+        "7e7f019717956fb4dbd6d0c7ce396576;fbef37c48d8430b4bb1d731cc2a8df3f;21",
+        "dd2745483ee0845cb88f7827619c7cca;b8636f41b17d8ca40adb9f5ff31009d9;20",
+        "cc7d7f447b9be44458bb91230a736ced;c1e3c39d9207796459a8531f98cb46d9;20",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;16"
+      ],
+      [
+        "MaievLeader;;15",
+        "Footmen;LastStand;17",
+        "Blizzard;BrittleIce;17",
+        "SkeletonParty;CorpseRun;17",
+        "Worgen;Premeditation;17",
+        "Quilboar;;15",
+        "EarthElemental;;15"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;17",
+        "Harpy;TrinketCollectors;17",
+        "Prowler;OnTheProwl;17",
+        "DefiasBandits;PickLock;17",
+        "Pyromancer;Conflagrate;18",
+        "Blizzard;BrittleIce;17",
+        "WarsongRaider;SunderArmor;17"
+      ],
+      [
+        "CairneLeader;Plainsrunning;18",
+        "WarsongRaider;SunderArmor;18",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "WitchDoctor;Alchemist;20",
+        "Harpy;TrinketCollectors;18",
+        "Ghoul;Ravenous;19",
+        "Blizzard;BrittleIce;17"
+      ],
+      [
+        "BaronRivendareLeader;;16",
+        "Banshee;WillOfTheNecropolis;17",
+        "Ghoul;Ravenous;19",
+        "SkeletonParty;CorpseRun;17",
+        "MurlocTidehunters;SafetyBubble;19",
+        "MeatWagon;GreasedGears;17",
+        "Pyromancer;Conflagrate;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;17",
+        "WarsongGrunts;GuardDuty;17",
+        "OgreMage;FrostfireBolt;19",
+        "GoblinSapper;ExtraBoom;17",
+        "Worgen;Premeditation;17",
+        "Blizzard;BrittleIce;17",
+        "Prowler;OnTheProwl;17"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;17",
+        "MurlocTidehunters;SafetyBubble;19",
+        "Quilboar;;15",
+        "Huntress;DarnassianSteel;18",
+        "MoltenGiant;;15",
+        "WitchDoctor;Alchemist;20",
+        "Blizzard;BrittleIce;17"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;18",
+        "CoreHounds;GuardDog;20",
+        "Pyromancer;Conflagrate;18",
+        "Blizzard;BrittleIce;17",
+        "ChainLightning;BrilliantFlash;17",
+        "WitchDoctor;Alchemist;20",
+        "SkeletonParty;CorpseRun;17"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;17",
+        "Flamewaker;HeatStroke;17",
+        "Pyromancer;Conflagrate;18",
+        "GnollBrute;ThickHide;17",
+        "HarvestGolem;TrojanChickens;17",
+        "GryphonRider;MightyThrow;17",
+        "Blizzard;BrittleIce;17"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;17",
+        "Necromancer;JeweledSkulls;17",
+        "Ghoul;Ravenous;19",
+        "WitchDoctor;Alchemist;20",
+        "CoreHounds;GuardDog;20",
+        "Blizzard;BrittleIce;17",
+        "Huntress;DarnassianSteel;18"
+      ]
+    ],
+    "lastUpdate": 1719063120
+  },
+  "token": "bbaba371-ded5-4e93-b29f-7c0cb942a231"
+}

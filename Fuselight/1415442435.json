@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1415442435,
+    "btag": "mantou",
+    "name": "mantou",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "CombatHUD_Tex_Player_Default",
+    "skulls": 132,
+    "level": 39,
+    "pvpWins": 400,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 49,
+    "leaderAHonor": 3210,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 46,
+    "leaderBHonor": 3410,
+    "leaderC": "RendLeader",
+    "leaderCWins": 49,
+    "leaderCHonor": 3285,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "DefiasBandits;PickLock;19",
+        "HarvestGolem;UnstableCore;19",
+        "Execute;KillingSpree;21",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;BrambleBurst;21",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Blizzard;ColdSnap;21",
+        "DefiasBandits;PickLock;19",
+        "HarvestGolem;UnstableCore;18",
+        "WitchDoctor;SpiritWard;21",
+        "Quilboar;BrambleBurst;21",
+        "GryphonRider;AirDrop;18"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;18",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;18",
+        "Prowler;PredatoryInstincts;21",
+        "GryphonRider;AirDrop;18",
+        "Blizzard;ColdSnap;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "WitchDoctor;SpiritWard;21",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Shaman;EarthShield;21",
+        "Quilboar;Bristleback;21",
+        "Blizzard;ColdSnap;21",
+        "GryphonRider;AirDrop;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Pyromancer;Pyroblast;19",
+        "WhelpEggs;FlameBurst;19",
+        "Drake;MotherDrake;19",
+        "FireElemental;ImmolationAura;18",
+        "WitchDoctor;SpiritWard;21",
+        "Quilboar;BrambleBurst;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Ghoul;BoneArmor;19",
+        "Execute;KillingSpree;21",
+        "WhelpEggs;FlameBurst;19",
+        "Prowler;PredatoryInstincts;21",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;18",
+        "Worgen;Frenzy;20",
+        "WhelpEggs;FlameBurst;18",
+        "WitchDoctor;SpiritWard;21",
+        "Prowler;PredatoryInstincts;21",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Prowler;PredatoryInstincts;21",
+        "Quilboar;Bristleback;21",
+        "WitchDoctor;SpiritWard;21",
+        "Banshee;WillOfTheNecropolis;18",
+        "Blizzard;ColdSnap;21",
+        "Chimaera;CorrosiveBreath;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "WitchDoctor;SpiritWard;21",
+        "Shaman;EarthShield;21",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "GoblinSapper;RocketBoots;18",
+        "DarkIronMiner;GoldMine;18",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;21",
+        "SkeletonWarrior;Exhume;18",
+        "Gargoyle;WingBuffet;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;18",
+        "FaerieDragon;FaeBlessing;20",
+        "MurlocTidehunters;SafetyBubble;19",
+        "PolymorphSpell;GoldenFleece;18"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "WitchDoctor;SpiritWard;21",
+        "OgreMage;FrostfireBolt;21",
+        "MeatWagon;FiletTrebuchet;18",
+        "PolymorphSpell;GoldenFleece;18",
+        "Pyromancer;Pyroblast;19",
+        "BatRider;;17"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;19",
+        "Quilboar;Bristleback;21",
+        "Chimaera;CorrosiveBreath;20",
+        "GoblinSapper;RocketBoots;18",
+        "Blizzard;ColdSnap;21",
+        "GryphonRider;AirDrop;18",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Pyroblast;19",
+        "FireElemental;ImmolationAura;18",
+        "Shaman;EarthShield;21",
+        "GryphonRider;AirDrop;18",
+        "WitchDoctor;SpiritWard;21",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "Pyromancer;Pyroblast;19",
+        "WhelpEggs;FlameBurst;19",
+        "Prowler;PredatoryInstincts;21",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;18",
+        "FireElemental;ImmolationAura;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;17",
+        "Gargoyle;WingBuffet;18",
+        "Ghoul;BoneArmor;19",
+        "WitchDoctor;SpiritWard;21",
+        "GoblinSapper;RocketBoots;18",
+        "SmokeBombSpell;BandOfThieves;18",
+        "Prowler;PredatoryInstincts;21"
+      ]
+    ],
+    "lastUpdate": 1719063158
+  },
+  "token": "14526baf-bf80-4176-8bd2-0ce3566aefc3"
+}

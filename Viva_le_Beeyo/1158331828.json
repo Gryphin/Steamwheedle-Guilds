@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1158331828,
+    "btag": "Kawaiizinha",
+    "name": "Kawaiizinha",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Jaina_Pose",
+    "skulls": 100,
+    "level": 37,
+    "pvpWins": 89,
+    "leaderA": "SylvanasLeader",
+    "leaderAWins": 21,
+    "leaderAHonor": 2780,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 20,
+    "leaderBHonor": 2627,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 29,
+    "leaderCHonor": 3038,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;17",
+        "Worgen;Premeditation;17",
+        "Blizzard;ColdSnap;17",
+        "Execute;Bloodthirsty;17",
+        "Harpy;InfectiousSwipes;17",
+        "Quilboar;TunnelVision;17",
+        "Pyromancer;Conflagrate;17"
+      ],
+      [
+        "TirionLeader;DivineShield;17",
+        "DefiasBandits;DeadlyPoison;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Quilboar;TunnelVision;17",
+        "Pyromancer;Conflagrate;17",
+        "Harpy;InfectiousSwipes;17",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+        "Prowler;OnTheProwl;17",
+        "Quilboar;TunnelVision;17",
+        "FireElemental;ImmolationAura;17",
+        "DefiasBandits;DeadlyPoison;18",
+        "Shaman;EarthShield;17",
+        "Execute;Bloodthirsty;17"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;17",
+        "BatRider;EnchantedVials;17",
+        "Shaman;EarthShield;17",
+        "AngryChickens;FuriousFowl;17",
+        "WitchDoctor;AmplifyCurse;19",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "Chimaera;CorrosiveBreath;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;17",
+        "Pyromancer;Conflagrate;17",
+        "WhelpEggs;FlameBurst;17",
+        "Gargoyle;WingBuffet;16",
+        "WitchDoctor;SpiritWard;19",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "Prowler;OnTheProwl;17"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Ghoul;BoneArmor;17",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "Execute;Bloodthirsty;17",
+        "Pyromancer;Conflagrate;17",
+        "Harpy;InfectiousSwipes;17",
+        "Quilboar;TunnelVision;17"
+      ],
+      [
+        "MaievLeader;Remorseless;16",
+        "DefiasBandits;DeadlyPoison;16",
+        "Worgen;Premeditation;16",
+        "Quilboar;TunnelVision;16",
+        "Execute;;14",
+        "PlagueFarmer;SplashingPumpkins;16",
+        "WhelpEggs;FlameBurst;16"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Prowler;OnTheProwl;17",
+        "Quilboar;TunnelVision;17",
+        "DefiasBandits;DeadlyPoison;17",
+        "Harpy;InfectiousSwipes;17",
+        "Blizzard;ColdSnap;17",
+        "GoblinSapper;RocketBoots;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "WitchDoctor;AmplifyCurse;19",
+        "BatRider;EnchantedVials;17",
+        "Shaman;EarthShield;17",
+        "WhelpEggs;FlameBurst;17",
+        "GoblinSapper;RocketBoots;17",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "Ghoul;BoneArmor;17",
+        "WhelpEggs;FlameBurst;17",
+        "Chimaera;CorrosiveBreath;19",
+        "Harpy;InfectiousSwipes;17",
+        "Pyromancer;Conflagrate;17"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;17",
+        "WitchDoctor;SpiritWard;19",
+        "Shaman;EarthShield;17",
+        "GoblinSapper;RocketBoots;17",
+        "Pyromancer;Conflagrate;17",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "Footmen;ShieldBash;17"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;17",
+        "Chimaera;CorrosiveBreath;19",
+        "Quilboar;TunnelVision;17",
+        "DefiasBandits;DeadlyPoison;17",
+        "FireElemental;ImmolationAura;17",
+        "Shaman;EarthShield;17",
+        "Execute;Bloodthirsty;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;17",
+        "Pyromancer;Conflagrate;17",
+        "Firehammer;HeightenedRage;16",
+        "Shaman;EarthShield;17",
+        "BatRider;EnchantedVials;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "WhelpEggs;FlameBurst;17"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "WhelpEggs;FlameBurst;17",
+        "Pyromancer;Conflagrate;17",
+        "Quilboar;TunnelVision;17",
+        "WitchDoctor;AmplifyCurse;19",
+        "BatRider;EnchantedVials;17",
+        "Harpy;InfectiousSwipes;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "Ghoul;BoneArmor;17",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "WitchDoctor;SpiritWard;19",
+        "Chimaera;CorrosiveBreath;19",
+        "Quilboar;TunnelVision;17",
+        "Harpy;InfectiousSwipes;17"
+      ]
+    ],
+    "lastUpdate": 1719063138
+  },
+  "token": "2f97ef4b-9633-41c0-abf6-d6defe3bc954"
+}

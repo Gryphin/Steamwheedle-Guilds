@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 137815,
+    "btag": "SINtez",
+    "name": "SINtez",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 125,
+    "level": 41,
+    "pvpWins": 95,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 27,
+    "leaderAHonor": 3091,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 21,
+    "leaderBHonor": 2009,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 25,
+    "leaderCHonor": 2645,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Huntress;DarnassianSteel;21",
+        "Blizzard;Icecrown;18",
+        "Quilboar;TunnelVision;21",
+        "Harpy;TrinketCollectors;21",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Huntress;DarnassianSteel;21",
+        "EarthElemental;ReadyToRumble;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Harpy;TrinketCollectors;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;TrinketCollectors;21",
+        "Gargoyle;AerialSuperiority;18",
+        "Huntress;DarnassianSteel;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "CheatDeath;;17"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "BatRider;FierySurplus;18",
+        "DarkspearTroll;Headhunting;20",
+        "Harpy;TrinketCollectors;21",
+        "Quilboar;TunnelVision;21",
+        "EarthElemental;ReadyToRumble;19",
+        "Huntress;DarnassianSteel;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "EarthElemental;ReadyToRumble;21",
+        "WhelpEggs;Rookery;17",
+        "Harpy;TrinketCollectors;21",
+        "Quilboar;TunnelVision;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Huntress;DarnassianSteel;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "MeatWagon;FiletTrebuchet;22",
+        "Necromancer;BreathOfTheDying;19",
+        "Blizzard;Icecrown;18",
+        "Quilboar;TunnelVision;21",
+        "EarthElemental;ReadyToRumble;21",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "DefiasBandits;DeadlyPoison;21",
+        "Huntress;DarnassianSteel;21",
+        "EarthElemental;ReadyToRumble;19",
+        "Harpy;TrinketCollectors;21",
+        "Quilboar;TunnelVision;21",
+        "MoltenGiant;Bolster;18"
+      ],
+      [
+        "HoggerLeader;FatalFrenzy;20",
+        "Quilboar;TunnelVision;21",
+        "PolymorphSpell;;16",
+        "Vultures;;16",
+        "BatRider;FierySurplus;18",
+        "Chimaera;Leviathan;20",
+        "DarkspearTroll;Headhunting;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "OgreMage;Avarice;23",
+        "Shaman;EarthShield;18",
+        "Huntress;ElvenMight;21",
+        "Harpy;TrinketCollectors;21",
+        "EarthElemental;ReadyToRumble;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Necromancer;BreathOfTheDying;19",
+        "MeatWagon;FiletTrebuchet;22",
+        "EarthElemental;ReadyToRumble;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;TrinketCollectors;21",
+        "Huntress;DarnassianSteel;21"
+      ],
+      [
+        "SneedLeader;LandGrab;21",
+        "BatRider;FierySurplus;18",
+        "DarkspearTroll;Headhunting;20",
+        "WarsongRaider;SunderArmor;20",
+        "ChainLightning;StormsReach;18",
+        "Blizzard;Icecrown;18",
+        "SkeletonWarrior;Exhume;17"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "Quilboar;TunnelVision;21",
+        "Vultures;;16",
+        "Huntress;DarnassianSteel;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "WarsongGrunts;Command;17",
+        "OgreMage;Avarice;23"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;20",
+        "MoltenGiant;Bolster;18",
+        "Pyromancer;Pyroblast;21",
+        "OgreMage;Avarice;23",
+        "Quilboar;TunnelVision;21",
+        "Huntress;DarnassianSteel;21",
+        "Shaman;EarthShield;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "EarthElemental;ReadyToRumble;21",
+        "Pyromancer;Pyroblast;21",
+        "MoltenGiant;Bolster;18",
+        "Huntress;DarnassianSteel;21",
+        "OgreMage;Avarice;23",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Necromancer;BreathOfTheDying;19",
+        "MeatWagon;FiletTrebuchet;22",
+        "OgreMage;Avarice;23",
+        "GnollBrute;Pillage;18",
+        "Harpy;TrinketCollectors;21",
+        "Quilboar;TunnelVision;21"
+      ]
+    ],
+    "lastUpdate": 1719063117
+  },
+  "token": "90c0321d-a243-4629-b9a4-8f78d144679d"
+}

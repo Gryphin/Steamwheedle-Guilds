@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 51678873,
+    "btag": "xfip",
+    "name": "xfip",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 135,
+    "level": 42,
+    "pvpWins": 156,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 26,
+    "leaderAHonor": 3532,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 23,
+    "leaderBHonor": 3311,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 16,
+    "leaderCHonor": 2773,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;18",
+        "Worgen;Premeditation;21",
+        "GryphonRider;MightyThrow;21",
+        "ChainLightning;BrilliantFlash;21",
+        "Footmen;ShieldBash;20",
+        "WhelpEggs;FlameBurst;21",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "Worgen;Premeditation;21",
+        "GryphonRider;MightyThrow;21",
+        "Footmen;ShieldBash;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "ChainLightning;BrilliantFlash;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "Chimaera;CorrosiveBreath;21",
+        "Prowler;OnTheProwl;21",
+        "StonehoofTauren;Pummel;21",
+        "Worgen;Premeditation;21",
+        "ChainLightning;BrilliantFlash;22",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "BatRider;EnchantedVials;19",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WhelpEggs;FlameBurst;21",
+        "WitchDoctor;AmplifyCurse;18",
+        "Chimaera;CorrosiveBreath;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "FireElemental;ImmolationAura;20",
+        "Pyromancer;Conflagrate;21",
+        "WhelpEggs;FlameBurst;21",
+        "ChainLightning;Reverberation;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "Abomination;NoxiousPresence;21",
+        "Necromancer;;19",
+        "Execute;Bloodthirsty;18",
+        "WhelpEggs;FlameBurst;21",
+        "ChainLightning;BrilliantFlash;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Worgen;Premeditation;21",
+        "Huntress;Shadowmeld;21",
+        "DarkIronMiner;GoldMine;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;BrambleBurst;21"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;19",
+        "Quilboar;BrambleBurst;21",
+        "Chimaera;CorrosiveBreath;21",
+        "StonehoofTauren;Pummel;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "MurlocTidehunters;SafetyBubble;20",
+        "ChainLightning;BrilliantFlash;21"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WarsongRaider;SunderArmor;20",
+        "Shaman;EarthShield;20",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "ChainLightning;BrilliantFlash;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Necromancer;JeweledSkulls;19",
+        "CheatDeath;Vampirism;18",
+        "GnollBrute;ThickHide;20",
+        "Harpy;InfectiousSwipes;19",
+        "Chimaera;CorrosiveBreath;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "ChainLightning;BrilliantFlash;21",
+        "BatRider;EnchantedVials;19",
+        "GoblinSapper;RocketBoots;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Harpy;InfectiousSwipes;19",
+        "Worgen;Premeditation;21"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;18",
+        "Chimaera;CorrosiveBreath;21",
+        "GnollBrute;ThickHide;20",
+        "Harpy;InfectiousSwipes;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Worgen;Premeditation;21",
+        "StonehoofTauren;Pummel;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "WhelpEggs;FlameBurst;21",
+        "Pyromancer;Pyroblast;21",
+        "Shaman;EarthShield;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "ChainLightning;BrilliantFlash;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;20",
+        "WhelpEggs;FlameBurst;21",
+        "Pyromancer;Pyroblast;21",
+        "MoltenGiant;ThreateningPresence;18",
+        "Shaman;EarthShield;20",
+        "ChainLightning;Reverberation;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Abomination;NoxiousPresence;21",
+        "MeatWagon;FiletTrebuchet;18",
+        "DarkspearTroll;Headhunting;21",
+        "Chimaera;CorrosiveBreath;21",
+        "StonehoofTauren;Pummel;21",
+        "CheatDeath;Vampirism;18"
+      ]
+    ],
+    "lastUpdate": 1719063138
+  },
+  "token": "89f550b6-a9ca-4d29-b8a3-bea90790f902"
+}

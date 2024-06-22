@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 921292,
+    "btag": "Hysteria",
+    "name": "Hysteria",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 116,
+    "level": 41,
+    "pvpWins": 97,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 29,
+    "leaderAHonor": 1963,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 16,
+    "leaderBHonor": 1931,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 19,
+    "leaderCHonor": 2006,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;19",
+        "DefiasBandits;PickLock;18",
+        "GryphonRider;MightyThrow;23",
+        "Execute;Overpower;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "ChainLightning;StormsReach;21",
+        "GnollBrute;Rabid;21"
+      ],
+      [
+        "TirionLeader;Consecrate;18",
+        "BatRider;EnchantedVials;18",
+        "GryphonRider;MightyThrow;23",
+        "FireElemental;MoltenCore;18",
+        "WhelpEggs;FlameBurst;19",
+        "Banshee;;17",
+        "Quilboar;BrambleBurst;18"
+      ],
+      [
+        "OldMurkEyeLeader;;17",
+        "Harpy;TrinketCollectors;18",
+        "Chimaera;CorrosiveBreath;21",
+        "Footmen;Fortification;23",
+        "MurlocTidehunters;Morelocs;20",
+        "SkeletonParty;5Man;21",
+        "Flamewaker;Engulf;19"
+      ],
+      [
+        "GrommashLeader;MirrorImage;19",
+        "DarkspearTroll;SerpentSting;21",
+        "Execute;Overpower;20",
+        "WhelpEggs;FlameBurst;20",
+        "Quilboar;BrambleBurst;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Pyromancer;;17",
+        "FireElemental;MoltenCore;18",
+        "GryphonRider;MightyThrow;23",
+        "EarthElemental;;17",
+        "Footmen;Fortification;23",
+        "Banshee;;17"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "Abomination;NoxiousPresence;19",
+        "ArcaneBlast;Amplification;18",
+        "GoblinSapper;ExtraBoom;19",
+        "Gargoyle;WingBuffet;18",
+        "ChainLightning;StormsReach;21"
+      ],
+      [
+        "MaievLeader;Shadowstep;18",
+        "GryphonRider;MightyThrow;23",
+        "Footmen;Fortification;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;BrambleBurst;18",
+        "ChainLightning;StormsReach;21",
+        "MurlocTidehunters;Morelocs;20"
+      ],
+      [
+        "HoggerLeader;;16",
+        "GnollBrute;Rabid;21",
+        "MurlocTidehunters;Morelocs;20",
+        "GryphonRider;MightyThrow;23",
+        "Footmen;Fortification;23",
+        "ChainLightning;StormsReach;21",
+        "SkeletonParty;5Man;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "ChainLightning;StormsReach;21",
+        "DarkspearTroll;SerpentSting;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GryphonRider;MightyThrow;23",
+        "GnollBrute;Rabid;21",
+        "Footmen;Fortification;23"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Gargoyle;WingBuffet;18",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "EarthElemental;;17",
+        "MurlocTidehunters;Morelocs;20",
+        "Huntress;DarnassianSteel;20",
+        "Chimaera;CorrosiveBreath;21"
+      ],
+      [
+        "SneedLeader;;16",
+        "DarkspearTroll;SerpentSting;21",
+        "Shaman;;17",
+        "Gargoyle;WingBuffet;18",
+        "WarsongGrunts;;17",
+        "AngryChickens;FuriousFowl;18",
+        "Banshee;;17"
+      ],
+      [
+        "CharlgaLeader;;16",
+        "Chimaera;CorrosiveBreath;21",
+        "MurlocTidehunters;Morelocs;20",
+        "Harpy;TrinketCollectors;18",
+        "Firehammer;HeightenedRage;18",
+        "Quilboar;BrambleBurst;18",
+        "ChainLightning;StormsReach;21"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;23",
+        "Flamewaker;Engulf;19",
+        "WhelpEggs;FlameBurst;20",
+        "Execute;Overpower;20",
+        "DarkspearTroll;SerpentSting;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GryphonRider;MightyThrow;23"
+      ],
+      [
+        "ThaurissanLeader;;17",
+        "EarthElemental;;17",
+        "Firehammer;HeightenedRage;18",
+        "FireElemental;MoltenCore;18",
+        "SkeletonParty;RitualOfRime;21",
+        "ChainLightning;StormsReach;21",
+        "Vultures;;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Banshee;;17",
+        "Gargoyle;WingBuffet;18",
+        "BatRider;EnchantedVials;18",
+        "GryphonRider;MightyThrow;23",
+        "Footmen;Fortification;23",
+        "Harpy;TrinketCollectors;18"
+      ]
+    ],
+    "lastUpdate": 1719063119
+  },
+  "token": "8dd9b75b-c993-47dd-9135-2f9914c5bbe5"
+}

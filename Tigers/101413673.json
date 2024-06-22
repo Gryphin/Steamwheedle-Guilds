@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 101413673,
+    "btag": "Lilja",
+    "name": "Lilja",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Cairne_Pose",
+    "skulls": 133,
+    "level": 37,
+    "pvpWins": 57,
+    "leaderA": "MaievLeader",
+    "leaderAWins": 24,
+    "leaderAHonor": 2367,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 14,
+    "leaderBHonor": 1263,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 5,
+    "leaderCHonor": 755,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;16",
+        "Huntress;Shadowmeld;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;19",
+        "Execute;Overpower;18",
+        "BatRider;;15",
+        "WitchDoctor;SpiritWard;17",
+        "Abomination;FreshMeat;19"
+      ],
+      [
+        "TirionLeader;DivineShield;19",
+        "Huntress;ElvenMight;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "EarthElemental;ObsidianShard;19",
+        "Pyromancer;Pyroblast;20",
+        "Harpy;InfectiousSwipes;19",
+        "Execute;Bloodthirsty;20"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;19",
+        "AngryChickens;FuriousFowl;18",
+        "Harpy;InfectiousSwipes;19",
+        "EarthElemental;ObsidianShard;19",
+        "Blizzard;ColdSnap;17",
+        "Pyromancer;Pyroblast;20",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "GoblinSapper;;15",
+        "Shaman;EarthShield;17",
+        "Footmen;;17",
+        "WitchDoctor;SpiritWard;18",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Pyromancer;Conflagrate;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "EarthElemental;ObsidianShard;19",
+        "Pyromancer;Conflagrate;20",
+        "WhelpEggs;FlameBurst;19",
+        "AngryChickens;FuriousFowl;18",
+        "Quilboar;BrambleBurst;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "DefiasBandits;;16",
+        "Execute;Bloodthirsty;20",
+        "Quilboar;BrambleBurst;17",
+        "AngryChickens;FuriousFowl;18",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "MaievLeader;Shadowstep;18",
+        "Blizzard;ColdSnap;17",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "Worgen;;16",
+        "WhelpEggs;FlameBurst;19",
+        "EarthElemental;ObsidianShard;19",
+        "Execute;Bloodthirsty;20"
+      ],
+      [
+        "HoggerLeader;;16",
+        "AngryChickens;FuriousFowl;18",
+        "Harpy;InfectiousSwipes;19",
+        "WitchDoctor;SpiritWard;18",
+        "DefiasBandits;;16",
+        "WhelpEggs;FlameBurst;19",
+        "Banshee;WillOfTheNecropolis;19"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "DarkspearTroll;SerpentSting;18",
+        "StonehoofTauren;Pummel;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "WhelpEggs;FlameBurst;19",
+        "EarthElemental;ObsidianShard;19",
+        "AngryChickens;FuriousFowl;18"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;18",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "DefiasBandits;;16",
+        "Quilboar;BrambleBurst;17",
+        "Harpy;InfectiousSwipes;19",
+        "Execute;Bloodthirsty;20",
+        "AngryChickens;FuriousFowl;18"
+      ],
+      [
+        "SneedLeader;;16",
+        "GoblinSapper;;15",
+        "Shaman;EarthShield;17",
+        "WarsongRaider;Saboteur;19",
+        "WitchDoctor;SpiritWard;17",
+        "Footmen;;17",
+        "Pyromancer;Conflagrate;19"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "Harpy;InfectiousSwipes;17",
+        "AngryChickens;FuriousFowl;16",
+        "WarsongRaider;Saboteur;17",
+        "Pyromancer;Conflagrate;17",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;18",
+        "FireElemental;MoltenCore;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;17",
+        "Pyromancer;Pyroblast;20",
+        "EarthElemental;ObsidianShard;19",
+        "WhelpEggs;FlameBurst;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "Harpy;InfectiousSwipes;19",
+        "AngryChickens;FuriousFowl;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "EarthElemental;ObsidianShard;19",
+        "WhelpEggs;FlameBurst;19",
+        "AngryChickens;FuriousFowl;18",
+        "Blizzard;ColdSnap;17",
+        "Harpy;InfectiousSwipes;19",
+        "Pyromancer;Conflagrate;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "DefiasBandits;;16",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Execute;Bloodthirsty;20",
+        "AngryChickens;FuriousFowl;18",
+        "Quilboar;BrambleBurst;17",
+        "Harpy;InfectiousSwipes;19"
+      ]
+    ],
+    "lastUpdate": 1719063122
+  },
+  "token": "3c517723-59e8-4faa-a8cf-635296c18795"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 128731863,
+    "btag": "micromat",
+    "name": "micromat",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 106,
+    "level": 38,
+    "pvpWins": 65,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 8,
+    "leaderAHonor": 608,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 26,
+    "leaderBHonor": 1900,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 10,
+    "leaderCHonor": 658,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "Footmen;ShieldBash;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Harpy;TrinketCollectors;20",
+        "WhelpEggs;FlameBurst;20",
+        "Execute;Overpower;18"
+      ],
+      [
+        "TirionLeader;DivineShield;17",
+        "Execute;;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Gargoyle;WingBuffet;19",
+        "Raptors;FastFood;20",
+        "Pyromancer;Pyroblast;20",
+        "Harpy;TrinketCollectors;20"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;17",
+        "Raptors;FastFood;20",
+        "Quilboar;Bristleback;17",
+        "Abomination;NoxiousPresence;17",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Pyromancer;Pyroblast;17"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "Execute;;18",
+        "OgreMage;Avarice;17",
+        "Harpy;TrinketCollectors;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Pyromancer;Pyroblast;20",
+        "Quilboar;Bristleback;17"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;17",
+        "Firehammer;BlazingSpeed;17",
+        "Pyromancer;Pyroblast;20",
+        "Harpy;TrinketCollectors;20",
+        "Raptors;FastFood;20",
+        "Gargoyle;WingBuffet;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Abomination;NoxiousPresence;17",
+        "Gargoyle;WingBuffet;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "DarkIronMiner;DwarvenAmbition;17",
+        "Raptors;FastFood;20",
+        "Pyromancer;Pyroblast;17"
+      ],
+      [
+        "MaievLeader;Shadowstep;17",
+        "Worgen;Premeditation;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "EarthElemental;ShrapnelBlast;16",
+        "Raptors;FastFood;20",
+        "Harpy;TrinketCollectors;20",
+        "Gargoyle;WingBuffet;17"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Harpy;TrinketCollectors;20",
+        "Raptors;StrengthInNumbers;20",
+        "Execute;;18",
+        "Gargoyle;WingBuffet;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Quilboar;Bristleback;18"
+      ],
+      [
+        "CairneLeader;Aftershock;18",
+        "Abomination;NoxiousPresence;17",
+        "Quilboar;Bristleback;17",
+        "Huntress;ElvenMight;19",
+        "Raptors;FastFood;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Harpy;TrinketCollectors;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "SkeletonParty;RitualOfRime;17",
+        "Necromancer;JeweledSkulls;17",
+        "WhelpEggs;FlameBurst;20",
+        "Execute;Overpower;18",
+        "Quilboar;Bristleback;17",
+        "Harpy;TrinketCollectors;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;20",
+        "Execute;Overpower;18",
+        "Shaman;EarthwallTotem;17",
+        "AngryChickens;FuriousFowl;17",
+        "Harpy;TrinketCollectors;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Pyromancer;Pyroblast;20"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;17",
+        "Raptors;StrengthInNumbers;20",
+        "Harpy;InfectiousSwipes;20",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Execute;;18",
+        "Pyromancer;Pyroblast;19",
+        "Quilboar;Bristleback;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;17",
+        "Pyromancer;Pyroblast;20",
+        "Firehammer;BlazingSpeed;17",
+        "Execute;;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Harpy;TrinketCollectors;20",
+        "Raptors;FastFood;20"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;17",
+        "WhelpEggs;FlameBurst;20",
+        "FireElemental;MoltenCore;17",
+        "Quilboar;Bristleback;17",
+        "Raptors;FastFood;20",
+        "Harpy;InfectiousSwipes;20",
+        "Pyromancer;Pyroblast;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Pyromancer;Pyroblast;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "WarsongRaider;SunderArmor;17",
+        "Harpy;TrinketCollectors;20",
+        "Raptors;FastFood;20",
+        "Gargoyle;WingBuffet;19"
+      ]
+    ],
+    "lastUpdate": 1719063152
+  },
+  "token": "49fb3167-4b15-4934-9afa-e2c948797776"
+}

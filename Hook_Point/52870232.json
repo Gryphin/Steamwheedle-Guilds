@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 52870232,
+    "btag": "Kirbyteam",
+    "name": "Kirbyteam",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Cairne_Pose",
+    "skulls": 150,
+    "level": 42,
+    "pvpWins": 1596,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 93,
+    "leaderAHonor": 3826,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 85,
+    "leaderBHonor": 3578,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 242,
+    "leaderCHonor": 3660,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;19",
+        "GryphonRider;MightyThrow;18",
+        "HarvestGolem;UnstableCore;18",
+        "Execute;Bloodthirsty;19",
+        "Quilboar;TunnelVision;19",
+        "DeepBreath;MeltingPoint;18",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "TirionLeader;ByTheLight;19",
+        "Blizzard;ColdSnap;19",
+        "GryphonRider;MightyThrow;18",
+        "FireElemental;ImmolationAura;19",
+        "Harpy;InfectiousSwipes;19",
+        "Banshee;WillOfTheNecropolis;18",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;18",
+        "Chimaera;FrostShock;21",
+        "AngryChickens;FuriousFowl;18",
+        "FireElemental;ImmolationAura;19",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "WhelpEggs;FlameBurst;21",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "BatRider;EnchantedVials;20",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;19",
+        "Banshee;WillOfTheNecropolis;18",
+        "Execute;Bloodthirsty;19",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "WhelpEggs;FlameBurst;21",
+        "Firehammer;MoultinMetal;19",
+        "Chimaera;FrostShock;21",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "GoblinSapper;RocketBoots;21",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "SkeletonWarrior;Exhume;18",
+        "Banshee;WillOfTheNecropolis;18",
+        "HolyNova;Renew;18",
+        "MeatWagon;FiletTrebuchet;21",
+        "EarthElemental;ObsidianShard;18",
+        "OgreMage;Ignite;18"
+      ],
+      [
+        "MaievLeader;Shadowstep;18",
+        "GryphonRider;MightyThrow;18",
+        "Huntress;Shadowmeld;19",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Quilboar;TunnelVision;19",
+        "Chimaera;FrostShock;21"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;21",
+        "Chimaera;FrostShock;21",
+        "Quilboar;TunnelVision;19",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Harpy;InfectiousSwipes;19",
+        "WitchDoctor;SpiritWard;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "WitchDoctor;SpiritWard;21",
+        "Shaman;EarthShield;21",
+        "Abomination;Cannonball;21",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "FaerieDragon;FaeBlessing;20",
+        "Execute;Bloodthirsty;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "MeatWagon;FiletTrebuchet;20",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;InfectiousSwipes;19",
+        "Chimaera;FrostShock;21",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;18",
+        "BatRider;EnchantedVials;20",
+        "Execute;Bloodthirsty;18",
+        "MeatWagon;FiletTrebuchet;18",
+        "OgreMage;Ignite;18",
+        "Drake;MotherDrake;21",
+        "SmokeBombSpell;ThroughTheShadows;18"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;18",
+        "5709c8989210cdd41943f35f5ffd8b6b;121b7fc1ce92c0347835bdcb86884bec;18",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;21",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;19",
+        "7a13f5402e23bed4a97d17ffc9192b55;e743232316cf651468b63389960f1124;18",
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;19",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Chimaera;FrostShock;21",
+        "AngryChickens;FuriousFowl;18",
+        "Harpy;InfectiousSwipes;19",
+        "WhelpEggs;FlameBurst;21",
+        "WitchDoctor;SpiritWard;21",
+        "PlagueFarmer;SplashingPumpkins;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "DarkIronMiner;DwarvenAmbition;19",
+        "WhelpEggs;FlameBurst;21",
+        "Banshee;WillOfTheNecropolis;18",
+        "Harpy;InfectiousSwipes;19",
+        "DefiasBandits;PickLock;21",
+        "MeatWagon;FiletTrebuchet;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "DarkIronMiner;DwarvenAmbition;19",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;19",
+        "Abomination;Cannonball;21",
+        "Shaman;EarthShield;21",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Ghoul;BoneArmor;19",
+        "CheatDeath;Vampirism;18",
+        "WitchDoctor;SpiritWard;21",
+        "GoblinSapper;RocketBoots;21",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;19"
+      ]
+    ],
+    "lastUpdate": 1719063083
+  },
+  "token": "219042c8-386a-46a2-bce6-0386d4e58dd4"
+}

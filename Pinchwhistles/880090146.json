@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 880090146,
+    "btag": "Frogspoison",
+    "name": "Frogspoison",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 135,
+    "level": 43,
+    "pvpWins": 923,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 78,
+    "leaderAHonor": 3961,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 89,
+    "leaderBHonor": 4504,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 94,
+    "leaderCHonor": 4000,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "GryphonRider;MightyThrow;21",
+        "DefiasBandits;PickLock;21",
+        "LivingBomb;BlastRadius;18",
+        "Footmen;ShieldBash;21",
+        "BatRider;EnchantedVials;20",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "TirionLeader;ByTheLight;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "GryphonRider;MightyThrow;21",
+        "EarthElemental;ObsidianShard;19",
+        "DefiasBandits;LastResort;21",
+        "Banshee;WillOfTheNecropolis;19",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "GnollBrute;Rabid;21",
+        "AngryChickens;FuriousFowl;21",
+        "Quilboar;Bristleback;21",
+        "WitchDoctor;SpiritWard;21",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;20",
+        "Execute;Bloodthirsty;21",
+        "GoblinSapper;RocketBoots;21",
+        "SkeletonParty;RitualOfRime;21",
+        "WhelpEggs;FlameBurst;21",
+        "ChainLightning;BrilliantFlash;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "DarkIronMiner;GoldMine;21",
+        "WhelpEggs;FlameBurst;21",
+        "Drake;MotherDrake;19",
+        "Chimaera;CorrosiveBreath;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;19",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "SkeletonWarrior;Exhume;19",
+        "SkeletonParty;RitualOfRime;21",
+        "Execute;Bloodthirsty;21",
+        "GoblinSapper;RocketBoots;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Worgen;Premeditation;19",
+        "DefiasBandits;PickLock;21",
+        "SkeletonParty;RitualOfRime;21",
+        "Quilboar;Bristleback;21",
+        "Abomination;NoxiousPresence;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;21",
+        "GnollBrute;Rabid;21",
+        "AngryChickens;FuriousFowl;21",
+        "Raptors;StrengthInNumbers;18",
+        "Vultures;TendonRip;18",
+        "Quilboar;Bristleback;21",
+        "MurlocTidehunters;Morelocs;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "GoblinSapper;RocketBoots;21",
+        "Execute;Bloodthirsty;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "AngryChickens;FuriousFowl;21",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "SkeletonParty;RitualOfRime;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GoblinSapper;ExtraBoom;21",
+        "WhelpEggs;FlameBurst;21",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "SneedLeader;LandGrab;20",
+        "Execute;Bloodthirsty;21",
+        "GoblinSapper;RocketBoots;21",
+        "EarthElemental;ObsidianShard;19",
+        "PolymorphSpell;GoldenFleece;19",
+        "SkeletonParty;RitualOfRime;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;19",
+        "GnollBrute;Rabid;21",
+        "MurlocTidehunters;Morelocs;21",
+        "GoblinSapper;RocketBoots;21",
+        "BatRider;EnchantedVials;20",
+        "GryphonRider;MightyThrow;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;21",
+        "Shaman;EarthShield;21",
+        "OgreMage;FrostfireBolt;20",
+        "GoblinSapper;RocketBoots;21",
+        "SkeletonParty;RitualOfRime;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "EarthElemental;ObsidianShard;19",
+        "WhelpEggs;FlameBurst;21",
+        "DarkIronMiner;GoldMine;21",
+        "GryphonRider;MightyThrow;21",
+        "SkeletonParty;RitualOfRime;21",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;BoneArmor;19",
+        "CheatDeath;Vampirism;18",
+        "BatRider;EnchantedVials;20",
+        "Raptors;StrengthInNumbers;18",
+        "WhelpEggs;FlameBurst;21",
+        "GoblinSapper;RocketBoots;21"
+      ]
+    ],
+    "lastUpdate": 1716771528
+  },
+  "token": "52790877-1cfa-4bf0-81ab-3875d5c68925"
+}

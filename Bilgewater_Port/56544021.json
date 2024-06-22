@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 56544021,
+    "btag": "Splidow",
+    "name": "Splidow",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 150,
+    "level": 50,
+    "pvpWins": 1635,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 169,
+    "leaderAHonor": 3582,
+    "leaderB": "RendLeader",
+    "leaderBWins": 127,
+    "leaderBHonor": 3575,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 136,
+    "leaderCHonor": 3576,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "GryphonRider;MightyThrow;24",
+        "Banshee;WillOfTheNecropolis;24",
+        "DeepBreath;Attunement;24",
+        "Ghoul;BoneArmor;22",
+        "WhelpEggs;FlameBurst;25",
+        "Execute;Bloodthirsty;24"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "CheatDeath;Vampirism;21",
+        "GryphonRider;MightyThrow;24",
+        "WarsongRaider;SunderArmor;23",
+        "Execute;Bloodthirsty;24",
+        "Shaman;EarthShield;23",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Prowler;OnTheProwl;24",
+        "Quilboar;TunnelVision;24",
+        "GryphonRider;MightyThrow;24",
+        "BatRider;EnchantedVials;21",
+        "DeepBreath;Attunement;24"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;23",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Execute;Bloodthirsty;24",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Shaman;EarthShield;23",
+        "DeepBreath;Attunement;24",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "Execute;Bloodthirsty;24",
+        "WhelpEggs;FlameBurst;25",
+        "GryphonRider;MightyThrow;24",
+        "Quilboar;BrambleBurst;24",
+        "Prowler;PredatoryInstincts;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;20",
+        "Banshee;WillOfTheNecropolis;24",
+        "Ghoul;BoneArmor;21",
+        "Execute;KillingSpree;23",
+        "FireElemental;ImmolationAura;21",
+        "ArcaneBlast;Amplification;21",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "MaievLeader;Remorseless;23",
+        "Blizzard;ColdSnap;24",
+        "DarkIronMiner;GoldMine;21",
+        "SkeletonParty;RitualOfRime;24",
+        "Quilboar;BrambleBurst;24",
+        "Execute;Bloodthirsty;24",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Harpy;InfectiousSwipes;24",
+        "Prowler;PredatoryInstincts;24",
+        "Ghoul;BoneArmor;22",
+        "PolymorphSpell;GoldenFleece;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "DarkspearTroll;BigBadVoodoo;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Shaman;EarthShield;23",
+        "Execute;Bloodthirsty;23",
+        "WhelpEggs;FlameBurst;25",
+        "DefiasBandits;DeadlyPoison;23",
+        "FaerieDragon;FaeBlessing;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;23",
+        "Banshee;WillOfTheNecropolis;24",
+        "Gargoyle;WingBuffet;24",
+        "Quilboar;BrambleBurst;24",
+        "MeatWagon;FiletTrebuchet;23",
+        "Harpy;InfectiousSwipes;24",
+        "Execute;Bloodthirsty;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;20",
+        "Execute;Bloodthirsty;23",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "WarsongRaider;Saboteur;23",
+        "WhelpEggs;FlameBurst;25",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;3ce3e4ee5d77655428b6d18148040d9a;24",
+        "4d60f72627b7c36468f3107e40109845;fcc5c64ae7d56af4886c6cba42a594c6;21",
+        "5709c8989210cdd41943f35f5ffd8b6b;bbaa119635e291d43996f67e97c6273a;21",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;24",
+        "724ebbab65fd2477db54c91707f4a6d8;8f9bd07f0178c1d46a071bcef041138b;24",
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;24",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "Quilboar;BrambleBurst;24",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Prowler;PredatoryInstincts;24",
+        "Banshee;WillOfTheNecropolis;24",
+        "DeepBreath;Attunement;24",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;25",
+        "Shaman;EarthShield;23",
+        "Quilboar;BrambleBurst;24",
+        "Banshee;WillOfTheNecropolis;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;21",
+        "WhelpEggs;FlameBurst;25",
+        "DeepBreath;Attunement;24",
+        "FireElemental;ImmolationAura;21",
+        "Gargoyle;WingBuffet;24",
+        "Harpy;InfectiousSwipes;24",
+        "DefiasBandits;DeadlyPoison;23"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;BoneArmor;22",
+        "Banshee;WillOfTheNecropolis;24",
+        "Execute;Bloodthirsty;23",
+        "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;FlameBurst;25",
+        "Quilboar;BrambleBurst;24"
+      ]
+    ],
+    "lastUpdate": 1719063087
+  },
+  "token": "85a8c9d7-4b1e-4636-aeee-fbb15c853d0b"
+}

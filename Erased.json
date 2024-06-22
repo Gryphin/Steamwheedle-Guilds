@@ -12,7 +12,7 @@
         "skulls": 110,
         "honor": 1170,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062132
+        "lastUpdate": 1719063112
       },
       {
         "id": 1195719,
@@ -21,7 +21,7 @@
         "skulls": 101,
         "honor": 2015,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062132
+        "lastUpdate": 1719063112
       },
       {
         "id": 1254224,
@@ -30,7 +30,7 @@
         "skulls": 78,
         "honor": 5019,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062132
+        "lastUpdate": 1719063112
       },
       {
         "id": 55383526,
@@ -39,7 +39,7 @@
         "skulls": 109,
         "honor": 6204,
         "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719062132
+        "lastUpdate": 1719063113
       },
       {
         "id": 313240183,
@@ -48,7 +48,7 @@
         "skulls": 108,
         "honor": 5104,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719062132
+        "lastUpdate": 1719063113
       },
       {
         "id": 72895510,
@@ -57,7 +57,7 @@
         "skulls": 95,
         "honor": 707,
         "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719062132
+        "lastUpdate": 1719063113
       },
       {
         "id": 322360437,
@@ -66,16 +66,7 @@
         "skulls": 125,
         "honor": 4023,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062132
-      },
-      {
-        "id": 74249533,
-        "name": "dneighbo",
-        "btag": "dneighbo",
-        "skulls": 139,
-        "honor": 2657,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062133
+        "lastUpdate": 1719063113
       },
       {
         "id": 58249441,
@@ -84,7 +75,7 @@
         "skulls": 150,
         "honor": 12015,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719062133
+        "lastUpdate": 1719063114
       },
       {
         "id": 878784845,
@@ -93,7 +84,7 @@
         "skulls": 107,
         "honor": 5102,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719062133
+        "lastUpdate": 1719063114
       },
       {
         "id": 307679708,
@@ -102,7 +93,7 @@
         "skulls": 65,
         "honor": 2175,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062133
+        "lastUpdate": 1719063114
       },
       {
         "id": 51091656,
@@ -111,16 +102,7 @@
         "skulls": 101,
         "honor": 2903,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719062134
-      },
-      {
-        "id": 872665816,
-        "name": "Brutal",
-        "btag": "Brutal",
-        "skulls": 106,
-        "honor": 8912,
-        "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719062134
+        "lastUpdate": 1719063114
       },
       {
         "id": 815560356,
@@ -129,7 +111,7 @@
         "skulls": 104,
         "honor": 5681,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062135
+        "lastUpdate": 1719063115
       },
       {
         "id": 100467067,
@@ -138,7 +120,7 @@
         "skulls": 85,
         "honor": 0,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062135
+        "lastUpdate": 1719063116
       },
       {
         "id": 841754329,
@@ -147,7 +129,7 @@
         "skulls": 95,
         "honor": 4592,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062135
+        "lastUpdate": 1719063116
       },
       {
         "id": 51681201,
@@ -156,7 +138,7 @@
         "skulls": 150,
         "honor": 5507,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062135
+        "lastUpdate": 1719063116
       },
       {
         "id": 63222511,
@@ -165,7 +147,7 @@
         "skulls": 97,
         "honor": 2495,
         "avatar": "Indicator_Maiev_Pose",
-        "lastUpdate": 1719062133
+        "lastUpdate": 1719063116
       },
       {
         "id": 51343597,
@@ -174,7 +156,25 @@
         "skulls": 120,
         "honor": 10860,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062133
+        "lastUpdate": 1719063116
+      },
+      {
+        "id": 872665816,
+        "name": "Brutal",
+        "btag": "Brutal",
+        "skulls": 106,
+        "honor": 8912,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719063115
+      },
+      {
+        "id": 74249533,
+        "name": "dneighbo",
+        "btag": "dneighbo",
+        "skulls": 139,
+        "honor": 2657,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063114
       },
       {
         "id": 68384104,
@@ -183,11 +183,11 @@
         "skulls": 104,
         "honor": 5422,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062135
+        "lastUpdate": 1719063116
       }
     ],
-    "lastUpdate": 1719062131
+    "lastUpdate": 1719063112
   },
-  "token": "6779ca52-7a6e-457e-a5c4-2d5c7f75f923",
-  "link": "https://localhost:7080/guild/466202131?token=6779ca52-7a6e-457e-a5c4-2d5c7f75f923"
+  "token": "30f9af97-7a46-43f7-ba71-55dcd054de27",
+  "link": "https://localhost:7080/guild/466202131?token=30f9af97-7a46-43f7-ba71-55dcd054de27"
 }

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1692372,
+    "btag": "Mango2203",
+    "name": "Mango2203",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 144,
+    "level": 40,
+    "pvpWins": 200,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 42,
+    "leaderAHonor": 2721,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 48,
+    "leaderBHonor": 2798,
+    "leaderC": "RendLeader",
+    "leaderCWins": 33,
+    "leaderCHonor": 2789,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;17",
+        "GryphonRider;MightyThrow;21",
+        "DefiasBandits;PickLock;21",
+        "Execute;Bloodthirsty;23",
+        "Abomination;NoxiousPresence;23",
+        "WhelpEggs;FlameBurst;22",
+        "Shaman;EarthwallTotem;21"
+      ],
+      [
+        "TirionLeader;DivineShield;23",
+        "Huntress;Shadowmeld;22",
+        "GryphonRider;MightyThrow;21",
+        "Abomination;NoxiousPresence;23",
+        "Shaman;EarthShield;21",
+        "Chimaera;CorrosiveBreath;23",
+        "Execute;Bloodthirsty;23"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Quilboar;TunnelVision;20",
+        "Chimaera;CorrosiveBreath;23",
+        "Abomination;FreshMeat;23",
+        "WhelpEggs;FlameBurst;22",
+        "Huntress;Shadowmeld;22",
+        "Execute;Bloodthirsty;23"
+      ],
+      [
+        "GrommashLeader;MirrorImage;17",
+        "Shaman;EarthShield;21",
+        "StonehoofTauren;Momentum;21",
+        "Harpy;InfectiousSwipes;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Execute;Bloodthirsty;23"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "WhelpEggs;FlameBurst;22",
+        "Drake;MotherDrake;21",
+        "Harpy;InfectiousSwipes;21",
+        "GryphonRider;MightyThrow;21",
+        "Chimaera;CorrosiveBreath;23",
+        "Gargoyle;WingBuffet;21"
+      ],
+      [
+        "BloodmageThalnosLeader;;17",
+        "Abomination;FreshMeat;23",
+        "Necromancer;CultOfTheDamned;21",
+        "Execute;Bloodthirsty;23",
+        "GryphonRider;MightyThrow;21",
+        "Chimaera;CorrosiveBreath;23",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "MaievLeader;;16",
+        "Huntress;ElvenMight;22",
+        "GryphonRider;OdynsFury;21",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;21",
+        "Abomination;FreshMeat;23",
+        "WhelpEggs;FlameBurst;22",
+        "Execute;Bloodthirsty;23"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Chimaera;CorrosiveBreath;23",
+        "Quilboar;TunnelVision;20",
+        "BatRider;EnchantedVials;16",
+        "Execute;Bloodthirsty;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Banshee;SoulEruption;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;24",
+        "Shaman;EarthShield;21",
+        "WitchDoctor;AmplifyCurse;21",
+        "Pyromancer;Conflagrate;21",
+        "Execute;Bloodthirsty;23",
+        "Chimaera;CorrosiveBreath;23",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;23",
+        "Abomination;NoxiousPresence;23",
+        "Necromancer;CultOfTheDamned;21",
+        "Huntress;Shadowmeld;22",
+        "WhelpEggs;FlameBurst;22",
+        "Execute;Bloodthirsty;23",
+        "Chimaera;CorrosiveBreath;23"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "StonehoofTauren;Momentum;21",
+        "Execute;Bloodthirsty;23",
+        "GoblinSapper;ExtraBoom;20",
+        "WhelpEggs;FlameBurst;22",
+        "Chimaera;CorrosiveBreath;23",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "CharlgaLeader;;15",
+        "Quilboar;TunnelVision;20",
+        "Chimaera;CorrosiveBreath;23",
+        "Huntress;ElvenMight;21",
+        "Abomination;FreshMeat;23",
+        "GryphonRider;MightyThrow;21",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;23",
+        "Drake;MotherDrake;21",
+        "WhelpEggs;FlameBurst;22",
+        "Chimaera;CorrosiveBreath;23",
+        "Pyromancer;Conflagrate;21",
+        "Huntress;Shadowmeld;22",
+        "Execute;Bloodthirsty;23"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "DarkIronMiner;GoldMine;20",
+        "Drake;EngulfingFlames;21",
+        "Abomination;FreshMeat;23",
+        "Huntress;Shadowmeld;22",
+        "WhelpEggs;FlameBurst;22",
+        "Execute;Bloodthirsty;23"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;18",
+        "Abomination;FreshMeat;23",
+        "Necromancer;CultOfTheDamned;21",
+        "Shaman;EarthShield;21",
+        "Chimaera;CorrosiveBreath;23",
+        "Execute;Bloodthirsty;23",
+        "WhelpEggs;FlameBurst;22"
+      ]
+    ],
+    "lastUpdate": 1719063122
+  },
+  "token": "a01d4b51-8afa-4752-880d-ad1faee93fbd"
+}

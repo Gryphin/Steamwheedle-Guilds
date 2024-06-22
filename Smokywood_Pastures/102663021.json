@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 102663021,
+    "btag": "Suzaku",
+    "name": "Suzaku",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 150,
+    "level": 43,
+    "pvpWins": 1445,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 96,
+    "leaderAHonor": 3894,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 158,
+    "leaderBHonor": 3645,
+    "leaderC": "CharlgaLeader",
+    "leaderCWins": 175,
+    "leaderCHonor": 4190,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "HarvestGolem;TrojanChickens;19",
+        "Blizzard;ColdSnap;20",
+        "GryphonRider;MightyThrow;23",
+        "Quilboar;BrambleBurst;23",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "GryphonRider;OdynsFury;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "Quilboar;TunnelVision;23",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "DefiasBandits;PickLock;21",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+        "AngryChickens;Snackrifice;17",
+        "Banshee;WillOfTheNecropolis;20",
+        "Quilboar;TunnelVision;23",
+        "MeatWagon;FiletTrebuchet;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "GryphonRider;OdynsFury;23"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "Banshee;WillOfTheNecropolis;20",
+        "Quilboar;TunnelVision;23",
+        "AngryChickens;Snackrifice;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "MeatWagon;FiletTrebuchet;20",
+        "GryphonRider;OdynsFury;23"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;22",
+        "Banshee;WillOfTheNecropolis;20",
+        "Quilboar;TunnelVision;23",
+        "MeatWagon;FiletTrebuchet;20",
+        "AngryChickens;Snackrifice;17",
+        "GryphonRider;OdynsFury;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;23",
+        "Ghoul;BoneArmor;20",
+        "CheatDeath;Vampirism;18",
+        "PolymorphSpell;GoldenFleece;20",
+        "ArcaneBlast;Amplification;19",
+        "Quilboar;TunnelVision;23",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "MaievLeader;;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Worgen;Premeditation;19",
+        "Quilboar;TunnelVision;20",
+        "GryphonRider;OdynsFury;20",
+        "DarkIronMiner;GoldMine;20",
+        "WhelpEggs;FlameBurst;20"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Harpy;InfectiousSwipes;20",
+        "Execute;Bloodthirsty;20",
+        "Quilboar;TunnelVision;23",
+        "Banshee;WillOfTheNecropolis;20",
+        "WhelpEggs;FlameBurst;21",
+        "CheatDeath;Vampirism;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "Execute;Bloodthirsty;20",
+        "DefiasBandits;PickLock;20",
+        "Banshee;WillOfTheNecropolis;20",
+        "CheatDeath;Vampirism;17",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Banshee;WillOfTheNecropolis;20",
+        "Ghoul;BoneArmor;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "GryphonRider;MightyThrow;23",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "Execute;Bloodthirsty;20",
+        "DarkIronMiner;GoldMine;20",
+        "MeatWagon;FiletTrebuchet;20",
+        "Huntress;Shadowmeld;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "Quilboar;TunnelVision;23"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;20",
+        "Quilboar;BrambleBurst;23",
+        "Prowler;OnTheProwl;20",
+        "GoblinSapper;RocketBoots;21",
+        "GryphonRider;MightyThrow;23",
+        "Huntress;Shadowmeld;21",
+        "Ghoul;BoneArmor;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;21",
+        "Shaman;EarthShield;21",
+        "DefiasBandits;PickLock;21",
+        "SkeletonParty;RitualOfRime;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "WhelpEggs;FlameBurst;21",
+        "Pyromancer;Conflagrate;20",
+        "Quilboar;TunnelVision;23",
+        "Huntress;Shadowmeld;20",
+        "Execute;Bloodthirsty;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;BoneArmor;20",
+        "Necromancer;JeweledSkulls;20",
+        "StonehoofTauren;Momentum;20",
+        "Huntress;Shadowmeld;20",
+        "Quilboar;TunnelVision;23",
+        "Execute;Bloodthirsty;21"
+      ]
+    ],
+    "lastUpdate": 1719062211
+  },
+  "token": "906ea00d-dd09-499a-9377-f2c45b6e783e"
+}

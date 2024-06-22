@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1833355,
+    "btag": "ormuzd",
+    "name": "ormuzd",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 136,
+    "level": 41,
+    "pvpWins": 66,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 12,
+    "leaderAHonor": 1222,
+    "leaderB": "RendLeader",
+    "leaderBWins": 24,
+    "leaderBHonor": 3032,
+    "leaderC": "BloodmageThalnosLeader",
+    "leaderCWins": 6,
+    "leaderCHonor": 1115,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Footmen;ShieldBash;18",
+        "SmokeBombSpell;ThroughTheShadows;18",
+        "WitchDoctor;SpiritWard;20",
+        "Quilboar;TunnelVision;19",
+        "BatRider;EnchantedVials;19"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Blizzard;ColdSnap;18",
+        "StonehoofTauren;Momentum;19",
+        "Pyromancer;Pyroblast;21",
+        "Quilboar;TunnelVision;19",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;InfectiousSwipes;19",
+        "Quilboar;TunnelVision;19",
+        "StonehoofTauren;Momentum;19",
+        "WhelpEggs;FlameBurst;19",
+        "Blizzard;ColdSnap;18",
+        "AngryChickens;FuriousFowl;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;20",
+        "BatRider;EnchantedVials;19",
+        "StonehoofTauren;Momentum;19",
+        "GoblinSapper;RocketBoots;20",
+        "Harpy;InfectiousSwipes;19",
+        "Quilboar;TunnelVision;19",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;19",
+        "Harpy;InfectiousSwipes;19",
+        "SkeletonParty;CorpseRun;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "StonehoofTauren;Momentum;19"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "SkeletonWarrior;Exhume;18",
+        "Execute;Bloodthirsty;20",
+        "Prowler;OnTheProwl;19",
+        "Harpy;InfectiousSwipes;19",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "SkeletonParty;CorpseRun;18",
+        "WhelpEggs;FlameBurst;19",
+        "Harpy;InfectiousSwipes;19",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Raptors;StrengthInNumbers;17",
+        "Prowler;OnTheProwl;19",
+        "Quilboar;TunnelVision;19",
+        "Chimaera;CorrosiveBreath;20",
+        "Harpy;InfectiousSwipes;19",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "CairneLeader;;18",
+        "BatRider;EnchantedVials;19",
+        "WitchDoctor;SpiritWard;18",
+        "Pyromancer;Pyroblast;21",
+        "Footmen;ShieldBash;18",
+        "GoblinSapper;RocketBoots;18",
+        "PlagueFarmer;SplashingPumpkins;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "SkeletonParty;CorpseRun;19",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Quilboar;TunnelVision;19",
+        "GoblinSapper;RocketBoots;20",
+        "Pyromancer;Pyroblast;21",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "WitchDoctor;SpiritWard;18",
+        "Execute;Bloodthirsty;20",
+        "EarthElemental;ObsidianShard;18",
+        "Quilboar;TunnelVision;19",
+        "SkeletonParty;CorpseRun;18",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "AngryChickens;FuriousFowl;18",
+        "Harpy;InfectiousSwipes;19",
+        "GoblinSapper;RocketBoots;18",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "EarthElemental;ObsidianShard;18",
+        "SkeletonParty;CorpseRun;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;19",
+        "SkeletonParty;CorpseRun;18",
+        "Harpy;InfectiousSwipes;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "EarthElemental;ObsidianShard;18",
+        "Pyromancer;Pyroblast;21",
+        "SkeletonParty;CorpseRun;19",
+        "Quilboar;TunnelVision;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "SkeletonParty;CorpseRun;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Quilboar;TunnelVision;19",
+        "Harpy;InfectiousSwipes;19",
+        "WhelpEggs;FlameBurst;19"
+      ]
+    ],
+    "lastUpdate": 1719063129
+  },
+  "token": "a1402699-c349-4628-a735-6faccac1d618"
+}

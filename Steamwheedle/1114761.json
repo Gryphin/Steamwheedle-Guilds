@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1114761,
+    "btag": "Murtogg",
+    "name": "Murtogg",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 123,
+    "level": 43,
+    "pvpWins": 89,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 12,
+    "leaderAHonor": 1557,
+    "leaderB": "RendLeader",
+    "leaderBWins": 29,
+    "leaderBHonor": 1490,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 11,
+    "leaderCHonor": 1133,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;19",
+        "Huntress;Shadowmeld;23",
+        "Worgen;Premeditation;21",
+        "Execute;Bloodthirsty;18",
+        "Quilboar;TunnelVision;21",
+        "Gargoyle;WingBuffet;21",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Huntress;Shadowmeld;23",
+        "Footmen;ShieldBash;21",
+        "Quilboar;TunnelVision;21",
+        "GryphonRider;MightyThrow;21",
+        "WitchDoctor;AmplifyCurse;23",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Harpy;InfectiousSwipes;23",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;21",
+        "Huntress;Shadowmeld;23",
+        "WitchDoctor;AmplifyCurse;23"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;23",
+        "WitchDoctor;AmplifyCurse;23",
+        "StonehoofTauren;Momentum;22",
+        "GoblinSapper;RocketBoots;20",
+        "Harpy;InfectiousSwipes;23",
+        "Quilboar;TunnelVision;21",
+        "Huntress;Shadowmeld;23"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "WhelpEggs;FlameBurst;21",
+        "Pyromancer;Pyroblast;21",
+        "Harpy;InfectiousSwipes;23",
+        "StonehoofTauren;Momentum;22",
+        "Quilboar;TunnelVision;21",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;17",
+        "Abomination;NoxiousPresence;21",
+        "MeatWagon;FiletTrebuchet;20",
+        "Execute;Bloodthirsty;18",
+        "Huntress;ElvenMight;23",
+        "Quilboar;TunnelVision;21",
+        "SkeletonParty;RitualOfRime;22"
+      ],
+      [
+        "MaievLeader;Shadowstep;14",
+        "Worgen;Premeditation;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "Quilboar;TunnelVision;16",
+        "GoblinSapper;RocketBoots;15",
+        "Gargoyle;WingBuffet;16",
+        "SkeletonParty;5Man;17"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Prowler;OnTheProwl;21",
+        "Quilboar;TunnelVision;21",
+        "GoblinSapper;RocketBoots;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Harpy;InfectiousSwipes;23",
+        "Huntress;Shadowmeld;23"
+      ],
+      [
+        "CairneLeader;Plainsrunning;17",
+        "StonehoofTauren;Momentum;21",
+        "Shaman;EarthShield;20",
+        "WitchDoctor;AmplifyCurse;23",
+        "Pyromancer;Pyroblast;21",
+        "Quilboar;TunnelVision;21",
+        "Gargoyle;WingBuffet;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Abomination;NoxiousPresence;21",
+        "MeatWagon;FiletTrebuchet;20",
+        "Quilboar;TunnelVision;21",
+        "FaerieDragon;FaeBlessing;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Prowler;OnTheProwl;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "WitchDoctor;AmplifyCurse;23",
+        "StonehoofTauren;Momentum;22",
+        "GoblinSapper;RocketBoots;20",
+        "Huntress;Shadowmeld;23",
+        "Execute;Bloodthirsty;18",
+        "Harpy;InfectiousSwipes;23"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;16",
+        "GnollBrute;Rabid;20",
+        "Harpy;InfectiousSwipes;23",
+        "Huntress;Shadowmeld;23",
+        "WitchDoctor;AmplifyCurse;23",
+        "Quilboar;TunnelVision;21",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Conflagrate;21",
+        "Drake;MotherDrake;21",
+        "WitchDoctor;AmplifyCurse;23",
+        "Shaman;EarthShield;21",
+        "WhelpEggs;FlameBurst;21",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "FireElemental;ImmolationAura;20",
+        "WhelpEggs;FlameBurst;21",
+        "SkeletonWarrior;Exhume;22",
+        "WitchDoctor;AmplifyCurse;23",
+        "Quilboar;TunnelVision;21",
+        "Huntress;Shadowmeld;23"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "Abomination;NoxiousPresence;21",
+        "MeatWagon;FiletTrebuchet;20",
+        "WitchDoctor;AmplifyCurse;23",
+        "Harpy;InfectiousSwipes;23",
+        "Quilboar;TunnelVision;21",
+        "Prowler;OnTheProwl;21"
+      ]
+    ],
+    "lastUpdate": 1717403223
+  },
+  "token": "6fcd158c-7a82-48fe-af1b-a9155cfa919d"
+}

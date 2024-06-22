@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 54114825,
+    "btag": "IDied",
+    "name": "IDied",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 116,
+    "level": 41,
+    "pvpWins": 28,
+    "leaderA": "RendLeader",
+    "leaderAWins": 6,
+    "leaderAHonor": 663,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 3,
+    "leaderBHonor": 411,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 11,
+    "leaderCHonor": 1541,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "HarvestGolem;BountifulHarvest;18",
+        "DefiasBandits;DeadlyPoison;20",
+        "Blizzard;ColdSnap;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Footmen;Fortification;18",
+        "Harpy;TrinketCollectors;20"
+      ],
+      [
+        "TirionLeader;Consecrate;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Footmen;Fortification;18",
+        "GnollBrute;ThickHide;20",
+        "Execute;Bloodthirsty;18",
+        "Chimaera;FrostShock;21",
+        "Harpy;TrinketCollectors;20"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;20",
+        "Chimaera;FrostShock;21",
+        "GnollBrute;ThickHide;20",
+        "EarthElemental;ObsidianShard;18",
+        "Harpy;TrinketCollectors;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Pyromancer;Pyroblast;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "StonehoofTauren;Provoke;18",
+        "DarkspearTroll;SerpentSting;20",
+        "Harpy;TrinketCollectors;21",
+        "Ghoul;TasteForBlood;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Chimaera;FrostShock;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Pyromancer;Pyroblast;18",
+        "Drake;Roost;20",
+        "Chimaera;FrostShock;21",
+        "Harpy;TrinketCollectors;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Ghoul;TasteForBlood;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "Abomination;NoxiousPresence;20",
+        "Ghoul;TasteForBlood;19",
+        "Blizzard;ColdSnap;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "PlagueFarmer;PartingGift;18",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;19",
+        "HarvestGolem;BountifulHarvest;18",
+        "Worgen;Frenzy;18",
+        "SkeletonWarrior;Exhume;18",
+        "Ghoul;TasteForBlood;18",
+        "Harpy;TrinketCollectors;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "GnollBrute;ThickHide;20",
+        "Chimaera;Leviathan;21",
+        "GryphonRider;MightyThrow;20",
+        "Harpy;TrinketCollectors;20",
+        "Execute;Bloodthirsty;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "WarsongRaider;Saboteur;20",
+        "StonehoofTauren;Provoke;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "DarkspearTroll;SerpentSting;20",
+        "Ghoul;TasteForBlood;18",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Ghoul;TasteForBlood;18",
+        "SkeletonWarrior;Exhume;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Execute;Bloodthirsty;18",
+        "Chimaera;FrostShock;21",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "DarkspearTroll;SerpentSting;20",
+        "StonehoofTauren;Provoke;18",
+        "WarsongRaider;Saboteur;20",
+        "Harpy;TrinketCollectors;19",
+        "Ghoul;TasteForBlood;18",
+        "Chimaera;FrostShock;21"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;20",
+        "Chimaera;FrostShock;21",
+        "GnollBrute;ThickHide;20",
+        "Raptors;StrengthInNumbers;17",
+        "Harpy;TrinketCollectors;18",
+        "WarsongGrunts;Command;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "DrakkisathLeader;LastingLegacy;19",
+        "FireElemental;MoltenCore;21",
+        "Pyromancer;Pyroblast;18",
+        "Chimaera;Leviathan;21",
+        "Firehammer;BlazingSpeed;18",
+        "Harpy;TrinketCollectors;20",
+        "Ghoul;TasteForBlood;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Pyromancer;Pyroblast;18",
+        "EarthElemental;ObsidianShard;18",
+        "Footmen;Fortification;18",
+        "Harpy;TrinketCollectors;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Chimaera;FrostShock;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;TasteForBlood;18",
+        "SkeletonParty;5Man;18",
+        "StonehoofTauren;Provoke;18",
+        "PlagueFarmer;PartingGift;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Harpy;TrinketCollectors;20"
+      ]
+    ],
+    "lastUpdate": 1719063143
+  },
+  "token": "f257f58f-bfb6-4138-8de7-8ee08cc565c9"
+}

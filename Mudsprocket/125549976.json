@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 125549976,
+    "btag": "Acrux",
+    "name": "Acrux",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 137,
+    "level": 42,
+    "pvpWins": 185,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 58,
+    "leaderAHonor": 3350,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 26,
+    "leaderBHonor": 3300,
+    "leaderC": "RendLeader",
+    "leaderCWins": 37,
+    "leaderCHonor": 3401,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "Huntress;Shadowmeld;22",
+        "Worgen;Premeditation;21",
+        "Execute;KillingSpree;18",
+        "StonehoofTauren;Momentum;24",
+        "Quilboar;Bristleback;24",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "Huntress;Shadowmeld;22",
+        "Footmen;Fortification;21",
+        "StonehoofTauren;Momentum;24",
+        "Worgen;Premeditation;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;24",
+        "StonehoofTauren;Momentum;24",
+        "Chimaera;CorrosiveBreath;20",
+        "Shaman;EarthwallTotem;20",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "StonehoofTauren;Momentum;24",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;24",
+        "Huntress;Shadowmeld;22",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "Drake;MotherDrake;21",
+        "Pyromancer;Pyroblast;21",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;Shadowmeld;22",
+        "StonehoofTauren;Momentum;24",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "Gargoyle;AerialSuperiority;18",
+        "Banshee;WillOfTheNecropolis;18",
+        "CheatDeath;Vampirism;18",
+        "Quilboar;Bristleback;24",
+        "Huntress;Shadowmeld;22",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;20",
+        "Huntress;Shadowmeld;22",
+        "Worgen;Premeditation;21",
+        "EarthElemental;ReadyToRumble;21",
+        "StonehoofTauren;Momentum;24",
+        "Chimaera;CorrosiveBreath;19",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;Bristleback;24",
+        "Harpy;InfectiousSwipes;24",
+        "DefiasBandits;PickLock;19",
+        "Worgen;Premeditation;21",
+        "Huntress;Shadowmeld;22",
+        "Prowler;PackLeader;21"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "StonehoofTauren;Momentum;24",
+        "Shaman;EarthShield;20",
+        "Huntress;Shadowmeld;22",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Abomination;FreshMeat;21",
+        "SkeletonParty;CorpseRun;20",
+        "Quilboar;Bristleback;24",
+        "Harpy;InfectiousSwipes;24",
+        "Pyromancer;Pyroblast;21",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;21",
+        "StonehoofTauren;Momentum;24",
+        "WitchDoctor;SpiritWard;21",
+        "Worgen;Premeditation;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;24",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Harpy;InfectiousSwipes;24",
+        "Chimaera;CorrosiveBreath;19",
+        "Huntress;Shadowmeld;22",
+        "FaerieDragon;Invisibility;20",
+        "HolyNova;InnerFire;16",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;21",
+        "Shaman;EarthwallTotem;20",
+        "DarkIronMiner;GoldMine;19",
+        "WitchDoctor;SpiritWard;21",
+        "SkeletonParty;CorpseRun;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;21",
+        "StonehoofTauren;Momentum;24",
+        "Huntress;Shadowmeld;22",
+        "Quilboar;Bristleback;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;20",
+        "MeatWagon;FiletTrebuchet;21",
+        "Abomination;FreshMeat;21",
+        "StonehoofTauren;Momentum;24",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;Shadowmeld;22",
+        "Quilboar;Bristleback;24"
+      ]
+    ],
+    "lastUpdate": 1719063098
+  },
+  "token": "3149f692-4dd5-42da-8093-dbc958ab0f17"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 54282984,
+    "btag": "hotsauce",
+    "name": "hotsauce",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 150,
+    "level": 44,
+    "pvpWins": 99,
+    "leaderA": "RendLeader",
+    "leaderAWins": 16,
+    "leaderAHonor": 1068,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 25,
+    "leaderBHonor": 3954,
+    "leaderC": "SneedLeader",
+    "leaderCWins": 45,
+    "leaderCHonor": 3222,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;19",
+        "Huntress;ElvenMight;24",
+        "DefiasBandits;DeadlyPoison;24",
+        "Execute;Bloodthirsty;19",
+        "HolyNova;Renew;20",
+        "CoreHounds;EternalBond;19",
+        "Shaman;EarthShield;22"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "Huntress;ElvenMight;23",
+        "Footmen;Fortification;20",
+        "StonehoofTauren;Momentum;24",
+        "Harpy;InfectiousSwipes;21",
+        "Shaman;EarthShield;22",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;OnTheProwl;21",
+        "Quilboar;Bristleback;22",
+        "Execute;Bloodthirsty;18",
+        "Huntress;ElvenMight;23",
+        "WhelpEggs;FlameBurst;26"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "StonehoofTauren;Momentum;24",
+        "Shaman;EarthShield;22",
+        "Gargoyle;WingBuffet;22",
+        "Quilboar;TunnelVision;24",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "WhelpEggs;FlameBurst;26",
+        "Drake;MotherDrake;22",
+        "Gargoyle;WingBuffet;22",
+        "Quilboar;Bristleback;22",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "DefiasBandits;PickLock;24"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;19",
+        "Necromancer;JeweledSkulls;21",
+        "Gargoyle;WingBuffet;22",
+        "Execute;Bloodthirsty;19",
+        "StonehoofTauren;Momentum;24",
+        "WhelpEggs;FlameBurst;26",
+        "OgreMage;FrostfireBolt;22"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "Huntress;Shadowmeld;24",
+        "DefiasBandits;DeadlyPoison;24",
+        "WhelpEggs;FlameBurst;26",
+        "Quilboar;Bristleback;22",
+        "MeatWagon;FiletTrebuchet;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;22",
+        "DefiasBandits;LastResort;24",
+        "WhelpEggs;FlameBurst;26",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Huntress;Shadowmeld;24"
+      ],
+      [
+        "CairneLeader;Plainsrunning;19",
+        "StonehoofTauren;Momentum;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "WitchDoctor;SpiritWard;21",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;21",
+        "OgreMage;FrostfireBolt;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "SkeletonParty;5Man;22",
+        "Necromancer;JeweledSkulls;21",
+        "WhelpEggs;FlameBurst;26",
+        "Huntress;ElvenMight;24",
+        "Quilboar;TunnelVision;24",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;23",
+        "StonehoofTauren;Momentum;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Gargoyle;WingBuffet;22",
+        "DefiasBandits;LastResort;24",
+        "OgreMage;FrostfireBolt;21",
+        "WhelpEggs;FlameBurst;26"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;19",
+        "Chimaera;CorrosiveBreath;21",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;ElvenMight;23",
+        "StonehoofTauren;Momentum;24",
+        "WhelpEggs;FlameBurst;26",
+        "OgreMage;FrostfireBolt;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;25",
+        "Pyromancer;Conflagrate;22",
+        "Drake;MotherDrake;24",
+        "WitchDoctor;SpiritWard;22",
+        "DefiasBandits;PickLock;24",
+        "OgreMage;FrostfireBolt;22",
+        "Shaman;EarthShield;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Pyroblast;22",
+        "WhelpEggs;FlameBurst;26",
+        "Quilboar;Bristleback;22",
+        "DefiasBandits;DeadlyPoison;24",
+        "GryphonRider;MightyThrow;21",
+        "Shaman;EarthShield;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Necromancer;CultOfTheDamned;21",
+        "SkeletonParty;5Man;22",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Quilboar;Bristleback;22",
+        "Gargoyle;WingBuffet;22",
+        "Abomination;NoxiousPresence;18"
+      ]
+    ],
+    "lastUpdate": 1719063094
+  },
+  "token": "12845011-656f-40d4-890a-1682912b56cf"
+}

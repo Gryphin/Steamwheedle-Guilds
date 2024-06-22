@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 10017390,
+    "btag": "Eagle",
+    "name": "Eagle",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 134,
+    "level": 43,
+    "pvpWins": 178,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 12,
+    "leaderAHonor": 1075,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 71,
+    "leaderBHonor": 2007,
+    "leaderC": "GrommashLeader",
+    "leaderCWins": 38,
+    "leaderCHonor": 1191,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "Huntress;Shadowmeld;18",
+        "GryphonRider;AirDrop;18",
+        "Execute;Overpower;20",
+        "WhelpEggs;FlameBurst;20",
+        "Mountaineer;MendPets;21",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "GryphonRider;AirDrop;18",
+        "DefiasBandits;PickLock;22",
+        "Shaman;EarthShield;21",
+        "HolyNova;InnerFire;20",
+        "WitchDoctor;AmplifyCurse;21",
+        "Quilboar;Bristleback;23"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Quilboar;Bristleback;23",
+        "HarvestGolem;TrojanChickens;20",
+        "Harpy;TrinketCollectors;19",
+        "Execute;Overpower;21",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;20"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;22",
+        "WitchDoctor;AmplifyCurse;21",
+        "Shaman;EarthShield;21",
+        "Harpy;TrinketCollectors;18",
+        "Execute;Overpower;21",
+        "Quilboar;Bristleback;23",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "WhelpEggs;FlameBurst;20",
+        "Drake;MotherDrake;18",
+        "Chimaera;FrostShock;20",
+        "Quilboar;Bristleback;23",
+        "WitchDoctor;AmplifyCurse;21",
+        "DefiasBandits;PickLock;22"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "Gargoyle;WingBuffet;20",
+        "Necromancer;JeweledSkulls;21",
+        "Execute;Overpower;21",
+        "Quilboar;Bristleback;23",
+        "FireElemental;ImmolationAura;18",
+        "ArcaneBlast;Amplification;20"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;21",
+        "DefiasBandits;PickLock;22",
+        "Worgen;Premeditation;18",
+        "WhelpEggs;FlameBurst;20",
+        "Execute;Overpower;21",
+        "Quilboar;TunnelVision;23",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;20"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;Bristleback;23",
+        "Chimaera;FrostShock;20",
+        "WitchDoctor;AmplifyCurse;21",
+        "Shaman;EarthShield;21",
+        "Execute;Overpower;21",
+        "WhelpEggs;FlameBurst;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "WitchDoctor;SpiritWard;21",
+        "Necromancer;JeweledSkulls;21",
+        "Shaman;EarthShield;20",
+        "Quilboar;TunnelVision;23",
+        "Execute;Overpower;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Necromancer;JeweledSkulls;21",
+        "SkeletonParty;RitualOfRime;20",
+        "Quilboar;TunnelVision;23",
+        "Execute;KillingSpree;21",
+        "Chimaera;FrostShock;20",
+        "WitchDoctor;AmplifyCurse;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;20",
+        "WitchDoctor;AmplifyCurse;21",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "GoblinSapper;RocketBoots;21",
+        "WhelpEggs;FlameBurst;20",
+        "Shaman;EarthShield;21",
+        "PlagueFarmer;SplashingPumpkins;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "Chimaera;FrostShock;20",
+        "Harpy;TrinketCollectors;18",
+        "Huntress;Shadowmeld;21",
+        "FaerieDragon;FaeBlessing;19",
+        "DarkIronMiner;GoldMine;17",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "Firehammer;MoultinMetal;20",
+        "Pyromancer;Pyroblast;17",
+        "Shaman;EarthShield;20",
+        "Quilboar;TunnelVision;21",
+        "Harpy;TrinketCollectors;18",
+        "GryphonRider;AirDrop;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "WhelpEggs;FlameBurst;20",
+        "Pyromancer;Pyroblast;18",
+        "Quilboar;Bristleback;23",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "CoreHounds;EternalBond;22",
+        "MurlocTidehunters;SafetyBubble;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Necromancer;JeweledSkulls;21",
+        "Ghoul;BoneArmor;18",
+        "WitchDoctor;AmplifyCurse;21",
+        "Chimaera;FrostShock;20",
+        "Blizzard;ColdSnap;18",
+        "Quilboar;TunnelVision;23"
+      ]
+    ],
+    "lastUpdate": 1719063131
+  },
+  "token": "fe7d5744-96e5-4fc9-a44f-8e75fd698239"
+}

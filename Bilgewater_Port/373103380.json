@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 373103380,
+    "btag": "Argalan",
+    "name": "Argalan",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 536,
+    "leaderA": "ThaurissanLeader",
+    "leaderAWins": 34,
+    "leaderAHonor": 3793,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 57,
+    "leaderBHonor": 3793,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 40,
+    "leaderCHonor": 3736,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "DarkIronMiner;DwarvenAmbition;24",
+        "GryphonRider;MightyThrow;25",
+        "Blizzard;ColdSnap;25",
+        "Ghoul;BoneArmor;24",
+        "DefiasBandits;DeadlyPoison;26",
+        "ArcaneBlast;Torrent;22"
+      ],
+      [
+        "TirionLeader;DivineShield;25",
+        "DefiasBandits;DeadlyPoison;26",
+        "GryphonRider;MightyThrow;25",
+        "Footmen;Fortification;24",
+        "MurlocTidehunters;SafetyBubble;23",
+        "DarkIronMiner;DwarvenAmbition;24",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;25",
+        "Harpy;InfectiousSwipes;26",
+        "Vultures;Migration;22",
+        "Prowler;OnTheProwl;25",
+        "Pyromancer;Pyroblast;26",
+        "DarkIronMiner;DwarvenAmbition;25",
+        "Blizzard;ColdSnap;25"
+      ],
+      [
+        "GrommashLeader;MirrorImage;25",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Shaman;EarthShield;25",
+        "Harpy;InfectiousSwipes;26",
+        "Quilboar;TunnelVision;25",
+        "WhelpEggs;FlameBurst;25",
+        "Blizzard;ColdSnap;25"
+      ],
+      [
+        "RendLeader;FlamingSoul;25",
+        "Pyromancer;Conflagrate;26",
+        "Drake;MotherDrake;26",
+        "Harpy;InfectiousSwipes;26",
+        "Quilboar;Bristleback;25",
+        "DefiasBandits;DeadlyPoison;26",
+        "MeatWagon;FiletTrebuchet;26"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;22",
+        "Ghoul;BoneArmor;25",
+        "Necromancer;JeweledSkulls;25",
+        "ChainLightning;Reverberation;23",
+        "SkeletonWarrior;Exhume;22",
+        "ArcaneBlast;Torrent;23",
+        "DarkIronMiner;DwarvenAmbition;25"
+      ],
+      [
+        "MaievLeader;Remorseless;22",
+        "Blizzard;ColdSnap;25",
+        "Worgen;Premeditation;24",
+        "DarkIronMiner;DwarvenAmbition;25",
+        "HarvestGolem;UnstableCore;24",
+        "WhelpEggs;FlameBurst;25",
+        "BatRider;FlamingPitch;22"
+      ],
+      [
+        "HoggerLeader;HamHock;25",
+        "Harpy;InfectiousSwipes;26",
+        "MurlocTidehunters;SafetyBubble;23",
+        "DarkIronMiner;DwarvenAmbition;25",
+        "WhelpEggs;FlameBurst;25",
+        "Huntress;ElvenMight;25",
+        "Banshee;WillOfTheNecropolis;25"
+      ],
+      [
+        "CairneLeader;Aftershock;22",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Shaman;EarthShield;25",
+        "Banshee;WillOfTheNecropolis;25",
+        "MurlocTidehunters;SafetyBubble;23",
+        "WhelpEggs;FlameBurst;25",
+        "DefiasBandits;DeadlyPoison;26"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Banshee;WillOfTheNecropolis;25",
+        "Necromancer;JeweledSkulls;25",
+        "DarkIronMiner;DwarvenAmbition;25",
+        "Quilboar;TunnelVision;25",
+        "Blizzard;ColdSnap;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;22",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "OgreMage;Avarice;22",
+        "Gargoyle;WingBuffet;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Harpy;InfectiousSwipes;26",
+        "Blizzard;ColdSnap;25"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;22",
+        "DefiasBandits;DeadlyPoison;25",
+        "Prowler;OnTheProwl;24",
+        "DarkIronMiner;DwarvenAmbition;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Chimaera;CorrosiveBreath;23",
+        "Blizzard;ColdSnap;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;25",
+        "Pyromancer;Pyroblast;26",
+        "WhelpEggs;FlameBurst;25",
+        "Shaman;EarthShield;25",
+        "FaerieDragon;Invisibility;23",
+        "DarkIronMiner;DwarvenAmbition;24",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;25",
+        "DarkIronMiner;DwarvenAmbition;24",
+        "Pyromancer;Pyroblast;26",
+        "CoreHounds;EternalBond;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "GryphonRider;MightyThrow;25",
+        "HolyNova;InnerFire;22"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;22",
+        "Ghoul;BoneArmor;25",
+        "Necromancer;JeweledSkulls;25",
+        "WarsongRaider;Saboteur;23",
+        "Harpy;InfectiousSwipes;26",
+        "DefiasBandits;DeadlyPoison;26",
+        "DarkIronMiner;DwarvenAmbition;25"
+      ]
+    ],
+    "lastUpdate": 1716771517
+  },
+  "token": "a6280958-2982-42f7-b514-36b676a1d57e"
+}

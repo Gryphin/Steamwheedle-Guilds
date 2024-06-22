@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 313240183,
+    "btag": "ElJefe",
+    "name": "ElJefe",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 108,
+    "level": 37,
+    "pvpWins": 87,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 20,
+    "leaderAHonor": 1638,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 10,
+    "leaderBHonor": 1650,
+    "leaderC": "CharlgaLeader",
+    "leaderCWins": 21,
+    "leaderCHonor": 1816,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;20",
+        "GryphonRider;MightyThrow;18",
+        "Footmen;ShieldBash;17",
+        "Blizzard;ColdSnap;17",
+        "GnollBrute;Rabid;17",
+        "Raptors;StrengthInNumbers;18",
+        "Drake;EngulfingFlames;18"
+      ],
+      [
+        "TirionLeader;Consecrate;18",
+        "Huntress;ElvenMight;17",
+        "GryphonRider;MightyThrow;18",
+        "Prowler;OnTheProwl;18",
+        "Drake;EngulfingFlames;18",
+        "DarkIronMiner;GoldMine;17",
+        "Pyromancer;Conflagrate;18"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+        "Prowler;OnTheProwl;17",
+        "Harpy;TrinketCollectors;17",
+        "Mountaineer;MendPets;17",
+        "Pyromancer;Conflagrate;17",
+        "GryphonRider;MightyThrow;18",
+        "Raptors;StrengthInNumbers;17"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "WarsongRaider;Saboteur;17",
+        "Raptors;StrengthInNumbers;18",
+        "Prowler;OnTheProwl;18",
+        "GryphonRider;MightyThrow;18",
+        "Pyromancer;Conflagrate;18"
+      ],
+      [
+        "RendLeader;FlamingSoul;20",
+        "Pyromancer;Conflagrate;18",
+        "Drake;EngulfingFlames;18",
+        "Chimaera;Leviathan;19",
+        "Prowler;OnTheProwl;18",
+        "SkeletonWarrior;Exhume;17",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "MeatWagon;FiletTrebuchet;17",
+        "SkeletonParty;CorpseRun;18",
+        "ChainLightning;BrilliantFlash;17",
+        "CoreHounds;;16",
+        "Pyromancer;Conflagrate;18",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "MaievLeader;Remorseless;17",
+        "Mountaineer;MendPets;17",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "SkeletonWarrior;Exhume;17",
+        "DarkIronMiner;GoldMine;17",
+        "Drake;EngulfingFlames;17"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Prowler;OnTheProwl;18",
+        "Chimaera;FrostShock;20",
+        "DefiasBandits;DeadlyPoison;17",
+        "Pyromancer;Conflagrate;18",
+        "Mountaineer;MendPets;17",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "WarsongRaider;Saboteur;17",
+        "StonehoofTauren;Momentum;18",
+        "Pyromancer;Conflagrate;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Drake;EngulfingFlames;18",
+        "SkeletonWarrior;Exhume;17"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;18",
+        "Necromancer;CultOfTheDamned;18",
+        "SkeletonWarrior;Exhume;18",
+        "OgreMage;FrostfireBolt;17",
+        "GryphonRider;MightyThrow;18",
+        "ChainLightning;BrilliantFlash;17",
+        "Ghoul;TasteForBlood;17"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "StonehoofTauren;Momentum;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "MeatWagon;FiletTrebuchet;17",
+        "Prowler;OnTheProwl;18",
+        "Pyromancer;Conflagrate;18",
+        "Chimaera;FrostShock;19"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;17",
+        "Harpy;TrinketCollectors;17",
+        "Chimaera;Leviathan;19",
+        "Huntress;ElvenMight;17",
+        "Abomination;NoxiousPresence;18",
+        "FireElemental;MoltenCore;17",
+        "Mountaineer;MendPets;17"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;18",
+        "Drake;EngulfingFlames;18",
+        "Flamewaker;HeatStroke;17",
+        "Pyromancer;Conflagrate;18",
+        "GryphonRider;MightyThrow;18",
+        "OgreMage;FrostfireBolt;17",
+        "SkeletonWarrior;Exhume;17"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;19",
+        "DarkIronMiner;GoldMine;17",
+        "Pyromancer;Conflagrate;18",
+        "Footmen;ShieldBash;17",
+        "Drake;EngulfingFlames;18",
+        "Blizzard;ColdSnap;17",
+        "Prowler;OnTheProwl;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;17",
+        "MeatWagon;FiletTrebuchet;17",
+        "SkeletonParty;CorpseRun;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "GryphonRider;MightyThrow;18",
+        "Prowler;OnTheProwl;18",
+        "Footmen;ShieldBash;17"
+      ]
+    ],
+    "lastUpdate": 1719063113
+  },
+  "token": "0179ad5d-d4ca-4848-9409-ea5c6f702e69"
+}

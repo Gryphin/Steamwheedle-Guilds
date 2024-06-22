@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 61254645,
+    "btag": "Bwanna",
+    "name": "Bwanna",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sneed_Pose",
+    "skulls": 85,
+    "level": 36,
+    "pvpWins": 111,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 11,
+    "leaderAHonor": 1833,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 7,
+    "leaderBHonor": 1291,
+    "leaderC": "SneedLeader",
+    "leaderCWins": 20,
+    "leaderCHonor": 1519,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;17",
+        "GryphonRider;MightyThrow;17",
+        "DarkspearTroll;;16",
+        "GoblinSapper;;16",
+        "Drake;;16",
+        "S.A.F.E.PilotFlyingMachine;;17",
+        "Harpy;;16"
+      ],
+      [
+        "TirionLeader;;16",
+        "GryphonRider;MightyThrow;17",
+        "DarkspearTroll;;16",
+        "MurlocTidehunters;;16",
+        "ArcaneBlast;;16",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "GoblinSapper;;16"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+        "GryphonRider;MightyThrow;17",
+        "FireElemental;;16",
+        "MurlocTidehunters;;16",
+        "Harpy;;16",
+        "Pyromancer;;15",
+        "ChainLightning;;16"
+      ],
+      [
+        "GrommashLeader;;16",
+        "GryphonRider;;16",
+        "DarkspearTroll;;16",
+        "MeatWagon;;16",
+        "AngryChickens;;16",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "SkeletonWarrior;;16"
+      ],
+      [
+        "RendLeader;;16",
+        "GryphonRider;MightyThrow;17",
+        "DarkspearTroll;;16",
+        "GnollBrute;;16",
+        "AngryChickens;Snackrifice;18",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "HarvestGolem;;16"
+      ],
+      [
+        "BloodmageThalnosLeader;;16",
+        "GryphonRider;MightyThrow;17",
+        "DarkspearTroll;;16",
+        "SkeletonWarrior;;16",
+        "AngryChickens;Snackrifice;18",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "MeatWagon;FiletTrebuchet;17"
+      ],
+      [
+        "MaievLeader;Shadowstep;17",
+        "GryphonRider;MightyThrow;17",
+        "DefiasBandits;;16",
+        "MeatWagon;FiletTrebuchet;17",
+        "FaerieDragon;;15",
+        "S.A.F.E.PilotFlyingMachine;;17",
+        "GoblinSapper;;16"
+      ],
+      [
+        "HoggerLeader;;16",
+        "GryphonRider;;16",
+        "DarkspearTroll;;16",
+        "MeatWagon;;16",
+        "AngryChickens;;16",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "SkeletonWarrior;;16"
+      ],
+      [
+        "CairneLeader;;15",
+        "GryphonRider;;16",
+        "DarkspearTroll;;16",
+        "GnollBrute;;16",
+        "AngryChickens;;16",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "HarvestGolem;;15"
+      ],
+      [
+        "BaronRivendareLeader;;16",
+        "GryphonRider;MightyThrow;17",
+        "DarkspearTroll;;16",
+        "GnollBrute;;16",
+        "SkeletonWarrior;;16",
+        "SkeletonParty;;16",
+        "Gargoyle;AerialSuperiority;17"
+      ],
+      [
+        "SneedLeader;LandGrab;19",
+        "GryphonRider;MightyThrow;17",
+        "DarkspearTroll;;16",
+        "MeatWagon;FiletTrebuchet;17",
+        "AngryChickens;Snackrifice;18",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "SkeletonWarrior;;16"
+      ],
+      [
+        "CharlgaLeader;;15",
+        "GryphonRider;;16",
+        "HolyNova;;14",
+        "GnollBrute;;16",
+        "AngryChickens;;16",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "MurlocTidehunters;;15"
+      ],
+      [
+        "DrakkisathLeader;;15",
+        "GryphonRider;;16",
+        "DarkspearTroll;;16",
+        "MeatWagon;;16",
+        "AngryChickens;;16",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "SkeletonWarrior;;16"
+      ],
+      [
+        "ThaurissanLeader;;16",
+        "GryphonRider;MightyThrow;17",
+        "DarkspearTroll;;16",
+        "Harpy;;16",
+        "MurlocTidehunters;;16",
+        "Gargoyle;AerialSuperiority;17",
+        "MeatWagon;FiletTrebuchet;17"
+      ],
+      [
+        "SylvanasLeader;;16",
+        "GryphonRider;MightyThrow;17",
+        "DarkspearTroll;;16",
+        "GnollBrute;;16",
+        "AngryChickens;Snackrifice;18",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "HarvestGolem;;16"
+      ]
+    ],
+    "lastUpdate": 1719063133
+  },
+  "token": "727fa8bb-6849-4014-8de4-e428fd72aa6b"
+}

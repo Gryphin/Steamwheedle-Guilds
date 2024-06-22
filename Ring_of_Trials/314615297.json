@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 314615297,
+    "btag": "Sarcan",
+    "name": "Sarcan",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 150,
+    "level": 44,
+    "pvpWins": 2316,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 65,
+    "leaderAHonor": 192,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 5,
+    "leaderBHonor": 195,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 1951,
+    "leaderCHonor": 791,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "HarvestGolem;TrojanChickens;21",
+        "Huntress;ElvenMight;24",
+        "Blizzard;ColdSnap;25",
+        "Quilboar;BrambleBurst;25",
+        "WhelpEggs;FlameBurst;25",
+        "Drake;MotherDrake;25"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "GryphonRider;MightyThrow;22",
+        "Blizzard;ColdSnap;25",
+        "Quilboar;BrambleBurst;25",
+        "Huntress;ElvenMight;24",
+        "WhelpEggs;FlameBurst;25",
+        "DefiasBandits;DeadlyPoison;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "PolymorphSpell;GoldenFleece;20",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;BrambleBurst;25",
+        "WhelpEggs;FlameBurst;24",
+        "Huntress;ElvenMight;24",
+        "Necromancer;JeweledSkulls;25"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Execute;Overpower;21",
+        "WhelpEggs;FlameBurst;25",
+        "Quilboar;BrambleBurst;25",
+        "WitchDoctor;AmplifyCurse;20",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;25",
+        "WhelpEggs;FlameBurst;25",
+        "Drake;MotherDrake;25",
+        "Harpy;InfectiousSwipes;22",
+        "DefiasBandits;PickLock;22",
+        "Quilboar;BrambleBurst;25",
+        "MeatWagon;FiletTrebuchet;25"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Ghoul;BoneArmor;20",
+        "CheatDeath;Vampirism;17",
+        "Blizzard;ColdSnap;24",
+        "ArcaneBlast;Amplification;17",
+        "Quilboar;BrambleBurst;24",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "Blizzard;ColdSnap;25",
+        "GryphonRider;MightyThrow;22",
+        "WhelpEggs;FlameBurst;25",
+        "DarkIronMiner;DwarvenAmbition;21",
+        "Quilboar;Bristleback;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "PolymorphSpell;GoldenFleece;20",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;BrambleBurst;25",
+        "Necromancer;JeweledSkulls;25",
+        "WhelpEggs;FlameBurst;25",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Execute;Bloodthirsty;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Necromancer;JeweledSkulls;24",
+        "Blizzard;ColdSnap;24",
+        "Quilboar;BrambleBurst;24",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "PolymorphSpell;GoldenFleece;20",
+        "Execute;Bloodthirsty;21",
+        "Prowler;PackLeader;21",
+        "DefiasBandits;PickLock;22",
+        "Harpy;InfectiousSwipes;22",
+        "WitchDoctor;AmplifyCurse;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "Blizzard;ColdSnap;25",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "MeatWagon;FiletTrebuchet;25",
+        "Necromancer;JeweledSkulls;25",
+        "Quilboar;BrambleBurst;24",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;18",
+        "Quilboar;BrambleBurst;25",
+        "PolymorphSpell;GoldenFleece;20",
+        "Huntress;ElvenMight;24",
+        "Necromancer;JeweledSkulls;25",
+        "WhelpEggs;FlameBurst;24",
+        "Drake;EngulfingFlames;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "DarkIronMiner;DwarvenAmbition;21",
+        "WhelpEggs;FlameBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Shaman;EarthShield;21",
+        "GryphonRider;AirDrop;21",
+        "Quilboar;BrambleBurst;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "WhelpEggs;FlameBurst;22",
+        "Drake;MotherDrake;25",
+        "Quilboar;BrambleBurst;24",
+        "Huntress;ElvenMight;24",
+        "Harpy;InfectiousSwipes;22",
+        "Blizzard;ColdSnap;25"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;17",
+        "Necromancer;JeweledSkulls;24",
+        "MeatWagon;FiletTrebuchet;24",
+        "Execute;Overpower;21",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;BrambleBurst;24",
+        "DefiasBandits;PickLock;21"
+      ]
+    ],
+    "lastUpdate": 1716751630
+  },
+  "token": "754cff29-6c27-4bac-8c2c-260942ee041c"
+}

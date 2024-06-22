@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 871876071,
+    "btag": "Mistabee",
+    "name": "Mistabee",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 101,
+    "level": 35,
+    "pvpWins": 134,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 18,
+    "leaderAHonor": 2239,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 15,
+    "leaderBHonor": 1593,
+    "leaderC": "CharlgaLeader",
+    "leaderCWins": 18,
+    "leaderCHonor": 1595,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;17",
+        "Huntress;Shadowmeld;17",
+        "Worgen;Premeditation;17",
+        "Footmen;ShieldBash;18",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Gargoyle;WingBuffet;18",
+        "Chimaera;Leviathan;18"
+      ],
+      [
+        "TirionLeader;Consecrate;19",
+        "Worgen;Premeditation;18",
+        "Footmen;ShieldBash;18",
+        "StonehoofTauren;Momentum;20",
+        "Blizzard;;16",
+        "Gargoyle;WingBuffet;20",
+        "DarkIronMiner;DwarvenAmbition;18"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;19",
+        "Chimaera;Leviathan;19",
+        "Harpy;InfectiousSwipes;18",
+        "Prowler;PredatoryInstincts;18",
+        "Gargoyle;WingBuffet;19",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Footmen;ShieldBash;18"
+      ],
+      [
+        "GrommashLeader;Bladestorm;19",
+        "StonehoofTauren;Momentum;20",
+        "Shaman;EarthShield;17",
+        "WitchDoctor;AmplifyCurse;18",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Execute;Bloodthirsty;17",
+        "Gargoyle;WingBuffet;20"
+      ],
+      [
+        "RendLeader;FlamingSoul;20",
+        "Firehammer;BlazingSpeed;17",
+        "MoltenGiant;Bolster;17",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "StonehoofTauren;Momentum;20",
+        "Gargoyle;WingBuffet;19",
+        "Raptors;Motivation;17"
+      ],
+      [
+        "BloodmageThalnosLeader;;18",
+        "Abomination;FreshMeat;19",
+        "MeatWagon;GreasedGears;18",
+        "Gargoyle;WingBuffet;20",
+        "Chimaera;Leviathan;19",
+        "WitchDoctor;AmplifyCurse;18",
+        "DarkIronMiner;DwarvenAmbition;18"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "Huntress;Shadowmeld;17",
+        "Worgen;Premeditation;18",
+        "Footmen;ShieldBash;18",
+        "Prowler;PredatoryInstincts;18",
+        "Gargoyle;WingBuffet;20",
+        "DarkIronMiner;DwarvenAmbition;18"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Chimaera;Leviathan;19",
+        "Raptors;Motivation;17",
+        "Harpy;InfectiousSwipes;18",
+        "Gargoyle;WingBuffet;20",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "StonehoofTauren;Momentum;20"
+      ],
+      [
+        "CairneLeader;Aftershock;18",
+        "WitchDoctor;AmplifyCurse;18",
+        "StonehoofTauren;Momentum;20",
+        "OgreMage;Ignite;17",
+        "Execute;Bloodthirsty;17",
+        "Chimaera;Leviathan;19",
+        "Gargoyle;WingBuffet;20"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;19",
+        "MeatWagon;GreasedGears;18",
+        "WitchDoctor;AmplifyCurse;18",
+        "WhelpEggs;;16",
+        "Chimaera;Leviathan;19",
+        "Execute;Bloodthirsty;17",
+        "Pyromancer;BlazeOfGlory;17"
+      ],
+      [
+        "SneedLeader;;17",
+        "OgreMage;Ignite;17",
+        "WitchDoctor;AmplifyCurse;17",
+        "Execute;Bloodthirsty;16",
+        "Chimaera;Leviathan;19",
+        "Gargoyle;WingBuffet;19",
+        "StonehoofTauren;Momentum;18"
+      ],
+      [
+        "CharlgaLeader;;18",
+        "Chimaera;Leviathan;19",
+        "Raptors;Motivation;17",
+        "PolymorphSpell;;14",
+        "Prowler;PredatoryInstincts;18",
+        "Gargoyle;WingBuffet;20",
+        "Footmen;ShieldBash;18"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;18",
+        "Firehammer;BlazingSpeed;17",
+        "DarkIronMiner;DwarvenAmbition;17",
+        "MoltenGiant;Bolster;17",
+        "Execute;Bloodthirsty;16",
+        "StonehoofTauren;Momentum;18",
+        "Gargoyle;WingBuffet;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "MoltenGiant;Bolster;17",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Firehammer;BlazingSpeed;17",
+        "Chimaera;Leviathan;19",
+        "Gargoyle;WingBuffet;19",
+        "StonehoofTauren;;20"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;20",
+        "MeatWagon;GreasedGears;18",
+        "Abomination;FreshMeat;19",
+        "StonehoofTauren;Momentum;20",
+        "Prowler;PredatoryInstincts;18",
+        "Gargoyle;WingBuffet;20",
+        "Execute;Bloodthirsty;17"
+      ]
+    ],
+    "lastUpdate": 1719063137
+  },
+  "token": "84b088f4-2fa9-4b0f-8f36-4446694facdd"
+}

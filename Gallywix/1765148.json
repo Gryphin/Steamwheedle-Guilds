@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1765148,
+    "btag": "Greg",
+    "name": "Greg",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Rend_Pose",
+    "skulls": 135,
+    "level": 41,
+    "pvpWins": 155,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 39,
+    "leaderAHonor": 3227,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 51,
+    "leaderBHonor": 3159,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 22,
+    "leaderCHonor": 3003,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;18",
+        "WarsongGrunts;;16",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "StonehoofTauren;Momentum;22",
+        "BatRider;;17",
+        "SkeletonParty;CorpseRun;19",
+        "HolyNova;;16"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Footmen;ShieldBash;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "StonehoofTauren;Pummel;22",
+        "Ghoul;BoneArmor;21",
+        "GryphonRider;OdynsFury;22",
+        "Pyromancer;Conflagrate;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Raptors;StrengthInNumbers;18",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "CheatDeath;;17",
+        "GoblinSapper;RocketBoots;18"
+      ],
+      [
+        "GrommashLeader;Bladestorm;19",
+        "GoblinSapper;RocketBoots;18",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Footmen;ShieldBash;21",
+        "GryphonRider;AirDrop;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Pyromancer;Conflagrate;22",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;InfectiousSwipes;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "GryphonRider;OdynsFury;22",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Gargoyle;WingBuffet;21",
+        "Ghoul;BoneArmor;21",
+        "Blizzard;ColdSnap;18",
+        "GryphonRider;AirDrop;21",
+        "Pyromancer;Conflagrate;22",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "HarvestGolem;UnstableCore;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "SkeletonParty;CorpseRun;19",
+        "GryphonRider;OdynsFury;21",
+        "WhelpEggs;ChromaticPlating;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;22",
+        "GryphonRider;AirDrop;22",
+        "Ghoul;BoneArmor;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Pyromancer;Conflagrate;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;23",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "StonehoofTauren;Pummel;22",
+        "Pyromancer;Conflagrate;22",
+        "GryphonRider;OdynsFury;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;23",
+        "Gargoyle;WingBuffet;21",
+        "Ghoul;BoneArmor;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "GryphonRider;OdynsFury;22",
+        "Quilboar;Bristleback;21",
+        "Pyromancer;Conflagrate;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;16",
+        "DarkspearTroll;BigBadVoodoo;15",
+        "StonehoofTauren;Momentum;16",
+        "EarthElemental;;14",
+        "GryphonRider;OdynsFury;17",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;17",
+        "Quilboar;TunnelVision;17"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;17",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;22",
+        "Raptors;StrengthInNumbers;18",
+        "Pyromancer;Conflagrate;21",
+        "GryphonRider;OdynsFury;21",
+        "DarkspearTroll;BigBadVoodoo;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "EarthElemental;ObsidianShard;18",
+        "Pyromancer;Pyroblast;21",
+        "GryphonRider;OdynsFury;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Harpy;InfectiousSwipes;22",
+        "StonehoofTauren;Momentum;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Conflagrate;22",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;Bristleback;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Blizzard;ColdSnap;19",
+        "GryphonRider;AirDrop;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;17",
+        "Gargoyle;WingBuffet;21",
+        "Ghoul;BoneArmor;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Pyromancer;Pyroblast;22",
+        "Quilboar;TunnelVision;21"
+      ]
+    ],
+    "lastUpdate": 1719062202
+  },
+  "token": "01d0b3e4-0f26-46e1-842a-42103c2c9d09"
+}

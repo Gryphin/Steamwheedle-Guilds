@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 101827189,
+    "btag": "Victor",
+    "name": "Victor",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Cairne_Pose",
+    "skulls": 150,
+    "level": 46,
+    "pvpWins": 334,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 30,
+    "leaderAHonor": 4123,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 55,
+    "leaderBHonor": 4225,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 47,
+    "leaderCHonor": 3711,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "GryphonRider;MightyThrow;21",
+        "Blizzard;ColdSnap;24",
+        "MeatWagon;FiletTrebuchet;21",
+        "WhelpEggs;FlameBurst;22",
+        "Execute;Bloodthirsty;20"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "DefiasBandits;PickLock;21",
+        "GryphonRider;MightyThrow;21",
+        "FireElemental;ImmolationAura;21",
+        "Harpy;InfectiousSwipes;24",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;InfectiousSwipes;24",
+        "Banshee;WillOfTheNecropolis;22",
+        "FireElemental;ImmolationAura;21",
+        "Shaman;EarthShield;24",
+        "DarkIronMiner;GoldMine;21",
+        "Huntress;Shadowmeld;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;25",
+        "Shaman;EarthShield;24",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Blizzard;ColdSnap;24",
+        "Execute;Bloodthirsty;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "MeatWagon;FiletTrebuchet;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Execute;Bloodthirsty;20",
+        "Blizzard;ColdSnap;24",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "CheatDeath;Apocalypse;20",
+        "Banshee;WillOfTheNecropolis;22",
+        "Execute;Bloodthirsty;20",
+        "Harpy;InfectiousSwipes;22",
+        "Chimaera;CorrosiveBreath;21",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "GryphonRider;MightyThrow;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "EarthElemental;ObsidianShard;21",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Chimaera;CorrosiveBreath;21",
+        "Quilboar;BrambleBurst;22",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;22",
+        "Execute;Bloodthirsty;19",
+        "SkeletonParty;RitualOfRime;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Shaman;EarthShield;24",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "WitchDoctor;SpiritWard;22",
+        "Harpy;InfectiousSwipes;24",
+        "Blizzard;ColdSnap;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Ghoul;BoneArmor;23",
+        "MeatWagon;FiletTrebuchet;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Blizzard;ColdSnap;24",
+        "Harpy;InfectiousSwipes;24",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;23",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Shaman;EarthwallTotem;24",
+        "EarthElemental;ObsidianShard;21",
+        "WitchDoctor;SpiritWard;21",
+        "SkeletonParty;RitualOfRime;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Quilboar;TunnelVision;21",
+        "Chimaera;CorrosiveBreath;21",
+        "Harpy;InfectiousSwipes;22",
+        "FireElemental;ImmolationAura;21",
+        "Banshee;WillOfTheNecropolis;22",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "DarkIronMiner;GoldMine;21",
+        "Pyromancer;Conflagrate;22",
+        "Blizzard;ColdSnap;24",
+        "WitchDoctor;SpiritWard;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "DarkIronMiner;DwarvenAmbition;21",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;BrambleBurst;22",
+        "Blizzard;ColdSnap;24",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Necromancer;JeweledSkulls;24",
+        "Banshee;WillOfTheNecropolis;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;22",
+        "WhelpEggs;FlameBurst;22"
+      ]
+    ],
+    "lastUpdate": 1719063103
+  },
+  "token": "b8227ea2-8dea-4b34-ade7-c09068cb113d"
+}

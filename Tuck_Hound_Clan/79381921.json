@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 79381921,
+    "btag": "MedBay",
+    "name": "MedBay",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 143,
+    "level": 40,
+    "pvpWins": 155,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 35,
+    "leaderAHonor": 3100,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 15,
+    "leaderBHonor": 2847,
+    "leaderC": "MaievLeader",
+    "leaderCWins": 19,
+    "leaderCHonor": 3111,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Blizzard;ColdSnap;18",
+        "FireElemental;ImmolationAura;19",
+        "WhelpEggs;FlameBurst;20",
+        "Firehammer;MoultinMetal;18"
+      ],
+      [
+        "TirionLeader;DivineShield;19",
+        "Huntress;ElvenMight;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Footmen;Fortification;20",
+        "BatRider;EnchantedVials;19",
+        "WhelpEggs;FlameBurst;20",
+        "Pyromancer;Pyroblast;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "PolymorphSpell;GoldenFleece;18",
+        "Quilboar;TunnelVision;19",
+        "FireElemental;ImmolationAura;19",
+        "BatRider;EnchantedVials;19",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "WitchDoctor;SpiritWard;20"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;19",
+        "WitchDoctor;SpiritWard;20",
+        "BatRider;EnchantedVials;19",
+        "FireElemental;ImmolationAura;19",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Blizzard;ColdSnap;18",
+        "WhelpEggs;FlameBurst;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;19",
+        "WhelpEggs;FlameBurst;20",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Harpy;InfectiousSwipes;19",
+        "Huntress;ElvenMight;18",
+        "Quilboar;TunnelVision;19",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Necromancer;JeweledSkulls;18",
+        "CheatDeath;Vampirism;17",
+        "Blizzard;ColdSnap;18",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "WitchDoctor;SpiritWard;20",
+        "FireElemental;ImmolationAura;19"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "GryphonRider;MightyThrow;18",
+        "Quilboar;TunnelVision;19",
+        "WhelpEggs;FlameBurst;20",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "ChainLightning;BrilliantFlash;18"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Quilboar;TunnelVision;19",
+        "Spiderlings;;16",
+        "SmokeBombSpell;ThroughTheShadows;17",
+        "FaerieDragon;FaeBlessing;17",
+        "Mountaineer;;16",
+        "Pyromancer;Pyroblast;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Execute;Bloodthirsty;18",
+        "WitchDoctor;SpiritWard;20",
+        "Shaman;EarthShield;19",
+        "WhelpEggs;FlameBurst;20",
+        "Blizzard;ColdSnap;18",
+        "BatRider;EnchantedVials;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Banshee;WillOfTheNecropolis;18",
+        "DefiasBandits;PickLock;18",
+        "WhelpEggs;FlameBurst;20",
+        "Chimaera;CorrosiveBreath;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "WitchDoctor;SpiritWard;20",
+        "BatRider;EnchantedVials;19",
+        "WarsongRaider;Saboteur;18",
+        "WhelpEggs;FlameBurst;20",
+        "CheatDeath;Vampirism;17",
+        "Pyromancer;Pyroblast;20"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Vultures;TendonRip;17",
+        "Spiderlings;;16",
+        "GoblinSapper;RocketBoots;18",
+        "ChainLightning;BrilliantFlash;17",
+        "OgreMage;FrostfireBolt;17",
+        "Mountaineer;;16"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "WhelpEggs;FlameBurst;20",
+        "FireElemental;ImmolationAura;19",
+        "Shaman;EarthShield;19",
+        "Blizzard;ColdSnap;18",
+        "WitchDoctor;SpiritWard;20",
+        "DarkIronMiner;DwarvenAmbition;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "SmokeBombSpell;ThroughTheShadows;17",
+        "WhelpEggs;FlameBurst;20",
+        "Quilboar;TunnelVision;19",
+        "Pyromancer;Pyroblast;20",
+        "FireElemental;ImmolationAura;19",
+        "FaerieDragon;FaeBlessing;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "CheatDeath;Vampirism;17",
+        "MeatWagon;FiletTrebuchet;20",
+        "WitchDoctor;SpiritWard;20",
+        "FaerieDragon;FaeBlessing;17",
+        "Spiderlings;;16",
+        "Mountaineer;;16"
+      ]
+    ],
+    "lastUpdate": 1719063143
+  },
+  "token": "84c2042a-ce55-4bfb-8386-3f85c3b72856"
+}

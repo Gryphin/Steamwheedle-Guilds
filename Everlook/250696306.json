@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 250696306,
+    "btag": "shikari",
+    "name": "shikari",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "",
+    "skulls": 150,
+    "level": 45,
+    "pvpWins": 159,
+    "leaderA": "ThaurissanLeader",
+    "leaderAWins": 23,
+    "leaderAHonor": 3637,
+    "leaderB": "MaievLeader",
+    "leaderBWins": 31,
+    "leaderBHonor": 3514,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 45,
+    "leaderCHonor": 3708,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;19",
+        "Huntress;Shadowmeld;26",
+        "DefiasBandits;PickLock;21",
+        "Blizzard;BrittleIce;19",
+        "Harpy;InfectiousSwipes;25",
+        "WhelpEggs;FlameBurst;24",
+        "Execute;;16"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Huntress;Shadowmeld;26",
+        "Harpy;InfectiousSwipes;25",
+        "Shaman;EarthShield;21",
+        "Quilboar;TunnelVision;24",
+        "Chimaera;CorrosiveBreath;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;TunnelVision;24",
+        "EarthElemental;ObsidianShard;22",
+        "Shaman;EarthShield;21",
+        "WhelpEggs;FlameBurst;24",
+        "Huntress;Shadowmeld;26"
+      ],
+      [
+        "GrommashLeader;;18",
+        "Execute;;16",
+        "DefiasBandits;PickLock;21",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;Shadowmeld;25",
+        "Quilboar;TunnelVision;24",
+        "EarthElemental;ObsidianShard;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;22",
+        "WhelpEggs;FlameBurst;24",
+        "Drake;EngulfingFlames;24",
+        "Gargoyle;WingBuffet;22",
+        "Chimaera;CorrosiveBreath;20",
+        "Huntress;Shadowmeld;25",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "BloodmageThalnosLeader;;17",
+        "Gargoyle;WingBuffet;22",
+        "EarthElemental;ObsidianShard;22",
+        "CheatDeath;Vampirism;21",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;TunnelVision;24",
+        "Huntress;Shadowmeld;26"
+      ],
+      [
+        "MaievLeader;Remorseless;22",
+        "Huntress;Shadowmeld;26",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;TunnelVision;24",
+        "EarthElemental;ObsidianShard;22"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;TunnelVision;24",
+        "DefiasBandits;PickLock;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "EarthElemental;ObsidianShard;22",
+        "Huntress;Shadowmeld;26"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "GoblinSapper;RocketBoots;19",
+        "Shaman;EarthShield;21",
+        "Huntress;Shadowmeld;25",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "Gargoyle;WingBuffet;22",
+        "CheatDeath;Vampirism;21",
+        "Quilboar;TunnelVision;24",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;25",
+        "Huntress;Shadowmeld;26"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Shaman;EarthShield;21",
+        "EarthElemental;ObsidianShard;22",
+        "Huntress;Shadowmeld;26",
+        "Quilboar;TunnelVision;24",
+        "Gargoyle;WingBuffet;22"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;00000000000000000000000000000000;17",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;24",
+        "f7692d689d3b17547af9fbe9afd832ff;297b6b89aacb64c40a6cb34f77c24f3f;24",
+        "d6df87a31e7c2ae44aafe5d70fda7322;bbae4f098e1016846811a50a1e02cbb7;22",
+        "38852e1895cd540b79b4b3d1bdd06d23;476e9ccd158cd2c47bc277a8df22f025;26",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;9a83af5b4c2bdbb4dbe7cdf82834cfbf;25",
+        "adb619f981176e444bd759d85e80cbfc;85415575670822340a36efab0dfc50a9;24"
+      ],
+      [
+        "CharlgaLeader;;15",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;Shadowmeld;24",
+        "WhelpEggs;FlameBurst;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "EarthElemental;ObsidianShard;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "WhelpEggs;FlameBurst;24",
+        "Pyromancer;Conflagrate;21",
+        "Shaman;EarthShield;21",
+        "Quilboar;TunnelVision;24",
+        "Huntress;Shadowmeld;26",
+        "Harpy;InfectiousSwipes;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;22",
+        "DeepBreath;DoubleDragon;19",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;TunnelVision;24",
+        "Huntress;Shadowmeld;26",
+        "Harpy;InfectiousSwipes;25",
+        "EarthElemental;ObsidianShard;22"
+      ],
+      [
+        "SylvanasLeader;;19",
+        "Gargoyle;WingBuffet;22",
+        "Harpy;InfectiousSwipes;25",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Quilboar;TunnelVision;24",
+        "WhelpEggs;FlameBurst;24",
+        "Huntress;Shadowmeld;26"
+      ]
+    ],
+    "lastUpdate": 1719063147
+  },
+  "token": "eca3ca16-0694-4173-8195-ee40dc7309b8"
+}

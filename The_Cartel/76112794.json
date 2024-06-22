@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 76112794,
+    "btag": "CoNDeJezZ",
+    "name": "CoNDeJezZ",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 871,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 157,
+    "leaderAHonor": 4337,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 95,
+    "leaderBHonor": 4295,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 89,
+    "leaderCHonor": 4257,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "DefiasBandits;DeadlyPoison;24",
+        "Execute;Bloodthirsty;21",
+        "Prowler;PredatoryInstincts;24",
+        "SkeletonParty;RitualOfRime;24",
+        "Shaman;EarthwallTotem;24"
+      ],
+      [
+        "TirionLeader;ByTheLight;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "GryphonRider;AirDrop;24",
+        "HarvestGolem;UnstableCore;24",
+        "DefiasBandits;LastResort;24",
+        "Quilboar;BrambleBurst;24",
+        "Shaman;EarthwallTotem;25"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;24",
+        "Prowler;PredatoryInstincts;24",
+        "Quilboar;BrambleBurst;24",
+        "FireElemental;ImmolationAura;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "DarkIronMiner;DarkIronArmaments;23",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "GrommashLeader;Bladestorm;24",
+        "Shaman;EarthShield;25",
+        "StonehoofTauren;Momentum;24",
+        "SkeletonParty;RitualOfRime;24",
+        "Quilboar;BrambleBurst;24",
+        "Huntress;ElvenMight;26",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;25",
+        "FireElemental;ImmolationAura;26",
+        "Pyromancer;Conflagrate;24",
+        "GryphonRider;MightyThrow;24",
+        "DefiasBandits;LastResort;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Huntress;ElvenMight;26"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;22",
+        "Necromancer;CultOfTheDamned;25",
+        "Abomination;FreshMeat;24",
+        "Blizzard;ColdSnap;24",
+        "MeatWagon;FiletTrebuchet;25",
+        "ArcaneBlast;Torrent;22",
+        "Huntress;ElvenMight;26"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;22",
+        "Huntress;Shadowmeld;26",
+        "Worgen;Premeditation;24",
+        "WhelpEggs;FlameBurst;25",
+        "DarkIronMiner;DarkIronArmaments;21",
+        "Prowler;PredatoryInstincts;24",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Quilboar;BrambleBurst;24",
+        "Prowler;PredatoryInstincts;25",
+        "DefiasBandits;LastResort;24",
+        "GryphonRider;AirDrop;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Huntress;Shadowmeld;26"
+      ],
+      [
+        "CairneLeader;Reincarnation;24",
+        "Shaman;EarthShield;25",
+        "WitchDoctor;SpiritWard;21",
+        "Huntress;Shadowmeld;26",
+        "MeatWagon;FiletTrebuchet;25",
+        "FireElemental;ImmolationAura;26",
+        "DefiasBandits;LastResort;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;25",
+        "Ghoul;BoneArmor;24",
+        "Necromancer;JeweledSkulls;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "MeatWagon;FiletTrebuchet;25",
+        "Prowler;PredatoryInstincts;25",
+        "FireElemental;ImmolationAura;26"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;25",
+        "StonehoofTauren;Momentum;24",
+        "Shaman;EarthShield;25",
+        "MeatWagon;FiletTrebuchet;25",
+        "Huntress;Shadowmeld;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "GryphonRider;AirDrop;24"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;19",
+        "Harpy;InfectiousSwipes;24",
+        "Prowler;PredatoryInstincts;24",
+        "Huntress;ElvenMight;26",
+        "GryphonRider;MightyThrow;24",
+        "FireElemental;ImmolationAura;26",
+        "Flamewaker;Engulf;24"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;22",
+        "Pyromancer;Conflagrate;24",
+        "FireElemental;ImmolationAura;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WitchDoctor;SpiritWard;21",
+        "Shaman;EarthShield;25",
+        "HolyNova;AmplifyMagic;24"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;22",
+        "Drake;EngulfingFlames;25",
+        "Pyromancer;Conflagrate;24",
+        "Prowler;PredatoryInstincts;25",
+        "FireElemental;ImmolationAura;26",
+        "GryphonRider;AirDrop;24",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;24",
+        "Ghoul;BoneArmor;24",
+        "Necromancer;CultOfTheDamned;25",
+        "StonehoofTauren;Momentum;24",
+        "Drake;MotherDrake;25",
+        "Harpy;InfectiousSwipes;25",
+        "Prowler;PredatoryInstincts;24"
+      ]
+    ],
+    "lastUpdate": 1719062216
+  },
+  "token": "83c7ccaa-35b1-4daf-b11f-47736815791f"
+}

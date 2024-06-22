@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 481909887,
+    "btag": "BeachyHead",
+    "name": "BeachyHead",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 8260,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 744,
+    "leaderAHonor": 6636,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 457,
+    "leaderBHonor": 6747,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 915,
+    "leaderCHonor": 6638,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;26",
+        "GryphonRider;MightyThrow;26",
+        "HarvestGolem;UnstableCore;27",
+        "DeepBreath;MeltingPoint;27",
+        "MurlocTidehunters;SafetyBubble;26",
+        "Quilboar;BrambleBurst;26",
+        "Execute;KillingSpree;27"
+      ],
+      [
+        "TirionLeader;ByTheLight;25",
+        "GryphonRider;MightyThrow;26",
+        "DefiasBandits;PickLock;25",
+        "FireElemental;ImmolationAura;26",
+        "Gargoyle;WingBuffet;26",
+        "MurlocTidehunters;SafetyBubble;26",
+        "PolymorphSpell;GoldenFleece;25"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;25",
+        "Quilboar;BrambleBurst;26",
+        "PolymorphSpell;GoldenFleece;25",
+        "CoreHounds;EternalBond;25",
+        "DeepBreath;MeltingPoint;27",
+        "MurlocTidehunters;SafetyBubble;25",
+        "DefiasBandits;PickLock;25"
+      ],
+      [
+        "GrommashLeader;MirrorImage;26",
+        "WitchDoctor;SpiritWard;26",
+        "PolymorphSpell;GoldenFleece;25",
+        "Prowler;OnTheProwl;25",
+        "MurlocTidehunters;SafetyBubble;26",
+        "ArcaneBlast;ArcanePower;27",
+        "Vultures;TendonRip;25"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;26",
+        "DarkIronMiner;GoldMine;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "BatRider;EnchantedVials;25",
+        "Quilboar;BrambleBurst;26",
+        "Harpy;InfectiousSwipes;25",
+        "ArcaneBlast;ArcanePower;27"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;27",
+        "SmokeBombSpell;ThroughTheShadows;25",
+        "CheatDeath;Vampirism;25",
+        "ArcaneBlast;Amplification;27",
+        "DefiasBandits;PickLock;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "HolyNova;AmplifyMagic;25"
+      ],
+      [
+        "MaievLeader;Remorseless;25",
+        "HarvestGolem;UnstableCore;26",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "Worgen;LoneWolf;25",
+        "Quilboar;BrambleBurst;26",
+        "Execute;Bloodthirsty;27",
+        "DarkIronMiner;GoldMine;25"
+      ],
+      [
+        "HoggerLeader;HamHock;25",
+        "MurlocTidehunters;SafetyBubble;26",
+        "PolymorphSpell;GoldenFleece;25",
+        "GryphonRider;MightyThrow;26",
+        "Quilboar;BrambleBurst;26",
+        "Execute;Bloodthirsty;27",
+        "Prowler;OnTheProwl;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;26",
+        "Execute;KillingSpree;27",
+        "StonehoofTauren;Momentum;25",
+        "Shaman;EarthwallTotem;25",
+        "BatRider;EnchantedVials;25",
+        "DeepBreath;MeltingPoint;27",
+        "ArcaneBlast;ArcanePower;27"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;26",
+        "Ghoul;BoneArmor;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "DarkIronMiner;GoldMine;25",
+        "MurlocTidehunters;SafetyBubble;26",
+        "Gargoyle;WingBuffet;27",
+        "ArcaneBlast;ArcanePower;27"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;25",
+        "Shaman;EarthwallTotem;25",
+        "WitchDoctor;SpiritWard;26",
+        "MoltenGiant;BloodOfTheMountain;25",
+        "PlagueFarmer;SplashingPumpkins;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "DeepBreath;Attunement;27"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;25",
+        "dd2745483ee0845cb88f7827619c7cca;39360e02fc393424397520805f2b224a;25",
+        "37ffb76b1af1c49eca1b33dd5d36698d;76ee2464ddd137348869d0eb0c17a7eb;25",
+        "f6379dec39f4447b483eb7b6a672597e;a7562a08ec021cb4eb8367c83a3b885a;25",
+        "4662e633273a0d149b61d23732a5ed53;7102bce3c17cea249b4a93c2865dcc36;25",
+        "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;25",
+        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;26"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;25",
+        "Quilboar;BrambleBurst;26",
+        "PolymorphSpell;GoldenFleece;25",
+        "MurlocTidehunters;SafetyBubble;26",
+        "Prowler;OnTheProwl;25",
+        "DeepBreath;MeltingPoint;27",
+        "Execute;Bloodthirsty;27"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;26",
+        "DeepBreath;MeltingPoint;27",
+        "DarkIronMiner;GoldMine;25",
+        "WitchDoctor;SpiritWard;26",
+        "PolymorphSpell;GoldenFleece;25",
+        "HolyNova;AmplifyMagic;25",
+        "Prowler;OnTheProwl;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;26",
+        "DeepBreath;MeltingPoint;27",
+        "DarkIronMiner;GoldMine;25",
+        "HarvestGolem;UnstableCore;27",
+        "GryphonRider;MightyThrow;26",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "Execute;KillingSpree;27"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;25",
+        "DarkIronMiner;GoldMine;25",
+        "PlagueFarmer;SplashingPumpkins;25",
+        "Shaman;EarthwallTotem;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "CoreHounds;EternalBond;25",
+        "ArcaneBlast;ArcanePower;27"
+      ]
+    ],
+    "lastUpdate": 1719062207
+  },
+  "token": "82c6ceca-ac11-4f59-b29c-0603a1442a62"
+}

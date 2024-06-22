@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 73062864,
+    "btag": "star",
+    "name": "star",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 150,
+    "level": 47,
+    "pvpWins": 140,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 26,
+    "leaderAHonor": 3106,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 21,
+    "leaderBHonor": 3255,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 20,
+    "leaderCHonor": 3060,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;20",
+        "DefiasBandits;PickLock;26",
+        "Footmen;Fortification;21",
+        "DeepBreath;DoubleDragon;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Quilboar;TunnelVision;24",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Blizzard;ColdSnap;20",
+        "DefiasBandits;DeadlyPoison;26",
+        "DarkIronMiner;GoldMine;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WitchDoctor;SpiritWard;25",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "DefiasBandits;DeadlyPoison;26",
+        "Quilboar;BrambleBurst;24",
+        "DarkIronMiner;GoldMine;21",
+        "WitchDoctor;SpiritWard;25",
+        "Blizzard;ColdSnap;20",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;22",
+        "GoblinSapper;RocketBoots;19",
+        "WitchDoctor;SpiritWard;25",
+        "Harpy;InfectiousSwipes;24",
+        "Execute;Bloodthirsty;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Shaman;EarthwallTotem;26",
+        "Firehammer;HeightenedRage;21",
+        "Harpy;InfectiousSwipes;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "DefiasBandits;PickLock;26",
+        "Gargoyle;WingBuffet;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;21",
+        "SmokeBombSpell;BandOfThieves;21",
+        "Ghoul;BoneArmor;21",
+        "ArcaneBlast;Amplification;20",
+        "WitchDoctor;SpiritWard;25",
+        "PolymorphSpell;GoldenFleece;21",
+        "HolyNova;AmplifyMagic;21"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "DefiasBandits;PickLock;25",
+        "Footmen;Fortification;21",
+        "Quilboar;TunnelVision;24",
+        "WitchDoctor;SpiritWard;22",
+        "LivingBomb;ChainReaction;18",
+        "DarkspearTroll;BigBadVoodoo;24"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Chimaera;CorrosiveBreath;21",
+        "PolymorphSpell;ExplodingSheep;21",
+        "WitchDoctor;SpiritWard;25",
+        "DarkIronMiner;GoldMine;21",
+        "Pyromancer;Pyroblast;26",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "Shaman;EarthShield;26",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Pyromancer;Pyroblast;26",
+        "Harpy;InfectiousSwipes;24",
+        "Execute;Bloodthirsty;21",
+        "WitchDoctor;SpiritWard;25"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "Ghoul;BoneArmor;21",
+        "PolymorphSpell;GoldenFleece;21",
+        "WitchDoctor;SpiritWard;25",
+        "Shaman;EarthwallTotem;26",
+        "MurlocTidehunters;SafetyBubble;20",
+        "DeepBreath;DoubleDragon;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "WitchDoctor;SpiritWard;22",
+        "Shaman;EarthShield;26",
+        "GoblinSapper;RocketBoots;17",
+        "DefiasBandits;PickLock;26",
+        "Pyromancer;Pyroblast;25",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;BrambleBurst;24",
+        "Prowler;OnTheProwl;22",
+        "DeepBreath;DoubleDragon;19",
+        "WitchDoctor;SpiritWard;22",
+        "DefiasBandits;PickLock;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "Pyromancer;Pyroblast;25",
+        "DeepBreath;DoubleDragon;24",
+        "Shaman;EarthShield;26",
+        "Drake;MotherDrake;24",
+        "DefiasBandits;DeadlyPoison;26",
+        "WitchDoctor;SpiritWard;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "WitchDoctor;SpiritWard;25",
+        "DarkIronMiner;GoldMine;21",
+        "DefiasBandits;DeadlyPoison;26",
+        "Execute;Bloodthirsty;21",
+        "Blizzard;ColdSnap;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Abomination;NoxiousPresence;20",
+        "Necromancer;JeweledSkulls;21",
+        "WitchDoctor;SpiritWard;22",
+        "Harpy;TrinketCollectors;24",
+        "MurlocTidehunters;SafetyBubble;20",
+        "PolymorphSpell;GoldenFleece;20"
+      ]
+    ],
+    "lastUpdate": 1719063104
+  },
+  "token": "36827f7b-8f04-4f70-8aa2-e6ebdafac0e4"
+}

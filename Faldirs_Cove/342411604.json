@@ -1,0 +1,126 @@
+{
+  "data": {
+    "id": 342411604,
+    "btag": "Therianthrop",
+    "name": "Therianthrop",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 111,
+    "level": 38,
+    "pvpWins": 45,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 17,
+    "leaderAHonor": 1220,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 17,
+    "leaderBHonor": 1843,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 4,
+    "leaderCHonor": 767,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Footmen;Fortification;17",
+        "Blizzard;ColdSnap;17",
+        "DarkIronMiner;DwarvenAmbition;17",
+        "GryphonRider;MightyThrow;17",
+        "Harpy;TalonDive;19"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Blizzard;ColdSnap;18",
+        "Huntress;ElvenMight;18",
+        "Footmen;Fortification;18",
+        "Quilboar;TunnelVision;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Drake;EngulfingFlames;18",
+        "WhelpEggs;FlameBurst;19",
+        "Harpy;TalonDive;21",
+        "Quilboar;TunnelVision;19",
+        "Gargoyle;WingBuffet;18",
+        "Pyromancer;Conflagrate;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;16",
+        "WhelpEggs;FlameBurst;17",
+        "Footmen;Fortification;16",
+        "BatRider;;13",
+        "GryphonRider;MightyThrow;16",
+        "EarthElemental;ObsidianShard;15",
+        "Quilboar;TunnelVision;16"
+      ],
+      [
+        "MaievLeader;Remorseless;15",
+        "GryphonRider;MightyThrow;16",
+        "Footmen;Fortification;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "WhelpEggs;FlameBurst;17",
+        "Harpy;TalonDive;16",
+        "Blizzard;ColdSnap;16"
+      ],
+      [
+        "HoggerLeader;FatalFrenzy;20",
+        "Footmen;Fortification;18",
+        "Harpy;TalonDive;21",
+        "Quilboar;TunnelVision;19",
+        "Huntress;ElvenMight;17",
+        "Blizzard;ColdSnap;18",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "CairneLeader;;20",
+        "StonehoofTauren;Momentum;17",
+        "Harpy;TalonDive;21",
+        "Huntress;ElvenMight;17",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;TunnelVision;19",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Blizzard;ColdSnap;18",
+        "StonehoofTauren;Momentum;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Quilboar;TunnelVision;19",
+        "Harpy;TalonDive;20",
+        "Gargoyle;WingBuffet;18"
+      ],
+      [
+        "SneedLeader;;15",
+        "StonehoofTauren;Momentum;17",
+        "WarsongGrunts;Command;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "Blizzard;ColdSnap;17",
+        "Footmen;Fortification;18"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "AngryChickens;;15",
+        "StonehoofTauren;Momentum;17",
+        "Pyromancer;Conflagrate;19",
+        "Footmen;Fortification;18",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Blizzard;ColdSnap;18",
+        "Banshee;WillOfTheNecropolis;17",
+        "GoblinSapper;CrudeGunpowder;17",
+        "Quilboar;TunnelVision;19",
+        "WhelpEggs;FlameBurst;19",
+        "Harpy;TalonDive;21"
+      ]
+    ],
+    "lastUpdate": 1719063106
+  },
+  "token": "858fd403-eae4-4425-8631-25b557f3f16a"
+}

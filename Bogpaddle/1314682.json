@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1314682,
+    "btag": "Bohan",
+    "name": "Bohan",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 150,
+    "level": 43,
+    "pvpWins": 1431,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 101,
+    "leaderAHonor": 3677,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 92,
+    "leaderBHonor": 3112,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 565,
+    "leaderCHonor": 3889,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "DefiasBandits;PickLock;22",
+        "Huntress;ElvenMight;21",
+        "Execute;Bloodthirsty;22",
+        "Quilboar;BrambleBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "DeepBreath;DoubleDragon;20"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Huntress;ElvenMight;21",
+        "DefiasBandits;PickLock;22",
+        "Quilboar;BrambleBurst;24",
+        "WhelpEggs;FlameBurst;24",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "Prowler;OnTheProwl;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Quilboar;BrambleBurst;24",
+        "WhelpEggs;FlameBurst;24",
+        "DeepBreath;DoubleDragon;20",
+        "PolymorphSpell;GoldenFleece;18"
+      ],
+      [
+        "GrommashLeader;MirrorImage;19",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WitchDoctor;SpiritWard;22",
+        "GoblinSapper;RocketBoots;18",
+        "Quilboar;BrambleBurst;24",
+        "GryphonRider;MightyThrow;21",
+        "PlagueFarmer;SplashingPumpkins;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Pyromancer;Pyroblast;22",
+        "DarkIronMiner;GoldMine;21",
+        "Harpy;InfectiousSwipes;21",
+        "DefiasBandits;PickLock;22",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;20",
+        "Shaman;EarthShield;22",
+        "DefiasBandits;PickLock;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;BrambleBurst;24",
+        "Worgen;Premeditation;18",
+        "WhelpEggs;Rookery;24"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Huntress;ElvenMight;21",
+        "DarkIronMiner;GoldMine;21",
+        "Quilboar;BrambleBurst;24",
+        "WhelpEggs;FlameBurst;24",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;21",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;OnTheProwl;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "CairneLeader;;18",
+        "WitchDoctor;SpiritWard;22",
+        "Shaman;EarthShield;22",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "DefiasBandits;PickLock;22",
+        "DeepBreath;DoubleDragon;19",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "DarkIronMiner;DwarvenAmbition;21",
+        "Ghoul;BoneArmor;21",
+        "Quilboar;Bristleback;24",
+        "MurlocTidehunters;SafetyBubble;21",
+        "WhelpEggs;FlameBurst;24",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;17",
+        "Shaman;EarthShield;22",
+        "WitchDoctor;SpiritWard;22",
+        "Drake;MotherDrake;22",
+        "WhelpEggs;FlameBurst;24",
+        "DefiasBandits;PickLock;22",
+        "Pyromancer;Conflagrate;22"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "Quilboar;Bristleback;24",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;OnTheProwl;21",
+        "DeepBreath;DoubleDragon;19",
+        "MurlocTidehunters;SafetyBubble;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;23",
+        "DeepBreath;DoubleDragon;20",
+        "Pyromancer;Pyroblast;22",
+        "Shaman;EarthShield;22",
+        "WitchDoctor;SpiritWard;22",
+        "GryphonRider;MightyThrow;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Pyroblast;22",
+        "WhelpEggs;FlameBurst;24",
+        "DefiasBandits;PickLock;22",
+        "Quilboar;BrambleBurst;24",
+        "Chimaera;CorrosiveBreath;20",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Harpy;InfectiousSwipes;21",
+        "DefiasBandits;PickLock;22",
+        "GoblinSapper;RocketBoots;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;BrambleBurst;24",
+        "WhelpEggs;FlameBurst;24"
+      ]
+    ],
+    "lastUpdate": 1717414114
+  },
+  "token": "2ec3c0ef-7420-4152-b54d-c0ea5a6ed55f"
+}

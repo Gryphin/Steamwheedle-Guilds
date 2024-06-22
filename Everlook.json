@@ -12,7 +12,7 @@
         "skulls": 108,
         "honor": 3143,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062180
+        "lastUpdate": 1719063144
       },
       {
         "id": 395744,
@@ -21,7 +21,7 @@
         "skulls": 125,
         "honor": 3462,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719062180
+        "lastUpdate": 1719063144
       },
       {
         "id": 467854009,
@@ -39,7 +39,7 @@
         "skulls": 126,
         "honor": 11276,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062180
+        "lastUpdate": 1719063144
       },
       {
         "id": 431430930,
@@ -48,7 +48,7 @@
         "skulls": 132,
         "honor": 10023,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719062180
+        "lastUpdate": 1719063145
       },
       {
         "id": 53442308,
@@ -66,7 +66,7 @@
         "skulls": 122,
         "honor": 1787,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719062181
+        "lastUpdate": 1719063145
       },
       {
         "id": 52381491,
@@ -75,7 +75,7 @@
         "skulls": 120,
         "honor": 8527,
         "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719062181
+        "lastUpdate": 1719063145
       },
       {
         "id": 21455,
@@ -84,7 +84,7 @@
         "skulls": 149,
         "honor": 12000,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062181
+        "lastUpdate": 1719063145
       },
       {
         "id": 51088610,
@@ -93,16 +93,7 @@
         "skulls": 138,
         "honor": 5127,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719062182
-      },
-      {
-        "id": 94764993,
-        "name": "StreetHose",
-        "btag": "StreetHose",
-        "skulls": 131,
-        "honor": 8908,
-        "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719062182
+        "lastUpdate": 1719063145
       },
       {
         "id": 124797534,
@@ -111,7 +102,7 @@
         "skulls": 142,
         "honor": 10208,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062182
+        "lastUpdate": 1719063146
       },
       {
         "id": 302412336,
@@ -120,34 +111,7 @@
         "skulls": 136,
         "honor": 6598,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062182
-      },
-      {
-        "id": 313695231,
-        "name": "dartz",
-        "btag": "dartz",
-        "skulls": 144,
-        "honor": 9812,
-        "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062183
-      },
-      {
-        "id": 64069311,
-        "name": "zubs",
-        "btag": "zubs",
-        "skulls": 130,
-        "honor": 5135,
-        "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719062183
-      },
-      {
-        "id": 50678295,
-        "name": "Zapp",
-        "btag": "Zapp",
-        "skulls": 150,
-        "honor": 12094,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062183
+        "lastUpdate": 1719063146
       },
       {
         "id": 884037,
@@ -156,16 +120,7 @@
         "skulls": 124,
         "honor": 10866,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062180
-      },
-      {
-        "id": 250696306,
-        "name": "shikari",
-        "btag": "shikari",
-        "skulls": 150,
-        "honor": 10859,
-        "avatar": "",
-        "lastUpdate": 1719062182
+        "lastUpdate": 1719063147
       },
       {
         "id": 1158611274,
@@ -174,7 +129,52 @@
         "skulls": 125,
         "honor": 7040,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062182
+        "lastUpdate": 1719063147
+      },
+      {
+        "id": 313695231,
+        "name": "dartz",
+        "btag": "dartz",
+        "skulls": 144,
+        "honor": 9812,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719063146
+      },
+      {
+        "id": 250696306,
+        "name": "shikari",
+        "btag": "shikari",
+        "skulls": 150,
+        "honor": 10859,
+        "avatar": "",
+        "lastUpdate": 1719063147
+      },
+      {
+        "id": 94764993,
+        "name": "StreetHose",
+        "btag": "StreetHose",
+        "skulls": 131,
+        "honor": 8908,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719063146
+      },
+      {
+        "id": 64069311,
+        "name": "zubs",
+        "btag": "zubs",
+        "skulls": 130,
+        "honor": 5135,
+        "avatar": "Indicator_Sneed_Pose",
+        "lastUpdate": 1719063146
+      },
+      {
+        "id": 50678295,
+        "name": "Zapp",
+        "btag": "Zapp",
+        "skulls": 150,
+        "honor": 12094,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063147
       },
       {
         "id": 82363935,
@@ -183,11 +183,11 @@
         "skulls": 148,
         "honor": 11252,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062181
+        "lastUpdate": 1719063147
       }
     ],
-    "lastUpdate": 1719062180
+    "lastUpdate": 1719063144
   },
-  "token": "96f604a2-d576-47f9-bbcb-6f9c630c98dd",
-  "link": "https://localhost:7080/guild/438015331?token=96f604a2-d576-47f9-bbcb-6f9c630c98dd"
+  "token": "15eeda5d-a7bc-4b71-b9f2-8c2b3d9ea6d4",
+  "link": "https://localhost:7080/guild/438015331?token=15eeda5d-a7bc-4b71-b9f2-8c2b3d9ea6d4"
 }

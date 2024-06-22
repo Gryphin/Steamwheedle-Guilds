@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 101961091,
+    "btag": "Noshera",
+    "name": "Noshera",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 140,
+    "level": 37,
+    "pvpWins": 433,
+    "leaderA": "MaievLeader",
+    "leaderAWins": 40,
+    "leaderAHonor": 2040,
+    "leaderB": "RendLeader",
+    "leaderBWins": 43,
+    "leaderBHonor": 2007,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 42,
+    "leaderCHonor": 1972,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;17",
+        "DefiasBandits;DeadlyPoison;21",
+        "GryphonRider;MightyThrow;19",
+        "ChainLightning;BrilliantFlash;17",
+        "DarkIronMiner;GoldMine;17",
+        "Execute;Bloodthirsty;18",
+        "HarvestGolem;UnstableCore;17"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Huntress;ElvenMight;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Quilboar;TunnelVision;24",
+        "MeatWagon;FiletTrebuchet;21",
+        "Harpy;TrinketCollectors;21",
+        "WhelpEggs;FlameBurst;23"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Quilboar;TunnelVision;24",
+        "Harpy;TrinketCollectors;21",
+        "StonehoofTauren;Momentum;20",
+        "WhelpEggs;FlameBurst;23",
+        "Huntress;ElvenMight;21",
+        "MeatWagon;FiletTrebuchet;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;19",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Shaman;EarthShield;21",
+        "WhelpEggs;FlameBurst;24",
+        "Chimaera;CorrosiveBreath;21",
+        "WitchDoctor;Alchemist;21",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "WhelpEggs;FlameBurst;24",
+        "Drake;MotherDrake;21",
+        "Harpy;TrinketCollectors;23",
+        "DefiasBandits;PickLock;21",
+        "Quilboar;TunnelVision;24",
+        "MeatWagon;FiletTrebuchet;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;16",
+        "Ghoul;BoneArmor;17",
+        "Necromancer;JeweledSkulls;21",
+        "Execute;Bloodthirsty;18",
+        "Quilboar;TunnelVision;24",
+        "DefiasBandits;DeadlyPoison;21",
+        "Harpy;TrinketCollectors;23"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;17",
+        "DefiasBandits;PickLock;21",
+        "Huntress;ElvenMight;21",
+        "WhelpEggs;FlameBurst;23",
+        "Harpy;TrinketCollectors;21",
+        "Quilboar;TunnelVision;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;TunnelVision;24",
+        "Chimaera;CorrosiveBreath;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Huntress;ElvenMight;21",
+        "WhelpEggs;FlameBurst;23",
+        "DarkspearTroll;BigBadVoodoo;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Shaman;EarthShield;20",
+        "ChainLightning;BrilliantFlash;17",
+        "Necromancer;JeweledSkulls;21",
+        "Quilboar;TunnelVision;23",
+        "Chimaera;CorrosiveBreath;21",
+        "DefiasBandits;DeadlyPoison;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "MeatWagon;FiletTrebuchet;21",
+        "Necromancer;JeweledSkulls;21",
+        "Quilboar;TunnelVision;24",
+        "Chimaera;CorrosiveBreath;21",
+        "Huntress;ElvenMight;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "SneedLeader;;14",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Shaman;EarthShield;21",
+        "MeatWagon;FiletTrebuchet;21",
+        "Quilboar;TunnelVision;23",
+        "Huntress;ElvenMight;21",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "CharlgaLeader;;13",
+        "Quilboar;TunnelVision;24",
+        "MurlocTidehunters;;15",
+        "Huntress;ElvenMight;21",
+        "Harpy;TrinketCollectors;21",
+        "StonehoofTauren;Momentum;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;16",
+        "WhelpEggs;FlameBurst;21",
+        "DarkIronMiner;GoldMine;17",
+        "Shaman;EarthShield;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Quilboar;TunnelVision;23",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "ThaurissanLeader;;14",
+        "WhelpEggs;FlameBurst;23",
+        "Drake;MotherDrake;21",
+        "DefiasBandits;PickLock;21",
+        "Harpy;TrinketCollectors;21",
+        "Quilboar;TunnelVision;24",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "Necromancer;JeweledSkulls;21",
+        "MeatWagon;FiletTrebuchet;21",
+        "Shaman;EarthShield;21",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;TunnelVision;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ]
+    ],
+    "lastUpdate": 1719063078
+  },
+  "token": "b8155562-1846-4414-8a59-7dcfcba00962"
+}

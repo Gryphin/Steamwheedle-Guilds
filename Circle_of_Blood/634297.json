@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 634297,
+    "btag": "Madmattyd",
+    "name": "Madmattyd",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 137,
+    "level": 43,
+    "pvpWins": 72,
+    "leaderA": "SneedLeader",
+    "leaderAWins": 23,
+    "leaderAHonor": 1244,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 15,
+    "leaderBHonor": 1244,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 13,
+    "leaderCHonor": 1106,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "GryphonRider;AirDrop;24",
+        "Blizzard;;21",
+        "ChainLightning;StormsReach;20",
+        "Harpy;InfectiousSwipes;22",
+        "WhelpEggs;FlameBurst;21",
+        "Ghoul;TasteForBlood;23"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "GryphonRider;MightyThrow;24",
+        "Huntress;ElvenMight;21",
+        "Ghoul;TasteForBlood;23",
+        "Shaman;EarthwallTotem;23",
+        "WhelpEggs;FlameBurst;22",
+        "Blizzard;Icecrown;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Quilboar;BrambleBurst;22",
+        "Prowler;PackLeader;21",
+        "FireElemental;MoltenCore;20",
+        "Harpy;InfectiousSwipes;24",
+        "GryphonRider;MightyThrow;24",
+        "Blizzard;Icecrown;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;21",
+        "BatRider;EnchantedVials;21",
+        "DarkspearTroll;SerpentSting;21",
+        "WhelpEggs;FlameBurst;21",
+        "GryphonRider;MightyThrow;21",
+        "Quilboar;Bristleback;21",
+        "Ghoul;BoneArmor;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "EarthElemental;ReadyToRumble;21",
+        "Firehammer;MoultinMetal;20",
+        "Harpy;InfectiousSwipes;24",
+        "GryphonRider;MightyThrow;24",
+        "FireElemental;ImmolationAura;20",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;21",
+        "Ghoul;BoneArmor;23",
+        "Banshee;WillOfTheNecropolis;21",
+        "Blizzard;Icecrown;21",
+        "GryphonRider;MightyThrow;24",
+        "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;21",
+        "GryphonRider;AirDrop;24",
+        "Huntress;ElvenMight;21",
+        "Quilboar;BrambleBurst;22",
+        "Chimaera;Leviathan;20",
+        "FireElemental;MoltenCore;20",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "HoggerLeader;HamHock;23",
+        "Prowler;PredatoryInstincts;21",
+        "Quilboar;BrambleBurst;22",
+        "Ghoul;BoneArmor;23",
+        "WhelpEggs;FlameBurst;21",
+        "Blizzard;Icecrown;21",
+        "Shaman;EarthwallTotem;23"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "WarsongRaider;Saboteur;21",
+        "Shaman;EarthShield;23",
+        "DarkspearTroll;SerpentSting;21",
+        "GryphonRider;MightyThrow;24",
+        "Huntress;ElvenMight;21",
+        "Quilboar;BrambleBurst;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Ghoul;BoneArmor;23",
+        "Gargoyle;ObsidianStatue;18",
+        "EarthElemental;ReadyToRumble;21",
+        "MurlocTidehunters;CarefulAim;20",
+        "Huntress;ElvenMight;21",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;23",
+        "DarkspearTroll;SerpentSting;21",
+        "Shaman;EarthShield;23",
+        "Gargoyle;ObsidianStatue;18",
+        "Harpy;InfectiousSwipes;24",
+        "Banshee;WillOfTheNecropolis;21",
+        "Blizzard;Icecrown;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;20",
+        "Prowler;PackLeader;21",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;ElvenMight;20",
+        "Ghoul;BoneArmor;21",
+        "GryphonRider;MightyThrow;21",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Firehammer;BlazingSpeed;20",
+        "DarkIronMiner;GoldMine;17",
+        "WitchDoctor;AmplifyCurse;17",
+        "GryphonRider;OdynsFury;24",
+        "Worgen;LoneWolf;20",
+        "Shaman;EarthShield;23"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;21",
+        "WhelpEggs;FlameBurst;21",
+        "EarthElemental;ReadyToRumble;21",
+        "Ghoul;BoneArmor;23",
+        "GryphonRider;AirDrop;24",
+        "DarkspearTroll;SerpentSting;21",
+        "BatRider;FierySurplus;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Banshee;UnholyFrenzy;21",
+        "Ghoul;BoneArmor;23",
+        "Shaman;EarthShield;23",
+        "BatRider;EnchantedVials;21",
+        "Quilboar;Bristleback;22",
+        "GryphonRider;MightyThrow;24"
+      ]
+    ],
+    "lastUpdate": 1719062198
+  },
+  "token": "009e52b0-f4e6-4338-b05b-dd107ef63229"
+}

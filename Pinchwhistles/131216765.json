@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 131216765,
+    "btag": "Astonishing",
+    "name": "Astonishing",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 254,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 50,
+    "leaderAHonor": 3318,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 47,
+    "leaderBHonor": 3258,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 57,
+    "leaderCHonor": 3812,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "DefiasBandits;DeadlyPoison;22",
+        "Execute;Bloodthirsty;24",
+        "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;FlameBurst;26",
+        "FireElemental;ImmolationAura;24"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Blizzard;ColdSnap;24",
+        "FireElemental;ImmolationAura;24",
+        "Execute;Bloodthirsty;24",
+        "WhelpEggs;FlameBurst;26",
+        "Pyromancer;Conflagrate;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;24",
+        "Harpy;InfectiousSwipes;24",
+        "Execute;Bloodthirsty;24",
+        "EarthElemental;ObsidianShard;22",
+        "WhelpEggs;FlameBurst;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Blizzard;ColdSnap;24"
+      ],
+      [
+        "GrommashLeader;Bladestorm;22",
+        "WarsongRaider;SunderArmor;24",
+        "StonehoofTauren;Momentum;22",
+        "Abomination;NoxiousPresence;24",
+        "FireElemental;ImmolationAura;22",
+        "Quilboar;BrambleBurst;24",
+        "GnollBrute;ThickHide;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "WhelpEggs;FlameBurst;25",
+        "Pyromancer;Conflagrate;24",
+        "Chimaera;CorrosiveBreath;24",
+        "DefiasBandits;DeadlyPoison;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;24",
+        "Necromancer;JeweledSkulls;24",
+        "SkeletonWarrior;Exhume;24",
+        "ArcaneBlast;Amplification;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Pyromancer;Conflagrate;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "MaievLeader;Remorseless;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Worgen;Premeditation;22",
+        "Quilboar;BrambleBurst;24",
+        "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;FlameBurst;26",
+        "Execute;Bloodthirsty;24"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Quilboar;BrambleBurst;24",
+        "MurlocTidehunters;SafetyBubble;22",
+        "GoblinSapper;RocketBoots;22",
+        "Execute;Bloodthirsty;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;24",
+        "ChainLightning;Reverberation;22",
+        "Execute;Bloodthirsty;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;25",
+        "Quilboar;BrambleBurst;24",
+        "SkeletonParty;RitualOfRime;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "Necromancer;JeweledSkulls;24",
+        "Abomination;NoxiousPresence;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Chimaera;CorrosiveBreath;24",
+        "WhelpEggs;FlameBurst;25",
+        "FireElemental;ImmolationAura;24"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;22",
+        "WarsongRaider;SunderArmor;24",
+        "StonehoofTauren;Momentum;22",
+        "EarthElemental;ObsidianShard;22",
+        "FireElemental;ImmolationAura;22",
+        "GnollBrute;ThickHide;21",
+        "Abomination;NoxiousPresence;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;22",
+        "Shaman;EarthShield;24",
+        "Quilboar;BrambleBurst;24",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;24",
+        "WhelpEggs;FlameBurst;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;26",
+        "WhelpEggs;FlameBurst;26",
+        "Pyromancer;Conflagrate;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;BrambleBurst;24",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;22",
+        "DeepBreath;DoubleDragon;22",
+        "Pyromancer;Conflagrate;24",
+        "Quilboar;BrambleBurst;24",
+        "Harpy;InfectiousSwipes;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;22",
+        "Banshee;WillOfTheNecropolis;22",
+        "PlagueFarmer;SplashingPumpkins;22",
+        "BatRider;EnchantedVials;22",
+        "MurlocTidehunters;SafetyBubble;22",
+        "WarsongGrunts;BloodPact;21",
+        "Worgen;Premeditation;22"
+      ]
+    ],
+    "lastUpdate": 1716771528
+  },
+  "token": "a36093c9-d085-466e-83f2-92ac5457b3c4"
+}

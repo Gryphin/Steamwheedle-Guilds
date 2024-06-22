@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1158515868,
+    "btag": "Sylthwn",
+    "name": "Sylthwn",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 95,
+    "level": 36,
+    "pvpWins": 21,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 13,
+    "leaderAHonor": 1016,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 5,
+    "leaderBHonor": 765,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 3,
+    "leaderCHonor": 600,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;16",
+        "Huntress;ElvenMight;21",
+        "DefiasBandits;PickLock;18",
+        "Execute;Bloodthirsty;19",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21",
+        "Blizzard;;15"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Huntress;Shadowmeld;22",
+        "DefiasBandits;PickLock;18",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21",
+        "Execute;Bloodthirsty;19",
+        "Banshee;WillOfTheNecropolis;19"
+      ],
+      [
+        "OldMurkEyeLeader;;15",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;20",
+        "Banshee;WillOfTheNecropolis;19",
+        "DefiasBandits;PickLock;18",
+        "Huntress;ElvenMight;20",
+        "Blizzard;;15"
+      ],
+      [
+        "GrommashLeader;;16",
+        "Execute;Bloodthirsty;19",
+        "DarkspearTroll;;16",
+        "DefiasBandits;PickLock;18",
+        "Quilboar;TunnelVision;21",
+        "Huntress;Shadowmeld;22",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "RendLeader;;15",
+        "Banshee;WillOfTheNecropolis;19",
+        "Execute;Bloodthirsty;17",
+        "Harpy;InfectiousSwipes;19",
+        "Huntress;ElvenMight;20",
+        "Quilboar;TunnelVision;20",
+        "DefiasBandits;PickLock;17"
+      ],
+      [
+        "BloodmageThalnosLeader;;16",
+        "Huntress;ElvenMight;22",
+        "DefiasBandits;PickLock;18",
+        "Quilboar;TunnelVision;21",
+        "DarkspearTroll;;16",
+        "ArcaneBlast;;16",
+        "CheatDeath;;16"
+      ],
+      [
+        "MaievLeader;;16",
+        "Huntress;ElvenMight;22",
+        "DefiasBandits;PickLock;18",
+        "EarthElemental;;14",
+        "Execute;Bloodthirsty;19",
+        "GoblinSapper;;16",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "HoggerLeader;;16",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "DefiasBandits;PickLock;18",
+        "Banshee;WillOfTheNecropolis;19",
+        "Execute;Bloodthirsty;19",
+        "Huntress;Shadowmeld;21"
+      ],
+      [
+        "CairneLeader;;15",
+        "DarkspearTroll;;16",
+        "WarsongRaider;;14",
+        "Huntress;ElvenMight;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "Execute;Bloodthirsty;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Banshee;WillOfTheNecropolis;19",
+        "Execute;Bloodthirsty;19",
+        "Quilboar;TunnelVision;21",
+        "DefiasBandits;PickLock;18",
+        "Huntress;ElvenMight;22",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "SneedLeader;;16",
+        "Huntress;Shadowmeld;22",
+        "BatRider;;16",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21",
+        "Execute;Bloodthirsty;19",
+        "Banshee;WillOfTheNecropolis;19"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "Huntress;ElvenMight;21",
+        "GoblinSapper;;15",
+        "DefiasBandits;PickLock;18",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "WhelpEggs;FlameBurst;19",
+        "FireElemental;;17",
+        "Shaman;EarthShield;18",
+        "Quilboar;TunnelVision;21",
+        "Huntress;ElvenMight;22",
+        "Execute;Bloodthirsty;19"
+      ],
+      [
+        "ThaurissanLeader;;16",
+        "Huntress;Shadowmeld;20",
+        "DefiasBandits;PickLock;18",
+        "Quilboar;TunnelVision;20",
+        "Harpy;InfectiousSwipes;21",
+        "Execute;Bloodthirsty;19",
+        "Banshee;WillOfTheNecropolis;19"
+      ],
+      [
+        "SylvanasLeader;;15",
+        "DefiasBandits;PickLock;18",
+        "Gargoyle;;15",
+        "Execute;Bloodthirsty;18",
+        "Huntress;ElvenMight;20",
+        "Quilboar;TunnelVision;20",
+        "Harpy;InfectiousSwipes;19"
+      ]
+    ],
+    "lastUpdate": 1719063133
+  },
+  "token": "c22a1b9c-4dda-4c32-938e-4b70e7851655"
+}

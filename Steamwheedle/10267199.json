@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 10267199,
+    "btag": "Frostie",
+    "name": "Frostie",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 130,
+    "level": 47,
+    "pvpWins": 149,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 20,
+    "leaderAHonor": 2577,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 18,
+    "leaderBHonor": 2228,
+    "leaderC": "MaievLeader",
+    "leaderCWins": 30,
+    "leaderCHonor": 2301,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;21",
+        "Huntress;Shadowmeld;24",
+        "DefiasBandits;PickLock;21",
+        "Execute;Bloodthirsty;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Harpy;TrinketCollectors;24",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "Worgen;Premeditation;22",
+        "Abomination;Cannonball;24",
+        "Huntress;Shadowmeld;24",
+        "Quilboar;TunnelVision;22",
+        "Harpy;TrinketCollectors;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;24",
+        "Raptors;StrengthInNumbers;24",
+        "Harpy;TrinketCollectors;24",
+        "WarsongRaider;Saboteur;22",
+        "Huntress;Shadowmeld;24",
+        "Quilboar;TunnelVision;22",
+        "WitchDoctor;SpiritWard;23"
+      ],
+      [
+        "GrommashLeader;Bladestorm;21",
+        "DarkspearTroll;BigBadVoodoo;23",
+        "WarsongRaider;Saboteur;22",
+        "Raptors;StrengthInNumbers;23",
+        "Huntress;Shadowmeld;24",
+        "Flamewaker;Engulf;21",
+        "Harpy;TrinketCollectors;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "EarthElemental;ObsidianShard;21",
+        "WhelpEggs;Rookery;21",
+        "Harpy;TrinketCollectors;24",
+        "SkeletonParty;RitualOfRime;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "Abomination;Cannonball;24",
+        "SkeletonParty;5Man;21",
+        "Blizzard;ColdSnap;21",
+        "Huntress;Shadowmeld;24",
+        "Raptors;StrengthInNumbers;24",
+        "WarsongRaider;Saboteur;22"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "Worgen;LoneWolf;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;TrinketCollectors;23",
+        "EarthElemental;ObsidianShard;21",
+        "ArcaneBlast;Amplification;20"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;20",
+        "Harpy;TrinketCollectors;23",
+        "Raptors;StrengthInNumbers;23",
+        "Quilboar;TunnelVision;21",
+        "WarsongRaider;Saboteur;21",
+        "Huntress;Shadowmeld;23",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "StonehoofTauren;Momentum;21",
+        "Huntress;Shadowmeld;23",
+        "Shaman;EarthwallTotem;21",
+        "Harpy;TrinketCollectors;24",
+        "WarsongRaider;Saboteur;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Abomination;Cannonball;24",
+        "CheatDeath;Vampirism;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "WarsongRaider;Saboteur;22",
+        "Raptors;StrengthInNumbers;24",
+        "Huntress;Shadowmeld;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;24",
+        "StonehoofTauren;Momentum;21",
+        "WarsongRaider;Saboteur;22",
+        "EarthElemental;ObsidianShard;21",
+        "Huntress;Shadowmeld;24",
+        "Harpy;TrinketCollectors;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;21",
+        "Harpy;TrinketCollectors;24",
+        "Raptors;StrengthInNumbers;23",
+        "WarsongRaider;Saboteur;22",
+        "Huntress;Shadowmeld;24",
+        "WhelpEggs;Rookery;21",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "Pyromancer;Conflagrate;21",
+        "EarthElemental;ObsidianShard;21",
+        "Blizzard;ColdSnap;21",
+        "Huntress;Shadowmeld;24",
+        "DarkspearTroll;BigBadVoodoo;23",
+        "Raptors;StrengthInNumbers;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;22",
+        "Drake;Roost;21",
+        "MoltenGiant;Bolster;20",
+        "WarsongRaider;Saboteur;22",
+        "Raptors;StrengthInNumbers;23",
+        "Harpy;TrinketCollectors;24",
+        "Huntress;Shadowmeld;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "SkeletonParty;5Man;21",
+        "Abomination;NoxiousPresence;24",
+        "WarsongRaider;Saboteur;22",
+        "EarthElemental;ObsidianShard;21",
+        "Raptors;StrengthInNumbers;24",
+        "Harpy;TrinketCollectors;24"
+      ]
+    ],
+    "lastUpdate": 1719063125
+  },
+  "token": "e4362edd-c2bb-4960-add6-861b6a364273"
+}

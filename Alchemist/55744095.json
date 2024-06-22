@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 55744095,
+    "btag": "Daccus",
+    "name": "Daccus",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 117,
+    "level": 40,
+    "pvpWins": 289,
+    "leaderA": "BloodmageThalnosLeader",
+    "leaderAWins": 45,
+    "leaderAHonor": 3335,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 15,
+    "leaderBHonor": 2818,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 22,
+    "leaderCHonor": 3071,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;20",
+        "Blizzard;ColdSnap;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "ChainLightning;BrilliantFlash;18",
+        "WitchDoctor;AmplifyCurse;19",
+        "WhelpEggs;FlameBurst;18",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Footmen;Fortification;17",
+        "GryphonRider;MightyThrow;18",
+        "Quilboar;TunnelVision;21",
+        "Blizzard;ColdSnap;18",
+        "BatRider;EnchantedVials;18",
+        "WitchDoctor;AmplifyCurse;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Quilboar;TunnelVision;18",
+        "Prowler;OnTheProwl;18",
+        "EarthElemental;ObsidianShard;18",
+        "WhelpEggs;FlameBurst;18",
+        "Pyromancer;Pyroblast;20",
+        "Chimaera;Leviathan;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;20",
+        "Shaman;EarthShield;20",
+        "WitchDoctor;AmplifyCurse;20",
+        "WhelpEggs;FlameBurst;18",
+        "BatRider;EnchantedVials;19",
+        "Chimaera;Leviathan;20",
+        "Pyromancer;Conflagrate;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "WhelpEggs;FlameBurst;18",
+        "FireElemental;ImmolationAura;18",
+        "Harpy;InfectiousSwipes;20",
+        "Shaman;EarthShield;18",
+        "DarkIronMiner;DwarvenAmbition;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;20",
+        "CheatDeath;Vampirism;18",
+        "PolymorphSpell;GoldenFleece;18",
+        "Execute;Overpower;19",
+        "HolyNova;InnerFire;18",
+        "ArcaneBlast;Amplification;18",
+        "Raptors;StrengthInNumbers;17"
+      ],
+      [
+        "MaievLeader;Remorseless;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Huntress;ElvenMight;18",
+        "DarkIronMiner;DwarvenAmbition;20",
+        "BatRider;EnchantedVials;17",
+        "EarthElemental;ObsidianShard;17",
+        "HolyNova;InnerFire;17"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Harpy;InfectiousSwipes;20",
+        "Prowler;OnTheProwl;18",
+        "Quilboar;TunnelVision;21",
+        "Pyromancer;Pyroblast;20",
+        "Execute;Overpower;21",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;19",
+        "BatRider;EnchantedVials;19",
+        "Shaman;EarthShield;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;20",
+        "FireElemental;ImmolationAura;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "SkeletonWarrior;Exhume;17",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Quilboar;BrambleBurst;21",
+        "FireElemental;ImmolationAura;18",
+        "Prowler;OnTheProwl;18",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;17",
+        "Execute;Overpower;17",
+        "StonehoofTauren;Momentum;17",
+        "EarthElemental;ObsidianShard;17",
+        "Harpy;InfectiousSwipes;17",
+        "Quilboar;TunnelVision;18",
+        "PlagueFarmer;SplashingPumpkins;17"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;18",
+        "Chimaera;Leviathan;18",
+        "PolymorphSpell;GoldenFleece;18",
+        "Harpy;InfectiousSwipes;20",
+        "HolyNova;InnerFire;18",
+        "Pyromancer;Pyroblast;20",
+        "DarkIronMiner;DwarvenAmbition;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "DefiasBandits;PickLock;20",
+        "Pyromancer;Pyroblast;20",
+        "SkeletonParty;RitualOfRime;20",
+        "WitchDoctor;SpiritWard;20",
+        "Shaman;EarthShield;20",
+        "Drake;MotherDrake;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "PolymorphSpell;GoldenFleece;18",
+        "DarkIronMiner;DwarvenAmbition;20",
+        "CoreHounds;EternalBond;17",
+        "Shaman;EarthShield;18",
+        "WitchDoctor;SpiritWard;20",
+        "ArcaneBlast;Amplification;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;BoneArmor;18",
+        "Banshee;WillOfTheNecropolis;17",
+        "Execute;Overpower;18",
+        "DefiasBandits;PickLock;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "MurlocTidehunters;SafetyBubble;18"
+      ]
+    ],
+    "lastUpdate": 1719063129
+  },
+  "token": "8a19040a-9973-48a1-a67c-4bdcb420bf3f"
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 101633966,
+    "btag": "Sasire",
+    "name": "Sasire",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 150,
+    "level": 47,
+    "pvpWins": 257,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 30,
+    "leaderAHonor": 3206,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 34,
+    "leaderBHonor": 3660,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 28,
+    "leaderCHonor": 3845,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;17",
+        "DefiasBandits;DeadlyPoison;24",
+        "EarthElemental;ObsidianShard;19",
+        "Blizzard;ColdSnap;19",
+        "Harpy;InfectiousSwipes;22",
+        "Pyromancer;Pyroblast;24",
+        "Execute;Bloodthirsty;20"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "DefiasBandits;PickLock;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Abomination;NoxiousPresence;22",
+        "WhelpEggs;FlameBurst;24",
+        "Shaman;EarthShield;22",
+        "FaerieDragon;FaeBlessing;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "AngryChickens;FuriousFowl;21",
+        "Quilboar;Bristleback;22",
+        "Prowler;OnTheProwl;21",
+        "Harpy;InfectiousSwipes;22",
+        "WhelpEggs;FlameBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;17",
+        "DarkspearTroll;BigBadVoodoo;23",
+        "StonehoofTauren;Pummel;22",
+        "SkeletonParty;RitualOfRime;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;Bristleback;22",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "RendLeader;FlamingSoul;23",
+        "WhelpEggs;FlameBurst;24",
+        "DefiasBandits;PickLock;24",
+        "Harpy;InfectiousSwipes;21",
+        "FireElemental;ImmolationAura;21",
+        "Gargoyle;WingBuffet;24",
+        "Banshee;WillOfTheNecropolis;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;24",
+        "FaerieDragon;FaeBlessing;21",
+        "Gargoyle;WingBuffet;24",
+        "ArcaneBlast;Amplification;21",
+        "HolyNova;InnerFire;21",
+        "ChainLightning;BrilliantFlash;21",
+        "Shaman;EarthShield;22"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;18",
+        "Huntress;Shadowmeld;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;22",
+        "Execute;Bloodthirsty;21",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "6f5550cc788df4d12aa1b4abd1224cbb;3afbcbf64f518cf45a7da1cabd74fe5a;17",
+        "d8382e21b7209419192aa9de55d95a08;46f7b9e7fa69e0647952f2b7e5f13d1c;19",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;9a83af5b4c2bdbb4dbe7cdf82834cfbf;22",
+        "adb619f981176e444bd759d85e80cbfc;c45074a678f52da45a17368df02bfb66;22",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;21",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;17",
+        "7b8e2425177bf46efb482030fc693d76;068d55e468df929479a63ccbec9a72cc;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;23",
+        "Shaman;EarthShield;22",
+        "BatRider;EnchantedVials;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;24",
+        "ChainLightning;BrilliantFlash;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;18",
+        "Necromancer;JeweledSkulls;21",
+        "Gargoyle;WingBuffet;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Huntress;Shadowmeld;21",
+        "Harpy;InfectiousSwipes;22",
+        "FaerieDragon;FaeBlessing;21"
+      ],
+      [
+        "SneedLeader;LandGrab;19",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Shaman;EarthShield;22",
+        "Gargoyle;WingBuffet;24",
+        "WitchDoctor;AmplifyCurse;20",
+        "Harpy;InfectiousSwipes;21",
+        "FaerieDragon;FaeBlessing;20"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;1217400d396347e40a5ba4a180d3cebf;18",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;24",
+        "f7692d689d3b17547af9fbe9afd832ff;9a139bd2007d2ea4596206ec181fb4de;24",
+        "d6df87a31e7c2ae44aafe5d70fda7322;bbae4f098e1016846811a50a1e02cbb7;21",
+        "4d60f72627b7c36468f3107e40109845;fcc5c64ae7d56af4886c6cba42a594c6;24",
+        "adb619f981176e444bd759d85e80cbfc;c45074a678f52da45a17368df02bfb66;22",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;16",
+        "PolymorphSpell;GoldenFleece;18",
+        "Harpy;InfectiousSwipes;22",
+        "Huntress;Shadowmeld;21",
+        "HolyNova;InnerFire;21",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "FireElemental;ImmolationAura;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "Drake;MotherDrake;24",
+        "Pyromancer;Conflagrate;24",
+        "WhelpEggs;FlameBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "DefiasBandits;PickLock;24",
+        "Shaman;EarthShield;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "EarthElemental;ObsidianShard;21",
+        "Pyromancer;Pyroblast;24",
+        "FaerieDragon;FaeBlessing;21",
+        "Gargoyle;WingBuffet;24",
+        "GryphonRider;AirDrop;21",
+        "DarkspearTroll;BigBadVoodoo;23"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;25",
+        "WhelpEggs;FlameBurst;24",
+        "Necromancer;JeweledSkulls;21",
+        "Shaman;EarthShield;22",
+        "Harpy;InfectiousSwipes;22",
+        "Gargoyle;WingBuffet;24",
+        "FaerieDragon;FaeBlessing;21"
+      ]
+    ],
+    "lastUpdate": 1719062200
+  },
+  "token": "216d88e9-f684-4e5d-989a-30273383abfb"
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 310545883,
+    "btag": "HiddenSquid",
+    "name": "HiddenSquid",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 150,
+    "level": 39,
+    "pvpWins": 181,
+    "leaderA": "RendLeader",
+    "leaderAWins": 43,
+    "leaderAHonor": 3614,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 73,
+    "leaderBHonor": 3549,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 38,
+    "leaderCHonor": 3700,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;14",
+        "Execute;Overpower;16",
+        "ArcaneBlast;ArcanePower;17",
+        "LivingBomb;ChainReaction;18",
+        "EarthElemental;ObsidianShard;22",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "DefiasBandits;LastResort;19",
+        "GryphonRider;OdynsFury;21",
+        "Huntress;ElvenMight;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Quilboar;TunnelVision;21",
+        "Chimaera;FrostShock;21",
+        "EarthElemental;ObsidianShard;22",
+        "Harpy;InfectiousSwipes;21",
+        "WhelpEggs;FlameBurst;21",
+        "GryphonRider;OdynsFury;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;18",
+        "DarkspearTroll;Headhunting;19",
+        "EarthElemental;ObsidianShard;22",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "Huntress;ElvenMight;21",
+        "HarvestGolem;UnstableCore;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;22",
+        "Drake;MotherDrake;21",
+        "EarthElemental;ObsidianShard;22",
+        "Harpy;InfectiousSwipes;21",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;21",
+        "MeatWagon;FiletTrebuchet;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Drake;MotherDrake;18",
+        "Abomination;Cannonball;17",
+        "ArcaneBlast;ArcanePower;16",
+        "Execute;Overpower;16",
+        "PolymorphSpell;StableTransfiguration;15",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "MaievLeader;Remorseless;16",
+        "Worgen;Premeditation;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;21",
+        "SkeletonParty;5Man;17",
+        "EarthElemental;ObsidianShard;21"
+      ],
+      [
+        "HoggerLeader;HamHock;16",
+        "HarvestGolem;UnstableCore;20",
+        "Huntress;ElvenMight;20",
+        "EarthElemental;ObsidianShard;19",
+        "Footmen;ShieldBash;17",
+        "PlagueFarmer;Virulence;17",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "CairneLeader;;13",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;20",
+        "Huntress;ElvenMight;20",
+        "StonehoofTauren;Momentum;17",
+        "HarvestGolem;UnstableCore;20",
+        "DarkspearTroll;Headhunting;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Necromancer;JeweledSkulls;21",
+        "SkeletonParty;5Man;18",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21",
+        "Blizzard;ColdSnap;18",
+        "EarthElemental;ObsidianShard;22"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;23",
+        "DefiasBandits;LastResort;19",
+        "CheatDeath;;16",
+        "EarthElemental;ObsidianShard;22",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21",
+        "Banshee;UnholyFrenzy;18"
+      ],
+      [
+        "DrakkisathLeader;;16",
+        "Drake;MotherDrake;19",
+        "Firehammer;MoultinMetal;18",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;21",
+        "Footmen;ShieldBash;17",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;16",
+        "DarkspearTroll;Headhunting;18",
+        "Quilboar;TunnelVision;21",
+        "EarthElemental;ObsidianShard;21",
+        "Harpy;TalonDive;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;BoneArmor;18",
+        "Necromancer;JeweledSkulls;21",
+        "HarvestGolem;UnstableCore;21",
+        "Quilboar;TunnelVision;21",
+        "EarthElemental;ObsidianShard;22",
+        "Harpy;InfectiousSwipes;21"
+      ]
+    ],
+    "lastUpdate": 1719063098
+  },
+  "token": "9667fa5c-9424-477b-87f1-a56077f76c2d"
+}

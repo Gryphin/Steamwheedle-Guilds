@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 869581453,
+    "btag": "Derryn",
+    "name": "Derryn",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 150,
+    "level": 43,
+    "pvpWins": 636,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 108,
+    "leaderAHonor": 4120,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 32,
+    "leaderBHonor": 3906,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 50,
+    "leaderCHonor": 4173,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "Huntress;ElvenMight;24",
+        "Blizzard;ColdSnap;18",
+        "PolymorphSpell;GoldenFleece;20",
+        "Quilboar;TunnelVision;24",
+        "Pyromancer;Pyroblast;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Huntress;ElvenMight;24",
+        "Pyromancer;Pyroblast;24",
+        "Ghoul;TasteForBlood;24",
+        "Harpy;InfectiousSwipes;24",
+        "Drake;EngulfingFlames;24",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;24",
+        "Ghoul;TasteForBlood;24",
+        "Pyromancer;Pyroblast;24",
+        "Drake;EngulfingFlames;24",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "Ghoul;TasteForBlood;24",
+        "Pyromancer;Pyroblast;24",
+        "Harpy;InfectiousSwipes;24",
+        "Drake;EngulfingFlames;24",
+        "Huntress;ElvenMight;24",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Pyromancer;Pyroblast;24",
+        "ChainLightning;BrilliantFlash;18",
+        "Harpy;InfectiousSwipes;24",
+        "Ghoul;TasteForBlood;24",
+        "Quilboar;TunnelVision;24",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Ghoul;TasteForBlood;24",
+        "Pyromancer;Pyroblast;24",
+        "Drake;EngulfingFlames;24",
+        "Quilboar;TunnelVision;24",
+        "Huntress;ElvenMight;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;18",
+        "Huntress;ElvenMight;24",
+        "Pyromancer;Pyroblast;24",
+        "Quilboar;TunnelVision;24",
+        "Ghoul;TasteForBlood;24",
+        "Harpy;InfectiousSwipes;24",
+        "Drake;EngulfingFlames;24"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;18",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;24",
+        "Ghoul;TasteForBlood;24",
+        "Drake;EngulfingFlames;24",
+        "Pyromancer;Pyroblast;24",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Ghoul;TasteForBlood;24",
+        "Pyromancer;Pyroblast;24",
+        "Huntress;ElvenMight;24",
+        "Quilboar;TunnelVision;24",
+        "Drake;EngulfingFlames;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Ghoul;TasteForBlood;24",
+        "Drake;EngulfingFlames;24",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;ElvenMight;24",
+        "Pyromancer;Pyroblast;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "Ghoul;TasteForBlood;24",
+        "Pyromancer;Pyroblast;24",
+        "Drake;EngulfingFlames;24",
+        "Huntress;ElvenMight;24",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;24",
+        "Huntress;Shadowmeld;24",
+        "Banshee;WillOfTheNecropolis;20",
+        "WhelpEggs;FlameBurst;20",
+        "Pyromancer;Pyroblast;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "Pyromancer;Pyroblast;24",
+        "DarkIronMiner;GoldMine;20",
+        "PolymorphSpell;GoldenFleece;20",
+        "Huntress;ElvenMight;24",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Pyromancer;Pyroblast;24",
+        "DarkIronMiner;GoldMine;20",
+        "PolymorphSpell;GoldenFleece;20",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;ElvenMight;24",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;TasteForBlood;24",
+        "Pyromancer;Pyroblast;24",
+        "Drake;EngulfingFlames;24",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;TunnelVision;24",
+        "Huntress;ElvenMight;24"
+      ]
+    ],
+    "lastUpdate": 1719063077
+  },
+  "token": "9503e454-7792-4aad-87f2-d11202b24c9e"
+}

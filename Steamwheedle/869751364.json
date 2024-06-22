@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 869751364,
+    "btag": "CMCorsair",
+    "name": "CMCorsair",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 145,
+    "level": 48,
+    "pvpWins": 154,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 51,
+    "leaderAHonor": 3183,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 38,
+    "leaderBHonor": 3122,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 18,
+    "leaderCHonor": 3107,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "DefiasBandits;LastResort;21",
+        "Execute;Overpower;21",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "TirionLeader;ByTheLight;24",
+        "HarvestGolem;UnstableCore;21",
+        "DefiasBandits;LastResort;21",
+        "Shaman;EarthShield;21",
+        "Quilboar;TunnelVision;24",
+        "Huntress;ElvenMight;22",
+        "GryphonRider;MightyThrow;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;InfectiousSwipes;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "GnollBrute;Rabid;21",
+        "WitchDoctor;Alchemist;21",
+        "GryphonRider;MightyThrow;21",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "WitchDoctor;Alchemist;21",
+        "Shaman;EarthShield;21",
+        "DefiasBandits;LastResort;21",
+        "Quilboar;TunnelVision;24",
+        "Huntress;ElvenMight;22",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "WhelpEggs;FlameBurst;21",
+        "Drake;MotherDrake;21",
+        "BatRider;;19",
+        "Harpy;InfectiousSwipes;21",
+        "EarthElemental;ObsidianShard;21",
+        "GryphonRider;MightyThrow;22"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "Abomination;NoxiousPresence;24",
+        "Banshee;WillOfTheNecropolis;21",
+        "Execute;Overpower;21",
+        "WhelpEggs;FlameBurst;21",
+        "BatRider;;19",
+        "Quilboar;TunnelVision;23"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "Blizzard;ColdSnap;21",
+        "Worgen;Premeditation;21",
+        "EarthElemental;ObsidianShard;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "HoggerLeader;HamHock;23",
+        "Quilboar;TunnelVision;23",
+        "Vultures;TendonRip;21",
+        "GryphonRider;MightyThrow;21",
+        "Banshee;WillOfTheNecropolis;21",
+        "BatRider;;19",
+        "EarthElemental;ObsidianShard;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;24",
+        "WitchDoctor;Alchemist;21",
+        "Shaman;EarthShield;21",
+        "Huntress;ElvenMight;22",
+        "GryphonRider;MightyThrow;22",
+        "Quilboar;TunnelVision;24",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;23",
+        "Abomination;NoxiousPresence;24",
+        "CheatDeath;Vampirism;21",
+        "Quilboar;TunnelVision;24",
+        "Shaman;EarthShield;21",
+        "Huntress;ElvenMight;22",
+        "GryphonRider;MightyThrow;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Worgen;Premeditation;21",
+        "EarthElemental;ObsidianShard;21",
+        "Huntress;ElvenMight;22",
+        "Quilboar;TunnelVision;24",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;19",
+        "GnollBrute;Rabid;20",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;ElvenMight;21",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Quilboar;TunnelVision;23",
+        "WitchDoctor;Alchemist;19"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "EarthElemental;ObsidianShard;21",
+        "FireElemental;ImmolationAura;21",
+        "Shaman;EarthShield;21",
+        "PolymorphSpell;GoldenFleece;20",
+        "Quilboar;TunnelVision;23",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;24",
+        "WhelpEggs;FlameBurst;21",
+        "FireElemental;ImmolationAura;21",
+        "Quilboar;TunnelVision;24",
+        "Blizzard;ColdSnap;21",
+        "GryphonRider;MightyThrow;21",
+        "Pyromancer;Conflagrate;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "Ghoul;BoneArmor;21",
+        "Gargoyle;WingBuffet;21",
+        "Shaman;EarthShield;21",
+        "GryphonRider;MightyThrow;21",
+        "CheatDeath;Vampirism;19",
+        "DarkIronMiner;GoldMine;21"
+      ]
+    ],
+    "lastUpdate": 1719063128
+  },
+  "token": "10066070-3fc8-4bcf-9445-26568266e73e"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 126527974,
+    "btag": "Chory",
+    "name": "Chory",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "CombatHUD_Tex_Player_Default",
+    "skulls": 150,
+    "level": 44,
+    "pvpWins": 504,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 42,
+    "leaderAHonor": 3435,
+    "leaderB": "RendLeader",
+    "leaderBWins": 44,
+    "leaderBHonor": 3442,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 59,
+    "leaderCHonor": 3395,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "HarvestGolem;UnstableCore;21",
+        "Blizzard;Icecrown;20",
+        "Execute;Bloodthirsty;21",
+        "DarkIronMiner;GoldMine;21",
+        "DefiasBandits;DeadlyPoison;22",
+        "Harpy;InfectiousSwipes;25"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "DefiasBandits;PickLock;22",
+        "Footmen;Fortification;21",
+        "HarvestGolem;UnstableCore;21",
+        "MeatWagon;FiletTrebuchet;24",
+        "GryphonRider;MightyThrow;21",
+        "SkeletonParty;RitualOfRime;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;25",
+        "EarthElemental;ObsidianShard;23",
+        "WhelpEggs;FlameBurst;24",
+        "DarkIronMiner;GoldMine;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "WitchDoctor;SpiritWard;21",
+        "ChainLightning;Reverberation;18",
+        "Vultures;TendonRip;18",
+        "Harpy;InfectiousSwipes;25",
+        "Huntress;ElvenMight;22",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "WhelpEggs;FlameBurst;24",
+        "EarthElemental;ObsidianShard;23",
+        "Execute;Bloodthirsty;21",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;TunnelVision;24",
+        "MeatWagon;FiletTrebuchet;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "MeatWagon;FiletTrebuchet;24",
+        "SkeletonParty;RitualOfRime;21",
+        "Execute;Bloodthirsty;21",
+        "FireElemental;ImmolationAura;22",
+        "Harpy;InfectiousSwipes;25",
+        "EarthElemental;ObsidianShard;23"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "DefiasBandits;PickLock;21",
+        "Huntress;ElvenMight;22",
+        "Quilboar;TunnelVision;24",
+        "WhelpEggs;FlameBurst;24",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;TunnelVision;24",
+        "GryphonRider;MightyThrow;21",
+        "Huntress;ElvenMight;22",
+        "WhelpEggs;FlameBurst;24",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Shaman;EarthShield;22",
+        "WitchDoctor;SpiritWard;21",
+        "Huntress;ElvenMight;22",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;TunnelVision;24",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "MeatWagon;FiletTrebuchet;24",
+        "Gargoyle;WingBuffet;21",
+        "EarthElemental;ObsidianShard;23",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;25",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "BatRider;EnchantedVials;21",
+        "WitchDoctor;SpiritWard;21",
+        "MeatWagon;FiletTrebuchet;24",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;25",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;23",
+        "Huntress;ElvenMight;21",
+        "WhelpEggs;FlameBurst;24",
+        "EarthElemental;ObsidianShard;23",
+        "MeatWagon;FiletTrebuchet;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "WhelpEggs;FlameBurst;24",
+        "EarthElemental;ObsidianShard;23",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;25",
+        "Huntress;ElvenMight;22",
+        "Gargoyle;WingBuffet;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "EarthElemental;ObsidianShard;23",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;BrambleBurst;24",
+        "Huntress;ElvenMight;22",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;25"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Gargoyle;WingBuffet;21",
+        "SkeletonParty;RitualOfRime;20",
+        "WitchDoctor;SpiritWard;21",
+        "Quilboar;Bristleback;24",
+        "Harpy;InfectiousSwipes;25",
+        "Huntress;ElvenMight;22"
+      ]
+    ],
+    "lastUpdate": 1719063150
+  },
+  "token": "0db255d1-efe4-4aaa-ad3f-cd5f917de9f8"
+}

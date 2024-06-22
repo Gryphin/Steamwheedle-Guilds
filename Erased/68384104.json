@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 68384104,
+    "btag": "Fausttt",
+    "name": "Fausttt",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 104,
+    "level": 35,
+    "pvpWins": 60,
+    "leaderA": "RendLeader",
+    "leaderAWins": 18,
+    "leaderAHonor": 1984,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 6,
+    "leaderBHonor": 1177,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 15,
+    "leaderCHonor": 2261,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;17",
+        "Huntress;DarnassianSteel;18",
+        "GryphonRider;;15",
+        "ArcaneBlast;;14",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "Mountaineer;Growl;17",
+        "Blizzard;ColdSnap;16"
+      ],
+      [
+        "TirionLeader;Consecrate;18",
+        "Huntress;DarnassianSteel;18",
+        "GryphonRider;;16",
+        "Mountaineer;Growl;17",
+        "Harpy;TrinketCollectors;18",
+        "Blizzard;ColdSnap;17",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+        "Chimaera;FrostShock;20",
+        "Raptors;StrengthInNumbers;18",
+        "Quilboar;Bristleback;17",
+        "Harpy;TrinketCollectors;18",
+        "WitchDoctor;AmplifyCurse;19",
+        "Huntress;DarnassianSteel;18"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "OgreMage;Ignite;17",
+        "DarkspearTroll;Headhunting;17",
+        "Harpy;TrinketCollectors;18",
+        "BatRider;FlamingPitch;15",
+        "Huntress;DarnassianSteel;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17"
+      ],
+      [
+        "RendLeader;Legionnaire;22",
+        "Firehammer;MoultinMetal;17",
+        "Pyromancer;Pyroblast;19",
+        "Harpy;TrinketCollectors;18",
+        "EarthElemental;ObsidianShard;18",
+        "Huntress;DarnassianSteel;18",
+        "SkeletonParty;5Man;17"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Abomination;FreshMeat;20",
+        "Banshee;WillOfTheNecropolis;16",
+        "Blizzard;ColdSnap;17",
+        "Huntress;DarnassianSteel;18",
+        "SkeletonParty;5Man;17",
+        "Raptors;StrengthInNumbers;18"
+      ],
+      [
+        "MaievLeader;Shadowstep;17",
+        "Mountaineer;Growl;17",
+        "Huntress;DarnassianSteel;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "GryphonRider;;15",
+        "Harpy;TrinketCollectors;18",
+        "ArcaneBlast;Amplification;16"
+      ],
+      [
+        "HoggerLeader;HamHock;15",
+        "Chimaera;FrostShock;17",
+        "Raptors;StrengthInNumbers;16",
+        "Quilboar;;14",
+        "Huntress;DarnassianSteel;16",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;16",
+        "DarkspearTroll;Headhunting;16"
+      ],
+      [
+        "CairneLeader;Plainsrunning;20",
+        "StonehoofTauren;;14",
+        "OgreMage;Ignite;17",
+        "WitchDoctor;AmplifyCurse;17",
+        "Harpy;TrinketCollectors;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "Huntress;DarnassianSteel;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Abomination;FreshMeat;20",
+        "MeatWagon;FiletTrebuchet;17",
+        "SkeletonParty;5Man;17",
+        "Harpy;TrinketCollectors;18",
+        "PlagueFarmer;SplashingPumpkins;16",
+        "Huntress;DarnassianSteel;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;20",
+        "StonehoofTauren;;14",
+        "OgreMage;Ignite;17",
+        "EarthElemental;ObsidianShard;17",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "Harpy;TrinketCollectors;18",
+        "Huntress;DarnassianSteel;18"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;15",
+        "Quilboar;;14",
+        "Chimaera;CorrosiveBreath;17",
+        "Huntress;DarnassianSteel;16",
+        "Harpy;TrinketCollectors;16",
+        "Blizzard;ColdSnap;15",
+        "Mountaineer;Growl;16"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;18",
+        "MoltenGiant;Bolster;17",
+        "DarkIronMiner;GoldMine;15",
+        "Flamewaker;HeatStroke;17",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "DarkspearTroll;Headhunting;17",
+        "CoreHounds;;14"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "Flamewaker;HeatStroke;17",
+        "DarkIronMiner;GoldMine;15",
+        "MoltenGiant;Bolster;17",
+        "Pyromancer;Pyroblast;19",
+        "DarkspearTroll;Headhunting;17",
+        "WhelpEggs;FlameBurst;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Abomination;NoxiousPresence;20",
+        "MeatWagon;FiletTrebuchet;17",
+        "DarkspearTroll;Headhunting;18",
+        "Huntress;DarnassianSteel;18",
+        "SkeletonParty;5Man;17",
+        "Ghoul;;14"
+      ]
+    ],
+    "lastUpdate": 1719063116
+  },
+  "token": "9b513821-502a-4523-8eb0-b9873c4073cc"
+}

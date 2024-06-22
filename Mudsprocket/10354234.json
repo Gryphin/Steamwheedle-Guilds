@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 10354234,
+    "btag": "JamieB",
+    "name": "JamieB",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 135,
+    "level": 40,
+    "pvpWins": 445,
+    "leaderA": "SylvanasLeader",
+    "leaderAWins": 101,
+    "leaderAHonor": 3358,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 135,
+    "leaderBHonor": 3564,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 60,
+    "leaderCHonor": 3241,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;15",
+        "DefiasBandits;LastResort;21",
+        "GryphonRider;OdynsFury;21",
+        "Pyromancer;Pyroblast;23",
+        "Blizzard;ColdSnap;21",
+        "StonehoofTauren;Pummel;21",
+        "ArcaneBlast;;15"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "Huntress;DarnassianSteel;23",
+        "Blizzard;ColdSnap;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "WitchDoctor;SpiritWard;20",
+        "GryphonRider;OdynsFury;21",
+        "Pyromancer;Pyroblast;23"
+      ],
+      [
+        "OldMurkEyeLeader;;15",
+        "Pyromancer;Pyroblast;21",
+        "Flamewaker;Engulf;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Blizzard;ColdSnap;20",
+        "Harpy;TrinketCollectors;20",
+        "GnollBrute;ThickHide;20"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "GnollBrute;ThickHide;21",
+        "Harpy;TrinketCollectors;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Flamewaker;Engulf;20",
+        "Blizzard;ColdSnap;21",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;17",
+        "DefiasBandits;LastResort;21",
+        "Blizzard;ColdSnap;21",
+        "Quilboar;BrambleBurst;21",
+        "Harpy;TrinketCollectors;20",
+        "Shaman;LightningMastery;20",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;17",
+        "DefiasBandits;LastResort;21",
+        "GryphonRider;OdynsFury;21",
+        "Pyromancer;Pyroblast;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Flamewaker;Engulf;20",
+        "Harpy;TrinketCollectors;20"
+      ],
+      [
+        "MaievLeader;Shadowstep;17",
+        "Pyromancer;Pyroblast;23",
+        "Flamewaker;Engulf;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Blizzard;ColdSnap;21",
+        "Harpy;TrinketCollectors;20",
+        "GnollBrute;ThickHide;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;BrambleBurst;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "DefiasBandits;LastResort;21",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Huntress;DarnassianSteel;23"
+      ],
+      [
+        "CairneLeader;Reincarnation;19",
+        "Flamewaker;Engulf;20",
+        "GnollBrute;ThickHide;21",
+        "Pyromancer;Pyroblast;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Blizzard;ColdSnap;21",
+        "Harpy;TrinketCollectors;20"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;17",
+        "EarthElemental;ObsidianShard;20",
+        "Huntress;DarnassianSteel;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Harpy;TrinketCollectors;20",
+        "Pyromancer;Pyroblast;23",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "SneedLeader;LandGrab;21",
+        "StonehoofTauren;Pummel;21",
+        "BatRider;EnchantedVials;20",
+        "EarthElemental;ObsidianShard;20",
+        "Pyromancer;Pyroblast;23",
+        "WitchDoctor;SpiritWard;20",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "GnollBrute;ThickHide;21",
+        "Harpy;TrinketCollectors;20",
+        "Huntress;DarnassianSteel;23",
+        "Quilboar;BrambleBurst;21",
+        "Blizzard;ColdSnap;21",
+        "Pyromancer;Pyroblast;23"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;21",
+        "MoltenGiant;ThreateningPresence;20",
+        "Pyromancer;Pyroblast;23",
+        "Shaman;LightningMastery;21",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Blizzard;ColdSnap;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;20",
+        "DefiasBandits;LastResort;21",
+        "WhelpEggs;FlameBurst;20",
+        "Quilboar;BrambleBurst;21",
+        "Harpy;TrinketCollectors;20",
+        "Huntress;DarnassianSteel;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Gargoyle;AerialSuperiority;21",
+        "SkeletonWarrior;Exhume;21",
+        "Pyromancer;Pyroblast;23",
+        "GryphonRider;MightyThrow;21",
+        "StonehoofTauren;Pummel;21",
+        "Quilboar;BrambleBurst;21"
+      ]
+    ],
+    "lastUpdate": 1719063097
+  },
+  "token": "b2470264-4374-4caf-a9e7-7b65a19c9f5a"
+}

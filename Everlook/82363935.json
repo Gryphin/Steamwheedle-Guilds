@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 82363935,
+    "btag": "Drugu",
+    "name": "Drugu",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 148,
+    "level": 49,
+    "pvpWins": 777,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 112,
+    "leaderAHonor": 3786,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 146,
+    "leaderBHonor": 3720,
+    "leaderC": "GrommashLeader",
+    "leaderCWins": 159,
+    "leaderCHonor": 3746,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "GryphonRider;MightyThrow;22",
+        "Footmen;Fortification;24",
+        "Blizzard;ColdSnap;21",
+        "HarvestGolem;UnstableCore;22",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Pyroblast;24"
+      ],
+      [
+        "TirionLeader;ByTheLight;22",
+        "GryphonRider;MightyThrow;22",
+        "Huntress;ElvenMight;21",
+        "StonehoofTauren;Pummel;22",
+        "Necromancer;JeweledSkulls;24",
+        "Blizzard;ColdSnap;21",
+        "DefiasBandits;PickLock;22"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;22",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Quilboar;TunnelVision;22",
+        "Footmen;Fortification;24",
+        "DefiasBandits;PickLock;22",
+        "BatRider;EnchantedVials;22",
+        "Vultures;Migration;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;23",
+        "BatRider;EnchantedVials;22",
+        "StonehoofTauren;Momentum;22",
+        "WhelpEggs;FlameBurst;22",
+        "WitchDoctor;SpiritWard;24",
+        "Quilboar;TunnelVision;22",
+        "DarkspearTroll;SerpentSting;23"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "WhelpEggs;FlameBurst;22",
+        "Drake;MotherDrake;22",
+        "Harpy;TrinketCollectors;22",
+        "DarkspearTroll;SerpentSting;23",
+        "StonehoofTauren;Momentum;22",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;22",
+        "Abomination;Cannonball;21",
+        "Ghoul;BoneArmor;22",
+        "HolyNova;Renew;20",
+        "ArcaneBlast;Amplification;20",
+        "Shaman;EarthShield;22",
+        "ChainLightning;BrilliantFlash;21"
+      ],
+      [
+        "MaievLeader;Remorseless;22",
+        "Huntress;ElvenMight;21",
+        "HarvestGolem;UnstableCore;22",
+        "Quilboar;TunnelVision;22",
+        "WhelpEggs;FlameBurst;22",
+        "BatRider;EnchantedVials;22",
+        "StonehoofTauren;Pummel;22"
+      ],
+      [
+        "HoggerLeader;HamHock;23",
+        "GnollBrute;Rabid;24",
+        "Quilboar;TunnelVision;22",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Pyromancer;Pyroblast;24",
+        "DefiasBandits;PickLock;22",
+        "GryphonRider;MightyThrow;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "DarkspearTroll;SerpentSting;23",
+        "WitchDoctor;SpiritWard;24",
+        "Banshee;WillOfTheNecropolis;21",
+        "GryphonRider;MightyThrow;22",
+        "Necromancer;JeweledSkulls;24",
+        "Footmen;Fortification;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "Ghoul;BoneArmor;22",
+        "Necromancer;JeweledSkulls;24",
+        "Quilboar;TunnelVision;22",
+        "Gargoyle;AerialSuperiority;22",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Pyroblast;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "StonehoofTauren;Momentum;22",
+        "DarkspearTroll;SerpentSting;23",
+        "GoblinSapper;RocketBoots;20",
+        "WitchDoctor;SpiritWard;24",
+        "BatRider;EnchantedVials;22",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;23",
+        "Quilboar;TunnelVision;22",
+        "Harpy;TalonDive;21",
+        "Huntress;ElvenMight;21",
+        "StonehoofTauren;Pummel;22",
+        "Pyromancer;Pyroblast;24",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "Pyromancer;Pyroblast;24",
+        "Flamewaker;Engulf;21",
+        "WitchDoctor;SpiritWard;24",
+        "GryphonRider;MightyThrow;22",
+        "WhelpEggs;FlameBurst;22",
+        "Necromancer;JeweledSkulls;24"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;21",
+        "Pyromancer;Pyroblast;24",
+        "WhelpEggs;FlameBurst;22",
+        "Prowler;OnTheProwl;22",
+        "WitchDoctor;SpiritWard;24",
+        "BatRider;EnchantedVials;22",
+        "Footmen;Fortification;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "Necromancer;JeweledSkulls;24",
+        "Ghoul;BoneArmor;22",
+        "WitchDoctor;SpiritWard;24",
+        "Harpy;TalonDive;21",
+        "Quilboar;TunnelVision;22",
+        "WhelpEggs;FlameBurst;22"
+      ]
+    ],
+    "lastUpdate": 1719063147
+  },
+  "token": "375e4bc8-e8eb-442d-8eb2-5de97e693a3c"
+}

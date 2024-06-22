@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 59396041,
+    "btag": "Spookydeath",
+    "name": "Spookydeath",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 131,
+    "level": 37,
+    "pvpWins": 50,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 6,
+    "leaderAHonor": 698,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 14,
+    "leaderBHonor": 1131,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 7,
+    "leaderCHonor": 750,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;15",
+        "Necromancer;BreathOfTheDying;24",
+        "DarkspearTroll;;16",
+        "Blizzard;Icecrown;21",
+        "Harpy;InfectiousSwipes;21",
+        "Gargoyle;ObsidianStatue;21",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Blizzard;ColdSnap;21",
+        "Ghoul;BoneArmor;21",
+        "Quilboar;Bristleback;21",
+        "Gargoyle;ObsidianStatue;21",
+        "Necromancer;BreathOfTheDying;24",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;22",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;21",
+        "Ghoul;BoneArmor;21",
+        "Blizzard;ColdSnap;21",
+        "Gargoyle;ObsidianStatue;21",
+        "Necromancer;BreathOfTheDying;24"
+      ],
+      [
+        "GrommashLeader;;14",
+        "Blizzard;Icecrown;18",
+        "Ghoul;BoneArmor;20",
+        "Harpy;InfectiousSwipes;20",
+        "Necromancer;BreathOfTheDying;20",
+        "Gargoyle;ObsidianStatue;18",
+        "Quilboar;Bristleback;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Blizzard;ColdSnap;21",
+        "Ghoul;BoneArmor;21",
+        "Gargoyle;ObsidianStatue;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;Bristleback;21",
+        "Necromancer;BreathOfTheDying;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Necromancer;BreathOfTheDying;24",
+        "Ghoul;Ravenous;21",
+        "Blizzard;Icecrown;21",
+        "ArcaneBlast;;15",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "MaievLeader;;17",
+        "Blizzard;Icecrown;21",
+        "Necromancer;BreathOfTheDying;24",
+        "Quilboar;Bristleback;21",
+        "Gargoyle;ObsidianStatue;21",
+        "Ghoul;BoneArmor;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "HoggerLeader;;16",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;21",
+        "Ghoul;Ravenous;21",
+        "Gargoyle;ObsidianStatue;21",
+        "Necromancer;BreathOfTheDying;21",
+        "Blizzard;Icecrown;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "Quilboar;Bristleback;21",
+        "Ghoul;BoneArmor;21",
+        "Necromancer;BreathOfTheDying;22",
+        "Blizzard;ColdSnap;21",
+        "Gargoyle;ObsidianStatue;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;23",
+        "Necromancer;BreathOfTheDying;24",
+        "Ghoul;BoneArmor;21",
+        "Quilboar;Bristleback;21",
+        "Gargoyle;ObsidianStatue;21",
+        "Blizzard;ColdSnap;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;17",
+        "Necromancer;BreathOfTheDying;24",
+        "Blizzard;Icecrown;21",
+        "Gargoyle;ObsidianStatue;21",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;21",
+        "Ghoul;Ravenous;21"
+      ],
+      [
+        "CharlgaLeader;;17",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;Bristleback;21",
+        "Blizzard;Icecrown;21",
+        "Necromancer;BreathOfTheDying;24",
+        "Gargoyle;ObsidianStatue;21",
+        "Ghoul;Ravenous;21"
+      ],
+      [
+        "DrakkisathLeader;;16",
+        "Harpy;InfectiousSwipes;21",
+        "Ghoul;Ravenous;21",
+        "Blizzard;Icecrown;21",
+        "Quilboar;Bristleback;21",
+        "Necromancer;BreathOfTheDying;21",
+        "Gargoyle;ObsidianStatue;21"
+      ],
+      [
+        "ThaurissanLeader;;15",
+        "BatRider;;15",
+        "Blizzard;Icecrown;21",
+        "Quilboar;Bristleback;21",
+        "Gargoyle;ObsidianStatue;21",
+        "Harpy;InfectiousSwipes;21",
+        "Necromancer;BreathOfTheDying;21"
+      ],
+      [
+        "SylvanasLeader;;16",
+        "Necromancer;BreathOfTheDying;24",
+        "Gargoyle;ObsidianStatue;21",
+        "OgreMage;;16",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;21",
+        "Blizzard;Icecrown;21"
+      ]
+    ],
+    "lastUpdate": 1716751631
+  },
+  "token": "ca8b64d3-133a-4615-bb61-8386238dc53e"
+}

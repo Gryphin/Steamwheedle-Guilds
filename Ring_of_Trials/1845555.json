@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1845555,
+    "btag": "Sarak",
+    "name": "Sarak",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 122,
+    "level": 39,
+    "pvpWins": 111,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 38,
+    "leaderAHonor": 1726,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 33,
+    "leaderBHonor": 2642,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 30,
+    "leaderCHonor": 2498,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;20",
+        "Blizzard;ColdSnap;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Execute;Overpower;17",
+        "WhelpEggs;FlameBurst;18",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "SkeletonParty;5Man;19"
+      ],
+      [
+        "TirionLeader;DivineShield;23",
+        "Huntress;Shadowmeld;17",
+        "Blizzard;ColdSnap;21",
+        "MeatWagon;FiletTrebuchet;19",
+        "WhelpEggs;FlameBurst;18",
+        "Necromancer;JeweledSkulls;21",
+        "SkeletonParty;5Man;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;InfectiousSwipes;18",
+        "Quilboar;BrambleBurst;19",
+        "Prowler;PackLeader;18",
+        "Necromancer;JeweledSkulls;21",
+        "WhelpEggs;FlameBurst;18",
+        "DarkIronMiner;DwarvenAmbition;19"
+      ],
+      [
+        "GrommashLeader;;16",
+        "ChainLightning;BrilliantFlash;17",
+        "Shaman;;16",
+        "SkeletonParty;5Man;17",
+        "Necromancer;JeweledSkulls;20",
+        "Drake;MotherDrake;18",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "WhelpEggs;FlameBurst;18",
+        "Harpy;InfectiousSwipes;18",
+        "Necromancer;JeweledSkulls;21",
+        "Drake;MotherDrake;20",
+        "Quilboar;BrambleBurst;19"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Necromancer;JeweledSkulls;20",
+        "Gargoyle;AerialSuperiority;18",
+        "Blizzard;ColdSnap;20",
+        "SkeletonParty;5Man;18",
+        "ChainLightning;BrilliantFlash;17",
+        "DarkIronMiner;DwarvenAmbition;18"
+      ],
+      [
+        "MaievLeader;Shadowstep;17",
+        "Worgen;LoneWolf;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "SkeletonParty;5Man;19",
+        "CheatDeath;Apocalypse;18",
+        "WhelpEggs;FlameBurst;18",
+        "SkeletonWarrior;Exhume;19"
+      ],
+      [
+        "HoggerLeader;HamHock;16",
+        "Prowler;PackLeader;17",
+        "Quilboar;BrambleBurst;18",
+        "DefiasBandits;PickLock;16",
+        "Harpy;InfectiousSwipes;18",
+        "SkeletonParty;5Man;18",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "WarsongRaider;;16",
+        "GoblinSapper;RocketBoots;18",
+        "Shaman;EarthShield;18",
+        "DarkspearTroll;Headhunting;17",
+        "SmokeBombSpell;ThroughTheShadows;18",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;23",
+        "SkeletonParty;5Man;19",
+        "Necromancer;JeweledSkulls;21",
+        "Quilboar;BrambleBurst;19",
+        "SkeletonWarrior;Exhume;19",
+        "WhelpEggs;FlameBurst;18",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;23",
+        "GoblinSapper;RocketBoots;18",
+        "Shaman;EarthShield;18",
+        "MeatWagon;FiletTrebuchet;19",
+        "WhelpEggs;FlameBurst;18",
+        "Necromancer;JeweledSkulls;21",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "CharlgaLeader;;15",
+        "GnollBrute;Rabid;16",
+        "DefiasBandits;PickLock;16",
+        "WarsongRaider;;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "OgreMage;;16",
+        "MeatWagon;FiletTrebuchet;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;17",
+        "Necromancer;JeweledSkulls;21",
+        "SkeletonParty;5Man;19",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "MeatWagon;FiletTrebuchet;18",
+        "Drake;MotherDrake;20",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "ThaurissanLeader;;15",
+        "EarthElemental;ObsidianShard;16",
+        "Drake;MotherDrake;18",
+        "DefiasBandits;PickLock;16",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Blizzard;ColdSnap;20",
+        "Necromancer;JeweledSkulls;20"
+      ],
+      [
+        "SylvanasLeader;;16",
+        "Necromancer;JeweledSkulls;18",
+        "Gargoyle;AerialSuperiority;17",
+        "SkeletonParty;5Man;17",
+        "DefiasBandits;PickLock;16",
+        "MeatWagon;FiletTrebuchet;17",
+        "Blizzard;ColdSnap;17"
+      ]
+    ],
+    "lastUpdate": 1719063152
+  },
+  "token": "abf22a42-ea6c-4935-8633-e9c050f5179e"
+}

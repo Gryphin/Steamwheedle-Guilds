@@ -12,7 +12,7 @@
         "skulls": 115,
         "honor": 6747,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062194
+        "lastUpdate": 1719063159
       },
       {
         "id": 106108085,
@@ -21,7 +21,7 @@
         "skulls": 135,
         "honor": 9687,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062194
+        "lastUpdate": 1719063159
       },
       {
         "id": 108514996,
@@ -30,7 +30,7 @@
         "skulls": 150,
         "honor": 11522,
         "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719062194
+        "lastUpdate": 1719063159
       },
       {
         "id": 101123136,
@@ -39,7 +39,7 @@
         "skulls": 137,
         "honor": 8090,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062195
+        "lastUpdate": 1719063159
       },
       {
         "id": 126911410,
@@ -48,7 +48,7 @@
         "skulls": 133,
         "honor": 8966,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719062195
+        "lastUpdate": 1719063160
       },
       {
         "id": 52286429,
@@ -93,7 +93,7 @@
         "skulls": 131,
         "honor": 7195,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062196
+        "lastUpdate": 1719063175
       },
       {
         "id": 50553276,
@@ -102,7 +102,7 @@
         "skulls": 150,
         "honor": 8997,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062196
+        "lastUpdate": 1719063176
       },
       {
         "id": 456698398,
@@ -120,7 +120,7 @@
         "skulls": 150,
         "honor": 13042,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062196
+        "lastUpdate": 1719063176
       },
       {
         "id": 50405374,
@@ -129,7 +129,7 @@
         "skulls": 150,
         "honor": 10500,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062196
+        "lastUpdate": 1719063176
       },
       {
         "id": 402601953,
@@ -138,16 +138,7 @@
         "skulls": 149,
         "honor": 12029,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062196
-      },
-      {
-        "id": 100443217,
-        "name": "Norkimo",
-        "btag": "Norkimo",
-        "skulls": 149,
-        "honor": 5845,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062197
+        "lastUpdate": 1719063176
       },
       {
         "id": 50108689,
@@ -156,16 +147,7 @@
         "skulls": 150,
         "honor": 10638,
         "avatar": "Indicator_Maiev_Pose",
-        "lastUpdate": 1719062194
-      },
-      {
-        "id": 113614313,
-        "name": "RoyaLGuarD",
-        "btag": "RoyaLGuarD",
-        "skulls": 150,
-        "honor": 12174,
-        "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719062197
+        "lastUpdate": 1719063177
       },
       {
         "id": 401532319,
@@ -174,11 +156,29 @@
         "skulls": 150,
         "honor": 10391,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062197
+        "lastUpdate": 1719063177
+      },
+      {
+        "id": 100443217,
+        "name": "Norkimo",
+        "btag": "Norkimo",
+        "skulls": 149,
+        "honor": 5845,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063177
+      },
+      {
+        "id": 113614313,
+        "name": "RoyaLGuarD",
+        "btag": "RoyaLGuarD",
+        "skulls": 150,
+        "honor": 12174,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719063177
       }
     ],
-    "lastUpdate": 1719062194
+    "lastUpdate": 1719063159
   },
-  "token": "21964549-da7c-4c0a-a2a2-7e09d59f7dc0",
-  "link": "https://localhost:7080/guild/437956461?token=21964549-da7c-4c0a-a2a2-7e09d59f7dc0"
+  "token": "e7f81c9e-08f7-4206-9ce9-70a8f28b739c",
+  "link": "https://localhost:7080/guild/437956461?token=e7f81c9e-08f7-4206-9ce9-70a8f28b739c"
 }

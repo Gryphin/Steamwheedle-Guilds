@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 101894112,
+    "btag": "TheV",
+    "name": "TheV",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Rend_Pose",
+    "skulls": 144,
+    "level": 43,
+    "pvpWins": 249,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 25,
+    "leaderAHonor": 2407,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 23,
+    "leaderBHonor": 2397,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 28,
+    "leaderCHonor": 2407,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "Worgen;LoneWolf;23",
+        "LivingBomb;ChainReaction;21",
+        "ChainLightning;BrilliantFlash;21",
+        "WhelpEggs;FlameBurst;22",
+        "Gargoyle;WingBuffet;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "GryphonRider;MightyThrow;21",
+        "Worgen;Premeditation;24",
+        "Quilboar;TunnelVision;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "CheatDeath;;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Prowler;;17",
+        "MurlocTidehunters;;18",
+        "Ghoul;BoneArmor;20",
+        "GryphonRider;MightyThrow;21",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;21",
+        "ChainLightning;BrilliantFlash;22",
+        "PolymorphSpell;GoldenFleece;20",
+        "MurlocTidehunters;;18",
+        "GryphonRider;MightyThrow;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "WhelpEggs;FlameBurst;24",
+        "LivingBomb;ChainReaction;24",
+        "Harpy;InfectiousSwipes;25",
+        "ChainLightning;BrilliantFlash;22",
+        "Gargoyle;WingBuffet;24",
+        "Worgen;Premeditation;24"
+      ],
+      [
+        "BloodmageThalnosLeader;;21",
+        "Abomination;NoxiousPresence;20",
+        "Ghoul;BoneArmor;20",
+        "HolyNova;InnerFire;19",
+        "ArcaneBlast;Amplification;19",
+        "Shaman;EarthShield;19",
+        "ChainLightning;BrilliantFlash;22"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "Worgen;Premeditation;24",
+        "LivingBomb;ChainReaction;24",
+        "WhelpEggs;FlameBurst;24",
+        "Gargoyle;WingBuffet;24",
+        "Harpy;InfectiousSwipes;25",
+        "ChainLightning;BrilliantFlash;22"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "PolymorphSpell;GoldenFleece;20",
+        "Quilboar;TunnelVision;21",
+        "DarkIronMiner;GoldMine;20",
+        "MurlocTidehunters;SafetyBubble;20",
+        "GryphonRider;MightyThrow;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "ChainLightning;BrilliantFlash;22",
+        "LivingBomb;ChainReaction;24",
+        "Worgen;LoneWolf;24",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;25",
+        "Gargoyle;WingBuffet;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "Ghoul;BoneArmor;20",
+        "DarkIronMiner;GoldMine;20",
+        "Quilboar;TunnelVision;21",
+        "GryphonRider;MightyThrow;21",
+        "WhelpEggs;FlameBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "ChainLightning;BrilliantFlash;22",
+        "Worgen;Premeditation;24",
+        "Gargoyle;WingBuffet;24",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;25",
+        "LivingBomb;ChainReaction;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "WhelpEggs;FlameBurst;24",
+        "LivingBomb;ChainReaction;24",
+        "Harpy;InfectiousSwipes;25",
+        "ChainLightning;BrilliantFlash;22",
+        "Gargoyle;WingBuffet;24",
+        "Worgen;Premeditation;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "WhelpEggs;FlameBurst;24",
+        "LivingBomb;ChainReaction;24",
+        "ChainLightning;BrilliantFlash;22",
+        "Gargoyle;WingBuffet;24",
+        "Worgen;LoneWolf;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "ThaurissanLeader;;18",
+        "WhelpEggs;FlameBurst;22",
+        "LivingBomb;ChainReaction;21",
+        "Worgen;Premeditation;23",
+        "Gargoyle;WingBuffet;21",
+        "Harpy;TrinketCollectors;22",
+        "ChainLightning;BrilliantFlash;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Gargoyle;WingBuffet;24",
+        "LivingBomb;ChainReaction;24",
+        "ChainLightning;BrilliantFlash;22",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;25",
+        "Worgen;Premeditation;24"
+      ]
+    ],
+    "lastUpdate": 1719062199
+  },
+  "token": "46223f81-eddc-4342-a714-79b5c1793c35"
+}

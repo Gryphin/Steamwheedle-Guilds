@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 200875392,
+    "name": "Circle of Blood",
+    "member_count": 18,
+    "description": "A Steamwheedle Cartel guild. Only accepting applications via SW Cartel Discord",
+    "members": [
+      {
+        "id": 103717081,
+        "name": "Suwa",
+        "btag": "Suwa",
+        "skulls": 139,
+        "honor": 9346,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062198
+      },
+      {
+        "id": 401191412,
+        "name": "Ponk",
+        "btag": "Ponk",
+        "skulls": 150,
+        "honor": 11007,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1716771529
+      },
+      {
+        "id": 1405280,
+        "name": "SwirlyoJam",
+        "btag": "SwirlyoJam",
+        "skulls": 127,
+        "honor": 10670,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719062198
+      },
+      {
+        "id": 881912013,
+        "name": "Crimba",
+        "btag": "Crimba",
+        "skulls": 142,
+        "honor": 9464,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719062198
+      },
+      {
+        "id": 1416735612,
+        "name": "kodcyky",
+        "btag": "kodcyky",
+        "skulls": 150,
+        "honor": 10512,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1718112606
+      },
+      {
+        "id": 101894112,
+        "name": "TheV",
+        "btag": "TheV",
+        "skulls": 144,
+        "honor": 7211,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062199
+      },
+      {
+        "id": 1158876800,
+        "name": "Jupiter",
+        "btag": "Jupiter",
+        "skulls": 150,
+        "honor": 11367,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062199
+      },
+      {
+        "id": 439640939,
+        "name": "Arcantions",
+        "btag": "Arcantions",
+        "skulls": 142,
+        "honor": 10096,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1716771530
+      },
+      {
+        "id": 1415334552,
+        "name": "Connections",
+        "btag": "Connections",
+        "skulls": 134,
+        "honor": 6656,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1719062199
+      },
+      {
+        "id": 51995396,
+        "name": "Krogar",
+        "btag": "Krogar",
+        "skulls": 141,
+        "honor": 3930,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062199
+      },
+      {
+        "id": 121188850,
+        "name": "Shibby",
+        "btag": "Shibby",
+        "skulls": 144,
+        "honor": 10573,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1717293823
+      },
+      {
+        "id": 77112124,
+        "name": "Masquerade",
+        "btag": "Masquerade",
+        "skulls": 141,
+        "honor": 9288,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062200
+      },
+      {
+        "id": 100523246,
+        "name": "zeamus",
+        "btag": "zeamus",
+        "skulls": 0,
+        "honor": 0,
+        "avatar": null,
+        "lastUpdate": 2288912640
+      },
+      {
+        "id": 101633966,
+        "name": "Sasire",
+        "btag": "Sasire",
+        "skulls": 150,
+        "honor": 10711,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062200
+      },
+      {
+        "id": 128162836,
+        "name": "FluffyBear",
+        "btag": "FluffyBear",
+        "skulls": 142,
+        "honor": 10454,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062200
+      },
+      {
+        "id": 50474165,
+        "name": "Karoo",
+        "btag": "Karoo",
+        "skulls": 139,
+        "honor": 9303,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719062201
+      },
+      {
+        "id": 82045218,
+        "name": "TimeLord",
+        "btag": "TimeLord",
+        "skulls": 150,
+        "honor": 10718,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062201
+      },
+      {
+        "id": 50462551,
+        "name": "KingNub",
+        "btag": "KingNub",
+        "skulls": 142,
+        "honor": 10460,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719062197
+      },
+      {
+        "id": 634297,
+        "name": "Madmattyd",
+        "btag": "Madmattyd",
+        "skulls": 137,
+        "honor": 3594,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062198
+      },
+      {
+        "id": 61381241,
+        "name": "Feltit",
+        "btag": "Feltit",
+        "skulls": 150,
+        "honor": 5781,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062200
+      }
+    ],
+    "lastUpdate": 1719063177
+  },
+  "token": "51830fb8-1d3f-4bbd-a3e7-573e0331a818",
+  "link": "https://localhost:7080/guild/200875392?token=51830fb8-1d3f-4bbd-a3e7-573e0331a818"
+}

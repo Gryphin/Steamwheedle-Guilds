@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1146773,
+    "btag": "ButtOfCows",
+    "name": "ButtOfCows",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 150,
+    "level": 44,
+    "pvpWins": 9216,
+    "leaderA": "CharlgaLeader",
+    "leaderAWins": 624,
+    "leaderAHonor": 3459,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 501,
+    "leaderBHonor": 3474,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 272,
+    "leaderCHonor": 3343,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;19",
+        "GryphonRider;MightyThrow;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Blizzard;ColdSnap;19",
+        "Gargoyle;WingBuffet;25",
+        "WhelpEggs;FlameBurst;23",
+        "Execute;Bloodthirsty;19"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "Huntress;ElvenMight;18",
+        "GryphonRider;MightyThrow;22",
+        "Gargoyle;WingBuffet;25",
+        "Harpy;InfectiousSwipes;22",
+        "Pyromancer;Pyroblast;26",
+        "Quilboar;BrambleBurst;25"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;19",
+        "AngryChickens;FuriousFowl;21",
+        "Harpy;InfectiousSwipes;22",
+        "Abomination;NoxiousPresence;21",
+        "GryphonRider;MightyThrow;22",
+        "Pyromancer;Pyroblast;26",
+        "Quilboar;TunnelVision;25"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;19",
+        "WitchDoctor;SpiritWard;23",
+        "Shaman;EarthShield;24",
+        "Drake;MotherDrake;24",
+        "Gargoyle;WingBuffet;25",
+        "Pyromancer;Pyroblast;26",
+        "Quilboar;TunnelVision;25"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "DarkIronMiner;GoldMine;22",
+        "WhelpEggs;FlameBurst;23",
+        "GryphonRider;MightyThrow;22",
+        "Quilboar;TunnelVision;25",
+        "Harpy;InfectiousSwipes;22",
+        "MurlocTidehunters;SafetyBubble;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;19",
+        "Necromancer;JeweledSkulls;21",
+        "Ghoul;BoneArmor;21",
+        "Blizzard;ColdSnap;19",
+        "MurlocTidehunters;SafetyBubble;21",
+        "DarkIronMiner;GoldMine;22",
+        "PolymorphSpell;GoldenFleece;18"
+      ],
+      [
+        "6e131d81c46039f4fae131f37fd5cb00;5f572a8bc3b339a44a35a7c38c2a7a6b;19",
+        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;18",
+        "a85ce4fda55994aa6ad89b2ecdb2f554;5c2479076d22c4142b11c04250fb21a8;18",
+        "269cab6b5161cb74ea62ae739010410e;d920708b54bd4c448aa5c5fdc59cb356;18",
+        "778362939e64ec04ab77644756c93815;7b7b7111d5ec76542932a732fc2c28f9;18",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;25",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;16"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "Shaman;EarthShield;24",
+        "Drake;MotherDrake;24",
+        "Quilboar;TunnelVision;25",
+        "Pyromancer;Pyroblast;26",
+        "Gargoyle;WingBuffet;25",
+        "GryphonRider;MightyThrow;22"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "Shaman;EarthShield;24",
+        "StonehoofTauren;Momentum;22",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Gargoyle;WingBuffet;25",
+        "Harpy;InfectiousSwipes;22",
+        "Pyromancer;Pyroblast;26"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;23",
+        "WitchDoctor;SpiritWard;23",
+        "Gargoyle;WingBuffet;26",
+        "Quilboar;TunnelVision;25",
+        "Drake;MotherDrake;24",
+        "Shaman;EarthShield;24",
+        "Pyromancer;Pyroblast;26"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;19",
+        "WitchDoctor;SpiritWard;23",
+        "Shaman;EarthShield;24",
+        "Gargoyle;WingBuffet;25",
+        "Pyromancer;Pyroblast;26",
+        "Drake;MotherDrake;24",
+        "Quilboar;TunnelVision;25"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;20",
+        "PolymorphSpell;GoldenFleece;18",
+        "Quilboar;BrambleBurst;25",
+        "ArcaneBlast;ArcanePower;18",
+        "Gargoyle;WingBuffet;25",
+        "GryphonRider;MightyThrow;22",
+        "HarvestGolem;TrojanChickens;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;25",
+        "Pyromancer;Pyroblast;26",
+        "Drake;MotherDrake;24",
+        "Shaman;EarthShield;24",
+        "Quilboar;BrambleBurst;25",
+        "Gargoyle;WingBuffet;25",
+        "WitchDoctor;SpiritWard;23"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "Pyromancer;Pyroblast;26",
+        "GryphonRider;AirDrop;22",
+        "Gargoyle;WingBuffet;25",
+        "Shaman;EarthShield;24",
+        "Quilboar;TunnelVision;25",
+        "WitchDoctor;SpiritWard;23"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Abomination;NoxiousPresence;21",
+        "Banshee;WillOfTheNecropolis;19",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "FireElemental;ImmolationAura;20",
+        "WhelpEggs;FlameBurst;23",
+        "Harpy;InfectiousSwipes;22"
+      ]
+    ],
+    "lastUpdate": 1717414113
+  },
+  "token": "c729be16-ff74-4008-b86f-737176220511"
+}

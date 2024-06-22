@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 112325544,
+    "btag": "NoFlyZone",
+    "name": "NoFlyZone",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 130,
+    "level": 40,
+    "pvpWins": 872,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 131,
+    "leaderAHonor": 4004,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 76,
+    "leaderBHonor": 4013,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 127,
+    "leaderCHonor": 4046,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "DefiasBandits;PickLock;18",
+        "Execute;KillingSpree;20",
+        "DarkIronMiner;GoldMine;22",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;OnTheProwl;22"
+      ],
+      [
+        "TirionLeader;Consecrate;19",
+        "Footmen;Fortification;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Prowler;OnTheProwl;22",
+        "Quilboar;TunnelVision;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;20",
+        "Harpy;InfectiousSwipes;20",
+        "Prowler;OnTheProwl;22",
+        "Gargoyle;WingBuffet;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "DarkIronMiner;GoldMine;21",
+        "Execute;KillingSpree;19"
+      ],
+      [
+        "GrommashLeader;;17",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "StonehoofTauren;Pummel;19",
+        "Harpy;InfectiousSwipes;21",
+        "DarkIronMiner;GoldMine;22",
+        "DefiasBandits;PickLock;18",
+        "Gargoyle;WingBuffet;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "WhelpEggs;FlameBurst;20",
+        "DarkIronMiner;GoldMine;22",
+        "Gargoyle;WingBuffet;20",
+        "Prowler;OnTheProwl;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;20",
+        "Necromancer;JeweledSkulls;21",
+        "Gargoyle;WingBuffet;20",
+        "Blizzard;ColdSnap;19",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;OnTheProwl;22",
+        "Execute;KillingSpree;19"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Worgen;Premeditation;19",
+        "WhelpEggs;FlameBurst;20",
+        "Prowler;OnTheProwl;22",
+        "Quilboar;TunnelVision;19",
+        "Execute;KillingSpree;19"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "Prowler;OnTheProwl;22",
+        "Harpy;InfectiousSwipes;21",
+        "WitchDoctor;SpiritWard;18",
+        "Execute;KillingSpree;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Huntress;ElvenMight;20"
+      ],
+      [
+        "CairneLeader;;17",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Execute;KillingSpree;20",
+        "Shaman;EarthShield;19",
+        "Prowler;OnTheProwl;22",
+        "Harpy;InfectiousSwipes;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Gargoyle;WingBuffet;20",
+        "Necromancer;JeweledSkulls;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Prowler;OnTheProwl;22",
+        "Execute;KillingSpree;20",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Execute;KillingSpree;19",
+        "Gargoyle;WingBuffet;20",
+        "Harpy;InfectiousSwipes;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "DarkIronMiner;GoldMine;22"
+      ],
+      [
+        "CharlgaLeader;;17",
+        "Prowler;OnTheProwl;22",
+        "Quilboar;TunnelVision;19",
+        "MurlocTidehunters;CarefulAim;19",
+        "DarkIronMiner;GoldMine;21",
+        "Harpy;InfectiousSwipes;20",
+        "Execute;KillingSpree;19"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "DarkIronMiner;GoldMine;22",
+        "Firehammer;BlazingSpeed;18",
+        "WitchDoctor;SpiritWard;19",
+        "Shaman;EarthShield;19",
+        "Gargoyle;WingBuffet;20",
+        "Prowler;OnTheProwl;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "DarkIronMiner;GoldMine;22",
+        "WhelpEggs;FlameBurst;20",
+        "Prowler;OnTheProwl;22",
+        "Gargoyle;WingBuffet;20",
+        "Harpy;InfectiousSwipes;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Necromancer;JeweledSkulls;21",
+        "Gargoyle;WingBuffet;20",
+        "Execute;KillingSpree;19",
+        "Prowler;OnTheProwl;22",
+        "WhelpEggs;FlameBurst;20",
+        "Quilboar;TunnelVision;20"
+      ]
+    ],
+    "lastUpdate": 1719063125
+  },
+  "token": "b9ac5f01-e8d9-4782-a802-b81faf7105e4"
+}

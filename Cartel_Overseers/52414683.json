@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 52414683,
+    "btag": "CaptSQuirrel",
+    "name": "CaptSQuirrel",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMurloc_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 1916,
+    "leaderA": "SylvanasLeader",
+    "leaderAWins": 72,
+    "leaderAHonor": 3671,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 128,
+    "leaderBHonor": 3697,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 136,
+    "leaderCHonor": 3730,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;25",
+        "Blizzard;Icecrown;24",
+        "Huntress;Shadowmeld;24",
+        "Execute;Bloodthirsty;25",
+        "GryphonRider;MightyThrow;26",
+        "PolymorphSpell;GoldenFleece;24",
+        "Ghoul;BoneArmor;25"
+      ],
+      [
+        "TirionLeader;DivineShield;25",
+        "Huntress;Shadowmeld;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "EarthElemental;ObsidianShard;24",
+        "Execute;Bloodthirsty;25",
+        "Shaman;EarthShield;25",
+        "PolymorphSpell;GoldenFleece;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;25",
+        "MurlocTidehunters;SafetyBubble;24",
+        "PolymorphSpell;GoldenFleece;24",
+        "HarvestGolem;TrojanChickens;24",
+        "Shaman;EarthShield;25",
+        "WitchDoctor;SpiritWard;24",
+        "DeepBreath;DoubleDragon;25"
+      ],
+      [
+        "GrommashLeader;MirrorImage;25",
+        "Shaman;EarthShield;25",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "WhelpEggs;FlameBurst;26",
+        "Pyromancer;Pyroblast;24",
+        "WitchDoctor;SpiritWard;24",
+        "GryphonRider;OdynsFury;26"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;25",
+        "PolymorphSpell;GoldenFleece;24",
+        "WhelpEggs;FlameBurst;26",
+        "Gargoyle;WingBuffet;24",
+        "Blizzard;BrittleIce;24",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;BrambleBurst;26"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;25",
+        "Ghoul;BoneArmor;25",
+        "CheatDeath;Vampirism;24",
+        "HolyNova;InnerFire;24",
+        "SmokeBombSpell;ThroughTheShadows;24",
+        "PolymorphSpell;GoldenFleece;24",
+        "ArcaneBlast;Amplification;24"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;25",
+        "Blizzard;ColdSnap;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "EarthElemental;ObsidianShard;24",
+        "WhelpEggs;FlameBurst;26",
+        "Quilboar;BrambleBurst;26",
+        "PolymorphSpell;ExplodingSheep;24"
+      ],
+      [
+        "HoggerLeader;HamHock;25",
+        "Quilboar;BrambleBurst;26",
+        "Harpy;InfectiousSwipes;24",
+        "WitchDoctor;SpiritWard;24",
+        "WhelpEggs;FlameBurst;26",
+        "PlagueFarmer;SplashingPumpkins;24",
+        "Pyromancer;Pyroblast;24"
+      ],
+      [
+        "CairneLeader;Plainsrunning;22",
+        "Execute;Bloodthirsty;24",
+        "WarsongRaider;SunderArmor;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Quilboar;BrambleBurst;25",
+        "Huntress;Shadowmeld;23"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;25",
+        "PlagueFarmer;SplashingPumpkins;24",
+        "Ghoul;BoneArmor;25",
+        "WhelpEggs;FlameBurst;26",
+        "Blizzard;BrittleIce;24",
+        "Pyromancer;Pyroblast;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;25",
+        "WitchDoctor;SpiritWard;24",
+        "Shaman;EarthShield;25",
+        "GoblinSapper;RocketBoots;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;26",
+        "FaerieDragon;FaeBlessing;24",
+        "Quilboar;Bristleback;26"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;25",
+        "PolymorphSpell;GoldenFleece;24",
+        "MurlocTidehunters;SafetyBubble;24",
+        "Prowler;OnTheProwl;24",
+        "MoltenGiant;BloodOfTheMountain;24",
+        "Blizzard;BrittleIce;24",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;25",
+        "Pyromancer;Pyroblast;24",
+        "Drake;MotherDrake;24",
+        "Shaman;EarthShield;25",
+        "WitchDoctor;SpiritWard;24",
+        "DefiasBandits;DeadlyPoison;24",
+        "Blizzard;BrittleIce;25"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;25",
+        "DeepBreath;DoubleDragon;25",
+        "PolymorphSpell;GoldenFleece;24",
+        "DarkIronMiner;DwarvenAmbition;26",
+        "MurlocTidehunters;SafetyBubble;24",
+        "Execute;Bloodthirsty;25",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;25",
+        "SkeletonParty;CorpseRun;24",
+        "PlagueFarmer;SplashingPumpkins;24",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Quilboar;TunnelVision;26",
+        "WhelpEggs;FlameBurst;26",
+        "Harpy;InfectiousSwipes;24"
+      ]
+    ],
+    "lastUpdate": 1717406913
+  },
+  "token": "5ecf1779-ab8d-4371-8d94-c6ea084bdfbf"
+}

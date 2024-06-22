@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 879957545,
+    "btag": "Brave",
+    "name": "Brave",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 102,
+    "level": 34,
+    "pvpWins": 63,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 11,
+    "leaderAHonor": 1490,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 13,
+    "leaderBHonor": 1876,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 15,
+    "leaderCHonor": 1984,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;17",
+        "Huntress;ElvenMight;17",
+        "Footmen;ShieldBash;19",
+        "Blizzard;ColdSnap;17",
+        "WhelpEggs;FlameBurst;18",
+        "Shaman;EarthShield;16",
+        "WarsongRaider;Saboteur;17"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Huntress;ElvenMight;17",
+        "Footmen;ShieldBash;19",
+        "Shaman;EarthShield;17",
+        "Blizzard;ColdSnap;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+        "Chimaera;Leviathan;17",
+        "AngryChickens;FuriousFowl;17",
+        "Prowler;OnTheProwl;16",
+        "Pyromancer;Pyroblast;19",
+        "Quilboar;TunnelVision;16",
+        "WarsongRaider;Saboteur;17"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "WarsongRaider;Saboteur;17",
+        "Shaman;EarthShield;17",
+        "WhelpEggs;FlameBurst;18",
+        "Blizzard;ColdSnap;17",
+        "Huntress;ElvenMight;17",
+        "DarkspearTroll;BigBadVoodoo;18"
+      ],
+      [
+        "5354b42f7eb3f4f40a0550fda35cdf10;e8cdb3cee4e69e543acdd1ac39cd2b9b;20",
+        "4d60f72627b7c36468f3107e40109845;fcc5c64ae7d56af4886c6cba42a594c6;19",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;18",
+        "7f41c5daef0edd340bd22484b707587d;124db22e545d46445afcc6cee5151c99;17",
+        "5b893c52c1e623541bececb01409caf3;992769225cb48dc47a9b429d7c678193;14",
+        "73a4c9f7c9005416eb474261a5ee1d6b;56a677d1cd73d2c41b10f8abcdf9c750;17",
+        "e63c9fb8027924c40a4dc3ea251ae368;1f1ab816cf486f04393815a11a853894;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Ghoul;BoneArmor;16",
+        "Necromancer;JeweledSkulls;17",
+        "Blizzard;ColdSnap;17",
+        "SkeletonParty;5Man;17",
+        "WhelpEggs;FlameBurst;18",
+        "Harpy;InfectiousSwipes;17"
+      ],
+      [
+        "MaievLeader;Remorseless;17",
+        "Huntress;ElvenMight;17",
+        "Blizzard;ColdSnap;17",
+        "SkeletonParty;5Man;17",
+        "Footmen;ShieldBash;19",
+        "WhelpEggs;FlameBurst;18",
+        "Quilboar;TunnelVision;16"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Chimaera;Leviathan;17",
+        "Quilboar;TunnelVision;16",
+        "AngryChickens;FuriousFowl;17",
+        "Blizzard;ColdSnap;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Harpy;InfectiousSwipes;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "WarsongRaider;Saboteur;17",
+        "Shaman;EarthShield;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Blizzard;ColdSnap;17",
+        "WhelpEggs;FlameBurst;18",
+        "AngryChickens;FuriousFowl;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Ghoul;BoneArmor;16",
+        "Necromancer;JeweledSkulls;17",
+        "WhelpEggs;FlameBurst;18",
+        "Huntress;ElvenMight;17",
+        "Footmen;ShieldBash;19",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "StonehoofTauren;Momentum;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "WarsongRaider;Saboteur;17",
+        "Harpy;InfectiousSwipes;17",
+        "Necromancer;JeweledSkulls;17",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "CharlgaLeader;;13",
+        "Harpy;;14",
+        "AngryChickens;FuriousFowl;16",
+        "Huntress;ElvenMight;16",
+        "Blizzard;ColdSnap;16",
+        "DarkspearTroll;BigBadVoodoo;16",
+        "Ghoul;BoneArmor;15"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "Pyromancer;Pyroblast;19",
+        "MoltenGiant;Bolster;16",
+        "Shaman;EarthShield;16",
+        "AngryChickens;FuriousFowl;17",
+        "Blizzard;ColdSnap;17",
+        "DarkspearTroll;BigBadVoodoo;18"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;17",
+        "Pyromancer;Pyroblast;16",
+        "MoltenGiant;Bolster;15",
+        "DefiasBandits;;14",
+        "Ghoul;BoneArmor;16",
+        "Harpy;InfectiousSwipes;17",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;17",
+        "Abomination;NoxiousPresence;16",
+        "Necromancer;JeweledSkulls;16",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "DefiasBandits;;14",
+        "Blizzard;ColdSnap;17",
+        "AngryChickens;FuriousFowl;17"
+      ]
+    ],
+    "lastUpdate": 1719063135
+  },
+  "token": "4ffda39d-6950-4875-893a-e98dad825456"
+}

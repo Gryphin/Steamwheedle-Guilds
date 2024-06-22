@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 1417069,
+    "btag": "Kiey",
+    "name": "Kiey",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Hogger_Pose",
+    "skulls": 150,
+    "level": 45,
+    "pvpWins": 3494,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 326,
+    "leaderAHonor": 3277,
+    "leaderB": "CharlgaLeader",
+    "leaderBWins": 61,
+    "leaderBHonor": 3452,
+    "leaderC": "MaievLeader",
+    "leaderCWins": 91,
+    "leaderCHonor": 3334,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Blizzard;ColdSnap;22",
+        "Execute;Bloodthirsty;22",
+        "WhelpEggs;FlameBurst;25",
+        "DeepBreath;;19",
+        "Quilboar;TunnelVision;25"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "GryphonRider;MightyThrow;25",
+        "Blizzard;ColdSnap;22",
+        "Quilboar;TunnelVision;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;25",
+        "Shaman;EarthShield;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Prowler;PackLeader;25",
+        "CheatDeath;Vampirism;20",
+        "Quilboar;TunnelVision;25",
+        "DeepBreath;MeltingPoint;21",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Execute;KillingSpree;21",
+        "WhelpEggs;FlameBurst;25",
+        "Quilboar;TunnelVision;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "Prowler;PredatoryInstincts;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "FireElemental;ImmolationAura;21",
+        "DeepBreath;;19",
+        "Harpy;InfectiousSwipes;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Chimaera;Leviathan;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Abomination;NoxiousPresence;21",
+        "Banshee;WillOfTheNecropolis;24",
+        "Execute;KillingSpree;22",
+        "Pyromancer;Conflagrate;24",
+        "WhelpEggs;FlameBurst;25",
+        "Quilboar;TunnelVision;25"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "GryphonRider;MightyThrow;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Quilboar;TunnelVision;25",
+        "SkeletonParty;RitualOfRime;21",
+        "EarthElemental;ObsidianShard;21",
+        "Execute;Bloodthirsty;22"
+      ],
+      [
+        "HoggerLeader;FatalFrenzy;18",
+        "PolymorphSpell;GoldenFleece;19",
+        "Quilboar;TunnelVision;25",
+        "GryphonRider;MightyThrow;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;19",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "GoblinSapper;RocketBoots;18",
+        "Shaman;EarthShield;22",
+        "Ghoul;BoneArmor;23",
+        "Prowler;PredatoryInstincts;25",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Banshee;WillOfTheNecropolis;24",
+        "Ghoul;BoneArmor;23",
+        "Quilboar;TunnelVision;25",
+        "Execute;KillingSpree;22",
+        "WhelpEggs;FlameBurst;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "WitchDoctor;SpiritWard;22",
+        "EarthElemental;ObsidianShard;21",
+        "Quilboar;TunnelVision;25",
+        "GoblinSapper;RocketBoots;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;1217400d396347e40a5ba4a180d3cebf;18",
+        "5709c8989210cdd41943f35f5ffd8b6b;bbaa119635e291d43996f67e97c6273a;21",
+        "4a587c88483e48d42869f766eb08123b;9f5e1d9b70f85ab40842949237cfe50a;21",
+        "d6df87a31e7c2ae44aafe5d70fda7322;bbae4f098e1016846811a50a1e02cbb7;21",
+        "7b8e2425177bf46efb482030fc693d76;068d55e468df929479a63ccbec9a72cc;21",
+        "adb619f981176e444bd759d85e80cbfc;85415575670822340a36efab0dfc50a9;25",
+        "aefd32eb6d8243047a104a9cf4f3204b;23e33cc75805bb849aaf74e58e90b5bb;23"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Prowler;PredatoryInstincts;25",
+        "GoblinSapper;RocketBoots;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;25",
+        "Quilboar;TunnelVision;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "DeepBreath;MeltingPoint;21",
+        "MoltenGiant;BloodOfTheMountain;18",
+        "Shaman;EarthShield;22",
+        "Quilboar;TunnelVision;25",
+        "MurlocTidehunters;SafetyBubble;21",
+        "HolyNova;InnerFire;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Pyromancer;Conflagrate;24",
+        "WhelpEggs;FlameBurst;25",
+        "Ghoul;BoneArmor;22",
+        "GryphonRider;MightyThrow;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Banshee;WillOfTheNecropolis;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;17",
+        "Banshee;WillOfTheNecropolis;24",
+        "Ghoul;BoneArmor;23",
+        "Execute;KillingSpree;22",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Quilboar;TunnelVision;25",
+        "WhelpEggs;FlameBurst;25"
+      ]
+    ],
+    "lastUpdate": 1719063088
+  },
+  "token": "6608e453-6271-4bff-9e86-e8020835e916"
+}

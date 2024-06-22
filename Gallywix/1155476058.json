@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 1155476058,
+    "btag": "ApplesPotato",
+    "name": "ApplesPotato",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 133,
+    "level": 35,
+    "pvpWins": 180,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 64,
+    "leaderAHonor": 3042,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 27,
+    "leaderBHonor": 3075,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 34,
+    "leaderCHonor": 3141,
+    "socials": null,
+    "armies": [
+      [
+        "TirionLeader;DivineShield;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Footmen;ShieldBash;21",
+        "Quilboar;Bristleback;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "BatRider;EnchantedVials;20",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "OldMurkEyeLeader;;14",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;Bristleback;18",
+        "Ghoul;BoneArmor;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "BatRider;EnchantedVials;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20"
+      ],
+      [
+        "GrommashLeader;;14",
+        "Shaman;;16",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "Harpy;InfectiousSwipes;20",
+        "Ghoul;BoneArmor;20",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "WhelpEggs;FlameBurst;18",
+        "DarkIronMiner;GoldMine;15",
+        "Harpy;InfectiousSwipes;21",
+        "StonehoofTauren;Momentum;21",
+        "Quilboar;TunnelVision;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "BloodmageThalnosLeader;;15",
+        "Ghoul;BoneArmor;21",
+        "Necromancer;JeweledSkulls;18",
+        "ArcaneBlast;;15",
+        "BatRider;EnchantedVials;20",
+        "Quilboar;Bristleback;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "MaievLeader;;13",
+        "WhelpEggs;FlameBurst;17",
+        "Pyromancer;Conflagrate;18",
+        "Harpy;InfectiousSwipes;20",
+        "Ghoul;BoneArmor;20",
+        "Huntress;ElvenMight;17",
+        "DarkspearTroll;BigBadVoodoo;20"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;Bristleback;21",
+        "Ghoul;BoneArmor;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "BatRider;EnchantedVials;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "StonehoofTauren;Momentum;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Gargoyle;WingBuffet;18",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;Bristleback;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Ghoul;BoneArmor;21",
+        "Gargoyle;WingBuffet;18",
+        "Quilboar;TunnelVision;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Harpy;InfectiousSwipes;21",
+        "BatRider;EnchantedVials;20"
+      ],
+      [
+        "SneedLeader;;12",
+        "Ghoul;BoneArmor;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "WarsongRaider;;15",
+        "Huntress;ElvenMight;17",
+        "Quilboar;;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20"
+      ],
+      [
+        "CharlgaLeader;;13",
+        "Quilboar;Bristleback;18",
+        "Harpy;InfectiousSwipes;20",
+        "Huntress;ElvenMight;17",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "Ghoul;BoneArmor;20"
+      ],
+      [
+        "DrakkisathLeader;;5",
+        "GryphonRider;;6",
+        "DarkspearTroll;;5",
+        "Flamewaker;;6",
+        "Ghoul;;6",
+        "S.A.F.E.PilotFlyingMachine;;6",
+        "Blizzard;;5"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Pyromancer;Conflagrate;18",
+        "Firehammer;MoultinMetal;20",
+        "Quilboar;Bristleback;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "StonehoofTauren;Momentum;21",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "SylvanasLeader;;14",
+        "Ghoul;BoneArmor;20",
+        "SkeletonParty;5Man;17",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;Bristleback;20",
+        "Huntress;ElvenMight;17"
+      ]
+    ],
+    "lastUpdate": 1719062202
+  },
+  "token": "c77a9314-3615-4ff0-bfd9-ca35f4410ab3"
+}

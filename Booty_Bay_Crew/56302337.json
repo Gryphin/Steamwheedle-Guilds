@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 56302337,
+    "btag": "Razdor",
+    "name": "Razdor",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 122,
+    "level": 41,
+    "pvpWins": 422,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 27,
+    "leaderAHonor": 2309,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 43,
+    "leaderBHonor": 1975,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 31,
+    "leaderCHonor": 2005,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "Huntress;Shadowmeld;21",
+        "GryphonRider;MightyThrow;21",
+        "Blizzard;ColdSnap;18",
+        "Gargoyle;WingBuffet;18",
+        "FireElemental;MoltenCore;18",
+        "Quilboar;TunnelVision;20"
+      ],
+      [
+        "TirionLeader;Consecrate;21",
+        "Mountaineer;FrenziedSpirit;18",
+        "Huntress;Shadowmeld;22",
+        "Quilboar;TunnelVision;21",
+        "GryphonRider;MightyThrow;21",
+        "Harpy;InfectiousSwipes;19",
+        "Execute;Bloodthirsty;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+        "Prowler;OnTheProwl;21",
+        "Chimaera;Leviathan;19",
+        "Abomination;NoxiousPresence;20",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "PolymorphSpell;ExplodingSheep;18",
+        "WhelpEggs;Rookery;20"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "BatRider;EnchantedVials;18",
+        "StonehoofTauren;Momentum;19",
+        "Harpy;InfectiousSwipes;19",
+        "Huntress;Shadowmeld;21",
+        "WitchDoctor;SpiritWard;20",
+        "EarthElemental;ObsidianShard;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Pyromancer;Conflagrate;18",
+        "Flamewaker;HeatStroke;18",
+        "GryphonRider;MightyThrow;21",
+        "Harpy;InfectiousSwipes;19",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Abomination;NoxiousPresence;20",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Execute;Bloodthirsty;20",
+        "Quilboar;TunnelVision;21",
+        "WitchDoctor;SpiritWard;20",
+        "Huntress;Shadowmeld;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "GryphonRider;MightyThrow;21",
+        "Huntress;Shadowmeld;21",
+        "Worgen;Premeditation;18",
+        "Harpy;InfectiousSwipes;19",
+        "Mountaineer;FrenziedSpirit;18",
+        "DarkIronMiner;DwarvenAmbition;18"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;20",
+        "Prowler;OnTheProwl;21",
+        "Harpy;InfectiousSwipes;19",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Quilboar;TunnelVision;21",
+        "Execute;Bloodthirsty;20",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Execute;Bloodthirsty;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Huntress;Shadowmeld;21",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "GryphonRider;MightyThrow;21",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "BaronRivendareLeader;;20",
+        "Necromancer;JeweledSkulls;18",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "SkeletonWarrior;Exhume;18",
+        "Huntress;ElvenMight;21",
+        "SkeletonParty;5Man;18",
+        "Chimaera;Leviathan;19"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;18",
+        "StonehoofTauren;Momentum;19",
+        "Execute;Bloodthirsty;20",
+        "EarthElemental;ObsidianShard;18",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Huntress;Shadowmeld;21",
+        "Quilboar;TunnelVision;20"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "Prowler;OnTheProwl;21",
+        "Harpy;InfectiousSwipes;19",
+        "Huntress;Shadowmeld;21",
+        "MurlocTidehunters;CarefulAim;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Gargoyle;WingBuffet;18"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;21",
+        "Pyromancer;Conflagrate;18",
+        "WhelpEggs;Rookery;20",
+        "Blizzard;ColdSnap;18",
+        "WitchDoctor;SpiritWard;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "BatRider;EnchantedVials;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;22",
+        "FireElemental;MoltenCore;18",
+        "Pyromancer;Conflagrate;18",
+        "Prowler;OnTheProwl;21",
+        "Execute;Bloodthirsty;20",
+        "GryphonRider;MightyThrow;21",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "Abomination;NoxiousPresence;20",
+        "Necromancer;JeweledSkulls;19",
+        "Execute;Bloodthirsty;20",
+        "Huntress;ElvenMight;22",
+        "Harpy;InfectiousSwipes;19",
+        "PlagueFarmer;SplashingPumpkins;21"
+      ]
+    ],
+    "lastUpdate": 1719063117
+  },
+  "token": "51bb0bb1-eca7-4b74-8586-af42f20bc5ae"
+}

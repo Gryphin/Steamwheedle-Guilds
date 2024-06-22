@@ -1,0 +1,184 @@
+{
+  "data": {
+    "id": 203585612,
+    "name": "Cartel Overseer",
+    "member_count": 19,
+    "description": "Hardcore Competitive guild in search of the top! Please have onyxia defeated!",
+    "members": [
+      {
+        "id": 51720472,
+        "name": "isd",
+        "btag": "isd",
+        "skulls": 150,
+        "honor": 11350,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717406912
+      },
+      {
+        "id": 52623266,
+        "name": "Drunkmonkey",
+        "btag": "Drunkmonkey",
+        "skulls": 150,
+        "honor": 10800,
+        "avatar": "CombatHUD_Tex_Player_Default",
+        "lastUpdate": 1717795716
+      },
+      {
+        "id": 63715064,
+        "name": "Phoenix",
+        "btag": "Phoenix",
+        "skulls": 150,
+        "honor": 11685,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717406912
+      },
+      {
+        "id": 50786437,
+        "name": "Desz",
+        "btag": "Desz",
+        "skulls": 150,
+        "honor": 10351,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717406912
+      },
+      {
+        "id": 852690,
+        "name": "Chirality",
+        "btag": "Chirality",
+        "skulls": 150,
+        "honor": 14321,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717406912
+      },
+      {
+        "id": 51452049,
+        "name": "Budget78",
+        "btag": "Budget78",
+        "skulls": 150,
+        "honor": 12338,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719062206
+      },
+      {
+        "id": 819772791,
+        "name": "Acorderohs",
+        "btag": "Acorderohs",
+        "skulls": 150,
+        "honor": 13603,
+        "avatar": "Indicator_KoboldMurloc_Pose",
+        "lastUpdate": 1717406913
+      },
+      {
+        "id": 52414683,
+        "name": "CaptSQuirrel",
+        "btag": "CaptSQuirrel",
+        "skulls": 150,
+        "honor": 11098,
+        "avatar": "Indicator_KoboldMurloc_Pose",
+        "lastUpdate": 1717406913
+      },
+      {
+        "id": 1685389,
+        "name": "Ramz420flaya",
+        "btag": "Ramz420flaya",
+        "skulls": 150,
+        "honor": 13982,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062206
+      },
+      {
+        "id": 872607105,
+        "name": "Drphil",
+        "btag": "Drphil",
+        "skulls": 150,
+        "honor": 15163,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719062206
+      },
+      {
+        "id": 384508012,
+        "name": "Splat",
+        "btag": "Splat",
+        "skulls": 150,
+        "honor": 10973,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717911027
+      },
+      {
+        "id": 71418133,
+        "name": "Blayed",
+        "btag": "Blayed",
+        "skulls": 150,
+        "honor": 11099,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717960583
+      },
+      {
+        "id": 52624334,
+        "name": "Thirtyshotz",
+        "btag": "Thirtyshotz",
+        "skulls": 150,
+        "honor": 10501,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717988571
+      },
+      {
+        "id": 871894106,
+        "name": "Snorkle",
+        "btag": "Snorkle",
+        "skulls": 150,
+        "honor": 10092,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062207
+      },
+      {
+        "id": 52309676,
+        "name": "Pannucci",
+        "btag": "Pannucci",
+        "skulls": 150,
+        "honor": 11556,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717998294
+      },
+      {
+        "id": 481909887,
+        "name": "BeachyHead",
+        "btag": "BeachyHead",
+        "skulls": 150,
+        "honor": 20021,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719062207
+      },
+      {
+        "id": 101771772,
+        "name": "Mantotohpa",
+        "btag": "Mantotohpa",
+        "skulls": 150,
+        "honor": 12190,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1719062208
+      },
+      {
+        "id": 408568179,
+        "name": "Naladra",
+        "btag": "Naladra",
+        "skulls": 150,
+        "honor": 20274,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719062208
+      },
+      {
+        "id": 463196319,
+        "name": "didi",
+        "btag": "didi",
+        "skulls": 150,
+        "honor": 14316,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719062208
+      }
+    ],
+    "lastUpdate": 1719063001
+  },
+  "token": "16f97148-8b7f-4060-a136-3e77ca8c718c",
+  "link": "https://localhost:7080/guild/203585612?token=16f97148-8b7f-4060-a136-3e77ca8c718c"
+}

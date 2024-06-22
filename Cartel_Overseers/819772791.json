@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 819772791,
+    "btag": "Acorderohs",
+    "name": "Acorderohs",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMurloc_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 1999,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 175,
+    "leaderAHonor": 4517,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 102,
+    "leaderBHonor": 4529,
+    "leaderC": "CharlgaLeader",
+    "leaderCWins": 119,
+    "leaderCHonor": 4557,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;25",
+        "HarvestGolem;TrojanChickens;25",
+        "DefiasBandits;PickLock;22",
+        "Execute;Bloodthirsty;24",
+        "DeepBreath;Attunement;25",
+        "MurlocTidehunters;SafetyBubble;24",
+        "PolymorphSpell;GoldenFleece;25"
+      ],
+      [
+        "TirionLeader;DivineShield;25",
+        "GryphonRider;MightyThrow;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "Ghoul;BoneArmor;25",
+        "MurlocTidehunters;SafetyBubble;24",
+        "DarkIronMiner;GoldMine;25",
+        "PolymorphSpell;GoldenFleece;25"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;25",
+        "Shaman;EarthwallTotem;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "MoltenGiant;Bolster;22",
+        "ArcaneBlast;ArcanePower;24",
+        "MurlocTidehunters;SafetyBubble;24",
+        "DarkIronMiner;GoldMine;25"
+      ],
+      [
+        "GrommashLeader;MirrorImage;25",
+        "Shaman;EarthShield;25",
+        "OgreMage;Avarice;22",
+        "WhelpEggs;FlameBurst;25",
+        "GryphonRider;MightyThrow;25",
+        "Quilboar;BrambleBurst;26",
+        "HolyNova;InnerFire;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;25",
+        "DarkIronMiner;GoldMine;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "Chimaera;Leviathan;22",
+        "Harpy;InfectiousSwipes;22",
+        "ArcaneBlast;ArcanePower;24",
+        "Quilboar;BrambleBurst;26"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;25",
+        "DefiasBandits;PickLock;22",
+        "CheatDeath;Vampirism;22",
+        "ArcaneBlast;Amplification;24",
+        "PolymorphSpell;GoldenFleece;25",
+        "HolyNova;AmplifyMagic;24",
+        "SmokeBombSpell;ThroughTheShadows;22"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;25",
+        "GryphonRider;MightyThrow;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "SkeletonWarrior;Exhume;25",
+        "WhelpEggs;FlameBurst;25",
+        "DarkIronMiner;GoldMine;25",
+        "Quilboar;BrambleBurst;26"
+      ],
+      [
+        "HoggerLeader;HamHock;25",
+        "Quilboar;BrambleBurst;26",
+        "MurlocTidehunters;SafetyBubble;24",
+        "GryphonRider;MightyThrow;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "ChainLightning;Reverberation;25",
+        "DarkIronMiner;GoldMine;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;25",
+        "Shaman;EarthwallTotem;25",
+        "StonehoofTauren;Momentum;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "ChainLightning;BrilliantFlash;25",
+        "GryphonRider;OdynsFury;25",
+        "Quilboar;BrambleBurst;26"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;25",
+        "Gargoyle;WingBuffet;23",
+        "Ghoul;BoneArmor;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "MurlocTidehunters;SafetyBubble;24",
+        "Blizzard;ColdSnap;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;25",
+        "Shaman;EarthShield;25",
+        "ChainLightning;BrilliantFlash;25",
+        "MeatWagon;FiletTrebuchet;22",
+        "GryphonRider;MightyThrow;25",
+        "Quilboar;BrambleBurst;26",
+        "Pyromancer;Conflagrate;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "WitchDoctor;SpiritWard;23",
+        "Shaman;EarthwallTotem;25",
+        "Execute;Bloodthirsty;24",
+        "DeepBreath;Attunement;25",
+        "HarvestGolem;UnstableCore;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;25",
+        "WhelpEggs;FlameBurst;25",
+        "Pyromancer;Conflagrate;24",
+        "Shaman;EarthShield;25",
+        "HolyNova;AmplifyMagic;24",
+        "GryphonRider;AirDrop;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;25",
+        "Execute;Overpower;24",
+        "WhelpEggs;FlameBurst;25",
+        "HarvestGolem;TrojanChickens;24",
+        "Gargoyle;WingBuffet;23",
+        "GryphonRider;AirDrop;25",
+        "MurlocTidehunters;SafetyBubble;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;25",
+        "Necromancer;JeweledSkulls;22",
+        "Ghoul;BoneArmor;25",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "DarkIronMiner;GoldMine;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "DeepBreath;DoubleDragon;25"
+      ]
+    ],
+    "lastUpdate": 1717406913
+  },
+  "token": "9039cd02-ffe8-48f4-a626-424b3d024d0a"
+}

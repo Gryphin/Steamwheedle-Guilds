@@ -1,0 +1,144 @@
+{
+  "data": {
+    "id": 871848885,
+    "btag": "Canbock",
+    "name": "Canbock",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 110,
+    "level": 30,
+    "pvpWins": 16,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 15,
+    "leaderAHonor": 1020,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 1,
+    "leaderBHonor": 150,
+    "leaderC": "",
+    "leaderCWins": 0,
+    "leaderCHonor": 0,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;11",
+        "Mountaineer;;13",
+        "ArcaneBlast;;16",
+        "Blizzard;;14",
+        "Quilboar;BrambleBurst;19",
+        "Chimaera;Leviathan;17",
+        "Abomination;NoxiousPresence;17"
+      ],
+      [
+        "TirionLeader;ByTheLight;20",
+        "Huntress;ElvenMight;18",
+        "Blizzard;ColdSnap;18",
+        "Abomination;NoxiousPresence;20",
+        "Quilboar;BrambleBurst;20",
+        "Drake;MotherDrake;18",
+        "Harpy;;16"
+      ],
+      [
+        "OldMurkEyeLeader;;15",
+        "Harpy;;16",
+        "Chimaera;Leviathan;20",
+        "Quilboar;BrambleBurst;20",
+        "Blizzard;ColdSnap;18",
+        "Necromancer;CultOfTheDamned;18",
+        "Drake;MotherDrake;18"
+      ],
+      [
+        "GrommashLeader;Bladestorm;18",
+        "StonehoofTauren;Pummel;18",
+        "OgreMage;FrostfireBolt;18",
+        "Mountaineer;FrenziedSpirit;18",
+        "Flamewaker;HeatStroke;20",
+        "Quilboar;BrambleBurst;20",
+        "Chimaera;Leviathan;20"
+      ],
+      [
+        "RendLeader;FlamingSoul;20",
+        "Pyromancer;Pyroblast;18",
+        "EarthElemental;ObsidianShard;17",
+        "Harpy;;16",
+        "Quilboar;BrambleBurst;20",
+        "ArcaneBlast;ArcanePower;18",
+        "Abomination;NoxiousPresence;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;17",
+        "Abomination;NoxiousPresence;17",
+        "Necromancer;CultOfTheDamned;17",
+        "ArcaneBlast;ArcanePower;17",
+        "Quilboar;BrambleBurst;20",
+        "HolyNova;;15",
+        "Drake;MotherDrake;18"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Harpy;;16",
+        "Chimaera;Leviathan;19",
+        "StonehoofTauren;Pummel;18",
+        "ArcaneBlast;ArcanePower;18",
+        "Pyromancer;Pyroblast;18",
+        "Quilboar;BrambleBurst;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "StonehoofTauren;Pummel;18",
+        "OgreMage;FrostfireBolt;18",
+        "Necromancer;CultOfTheDamned;18",
+        "Blizzard;ColdSnap;18",
+        "Drake;MotherDrake;18",
+        "MoltenGiant;;15"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;20",
+        "Abomination;NoxiousPresence;20",
+        "Necromancer;CultOfTheDamned;18",
+        "Quilboar;BrambleBurst;20",
+        "Blizzard;ColdSnap;18",
+        "Drake;MotherDrake;18",
+        "Harpy;;16"
+      ],
+      [
+        "SneedLeader;;13",
+        "StonehoofTauren;Pummel;17",
+        "OgreMage;FrostfireBolt;17",
+        "EarthElemental;ObsidianShard;17",
+        "Huntress;ElvenMight;17",
+        "Drake;MotherDrake;18",
+        "Quilboar;Bristleback;20"
+      ],
+      [
+        "DrakkisathLeader;;15",
+        "Pyromancer;Pyroblast;18",
+        "EarthElemental;ObsidianShard;17",
+        "Blizzard;ColdSnap;18",
+        "Harpy;;16",
+        "StonehoofTauren;Pummel;18",
+        "Abomination;NoxiousPresence;20"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;16",
+        "MoltenGiant;;15",
+        "Drake;MotherDrake;18",
+        "StonehoofTauren;Pummel;18",
+        "Blizzard;ColdSnap;18",
+        "Necromancer;CultOfTheDamned;18",
+        "Quilboar;BrambleBurst;20"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;19",
+        "Necromancer;CultOfTheDamned;18",
+        "Abomination;NoxiousPresence;20",
+        "StonehoofTauren;Pummel;18",
+        "Harpy;;16",
+        "ArcaneBlast;ArcanePower;18",
+        "Drake;MotherDrake;18"
+      ]
+    ],
+    "lastUpdate": 1719063112
+  },
+  "token": "3be370dc-f97d-41b3-9be5-e608972f91f5"
+}

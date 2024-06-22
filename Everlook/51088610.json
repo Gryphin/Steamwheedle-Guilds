@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 51088610,
+    "btag": "Nubbykins",
+    "name": "Nubbykins",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 138,
+    "level": 40,
+    "pvpWins": 71,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 9,
+    "leaderAHonor": 772,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 11,
+    "leaderBHonor": 1010,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 39,
+    "leaderCHonor": 3345,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "Blizzard;Icecrown;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "LivingBomb;;15",
+        "Banshee;WillOfTheNecropolis;18",
+        "Pyromancer;Pyroblast;21",
+        "Chimaera;Leviathan;23"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Footmen;Fortification;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Quilboar;BrambleBurst;21",
+        "WhelpEggs;FlameBurst;21",
+        "Gargoyle;WingBuffet;18",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "Chimaera;Leviathan;23",
+        "Quilboar;BrambleBurst;21",
+        "Blizzard;Icecrown;18",
+        "Pyromancer;Pyroblast;21",
+        "LivingBomb;;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19"
+      ],
+      [
+        "GrommashLeader;Bladestorm;19",
+        "WitchDoctor;SpiritWard;18",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "DefiasBandits;PickLock;21",
+        "Chimaera;Leviathan;22",
+        "Blizzard;Icecrown;18",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "Drake;Roost;20",
+        "WhelpEggs;FlameBurst;21",
+        "Chimaera;Leviathan;23",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Abomination;FreshMeat;18",
+        "CheatDeath;Vampirism;17",
+        "HolyNova;InnerFire;19",
+        "Blizzard;Icecrown;18",
+        "GryphonRider;MightyThrow;18",
+        "Shaman;EarthShield;22"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;18",
+        "Worgen;Premeditation;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "DarkIronMiner;GoldMine;19",
+        "Harpy;TrinketCollectors;21",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "Chimaera;FrostShock;23",
+        "Pyromancer;Pyroblast;21",
+        "Blizzard;Icecrown;18",
+        "LivingBomb;;15",
+        "Banshee;WillOfTheNecropolis;18",
+        "Huntress;Shadowmeld;19"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "StonehoofTauren;Momentum;20",
+        "Shaman;EarthShield;22",
+        "Pyromancer;Pyroblast;21",
+        "BatRider;EnchantedVials;19",
+        "Quilboar;BrambleBurst;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Ghoul;BoneArmor;18",
+        "Abomination;FreshMeat;18",
+        "WhelpEggs;FlameBurst;21",
+        "GryphonRider;MightyThrow;18",
+        "Quilboar;BrambleBurst;21",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Shaman;EarthShield;22",
+        "Quilboar;BrambleBurst;21",
+        "Harpy;TrinketCollectors;21",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "GnollBrute;Rabid;19",
+        "Prowler;OnTheProwl;18",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Pyroblast;21",
+        "DarkIronMiner;GoldMine;19",
+        "Chimaera;Leviathan;23",
+        "Shaman;EarthShield;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "HolyNova;InnerFire;19"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "DarkIronMiner;GoldMine;19",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;BrambleBurst;21",
+        "FireElemental;ImmolationAura;17",
+        "Pyromancer;Pyroblast;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Abomination;FreshMeat;18",
+        "Gargoyle;WingBuffet;18",
+        "Shaman;EarthShield;22",
+        "Harpy;InfectiousSwipes;21",
+        "WhelpEggs;FlameBurst;21",
+        "DefiasBandits;DeadlyPoison;21"
+      ]
+    ],
+    "lastUpdate": 1719063145
+  },
+  "token": "a9686c7c-7cb4-44b1-bf18-84c9bd225859"
+}

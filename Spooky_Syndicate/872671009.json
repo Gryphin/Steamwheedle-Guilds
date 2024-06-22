@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 872671009,
+    "btag": "MitchConner",
+    "name": "MitchConner",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 105,
+    "level": 36,
+    "pvpWins": 57,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 17,
+    "leaderAHonor": 1770,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 11,
+    "leaderBHonor": 1815,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 15,
+    "leaderCHonor": 2161,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;20",
+        "Huntress;DarnassianSteel;18",
+        "GryphonRider;OdynsFury;18",
+        "Blizzard;ColdSnap;21",
+        "Footmen;Fortification;18",
+        "ChainLightning;StormsReach;19",
+        "MoltenGiant;Bolster;20"
+      ],
+      [
+        "TirionLeader;Consecrate;17",
+        "GryphonRider;OdynsFury;18",
+        "Huntress;DarnassianSteel;18",
+        "MoltenGiant;Bolster;20",
+        "ChainLightning;StormsReach;19",
+        "Blizzard;ColdSnap;21",
+        "Footmen;Fortification;18"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;17",
+        "Raptors;StrengthInNumbers;17",
+        "GnollBrute;Rabid;17",
+        "Footmen;Fortification;18",
+        "ChainLightning;StormsReach;18",
+        "Blizzard;ColdSnap;19",
+        "Chimaera;Leviathan;20"
+      ],
+      [
+        "GrommashLeader;Bladestorm;20",
+        "ChainLightning;StormsReach;19",
+        "OgreMage;Ignite;18",
+        "WarsongGrunts;Command;17",
+        "Blizzard;ColdSnap;21",
+        "Drake;EngulfingFlames;18",
+        "WarsongRaider;SunderArmor;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;19",
+        "EarthElemental;ObsidianShard;17",
+        "Firehammer;MoultinMetal;17",
+        "Chimaera;FrostShock;20",
+        "Footmen;Fortification;18",
+        "Blizzard;ColdSnap;21",
+        "MoltenGiant;Bolster;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "SkeletonWarrior;;15",
+        "Gargoyle;;14",
+        "Blizzard;ColdSnap;21",
+        "Abomination;NoxiousPresence;18",
+        "Chimaera;FrostShock;20",
+        "ChainLightning;StormsReach;18"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "GryphonRider;OdynsFury;18",
+        "Blizzard;ColdSnap;21",
+        "Worgen;LoneWolf;17",
+        "Drake;EngulfingFlames;18",
+        "MoltenGiant;Bolster;20",
+        "Quilboar;;16"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;20",
+        "GnollBrute;Rabid;17",
+        "Prowler;PackLeader;18",
+        "ChainLightning;StormsReach;19",
+        "WarsongRaider;SunderArmor;18",
+        "Blizzard;ColdSnap;21",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "WarsongGrunts;Command;17",
+        "ChainLightning;StormsReach;19",
+        "DarkspearTroll;SerpentSting;17",
+        "WarsongRaider;SunderArmor;18",
+        "Chimaera;FrostShock;20",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "Banshee;WillOfTheNecropolis;17",
+        "Abomination;NoxiousPresence;18",
+        "SkeletonParty;5Man;17",
+        "Chimaera;FrostShock;20",
+        "Blizzard;ColdSnap;20",
+        "ChainLightning;StormsReach;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;17",
+        "WarsongGrunts;Command;17",
+        "DarkspearTroll;SerpentSting;17",
+        "WarsongRaider;SunderArmor;18",
+        "Blizzard;ColdSnap;21",
+        "Drake;EngulfingFlames;18",
+        "WitchDoctor;AmplifyCurse;17"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;17",
+        "Prowler;PackLeader;17",
+        "GnollBrute;Rabid;17",
+        "Huntress;DarnassianSteel;18",
+        "Chimaera;FrostShock;20",
+        "Blizzard;ColdSnap;19",
+        "MoltenGiant;Bolster;20"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;18",
+        "MoltenGiant;Bolster;20",
+        "FireElemental;MoltenCore;17",
+        "ChainLightning;StormsReach;20",
+        "Firehammer;MoultinMetal;18",
+        "Blizzard;ColdSnap;21",
+        "Drake;EngulfingFlames;18"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;17",
+        "Pyromancer;Pyroblast;17",
+        "Drake;EngulfingFlames;18",
+        "FireElemental;MoltenCore;17",
+        "MoltenGiant;Bolster;20",
+        "Blizzard;ColdSnap;20",
+        "ChainLightning;StormsReach;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Abomination;NoxiousPresence;18",
+        "Gargoyle;;16",
+        "WarsongRaider;SunderArmor;18",
+        "Chimaera;FrostShock;20",
+        "SkeletonParty;5Man;18",
+        "Blizzard;ColdSnap;21"
+      ]
+    ],
+    "lastUpdate": 1719063151
+  },
+  "token": "36ad1b86-d978-4984-8ca7-8992e7fc24c3"
+}

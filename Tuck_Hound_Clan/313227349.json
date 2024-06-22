@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 313227349,
+    "btag": "LuckyPants",
+    "name": "LuckyPants",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 121,
+    "level": 39,
+    "pvpWins": 149,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 24,
+    "leaderAHonor": 3180,
+    "leaderB": "RendLeader",
+    "leaderBWins": 36,
+    "leaderBHonor": 3401,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 23,
+    "leaderCHonor": 1806,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;19",
+        "DefiasBandits;PickLock;21",
+        "GryphonRider;MightyThrow;19",
+        "Execute;Bloodthirsty;17",
+        "Ghoul;BoneArmor;20",
+        "ChainLightning;BrilliantFlash;20",
+        "DarkIronMiner;GoldMine;19"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "GryphonRider;MightyThrow;20",
+        "DefiasBandits;LastResort;21",
+        "Quilboar;TunnelVision;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Drake;MotherDrake;23",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "Harpy;InfectiousSwipes;24",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Quilboar;TunnelVision;22",
+        "Drake;EngulfingFlames;23",
+        "OgreMage;FrostfireBolt;20",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "Shaman;EarthShield;19",
+        "WarsongRaider;RazingFocus;18",
+        "WhelpEggs;FlameBurst;21",
+        "GryphonRider;MightyThrow;20",
+        "Pyromancer;Conflagrate;21",
+        "SkeletonParty;RitualOfRime;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "Pyromancer;Conflagrate;22",
+        "Drake;EngulfingFlames;23",
+        "Chimaera;CorrosiveBreath;18",
+        "Huntress;ElvenMight;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "BloodmageThalnosLeader;;15",
+        "MeatWagon;FiletTrebuchet;21",
+        "Banshee;WillOfTheNecropolis;17",
+        "SmokeBombSpell;;12",
+        "Blizzard;ColdSnap;17",
+        "Gargoyle;WingBuffet;17",
+        "Ghoul;BoneArmor;18"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "DefiasBandits;PickLock;21",
+        "Pyromancer;Conflagrate;21",
+        "WhelpEggs;FlameBurst;19",
+        "Drake;EngulfingFlames;21",
+        "Quilboar;TunnelVision;22",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Drake;EngulfingFlames;23",
+        "WhelpEggs;FlameBurst;21",
+        "DefiasBandits;LastResort;21",
+        "SkeletonParty;RitualOfRime;21",
+        "Pyromancer;Conflagrate;21",
+        "Gargoyle;WingBuffet;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "Shaman;EarthShield;19",
+        "Execute;Bloodthirsty;17",
+        "Pyromancer;Conflagrate;21",
+        "Harpy;InfectiousSwipes;24",
+        "SkeletonParty;RitualOfRime;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "PlagueFarmer;PartingGift;16",
+        "Huntress;ElvenMight;21",
+        "Quilboar;TunnelVision;22",
+        "Pyromancer;Conflagrate;22",
+        "Prowler;OnTheProwl;19",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;17",
+        "Shaman;EarthShield;18",
+        "StonehoofTauren;Momentum;18",
+        "WarsongRaider;RazingFocus;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Drake;EngulfingFlames;23",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "CharlgaLeader;;15",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Quilboar;TunnelVision;22",
+        "Huntress;ElvenMight;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Drake;EngulfingFlames;21",
+        "Execute;Bloodthirsty;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;23",
+        "Pyromancer;Conflagrate;22",
+        "Drake;MotherDrake;23",
+        "SkeletonParty;RitualOfRime;21",
+        "Shaman;EarthShield;21",
+        "DefiasBandits;PickLock;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "Pyromancer;Conflagrate;21",
+        "Blizzard;ColdSnap;19",
+        "DefiasBandits;LastResort;21",
+        "Harpy;InfectiousSwipes;24",
+        "SkeletonParty;RitualOfRime;21",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "SylvanasLeader;;14",
+        "Ghoul;BoneArmor;18",
+        "GnollBrute;Rabid;16",
+        "Gargoyle;WingBuffet;17",
+        "Harpy;InfectiousSwipes;23",
+        "Quilboar;TunnelVision;21",
+        "Banshee;WillOfTheNecropolis;17"
+      ]
+    ],
+    "lastUpdate": 1719063142
+  },
+  "token": "2f6e7521-1d14-449e-81be-220a7572167e"
+}

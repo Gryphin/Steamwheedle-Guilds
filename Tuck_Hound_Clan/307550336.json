@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 307550336,
+    "btag": "Ambrosiax3",
+    "name": "Ambrosiax3",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_OldMurkEye_Pose",
+    "skulls": 73,
+    "level": 30,
+    "pvpWins": 56,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 11,
+    "leaderAHonor": 901,
+    "leaderB": "SneedLeader",
+    "leaderBWins": 16,
+    "leaderBHonor": 594,
+    "leaderC": "RendLeader",
+    "leaderCWins": 11,
+    "leaderCHonor": 790,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;10",
+        "GryphonRider;;10",
+        "S.A.F.E.PilotFlyingMachine;;10",
+        "ArcaneBlast;;9",
+        "Blizzard;;8",
+        "Huntress;;11",
+        "HolyNova;;9"
+      ],
+      [
+        "TirionLeader;ByTheLight;15",
+        "S.A.F.E.PilotFlyingMachine;;14",
+        "Huntress;;13",
+        "Footmen;Fortification;14",
+        "OgreMage;Ignite;17",
+        "DarkIronMiner;DarkIronArmaments;14",
+        "Quilboar;BrambleBurst;15"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;15",
+        "MurlocTidehunters;CarefulAim;15",
+        "Raptors;StrengthInNumbers;17",
+        "Gargoyle;WingBuffet;16",
+        "Quilboar;BrambleBurst;16",
+        "DefiasBandits;DeadlyPoison;14",
+        "DarkspearTroll;BigBadVoodoo;15"
+      ],
+      [
+        "GrommashLeader;Bladestorm;14",
+        "BatRider;FlamingPitch;15",
+        "WarsongRaider;;13",
+        "GoblinSapper;ExtraBoom;16",
+        "OgreMage;Ignite;17",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "DarkIronMiner;DarkIronArmaments;15"
+      ],
+      [
+        "RendLeader;FlamingSoul;15",
+        "Flamewaker;Backdraft;15",
+        "Pyromancer;BlazeOfGlory;14",
+        "BatRider;FlamingPitch;15",
+        "AngryChickens;;12",
+        "DarkIronMiner;DarkIronArmaments;14",
+        "OgreMage;Ignite;17"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;16",
+        "Banshee;WillOfTheNecropolis;16",
+        "PlagueFarmer;Virulence;15",
+        "ArcaneBlast;;13",
+        "Gargoyle;WingBuffet;15",
+        "Abomination;FreshMeat;15",
+        "HolyNova;;12"
+      ],
+      [
+        "MaievLeader;;11",
+        "GryphonRider;;10",
+        "Huntress;;11",
+        "DarkIronMiner;DarkIronArmaments;12",
+        "Worgen;;8",
+        "Quilboar;;9",
+        "SkeletonParty;;10"
+      ],
+      [
+        "HoggerLeader;;9",
+        "Quilboar;;9",
+        "Harpy;;11",
+        "DarkIronMiner;DarkIronArmaments;13",
+        "DarkspearTroll;;10",
+        "Raptors;;12",
+        "MurlocTidehunters;;10"
+      ],
+      [
+        "CairneLeader;;10",
+        "OgreMage;Ignite;15",
+        "BatRider;FlamingPitch;14",
+        "DarkspearTroll;;10",
+        "Shaman;;10",
+        "DarkIronMiner;DarkIronArmaments;13",
+        "GoblinSapper;;9"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;16",
+        "Banshee;WillOfTheNecropolis;16",
+        "Gargoyle;WingBuffet;16",
+        "S.A.F.E.PilotFlyingMachine;;16",
+        "OgreMage;Ignite;17",
+        "SkeletonParty;5Man;17",
+        "DarkIronMiner;DarkIronArmaments;15"
+      ],
+      [
+        "SneedLeader;;11",
+        "OgreMage;Ignite;15",
+        "DarkspearTroll;;10",
+        "MoltenGiant;Bolster;13",
+        "Shaman;;11",
+        "DarkIronMiner;DarkIronArmaments;13",
+        "BatRider;FlamingPitch;14"
+      ],
+      [
+        "CharlgaLeader;;11",
+        "Harpy;;11",
+        "DefiasBandits;DeadlyPoison;12",
+        "WarsongRaider;;11",
+        "MoltenGiant;Bolster;13",
+        "Chimaera;CorrosiveBreath;13",
+        "OgreMage;Ignite;15"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;16",
+        "WhelpEggs;ChromaticPlating;15",
+        "Firehammer;;13",
+        "FaerieDragon;FaeBlessing;13",
+        "Pyromancer;BlazeOfGlory;15",
+        "OgreMage;Ignite;17",
+        "Banshee;WillOfTheNecropolis;16"
+      ],
+      [
+        "ThaurissanLeader;;11",
+        "MoltenGiant;Bolster;14",
+        "Gargoyle;WingBuffet;15",
+        "DarkIronMiner;DarkIronArmaments;14",
+        "OgreMage;Ignite;16",
+        "SkeletonParty;;12",
+        "S.A.F.E.PilotFlyingMachine;;14"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;14",
+        "PlagueFarmer;Virulence;15",
+        "Gargoyle;WingBuffet;16",
+        "OgreMage;FrostfireBolt;17",
+        "Banshee;WillOfTheNecropolis;16",
+        "DarkspearTroll;BigBadVoodoo;15",
+        "BatRider;FlamingPitch;15"
+      ]
+    ],
+    "lastUpdate": 1719063142
+  },
+  "token": "c58639a4-7f05-4ba5-bce0-8998f363180a"
+}

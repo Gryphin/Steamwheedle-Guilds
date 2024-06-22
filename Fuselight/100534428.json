@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 100534428,
+    "btag": "Xyle",
+    "name": "Xyle",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 125,
+    "level": 38,
+    "pvpWins": 614,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 100,
+    "leaderAHonor": 2825,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 30,
+    "leaderBHonor": 3027,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 32,
+    "leaderCHonor": 2812,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;18",
+        "Huntress;Shadowmeld;19",
+        "Footmen;ShieldBash;18",
+        "Blizzard;ColdSnap;17",
+        "WitchDoctor;SpiritWard;18",
+        "BatRider;EnchantedVials;18",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "Prowler;OnTheProwl;18",
+        "HarvestGolem;UnstableCore;18",
+        "Gargoyle;WingBuffet;19",
+        "WhelpEggs;FlameBurst;18",
+        "Drake;MotherDrake;18",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Prowler;OnTheProwl;18",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Quilboar;TunnelVision;18",
+        "GryphonRider;MightyThrow;18",
+        "WhelpEggs;FlameBurst;18",
+        "Gargoyle;WingBuffet;19"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "Shaman;EarthShield;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Harpy;InfectiousSwipes;18",
+        "WitchDoctor;SpiritWard;18",
+        "Gargoyle;WingBuffet;19",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "Firehammer;BlazingSpeed;18",
+        "DarkIronMiner;GoldMine;18",
+        "Chimaera;Leviathan;20",
+        "WhelpEggs;FlameBurst;18",
+        "Shaman;EarthShield;18",
+        "HarvestGolem;UnstableCore;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Ghoul;BoneArmor;18",
+        "MeatWagon;FiletTrebuchet;18",
+        "ArcaneBlast;Torrent;17",
+        "WhelpEggs;FlameBurst;18",
+        "Abomination;NoxiousPresence;19",
+        "Shaman;EarthShield;18"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Footmen;ShieldBash;18",
+        "Quilboar;TunnelVision;18",
+        "LivingBomb;ChainReaction;18",
+        "BatRider;EnchantedVials;17",
+        "WitchDoctor;SpiritWard;18"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Quilboar;TunnelVision;19",
+        "Prowler;OnTheProwl;18",
+        "WitchDoctor;SpiritWard;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Execute;Bloodthirsty;19",
+        "Shaman;EarthShield;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "WitchDoctor;SpiritWard;18",
+        "FireElemental;ImmolationAura;18",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;18",
+        "Gargoyle;WingBuffet;19",
+        "Banshee;WillOfTheNecropolis;18",
+        "Quilboar;TunnelVision;19",
+        "Necromancer;CultOfTheDamned;18",
+        "Harpy;InfectiousSwipes;18",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "StonehoofTauren;Momentum;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "GoblinSapper;RocketBoots;18",
+        "Shaman;EarthShield;18",
+        "Chimaera;Leviathan;20",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "Quilboar;TunnelVision;18",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Prowler;OnTheProwl;18",
+        "Pyromancer;Conflagrate;18",
+        "WhelpEggs;FlameBurst;18",
+        "GoblinSapper;RocketBoots;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "Drake;MotherDrake;18",
+        "WhelpEggs;FlameBurst;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Shaman;EarthShield;18",
+        "Huntress;Shadowmeld;19",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "EarthElemental;ObsidianShard;18",
+        "CoreHounds;EternalBond;18",
+        "Quilboar;TunnelVision;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Huntress;Shadowmeld;19",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Necromancer;CultOfTheDamned;18",
+        "MeatWagon;FiletTrebuchet;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Ghoul;BoneArmor;18",
+        "Harpy;InfectiousSwipes;18",
+        "WhelpEggs;FlameBurst;18"
+      ]
+    ],
+    "lastUpdate": 1719063158
+  },
+  "token": "8f0d8bcd-32cc-4996-a9f4-0a4db1513327"
+}

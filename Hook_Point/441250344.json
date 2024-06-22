@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 441250344,
+    "btag": "SLOTH",
+    "name": "SLOTH",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 764,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 112,
+    "leaderAHonor": 3594,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 124,
+    "leaderBHonor": 3823,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 121,
+    "leaderCHonor": 3647,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;24",
+        "Mountaineer;FrenziedSpirit;21",
+        "Huntress;ElvenMight;26",
+        "ArcaneBlast;ArcanePower;21",
+        "Shaman;EarthShield;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "FireElemental;ImmolationAura;26"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "HolyNova;Renew;22",
+        "Huntress;ElvenMight;26",
+        "FireElemental;ImmolationAura;26",
+        "Shaman;EarthShield;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "CheatDeath;Vampirism;24"
+      ],
+      [
+        "38b48cc014562a64e81f807c966dc595;5d9b52af2637d414d9e4f893d0b6e8d3;22",
+        "5b893c52c1e623541bececb01409caf3;992769225cb48dc47a9b429d7c678193;19",
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;24",
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;26",
+        "010159552421635498f7b2a538788b09;cd664c866d8c69f4883a645464f91eec;24",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;25",
+        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;26"
+      ],
+      [
+        "GrommashLeader;MirrorImage;24",
+        "Shaman;EarthShield;25",
+        "Execute;Bloodthirsty;24",
+        "FireElemental;ImmolationAura;26",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;ElvenMight;26"
+      ],
+      [
+        "RendLeader;FlamingSoul;23",
+        "DarkIronMiner;GoldMine;24",
+        "FireElemental;ImmolationAura;26",
+        "GryphonRider;MightyThrow;24",
+        "Huntress;ElvenMight;26",
+        "Shaman;EarthShield;25",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;BrambleBurst;24",
+        "Shaman;EarthShield;25",
+        "Huntress;ElvenMight;26",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "FireElemental;ImmolationAura;26"
+      ],
+      [
+        "MaievLeader;Remorseless;22",
+        "DefiasBandits;PickLock;24",
+        "Huntress;ElvenMight;26",
+        "Shaman;EarthShield;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "GryphonRider;MightyThrow;22",
+        "FireElemental;ImmolationAura;26"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Execute;Bloodthirsty;22",
+        "Quilboar;BrambleBurst;24",
+        "FireElemental;ImmolationAura;26",
+        "Shaman;EarthShield;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "Huntress;ElvenMight;26"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Shaman;EarthShield;25",
+        "Execute;Bloodthirsty;24",
+        "Huntress;ElvenMight;26",
+        "Quilboar;BrambleBurst;24",
+        "FireElemental;ImmolationAura;26",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "9793ad29bc7416f4396456af39009d38;eadc7078d366223468c6bb11850c141c;24",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;25",
+        "5b893c52c1e623541bececb01409caf3;992769225cb48dc47a9b429d7c678193;19",
+        "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;25",
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;24",
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;26",
+        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;26"
+      ],
+      [
+        "SneedLeader;LandGrab;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Shaman;EarthShield;25",
+        "FireElemental;ImmolationAura;26",
+        "GnollBrute;Rabid;24",
+        "Huntress;ElvenMight;26",
+        "HolyNova;Renew;22"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;22",
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;26",
+        "4d60f72627b7c36468f3107e40109845;60e2a46328808bc41a62f09faf20e940;24",
+        "010159552421635498f7b2a538788b09;cd664c866d8c69f4883a645464f91eec;24",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;25",
+        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;26",
+        "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;25"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "AngryChickens;FuriousFowl;23",
+        "WitchDoctor;SpiritWard;23",
+        "Huntress;ElvenMight;26",
+        "FireElemental;ImmolationAura;26",
+        "FaerieDragon;FaeBlessing;23",
+        "Shaman;EarthShield;25"
+      ],
+      [
+        "d7879bad32a57449fb1b3265bc12f821;2a426f3146175bf40ace7b3660f44f23;24",
+        "5b893c52c1e623541bececb01409caf3;992769225cb48dc47a9b429d7c678193;19",
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;26",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;25",
+        "010159552421635498f7b2a538788b09;cd664c866d8c69f4883a645464f91eec;24",
+        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;26",
+        "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;24",
+        "Execute;Bloodthirsty;24",
+        "DarkIronMiner;GoldMine;24",
+        "GnollBrute;Rabid;24",
+        "Shaman;EarthShield;25",
+        "Huntress;ElvenMight;26",
+        "FireElemental;ImmolationAura;26"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Harpy;InfectiousSwipes;24",
+        "Execute;Bloodthirsty;24",
+        "Shaman;EarthShield;25",
+        "FireElemental;ImmolationAura;26",
+        "Quilboar;BrambleBurst;24",
+        "Huntress;ElvenMight;26"
+      ]
+    ],
+    "lastUpdate": 1719063085
+  },
+  "token": "90a870ee-a1de-4370-9978-19c9d6d1f8fc"
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "id": 100523246,
+    "btag": "zeamus",
+    "name": "zeamus",
+    "guildId": null,
+    "guildName": null,
+    "avatar": null,
+    "skulls": 0,
+    "level": 0,
+    "pvpWins": 0,
+    "leaderA": null,
+    "leaderAWins": 0,
+    "leaderAHonor": 0,
+    "leaderB": null,
+    "leaderBWins": 0,
+    "leaderBHonor": 0,
+    "leaderC": null,
+    "leaderCWins": 0,
+    "leaderCHonor": 0,
+    "socials": null,
+    "armies": [],
+    "lastUpdate": 2288912640
+  },
+  "token": "ff4c74d2-a928-47a8-af87-f1e568647108"
+}

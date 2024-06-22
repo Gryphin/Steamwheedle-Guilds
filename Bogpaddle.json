@@ -12,7 +12,7 @@
         "skulls": 150,
         "honor": 10953,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062110
+        "lastUpdate": 1719063089
       },
       {
         "id": 120218516,
@@ -21,7 +21,7 @@
         "skulls": 150,
         "honor": 11965,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062110
+        "lastUpdate": 1719063089
       },
       {
         "id": 56210091,
@@ -30,7 +30,7 @@
         "skulls": 148,
         "honor": 9786,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062110
+        "lastUpdate": 1719063090
       },
       {
         "id": 2069234,
@@ -84,16 +84,7 @@
         "skulls": 150,
         "honor": 14482,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062111
-      },
-      {
-        "id": 101414975,
-        "name": "Jezi",
-        "btag": "Jezi",
-        "skulls": 131,
-        "honor": 10022,
-        "avatar": "Indicator_Hogger_Pose",
-        "lastUpdate": 1719062111
+        "lastUpdate": 1719063091
       },
       {
         "id": 402747089,
@@ -147,7 +138,7 @@
         "skulls": 150,
         "honor": 10639,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062112
+        "lastUpdate": 1719063092
       },
       {
         "id": 112504130,
@@ -156,7 +147,7 @@
         "skulls": 143,
         "honor": 10771,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062113
+        "lastUpdate": 1719063092
       },
       {
         "id": 101405452,
@@ -165,7 +156,7 @@
         "skulls": 150,
         "honor": 11669,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719062113
+        "lastUpdate": 1719063092
       },
       {
         "id": 363747020,
@@ -174,7 +165,16 @@
         "skulls": 150,
         "honor": 12825,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719062113
+        "lastUpdate": 1719063092
+      },
+      {
+        "id": 101414975,
+        "name": "Jezi",
+        "btag": "Jezi",
+        "skulls": 131,
+        "honor": 10022,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719063091
       },
       {
         "id": 845958,
@@ -183,11 +183,11 @@
         "skulls": 144,
         "honor": 6107,
         "avatar": "Indicator_Maiev_Pose",
-        "lastUpdate": 1719062112
+        "lastUpdate": 1719063093
       }
     ],
-    "lastUpdate": 1719063003
+    "lastUpdate": 1719063089
   },
-  "token": "c9905185-17d5-4cf2-a3b9-01dc5ee47737",
-  "link": "https://localhost:7080/guild/439520221?token=c9905185-17d5-4cf2-a3b9-01dc5ee47737"
+  "token": "4edacea2-f90c-41cd-841d-28446f195fa5",
+  "link": "https://localhost:7080/guild/439520221?token=4edacea2-f90c-41cd-841d-28446f195fa5"
 }

@@ -12,7 +12,7 @@
         "skulls": 122,
         "honor": 6866,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062187
+        "lastUpdate": 1719063152
       },
       {
         "id": 304574373,
@@ -21,7 +21,7 @@
         "skulls": 105,
         "honor": 9046,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062187
+        "lastUpdate": 1719063152
       },
       {
         "id": 2096137,
@@ -30,7 +30,7 @@
         "skulls": 150,
         "honor": 10852,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719062187
+        "lastUpdate": 1719063152
       },
       {
         "id": 820421368,
@@ -48,7 +48,7 @@
         "skulls": 105,
         "honor": 3375,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062188
+        "lastUpdate": 1719063152
       },
       {
         "id": 314615297,
@@ -66,16 +66,7 @@
         "skulls": 106,
         "honor": 3166,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062188
-      },
-      {
-        "id": 51109446,
-        "name": "DadPowers",
-        "btag": "DadPowers",
-        "skulls": 106,
-        "honor": 2793,
-        "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719062188
+        "lastUpdate": 1719063152
       },
       {
         "id": 58385532,
@@ -84,7 +75,7 @@
         "skulls": 61,
         "honor": 3019,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062188
+        "lastUpdate": 1719063153
       },
       {
         "id": 2237061,
@@ -93,7 +84,7 @@
         "skulls": 108,
         "honor": 2727,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062189
+        "lastUpdate": 1719063153
       },
       {
         "id": 51960917,
@@ -102,16 +93,7 @@
         "skulls": 134,
         "honor": 7005,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062189
-      },
-      {
-        "id": 51948099,
-        "name": "Razuur",
-        "btag": "Razuur",
-        "skulls": 150,
-        "honor": 10375,
-        "avatar": "Indicator_Hogger_Pose",
-        "lastUpdate": 1719062189
+        "lastUpdate": 1719063153
       },
       {
         "id": 101059829,
@@ -120,7 +102,7 @@
         "skulls": 90,
         "honor": 4203,
         "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719062189
+        "lastUpdate": 1719063153
       },
       {
         "id": 872393824,
@@ -129,16 +111,7 @@
         "skulls": 126,
         "honor": 7831,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719062189
-      },
-      {
-        "id": 78802528,
-        "name": "Leaizel",
-        "btag": "Leaizel",
-        "skulls": 0,
-        "honor": 0,
-        "avatar": null,
-        "lastUpdate": 2288912640
+        "lastUpdate": 1719063154
       },
       {
         "id": 102587149,
@@ -147,16 +120,7 @@
         "skulls": 150,
         "honor": 11420,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062190
-      },
-      {
-        "id": 59981073,
-        "name": "Vanquished",
-        "btag": "Vanquished",
-        "skulls": 111,
-        "honor": 9093,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062190
+        "lastUpdate": 1719063154
       },
       {
         "id": 2122377,
@@ -165,7 +129,7 @@
         "skulls": 128,
         "honor": 2665,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062190
+        "lastUpdate": 1719063154
       },
       {
         "id": 54725226,
@@ -174,7 +138,7 @@
         "skulls": 105,
         "honor": 9839,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062187
+        "lastUpdate": 1719063155
       },
       {
         "id": 301537172,
@@ -183,11 +147,47 @@
         "skulls": 107,
         "honor": 3187,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062189
+        "lastUpdate": 1719063155
+      },
+      {
+        "id": 59981073,
+        "name": "Vanquished",
+        "btag": "Vanquished",
+        "skulls": 111,
+        "honor": 9093,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063154
+      },
+      {
+        "id": 51109446,
+        "name": "DadPowers",
+        "btag": "DadPowers",
+        "skulls": 106,
+        "honor": 2793,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719063153
+      },
+      {
+        "id": 51948099,
+        "name": "Razuur",
+        "btag": "Razuur",
+        "skulls": 150,
+        "honor": 10375,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719063153
+      },
+      {
+        "id": 78802528,
+        "name": "Leaizel",
+        "btag": "Leaizel",
+        "skulls": 121,
+        "honor": 9378,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719063154
       }
     ],
-    "lastUpdate": 1719062187
+    "lastUpdate": 1719063151
   },
-  "token": "79bee640-e933-4d98-b738-026b33837f2e",
-  "link": "https://localhost:7080/guild/468022961?token=79bee640-e933-4d98-b738-026b33837f2e"
+  "token": "35384c64-6f14-4200-a45d-ec01a0f61596",
+  "link": "https://localhost:7080/guild/468022961?token=35384c64-6f14-4200-a45d-ec01a0f61596"
 }

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 881911616,
+    "btag": "SnarkyGoblin",
+    "name": "SnarkyGoblin",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 90,
+    "level": 36,
+    "pvpWins": 70,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 19,
+    "leaderAHonor": 2784,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 20,
+    "leaderBHonor": 2992,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 16,
+    "leaderCHonor": 2220,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;19",
+        "Worgen;Premeditation;19",
+        "ChainLightning;Reverberation;15",
+        "Execute;Overpower;21",
+        "Pyromancer;Conflagrate;20",
+        "Quilboar;Bristleback;21",
+        "FaerieDragon;FaeBlessing;21"
+      ],
+      [
+        "TirionLeader;Consecrate;20",
+        "DefiasBandits;DeadlyPoison;18",
+        "Worgen;Premeditation;19",
+        "Shaman;EarthShield;20",
+        "Pyromancer;Conflagrate;21",
+        "WitchDoctor;SpiritWard;22",
+        "Harpy;TrinketCollectors;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Prowler;PackLeader;20",
+        "Quilboar;Bristleback;21",
+        "Ghoul;Ravenous;17",
+        "Vultures;Migration;15",
+        "MurlocTidehunters;SafetyBubble;17",
+        "DefiasBandits;DeadlyPoison;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;20",
+        "WitchDoctor;SpiritWard;22",
+        "Shaman;EarthShield;20",
+        "GoblinSapper;ExtraBoom;15",
+        "Quilboar;Bristleback;21",
+        "Pyromancer;Conflagrate;21",
+        "Execute;Overpower;22"
+      ],
+      [
+        "RendLeader;FlamingSoul;16",
+        "Drake;Roost;17",
+        "Pyromancer;Conflagrate;20",
+        "Harpy;TrinketCollectors;19",
+        "WhelpEggs;Rookery;16",
+        "WitchDoctor;SpiritWard;21",
+        "FaerieDragon;FaeBlessing;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "Ghoul;Ravenous;17",
+        "Gargoyle;AerialSuperiority;20",
+        "Execute;Overpower;22",
+        "Pyromancer;Conflagrate;21",
+        "ChainLightning;Reverberation;15",
+        "ArcaneBlast;ArcanePower;16"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "DefiasBandits;DeadlyPoison;18",
+        "Worgen;Premeditation;19",
+        "Quilboar;Bristleback;21",
+        "EarthElemental;ShrapnelBlast;15",
+        "Harpy;InfectiousSwipes;20",
+        "SkeletonParty;RitualOfRime;16"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;16",
+        "Prowler;PredatoryInstincts;20",
+        "Execute;Overpower;21",
+        "WitchDoctor;SpiritWard;22",
+        "Pyromancer;Conflagrate;20",
+        "Gargoyle;AerialSuperiority;20",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "CairneLeader;Plainsrunning;16",
+        "StonehoofTauren;;13",
+        "Execute;Overpower;21",
+        "Pyromancer;Conflagrate;20",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;TrinketCollectors;20",
+        "Shaman;EarthShield;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;16",
+        "Gargoyle;AerialSuperiority;17",
+        "Necromancer;JeweledSkulls;16",
+        "Worgen;Premeditation;15",
+        "SkeletonParty;RitualOfRime;15",
+        "PlagueFarmer;;14",
+        "FaerieDragon;FaeBlessing;19"
+      ],
+      [
+        "SneedLeader;LandGrab;17",
+        "Shaman;EarthShield;20",
+        "WitchDoctor;SpiritWard;21",
+        "EarthElemental;ShrapnelBlast;15",
+        "Pyromancer;Conflagrate;20",
+        "Harpy;InfectiousSwipes;19",
+        "FaerieDragon;FaeBlessing;20"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;16",
+        "Quilboar;Bristleback;17",
+        "Prowler;PredatoryInstincts;19",
+        "Raptors;;14",
+        "Harpy;TrinketCollectors;19",
+        "WitchDoctor;SpiritWard;21",
+        "FaerieDragon;FaeBlessing;19"
+      ],
+      [
+        "DrakkisathLeader;LastingLegacy;20",
+        "Drake;;17",
+        "Pyromancer;Conflagrate;21",
+        "WitchDoctor;SpiritWard;22",
+        "Shaman;EarthShield;20",
+        "Harpy;TrinketCollectors;20",
+        "Execute;Overpower;22"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;14",
+        "Pyromancer;Conflagrate;19",
+        "DarkIronMiner;;13",
+        "WarsongRaider;RazingFocus;15",
+        "WhelpEggs;;14",
+        "WitchDoctor;SpiritWard;20",
+        "FaerieDragon;FaeBlessing;18"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;17",
+        "Ghoul;Ravenous;17",
+        "Gargoyle;AerialSuperiority;20",
+        "WitchDoctor;SpiritWard;21",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "Harpy;InfectiousSwipes;20",
+        "Execute;Overpower;21"
+      ]
+    ],
+    "lastUpdate": 1719063130
+  },
+  "token": "d60ee1ec-0e6b-4a32-bfd4-af474cb941a6"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 881733927,
+    "btag": "Kosac",
+    "name": "Kosac",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 102,
+    "level": 33,
+    "pvpWins": 91,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 19,
+    "leaderAHonor": 2002,
+    "leaderB": "RendLeader",
+    "leaderBWins": 12,
+    "leaderBHonor": 2104,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 28,
+    "leaderCHonor": 3066,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "GryphonRider;MightyThrow;16",
+        "Blizzard;ColdSnap;18",
+        "Necromancer;JeweledSkulls;17",
+        "ArcaneBlast;;14",
+        "Ghoul;BoneArmor;17"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "GryphonRider;MightyThrow;16",
+        "Blizzard;ColdSnap;18",
+        "Abomination;NoxiousPresence;18",
+        "WitchDoctor;AmplifyCurse;18",
+        "Harpy;InfectiousSwipes;19",
+        "Shaman;EarthShield;17"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;14",
+        "Harpy;;13",
+        "Quilboar;;13",
+        "Abomination;;14",
+        "Blizzard;ColdSnap;16",
+        "EarthElemental;;12",
+        "DarkIronMiner;;12"
+      ],
+      [
+        "GrommashLeader;;14",
+        "Drake;MotherDrake;17",
+        "Pyromancer;BlazeOfGlory;17",
+        "GryphonRider;MightyThrow;16",
+        "WhelpEggs;FlameBurst;16",
+        "Necromancer;JeweledSkulls;17",
+        "Ghoul;BoneArmor;16"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "Drake;MotherDrake;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "Harpy;InfectiousSwipes;19",
+        "DefiasBandits;LastResort;18",
+        "Quilboar;TunnelVision;18",
+        "MeatWagon;FiletTrebuchet;18"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;16",
+        "Ghoul;BoneArmor;17",
+        "Necromancer;JeweledSkulls;17",
+        "Blizzard;ColdSnap;18",
+        "ArcaneBlast;;14",
+        "GryphonRider;MightyThrow;16",
+        "SkeletonWarrior;Exhume;17"
+      ],
+      [
+        "MaievLeader;;14",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "Huntress;ElvenMight;17",
+        "EarthElemental;;16",
+        "Blizzard;ColdSnap;17",
+        "Quilboar;;15",
+        "DarkIronMiner;;14"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Chimaera;Leviathan;17",
+        "Harpy;InfectiousSwipes;19",
+        "WitchDoctor;AmplifyCurse;18",
+        "Huntress;ElvenMight;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "StonehoofTauren;Momentum;17",
+        "MeatWagon;FiletTrebuchet;18",
+        "WitchDoctor;AmplifyCurse;18",
+        "Quilboar;TunnelVision;18",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Abomination;NoxiousPresence;18",
+        "Necromancer;JeweledSkulls;17",
+        "SkeletonParty;5Man;17",
+        "Huntress;ElvenMight;18",
+        "MeatWagon;FiletTrebuchet;18",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "SneedLeader;;14",
+        "StonehoofTauren;Momentum;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "MeatWagon;FiletTrebuchet;17",
+        "ChainLightning;Reverberation;16",
+        "Abomination;NoxiousPresence;18",
+        "Shaman;EarthShield;17"
+      ],
+      [
+        "CharlgaLeader;;13",
+        "Spiderlings;;15",
+        "Harpy;InfectiousSwipes;18",
+        "Huntress;ElvenMight;17",
+        "StonehoofTauren;Momentum;17",
+        "ChainLightning;Reverberation;16",
+        "SkeletonParty;5Man;17"
+      ],
+      [
+        "DrakkisathLeader;;13",
+        "BatRider;;13",
+        "StonehoofTauren;Momentum;16",
+        "DarkspearTroll;BigBadVoodoo;16",
+        "Necromancer;JeweledSkulls;17",
+        "Harpy;;15",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "ThaurissanLeader;;14",
+        "EarthElemental;;15",
+        "Pyromancer;BlazeOfGlory;17",
+        "SkeletonParty;5Man;17",
+        "Abomination;NoxiousPresence;18",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;15",
+        "Abomination;NoxiousPresence;18",
+        "Necromancer;JeweledSkulls;17",
+        "OgreMage;;13",
+        "Chimaera;;14",
+        "WitchDoctor;AmplifyCurse;17",
+        "Blizzard;ColdSnap;17"
+      ]
+    ],
+    "lastUpdate": 1719062203
+  },
+  "token": "147290d1-3838-49ef-b753-a1491c3aab0e"
+}

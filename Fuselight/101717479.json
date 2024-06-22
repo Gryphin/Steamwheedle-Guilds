@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 101717479,
+    "btag": "Ragdoll",
+    "name": "Ragdoll",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 150,
+    "level": 48,
+    "pvpWins": 812,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 62,
+    "leaderAHonor": 4032,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 88,
+    "leaderBHonor": 3943,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 62,
+    "leaderCHonor": 4046,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "GryphonRider;MightyThrow;24",
+        "Huntress;ElvenMight;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "Blizzard;ColdSnap;21",
+        "DefiasBandits;PickLock;21",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "Huntress;ElvenMight;25",
+        "GryphonRider;MightyThrow;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "WhelpEggs;FlameBurst;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;23",
+        "Vultures;TendonRip;20",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Quilboar;BrambleBurst;24",
+        "Harpy;InfectiousSwipes;23",
+        "Drake;MotherDrake;24",
+        "CheatDeath;Vampirism;18"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "Shaman;EarthShield;23",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "DefiasBandits;PickLock;22",
+        "GryphonRider;MightyThrow;24",
+        "Huntress;ElvenMight;25",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "WhelpEggs;FlameBurst;25",
+        "FireElemental;ImmolationAura;22",
+        "GryphonRider;MightyThrow;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Quilboar;BrambleBurst;24",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "CheatDeath;Vampirism;18",
+        "Ghoul;BoneArmor;21",
+        "PolymorphSpell;GoldenFleece;21",
+        "ArcaneBlast;Amplification;21",
+        "DefiasBandits;PickLock;21",
+        "Shaman;EarthShield;23"
+      ],
+      [
+        "MaievLeader;Shadowstep;21",
+        "Huntress;ElvenMight;25",
+        "Worgen;LoneWolf;21",
+        "Quilboar;BrambleBurst;24",
+        "Prowler;OnTheProwl;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "HoggerLeader;HamHock;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "Prowler;OnTheProwl;22",
+        "Quilboar;BrambleBurst;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "GryphonRider;MightyThrow;24",
+        "DarkspearTroll;BigBadVoodoo;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Shaman;EarthShield;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Banshee;WillOfTheNecropolis;21",
+        "WhelpEggs;FlameBurst;25",
+        "MurlocTidehunters;Morelocs;22",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Gargoyle;WingBuffet;20",
+        "Ghoul;BoneArmor;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "Huntress;ElvenMight;25",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "CheatDeath;Vampirism;18",
+        "GoblinSapper;RocketBoots;18",
+        "Quilboar;BrambleBurst;24",
+        "WhelpEggs;FlameBurst;25",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;1217400d396347e40a5ba4a180d3cebf;22",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;25",
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;22",
+        "94935a651322443599aadc0ae5300e9b;aa7c23fcb65707943962bcd12baafeef;21",
+        "4d60f72627b7c36468f3107e40109845;60e2a46328808bc41a62f09faf20e940;24",
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;24",
+        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;25"
+      ],
+      [
+        "cd2137bffb5084548a4b1a81f47c725f;4d61d5f1d696c1245830bee1312254b4;21",
+        "20772be4121664be59876a8d41ed2696;812f5e83bd6c49145bea568ee5ef37cd;20",
+        "7b8e2425177bf46efb482030fc693d76;068d55e468df929479a63ccbec9a72cc;22",
+        "f6379dec39f4447b483eb7b6a672597e;a7562a08ec021cb4eb8367c83a3b885a;22",
+        "5b893c52c1e623541bececb01409caf3;4409adb7ffddc3c4eba2e70746399464;21",
+        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;25",
+        "1cdeebe6970781b4089ccd136a4732b8;3eabf607771af4340b86f0be2f2811d3;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "Drake;MotherDrake;24",
+        "WhelpEggs;Rookery;25",
+        "WitchDoctor;SpiritWard;24",
+        "DefiasBandits;PickLock;22",
+        "Pyromancer;Conflagrate;24",
+        "Shaman;EarthShield;23"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "MoltenGiant;BloodOfTheMountain;17",
+        "Pyromancer;Conflagrate;24",
+        "Prowler;OnTheProwl;22",
+        "PolymorphSpell;GoldenFleece;21",
+        "Huntress;ElvenMight;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Necromancer;CultOfTheDamned;21",
+        "Ghoul;BoneArmor;21",
+        "ChainLightning;BrilliantFlash;19",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Harpy;InfectiousSwipes;23",
+        "FireElemental;ImmolationAura;22"
+      ]
+    ],
+    "lastUpdate": 1719063156
+  },
+  "token": "cdee1ac2-661c-4582-b613-a590a3f1ce02"
+}

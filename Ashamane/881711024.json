@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 881711024,
+    "btag": "bash2",
+    "name": "bash2",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 149,
+    "level": 49,
+    "pvpWins": 187,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 42,
+    "leaderAHonor": 3863,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 49,
+    "leaderBHonor": 3890,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 39,
+    "leaderCHonor": 3558,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;22",
+        "DefiasBandits;DeadlyPoison;22",
+        "GryphonRider;MightyThrow;21",
+        "Blizzard;BrittleIce;21",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;24",
+        "Harpy;InfectiousSwipes;26",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "TirionLeader;DivineShield;26",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;24",
+        "DefiasBandits;DeadlyPoison;22",
+        "Quilboar;Bristleback;24",
+        "Harpy;InfectiousSwipes;26",
+        "WhelpEggs;FlameBurst;25",
+        "GoblinSapper;RocketBoots;25"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
+        "MurlocTidehunters;SafetyBubble;24",
+        "Quilboar;TunnelVision;24",
+        "Prowler;OnTheProwl;24",
+        "WhelpEggs;FlameBurst;25",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;24",
+        "Harpy;TalonDive;26"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;25",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "StonehoofTauren;Momentum;23",
+        "WhelpEggs;FlameBurst;25",
+        "Quilboar;Bristleback;24",
+        "Harpy;InfectiousSwipes;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "DarkIronMiner;GoldMine;21",
+        "WhelpEggs;FlameBurst;25",
+        "Drake;MotherDrake;22",
+        "Quilboar;TunnelVision;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Harpy;InfectiousSwipes;26"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;25",
+        "SkeletonWarrior;Exhume;24",
+        "Banshee;UnholyFrenzy;19",
+        "ArcaneBlast;Amplification;24",
+        "Harpy;TalonDive;26",
+        "WhelpEggs;FlameBurst;25",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "MaievLeader;Remorseless;22",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;24",
+        "Worgen;Premeditation;21",
+        "Quilboar;Bristleback;24",
+        "Harpy;TalonDive;26",
+        "GoblinSapper;RocketBoots;25",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;24",
+        "Harpy;InfectiousSwipes;26",
+        "Prowler;OnTheProwl;24",
+        "Quilboar;Bristleback;24",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;24",
+        "WhelpEggs;FlameBurst;25",
+        "PolymorphSpell;GoldenFleece;20"
+      ],
+      [
+        "CairneLeader;Plainsrunning;22",
+        "Execute;Bloodthirsty;18",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;24",
+        "Harpy;InfectiousSwipes;26",
+        "Prowler;OnTheProwl;24",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;25",
+        "Ghoul;BoneArmor;21",
+        "SkeletonWarrior;Exhume;24",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;24",
+        "Harpy;InfectiousSwipes;26",
+        "WhelpEggs;FlameBurst;25",
+        "GoblinSapper;RocketBoots;25"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;22",
+        "StonehoofTauren;Momentum;23",
+        "WitchDoctor;SpiritWard;24",
+        "GoblinSapper;RocketBoots;25",
+        "Harpy;InfectiousSwipes;26",
+        "WhelpEggs;FlameBurst;25",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;22",
+        "Quilboar;Bristleback;24",
+        "Chimaera;CorrosiveBreath;23",
+        "GoblinSapper;RocketBoots;25",
+        "Harpy;TalonDive;26",
+        "WhelpEggs;FlameBurst;25",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;24"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;24",
+        "Pyromancer;Pyroblast;22",
+        "Firehammer;MoultinMetal;22",
+        "Chimaera;CorrosiveBreath;23",
+        "Blizzard;BrittleIce;21",
+        "WhelpEggs;FlameBurst;25",
+        "Harpy;InfectiousSwipes;26"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;23",
+        "WhelpEggs;FlameBurst;25",
+        "Pyromancer;Pyroblast;22",
+        "Quilboar;TunnelVision;24",
+        "PolymorphSpell;GoldenFleece;20",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Harpy;TalonDive;26"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;24",
+        "Abomination;NoxiousPresence;22",
+        "SkeletonWarrior;Exhume;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;24",
+        "Harpy;InfectiousSwipes;26",
+        "WhelpEggs;FlameBurst;25"
+      ]
+    ],
+    "lastUpdate": 1719063080
+  },
+  "token": "50283baf-e7fb-47bd-a590-4b7b52795931"
+}

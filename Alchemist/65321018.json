@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 65321018,
+    "btag": "tommysTV",
+    "name": "tommysTV",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 1011,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 102,
+    "leaderAHonor": 3733,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 65,
+    "leaderBHonor": 3586,
+    "leaderC": "MaievLeader",
+    "leaderCWins": 101,
+    "leaderCHonor": 4072,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "GryphonRider;OdynsFury;25",
+        "Execute;Bloodthirsty;25",
+        "DefiasBandits;LastResort;25",
+        "WhelpEggs;FlameBurst;26",
+        "PolymorphSpell;GoldenFleece;25"
+      ],
+      [
+        "TirionLeader;DivineShield;25",
+        "DefiasBandits;PickLock;25",
+        "GryphonRider;OdynsFury;25",
+        "FireElemental;FanTheFlames;23",
+        "EarthElemental;ReadyToRumble;25",
+        "HolyNova;InnerFire;23",
+        "WhelpEggs;FlameBurst;26"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;26",
+        "Quilboar;TunnelVision;25",
+        "Harpy;InfectiousSwipes;25",
+        "WarsongRaider;RazingFocus;25",
+        "MurlocTidehunters;SafetyBubble;23",
+        "SkeletonWarrior;Exhume;25",
+        "Vultures;TendonRip;25"
+      ],
+      [
+        "GrommashLeader;MirrorImage;23",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Execute;Bloodthirsty;25",
+        "DefiasBandits;PickLock;25",
+        "Huntress;Shadowmeld;25",
+        "Shaman;EarthShield;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;27",
+        "Drake;MotherDrake;25",
+        "EarthElemental;ReadyToRumble;25",
+        "GryphonRider;MightyThrow;25",
+        "Chimaera;FrostShock;25",
+        "DefiasBandits;PickLock;25",
+        "MeatWagon;FiletTrebuchet;27"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;26",
+        "Ghoul;BoneArmor;25",
+        "SkeletonWarrior;Exhume;25",
+        "ArcaneBlast;Torrent;25",
+        "CheatDeath;Vampirism;23",
+        "DarkIronMiner;GoldMine;25",
+        "ChainLightning;BrilliantFlash;23"
+      ],
+      [
+        "MaievLeader;Shadowstep;25",
+        "GryphonRider;MightyThrow;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Worgen;Premeditation;23",
+        "Quilboar;TunnelVision;25",
+        "WhelpEggs;FlameBurst;26",
+        "Harpy;InfectiousSwipes;25"
+      ],
+      [
+        "HoggerLeader;HamHock;26",
+        "Harpy;InfectiousSwipes;25",
+        "Vultures;TendonRip;25",
+        "MurlocTidehunters;SafetyBubble;23",
+        "DarkIronMiner;GoldMine;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "Gargoyle;AerialSuperiority;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;25",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "WarsongRaider;RazingFocus;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "DefiasBandits;PickLock;25",
+        "GryphonRider;MightyThrow;25",
+        "Chimaera;FrostShock;25"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;27",
+        "MeatWagon;FiletTrebuchet;27",
+        "Banshee;SoulEruption;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;26",
+        "Harpy;InfectiousSwipes;25",
+        "GryphonRider;MightyThrow;25"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;26",
+        "GoblinSapper;RocketBoots;24",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "WarsongRaider;Saboteur;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "DarkIronMiner;GoldMine;24",
+        "WhelpEggs;FlameBurst;26"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;1217400d396347e40a5ba4a180d3cebf;24",
+        "5709c8989210cdd41943f35f5ffd8b6b;bbaa119635e291d43996f67e97c6273a;25",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;26",
+        "d6df87a31e7c2ae44aafe5d70fda7322;dd5ee8c986b4f3646b06fb75cd083589;25",
+        "f6379dec39f4447b483eb7b6a672597e;a7562a08ec021cb4eb8367c83a3b885a;25",
+        "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;25",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;9a83af5b4c2bdbb4dbe7cdf82834cfbf;25"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;23",
+        "PolymorphSpell;GoldenFleece;25",
+        "Quilboar;TunnelVision;25",
+        "Raptors;StrengthInNumbers;22",
+        "Gargoyle;AerialSuperiority;25",
+        "ArcaneBlast;Torrent;25",
+        "GryphonRider;MightyThrow;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;26",
+        "Firehammer;HeightenedRage;25",
+        "Pyromancer;Conflagrate;25",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;TunnelVision;25",
+        "DefiasBandits;PickLock;25",
+        "OgreMage;Avarice;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;25",
+        "Drake;MotherDrake;25",
+        "FireElemental;FanTheFlames;23",
+        "Quilboar;TunnelVision;25",
+        "GryphonRider;MightyThrow;25",
+        "WitchDoctor;SpiritWard;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;25",
+        "Gargoyle;WingBuffet;25",
+        "Necromancer;CultOfTheDamned;25",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "ChainLightning;BrilliantFlash;23",
+        "DarkIronMiner;GoldMine;24",
+        "Vultures;TendonRip;24"
+      ]
+    ],
+    "lastUpdate": 1719063131
+  },
+  "token": "cf4399a1-71e9-45e7-971c-6d7e11a1057d"
+}

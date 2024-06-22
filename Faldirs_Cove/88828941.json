@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 88828941,
+    "btag": "Vetch",
+    "name": "Vetch",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 136,
+    "level": 40,
+    "pvpWins": 925,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 115,
+    "leaderAHonor": 3314,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 86,
+    "leaderBHonor": 3353,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 60,
+    "leaderCHonor": 3355,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "Worgen;Premeditation;20",
+        "DefiasBandits;PickLock;19",
+        "Execute;Bloodthirsty;20",
+        "Blizzard;ColdSnap;18",
+        "WhelpEggs;FlameBurst;19",
+        "EarthElemental;ObsidianShard;18"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "GryphonRider;MightyThrow;18",
+        "DefiasBandits;PickLock;19",
+        "Quilboar;TunnelVision;19",
+        "MurlocTidehunters;CarefulAim;18",
+        "Execute;Bloodthirsty;20",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Raptors;StrengthInNumbers;18",
+        "Prowler;PackLeader;18",
+        "Quilboar;TunnelVision;19",
+        "WhelpEggs;FlameBurst;19",
+        "Execute;Bloodthirsty;20",
+        "PlagueFarmer;SplashingPumpkins;19"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;20",
+        "WitchDoctor;SpiritWard;19",
+        "Execute;KillingSpree;20",
+        "DefiasBandits;PickLock;19",
+        "WhelpEggs;FlameBurst;19",
+        "Pyromancer;Conflagrate;20",
+        "BatRider;FierySurplus;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "WhelpEggs;FlameBurst;19",
+        "SmokeBombSpell;ThroughTheShadows;18",
+        "Execute;Bloodthirsty;20",
+        "Harpy;TrinketCollectors;18",
+        "Chimaera;Leviathan;19",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "SkeletonParty;5Man;18",
+        "Ghoul;Ravenous;20",
+        "Execute;Bloodthirsty;20",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "Quilboar;TunnelVision;19",
+        "DefiasBandits;PickLock;19"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;19",
+        "Worgen;Premeditation;20",
+        "WhelpEggs;FlameBurst;19",
+        "Execute;KillingSpree;20",
+        "WitchDoctor;SpiritWard;19",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "AngryChickens;FuriousFowl;19",
+        "Quilboar;TunnelVision;19",
+        "BatRider;FierySurplus;18",
+        "WhelpEggs;FlameBurst;19",
+        "MurlocTidehunters;CarefulAim;18",
+        "Execute;Bloodthirsty;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "GoblinSapper;RocketBoots;18",
+        "Shaman;LightningMastery;18",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "Footmen;ShieldBash;18",
+        "WitchDoctor;AmplifyCurse;19",
+        "Pyromancer;Conflagrate;20"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;19",
+        "Ghoul;Ravenous;20",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "Quilboar;TunnelVision;19",
+        "WhelpEggs;FlameBurst;19",
+        "Execute;Bloodthirsty;20",
+        "DefiasBandits;PickLock;19"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;20",
+        "WitchDoctor;AmplifyCurse;19",
+        "BatRider;FierySurplus;18",
+        "GoblinSapper;RocketBoots;18",
+        "WhelpEggs;FlameBurst;19",
+        "Worgen;Premeditation;20",
+        "PlagueFarmer;SplashingPumpkins;19"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "PolymorphSpell;ExplodingSheep;18",
+        "Chimaera;Leviathan;19",
+        "Harpy;TrinketCollectors;18",
+        "HolyNova;AmplifyMagic;18",
+        "Pyromancer;Conflagrate;20",
+        "DarkIronMiner;GoldMine;17"
+      ],
+      [
+        "DrakkisathLeader;LastingLegacy;19",
+        "WhelpEggs;FlameBurst;19",
+        "SmokeBombSpell;ThroughTheShadows;18",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "BatRider;FierySurplus;18",
+        "SkeletonParty;5Man;18",
+        "GoblinSapper;RocketBoots;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "WhelpEggs;FlameBurst;19",
+        "FireElemental;FanTheFlames;18",
+        "Quilboar;TunnelVision;19",
+        "Execute;Bloodthirsty;20",
+        "DefiasBandits;PickLock;19",
+        "Pyromancer;Conflagrate;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "Ghoul;Ravenous;20",
+        "Execute;Bloodthirsty;20",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;TunnelVision;19",
+        "DefiasBandits;PickLock;19"
+      ]
+    ],
+    "lastUpdate": 1719063107
+  },
+  "token": "1a29408a-566d-430d-a670-25602540adb8"
+}

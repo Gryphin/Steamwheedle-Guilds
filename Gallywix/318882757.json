@@ -1,0 +1,81 @@
+{
+  "data": {
+    "id": 318882757,
+    "btag": "TheMailMan",
+    "name": "TheMailMan",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 66,
+    "level": 21,
+    "pvpWins": 17,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 6,
+    "leaderAHonor": 990,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 5,
+    "leaderBHonor": 773,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 3,
+    "leaderCHonor": 600,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;11",
+        "GryphonRider;;11",
+        "Huntress;;9",
+        "PolymorphSpell;;11",
+        "Quilboar;;11",
+        "WitchDoctor;SpiritWard;14",
+        "MeatWagon;;10"
+      ],
+      [
+        "TirionLeader;Consecrate;15",
+        "GryphonRider;;13",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;14",
+        "Footmen;LastStand;14",
+        "Pyromancer;Pyroblast;14",
+        "Harpy;InfectiousSwipes;14",
+        "WitchDoctor;SpiritWard;14"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;13",
+        "SkeletonWarrior;;9",
+        "MeatWagon;;10",
+        "ChainLightning;;11",
+        "Harpy;InfectiousSwipes;14",
+        "WitchDoctor;SpiritWard;14",
+        "Blizzard;;9"
+      ],
+      [
+        "HoggerLeader;;11",
+        "Quilboar;;11",
+        "Harpy;InfectiousSwipes;14",
+        "WitchDoctor;SpiritWard;14",
+        "Pyromancer;;11",
+        "PolymorphSpell;GoldenFleece;13",
+        "Footmen;LastStand;13"
+      ],
+      [
+        "CairneLeader;Reincarnation;14",
+        "ChainLightning;;12",
+        "WarsongRaider;;11",
+        "Pyromancer;;11",
+        "GryphonRider;;13",
+        "S.A.F.E.PilotFlyingMachine;;12",
+        "WitchDoctor;SpiritWard;14"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;15",
+        "Flamewaker;Engulf;13",
+        "Pyromancer;Pyroblast;13",
+        "WitchDoctor;SpiritWard;14",
+        "GryphonRider;;13",
+        "Quilboar;;11",
+        "PolymorphSpell;GoldenFleece;13"
+      ]
+    ],
+    "lastUpdate": 1719062201
+  },
+  "token": "79e07671-7055-40a5-b603-8e42abf6f617"
+}

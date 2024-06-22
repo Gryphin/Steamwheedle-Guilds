@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 51343597,
+    "btag": "Vamp",
+    "name": "Vamp",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 120,
+    "level": 42,
+    "pvpWins": 1689,
+    "leaderA": "SneedLeader",
+    "leaderAWins": 90,
+    "leaderAHonor": 3658,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 114,
+    "leaderBHonor": 3600,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 141,
+    "leaderCHonor": 3602,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Huntress;Shadowmeld;21",
+        "Blizzard;ColdSnap;19",
+        "Harpy;TrinketCollectors;21",
+        "Quilboar;Bristleback;21",
+        "Prowler;OnTheProwl;20"
+      ],
+      [
+        "TirionLeader;DivineShield;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "GryphonRider;MightyThrow;20",
+        "MoltenGiant;BloodOfTheMountain;18",
+        "HolyNova;Renew;18",
+        "FaerieDragon;FaeBlessing;19",
+        "EarthElemental;ReadyToRumble;20"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;19",
+        "Prowler;OnTheProwl;20",
+        "PolymorphSpell;GoldenFleece;20",
+        "Quilboar;Bristleback;21",
+        "SmokeBombSpell;ThroughTheShadows;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "GoblinSapper;RocketBoots;18"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "GoblinSapper;RocketBoots;18",
+        "StonehoofTauren;Pummel;19",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Quilboar;Bristleback;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Huntress;Shadowmeld;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "WhelpEggs;FlameBurst;21",
+        "Pyromancer;Conflagrate;20",
+        "Gargoyle;AerialSuperiority;19",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Quilboar;Bristleback;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Banshee;WillOfTheNecropolis;18",
+        "ArcaneBlast;Amplification;19",
+        "Quilboar;Bristleback;21",
+        "Huntress;Shadowmeld;21",
+        "Execute;Bloodthirsty;19"
+      ],
+      [
+        "MaievLeader;Shadowstep;18",
+        "HolyNova;Renew;18",
+        "GryphonRider;MightyThrow;20",
+        "EarthElemental;ReadyToRumble;20",
+        "MoltenGiant;BloodOfTheMountain;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "FaerieDragon;FaeBlessing;19"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Harpy;TrinketCollectors;21",
+        "AngryChickens;Snackrifice;20",
+        "Quilboar;Bristleback;21",
+        "PolymorphSpell;GoldenFleece;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "WitchDoctor;Alchemist;20"
+      ],
+      [
+        "CairneLeader;Plainsrunning;20",
+        "WarsongRaider;RazingFocus;21",
+        "Execute;Bloodthirsty;20",
+        "Shaman;EarthShield;20",
+        "GryphonRider;AirDrop;20",
+        "DefiasBandits;LastResort;21",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Abomination;NoxiousPresence;18",
+        "SkeletonParty;5Man;20",
+        "Quilboar;Bristleback;21",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Huntress;Shadowmeld;20",
+        "Blizzard;ColdSnap;19"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;19",
+        "ChainLightning;BrilliantFlash;20",
+        "Execute;Bloodthirsty;20",
+        "GoblinSapper;RocketBoots;18",
+        "Quilboar;Bristleback;21",
+        "MurlocTidehunters;SafetyBubble;20",
+        "WarsongRaider;RazingFocus;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Quilboar;Bristleback;21",
+        "Prowler;OnTheProwl;20",
+        "MurlocTidehunters;SafetyBubble;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Huntress;Shadowmeld;21",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "WhelpEggs;FlameBurst;21",
+        "DarkIronMiner;DwarvenAmbition;21",
+        "WitchDoctor;AmplifyCurse;20",
+        "Quilboar;Bristleback;21",
+        "HolyNova;Renew;18",
+        "Shaman;EarthShield;20"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;20",
+        "DarkIronMiner;DwarvenAmbition;21",
+        "WhelpEggs;FlameBurst;21",
+        "Prowler;OnTheProwl;20",
+        "Shaman;EarthShield;20",
+        "Execute;Bloodthirsty;20",
+        "FaerieDragon;FaeBlessing;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Banshee;WillOfTheNecropolis;19",
+        "Ghoul;BoneArmor;19",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Prowler;OnTheProwl;20",
+        "Harpy;TrinketCollectors;21",
+        "Quilboar;Bristleback;21"
+      ]
+    ],
+    "lastUpdate": 1719063116
+  },
+  "token": "91b064f4-3ac7-461d-9b32-6c69e489202b"
+}

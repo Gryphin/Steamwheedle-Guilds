@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 51576138,
+    "btag": "Lert",
+    "name": "Lert",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Hogger_Pose",
+    "skulls": 115,
+    "level": 36,
+    "pvpWins": 151,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 28,
+    "leaderAHonor": 2196,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 33,
+    "leaderBHonor": 2383,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 22,
+    "leaderCHonor": 2601,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;18",
+        "GryphonRider;MightyThrow;20",
+        "Worgen;Frenzy;18",
+        "Execute;KillingSpree;18",
+        "LivingBomb;BlastRadius;16",
+        "GnollBrute;Rabid;18",
+        "Footmen;ShieldBash;18"
+      ],
+      [
+        "TirionLeader;Consecrate;20",
+        "Footmen;ShieldBash;18",
+        "DefiasBandits;LastResort;17",
+        "MoltenGiant;BloodOfTheMountain;18",
+        "GryphonRider;MightyThrow;20",
+        "Pyromancer;BlazeOfGlory;18",
+        "Execute;KillingSpree;18"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;20",
+        "Prowler;OnTheProwl;18",
+        "Quilboar;TunnelVision;18",
+        "Abomination;FreshMeat;18",
+        "GnollBrute;Rabid;18",
+        "LivingBomb;BlastRadius;16",
+        "BatRider;FierySurplus;18"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "BatRider;FierySurplus;18",
+        "Execute;KillingSpree;18",
+        "GoblinSapper;;14",
+        "OgreMage;Ignite;17",
+        "Pyromancer;BlazeOfGlory;18",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "Firehammer;HeightenedRage;19",
+        "GryphonRider;MightyThrow;20",
+        "SkeletonWarrior;QuestingBuddies;17",
+        "EarthElemental;ReadyToRumble;17",
+        "Necromancer;JeweledSkulls;17"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Necromancer;JeweledSkulls;17",
+        "Abomination;FreshMeat;18",
+        "ArcaneBlast;;15",
+        "Execute;KillingSpree;18",
+        "HolyNova;;13",
+        "Ghoul;BoneArmor;18"
+      ],
+      [
+        "MaievLeader;Shadowstep;18",
+        "Worgen;Frenzy;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "SkeletonParty;5Man;17",
+        "GryphonRider;MightyThrow;20",
+        "Banshee;WillOfTheNecropolis;17",
+        "Execute;KillingSpree;18"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;20",
+        "Raptors;FastFood;17",
+        "GnollBrute;Rabid;18",
+        "Chimaera;CorrosiveBreath;18",
+        "GryphonRider;MightyThrow;20",
+        "Prowler;OnTheProwl;18",
+        "Execute;KillingSpree;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "WarsongRaider;;15",
+        "DarkspearTroll;Headhunting;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "Blizzard;;14",
+        "SkeletonWarrior;QuestingBuddies;17",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Abomination;FreshMeat;18",
+        "Necromancer;JeweledSkulls;17",
+        "SkeletonWarrior;QuestingBuddies;17",
+        "Execute;KillingSpree;18",
+        "GryphonRider;MightyThrow;20",
+        "BatRider;FierySurplus;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;18",
+        "WarsongGrunts;GuardDuty;18",
+        "BatRider;FierySurplus;18",
+        "WarsongRaider;;15",
+        "Pyromancer;BlazeOfGlory;18",
+        "Execute;KillingSpree;18",
+        "Chimaera;CorrosiveBreath;18"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;17",
+        "Prowler;OnTheProwl;18",
+        "MurlocTidehunters;Morelocs;17",
+        "Raptors;FastFood;17",
+        "Mountaineer;Growl;17",
+        "LivingBomb;BlastRadius;16",
+        "BatRider;FierySurplus;18"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;19",
+        "Pyromancer;BlazeOfGlory;18",
+        "EarthElemental;ReadyToRumble;17",
+        "Necromancer;JeweledSkulls;17",
+        "Firehammer;HeightenedRage;19",
+        "SkeletonParty;5Man;17",
+        "Execute;KillingSpree;18"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;19",
+        "Firehammer;HeightenedRage;19",
+        "Pyromancer;BlazeOfGlory;18",
+        "SkeletonWarrior;QuestingBuddies;17",
+        "HarvestGolem;BountifulHarvest;17",
+        "Execute;KillingSpree;18",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Banshee;WillOfTheNecropolis;17",
+        "SkeletonWarrior;QuestingBuddies;17",
+        "BatRider;FierySurplus;18",
+        "MoltenGiant;BloodOfTheMountain;18",
+        "Execute;KillingSpree;18",
+        "GryphonRider;MightyThrow;20"
+      ]
+    ],
+    "lastUpdate": 1719063136
+  },
+  "token": "2c986691-3e5f-43ce-b851-76d662056acc"
+}

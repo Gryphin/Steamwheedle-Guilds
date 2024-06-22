@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 53418140,
+    "btag": "Gryphin",
+    "name": "Gryphin",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 90,
+    "level": 38,
+    "pvpWins": 64,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 9,
+    "leaderAHonor": 1092,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 9,
+    "leaderBHonor": 1090,
+    "leaderC": "BloodmageThalnosLeader",
+    "leaderCWins": 7,
+    "leaderCHonor": 1054,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;19",
+        "S.A.F.E.PilotFlyingMachine;;17",
+        "Blizzard;ColdSnap;18",
+        "LivingBomb;;16",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Pyromancer;;17",
+        "EarthElemental;;17"
+      ],
+      [
+        "TirionLeader;ByTheLight;18",
+        "Footmen;;16",
+        "S.A.F.E.PilotFlyingMachine;;17",
+        "EarthElemental;;17",
+        "Harpy;TalonDive;21",
+        "AngryChickens;;17",
+        "DarkspearTroll;BigBadVoodoo;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;TalonDive;21",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Quilboar;;17",
+        "WhelpEggs;;17",
+        "FireElemental;;17",
+        "GoblinSapper;;16"
+      ],
+      [
+        "GrommashLeader;Bladestorm;19",
+        "StonehoofTauren;Momentum;19",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Harpy;TalonDive;21",
+        "MurlocTidehunters;SafetyBubble;18",
+        "SkeletonWarrior;Exhume;20",
+        "S.A.F.E.PilotFlyingMachine;;17"
+      ],
+      [
+        "RendLeader;;18",
+        "DarkIronMiner;;16",
+        "Drake;;17",
+        "Gargoyle;WingBuffet;18",
+        "Harpy;TalonDive;21",
+        "SkeletonWarrior;;19",
+        "ChainLightning;;16"
+      ],
+      [
+        "BloodmageThalnosLeader;;16",
+        "Ghoul;;17",
+        "MeatWagon;FiletTrebuchet;18",
+        "HolyNova;;16",
+        "Harpy;TalonDive;19",
+        "FireElemental;;17",
+        "SkeletonWarrior;;18"
+      ],
+      [
+        "MaievLeader;;17",
+        "DefiasBandits;;17",
+        "Worgen;;17",
+        "WhelpEggs;;17",
+        "S.A.F.E.PilotFlyingMachine;;17",
+        "SkeletonWarrior;Exhume;20",
+        "Quilboar;;17"
+      ],
+      [
+        "HoggerLeader;;16",
+        "Harpy;TalonDive;20",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Quilboar;;16",
+        "AngryChickens;;16",
+        "Raptors;;16",
+        "DarkspearTroll;BigBadVoodoo;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "StonehoofTauren;Momentum;19",
+        "Shaman;EarthShield;17",
+        "Pyromancer;;18",
+        "GryphonRider;;16",
+        "Harpy;TalonDive;21",
+        "EarthElemental;;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Ghoul;;17",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "SkeletonWarrior;Exhume;20",
+        "Pyromancer;;18",
+        "Harpy;TalonDive;21",
+        "EarthElemental;;17"
+      ],
+      [
+        "SneedLeader;;16",
+        "StonehoofTauren;Momentum;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "EarthElemental;;16",
+        "MurlocTidehunters;SafetyBubble;17",
+        "Harpy;TalonDive;18",
+        "BatRider;;16"
+      ],
+      [
+        "CharlgaLeader;;16",
+        "Harpy;TalonDive;20",
+        "MurlocTidehunters;SafetyBubble;18",
+        "AngryChickens;;16",
+        "FireElemental;;17",
+        "EarthElemental;;16",
+        "GnollBrute;;16"
+      ],
+      [
+        "DrakkisathLeader;;18",
+        "Flamewaker;HeatStroke;18",
+        "Firehammer;;16",
+        "FireElemental;;17",
+        "Quilboar;;17",
+        "Gargoyle;WingBuffet;18",
+        "Harpy;TalonDive;21"
+      ],
+      [
+        "ThaurissanLeader;;16",
+        "WhelpEggs;;17",
+        "Pyromancer;;17",
+        "Quilboar;;17",
+        "Harpy;TalonDive;20",
+        "Worgen;;17",
+        "FireElemental;;17"
+      ],
+      [
+        "SylvanasLeader;;17",
+        "Ghoul;;17",
+        "SkeletonWarrior;;19",
+        "StonehoofTauren;Momentum;19",
+        "Harpy;TalonDive;21",
+        "FireElemental;;17",
+        "Worgen;;17"
+      ]
+    ],
+    "lastUpdate": 1719063105
+  },
+  "token": "f1c84c1d-dd09-4b5a-960b-d2323f54b359"
+}

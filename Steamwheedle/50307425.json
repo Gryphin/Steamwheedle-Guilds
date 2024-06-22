@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 50307425,
+    "btag": "Thorce",
+    "name": "Thorce",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Cairne_Pose",
+    "skulls": 106,
+    "level": 41,
+    "pvpWins": 483,
+    "leaderA": "BloodmageThalnosLeader",
+    "leaderAWins": 34,
+    "leaderAHonor": 3515,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 101,
+    "leaderBHonor": 3493,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 42,
+    "leaderCHonor": 3508,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;20",
+        "DefiasBandits;PickLock;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "ChainLightning;BrilliantFlash;20",
+        "WhelpEggs;FlameBurst;20",
+        "CoreHounds;EternalBond;20",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "GryphonRider;MightyThrow;20",
+        "Blizzard;ColdSnap;18",
+        "Abomination;Cannonball;18",
+        "FaerieDragon;FaeBlessing;18",
+        "Shaman;EarthShield;20",
+        "DefiasBandits;PickLock;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "GnollBrute;Rabid;18",
+        "Quilboar;TunnelVision;21",
+        "Mountaineer;MendPets;20",
+        "Blizzard;ColdSnap;18",
+        "GoblinSapper;RocketBoots;18",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Execute;KillingSpree;16",
+        "GoblinSapper;RocketBoots;18",
+        "DefiasBandits;PickLock;20",
+        "Pyromancer;Conflagrate;18",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "DarkIronMiner;GoldMine;18",
+        "WhelpEggs;FlameBurst;20",
+        "Gargoyle;ObsidianStatue;17",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;19",
+        "Abomination;Cannonball;20",
+        "Necromancer;JeweledSkulls;18",
+        "Blizzard;ColdSnap;18",
+        "Quilboar;TunnelVision;21",
+        "GoblinSapper;RocketBoots;18",
+        "DefiasBandits;PickLock;20"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;19",
+        "DefiasBandits;PickLock;20",
+        "Worgen;Premeditation;17",
+        "WhelpEggs;FlameBurst;21",
+        "GoblinSapper;RocketBoots;18",
+        "SkeletonWarrior;Exhume;18",
+        "Quilboar;BrambleBurst;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;TunnelVision;21",
+        "MurlocTidehunters;SafetyBubble;17",
+        "WitchDoctor;Alchemist;18",
+        "DefiasBandits;PickLock;20",
+        "Blizzard;ColdSnap;18",
+        "GoblinSapper;RocketBoots;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "WarsongGrunts;Command;17",
+        "WitchDoctor;Alchemist;18",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "GoblinSapper;RocketBoots;18",
+        "WhelpEggs;FlameBurst;20",
+        "DefiasBandits;PickLock;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Abomination;Cannonball;20",
+        "Necromancer;JeweledSkulls;18",
+        "Quilboar;TunnelVision;21",
+        "SkeletonWarrior;Exhume;18",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "SkeletonParty;CorpseRun;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "GoblinSapper;RocketBoots;18",
+        "WarsongRaider;SunderArmor;21",
+        "Huntress;ElvenMight;21",
+        "Blizzard;ColdSnap;18",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Quilboar;TunnelVision;19",
+        "Harpy;InfectiousSwipes;20",
+        "Huntress;ElvenMight;21",
+        "WitchDoctor;Alchemist;18",
+        "DefiasBandits;PickLock;20",
+        "Abomination;NoxiousPresence;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Firehammer;BlazingSpeed;20",
+        "WhelpEggs;FlameBurst;21",
+        "Shaman;EarthShield;20",
+        "Execute;KillingSpree;16",
+        "Quilboar;TunnelVision;21",
+        "DarkspearTroll;BigBadVoodoo;20"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;21",
+        "CoreHounds;EternalBond;20",
+        "DarkIronMiner;GoldMine;18",
+        "DefiasBandits;PickLock;20",
+        "Harpy;InfectiousSwipes;20",
+        "Huntress;Shadowmeld;21",
+        "DarkspearTroll;BigBadVoodoo;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;BoneArmor;18",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "GoblinSapper;RocketBoots;18",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;TunnelVision;21"
+      ]
+    ],
+    "lastUpdate": 1719063127
+  },
+  "token": "0defaf60-90d3-4bd8-aaac-8fb2b424f7a7"
+}

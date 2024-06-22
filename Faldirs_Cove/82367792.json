@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 82367792,
+    "btag": "randalhicks",
+    "name": "randalhicks",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 143,
+    "level": 44,
+    "pvpWins": 81,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 13,
+    "leaderAHonor": 1337,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 20,
+    "leaderBHonor": 1413,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 16,
+    "leaderCHonor": 1444,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;20",
+        "Blizzard;ColdSnap;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "Execute;Overpower;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "DefiasBandits;PickLock;20",
+        "GryphonRider;MightyThrow;20",
+        "Quilboar;TunnelVision;24",
+        "Chimaera;CorrosiveBreath;21",
+        "Banshee;WillOfTheNecropolis;18",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;22",
+        "EarthElemental;ReadyToRumble;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "WhelpEggs;FlameBurst;22",
+        "AngryChickens;WalkingCrate;19"
+      ],
+      [
+        "GrommashLeader;Bladestorm;20",
+        "BatRider;EnchantedVials;19",
+        "Execute;Overpower;20",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;22",
+        "EarthElemental;ReadyToRumble;21",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "WhelpEggs;FlameBurst;22",
+        "LivingBomb;ChainReaction;18",
+        "Pyromancer;Pyroblast;22",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;24",
+        "EarthElemental;ReadyToRumble;21"
+      ],
+      [
+        "BloodmageThalnosLeader;;19",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "CheatDeath;;18",
+        "Execute;Overpower;20",
+        "Prowler;PredatoryInstincts;18",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "Quilboar;BrambleBurst;24",
+        "Harpy;InfectiousSwipes;22",
+        "WhelpEggs;FlameBurst;22",
+        "Execute;Overpower;20",
+        "BatRider;EnchantedVials;19",
+        "EarthElemental;ReadyToRumble;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;BrambleBurst;24",
+        "Execute;Overpower;20",
+        "EarthElemental;ReadyToRumble;21",
+        "BatRider;EnchantedVials;19",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "CairneLeader;Plainsrunning;20",
+        "DarkspearTroll;Headhunting;21",
+        "Banshee;WillOfTheNecropolis;18",
+        "Huntress;Shadowmeld;21",
+        "WhelpEggs;FlameBurst;22",
+        "EarthElemental;ReadyToRumble;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "Ghoul;TasteForBlood;17",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "BatRider;EnchantedVials;19",
+        "Pyromancer;Conflagrate;22",
+        "StonehoofTauren;Momentum;21",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;20",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;24",
+        "EarthElemental;ReadyToRumble;21",
+        "AngryChickens;WalkingCrate;19",
+        "WhelpEggs;FlameBurst;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;19",
+        "Quilboar;Bristleback;24",
+        "Prowler;PredatoryInstincts;18",
+        "Harpy;InfectiousSwipes;22",
+        "MurlocTidehunters;SafetyBubble;20",
+        "WhelpEggs;FlameBurst;22",
+        "Banshee;WillOfTheNecropolis;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "Pyromancer;Conflagrate;22",
+        "EarthElemental;ReadyToRumble;21",
+        "Shaman;EarthShield;21",
+        "GryphonRider;MightyThrow;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "BatRider;EnchantedVials;19"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;21",
+        "EarthElemental;ReadyToRumble;21",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;BrambleBurst;24",
+        "Execute;Overpower;20",
+        "Harpy;InfectiousSwipes;22",
+        "BatRider;EnchantedVials;19"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "SkeletonParty;CorpseRun;21",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;22",
+        "WhelpEggs;FlameBurst;22"
+      ]
+    ],
+    "lastUpdate": 1719063108
+  },
+  "token": "77266c3b-6332-4b22-b6c2-b4626e9d7485"
+}

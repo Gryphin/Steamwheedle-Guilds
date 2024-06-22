@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 115145544,
+    "btag": "Cerit",
+    "name": "Cerit",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 145,
+    "level": 43,
+    "pvpWins": 111,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 27,
+    "leaderAHonor": 2581,
+    "leaderB": "CharlgaLeader",
+    "leaderBWins": 19,
+    "leaderBHonor": 3071,
+    "leaderC": "GrommashLeader",
+    "leaderCWins": 23,
+    "leaderCHonor": 2438,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "MeatWagon;FiletTrebuchet;20",
+        "Blizzard;ColdSnap;17",
+        "Execute;Bloodthirsty;20",
+        "FireElemental;ImmolationAura;24",
+        "DarkIronMiner;GoldMine;19",
+        "Shaman;EarthwallTotem;23"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Huntress;ElvenMight;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "FireElemental;ImmolationAura;24",
+        "Harpy;InfectiousSwipes;24",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;24",
+        "Huntress;ElvenMight;24",
+        "WhelpEggs;FlameBurst;24",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "Shaman;EarthShield;23",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;24",
+        "Huntress;ElvenMight;24",
+        "Harpy;InfectiousSwipes;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;19",
+        "Pyromancer;Conflagrate;24",
+        "FireElemental;ImmolationAura;24",
+        "Harpy;InfectiousSwipes;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;23",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;19",
+        "Necromancer;JeweledSkulls;20",
+        "SkeletonParty;RitualOfRime;21",
+        "ArcaneBlast;Amplification;18",
+        "Harpy;InfectiousSwipes;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "FireElemental;ImmolationAura;24"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Huntress;ElvenMight;24",
+        "WhelpEggs;FlameBurst;23",
+        "Harpy;InfectiousSwipes;23",
+        "FireElemental;ImmolationAura;24",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Harpy;InfectiousSwipes;23",
+        "Quilboar;TunnelVision;21",
+        "FireElemental;ImmolationAura;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Huntress;ElvenMight;24",
+        "WhelpEggs;FlameBurst;23"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Execute;Bloodthirsty;21",
+        "Shaman;EarthShield;23",
+        "Huntress;ElvenMight;24",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Gargoyle;WingBuffet;20",
+        "SkeletonParty;RitualOfRime;21",
+        "WhelpEggs;FlameBurst;24",
+        "FireElemental;ImmolationAura;24",
+        "Huntress;ElvenMight;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "Shaman;EarthwallTotem;23",
+        "Execute;Bloodthirsty;20",
+        "MeatWagon;FiletTrebuchet;20",
+        "SkeletonParty;RitualOfRime;21",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;23"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;17",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;23",
+        "Huntress;ElvenMight;23",
+        "Pyromancer;Conflagrate;21",
+        "Execute;Bloodthirsty;20",
+        "FireElemental;ImmolationAura;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "Pyromancer;Conflagrate;24",
+        "WhelpEggs;FlameBurst;24",
+        "Shaman;EarthShield;23",
+        "SkeletonParty;RitualOfRime;21",
+        "DefiasBandits;PickLock;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Conflagrate;24",
+        "WhelpEggs;FlameBurst;23",
+        "FireElemental;ImmolationAura;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Harpy;InfectiousSwipes;23",
+        "SkeletonParty;RitualOfRime;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Necromancer;BreathOfTheDying;20",
+        "MeatWagon;FiletTrebuchet;20",
+        "Shaman;EarthShield;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Harpy;InfectiousSwipes;23",
+        "FireElemental;ImmolationAura;24"
+      ]
+    ],
+    "lastUpdate": 1719063150
+  },
+  "token": "ada1c3ee-22ee-4e6f-bc19-fb98cbc7d92c"
+}

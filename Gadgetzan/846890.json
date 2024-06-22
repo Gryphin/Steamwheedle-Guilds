@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 846890,
+    "btag": "Flatliner",
+    "name": "Flatliner",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 145,
+    "level": 45,
+    "pvpWins": 74,
+    "leaderA": "MaievLeader",
+    "leaderAWins": 17,
+    "leaderAHonor": 1203,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 17,
+    "leaderBHonor": 2846,
+    "leaderC": "RendLeader",
+    "leaderCWins": 14,
+    "leaderCHonor": 1294,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;24",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "FireElemental;ImmolationAura;25",
+        "Quilboar;TunnelVision;24",
+        "Pyromancer;Pyroblast;22"
+      ],
+      [
+        "TirionLeader;ByTheLight;22",
+        "GryphonRider;MightyThrow;22",
+        "DefiasBandits;PickLock;22",
+        "FireElemental;ImmolationAura;24",
+        "Execute;Bloodthirsty;20",
+        "Quilboar;TunnelVision;24",
+        "DarkspearTroll;BigBadVoodoo;25"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "GnollBrute;Rabid;21",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;24",
+        "Quilboar;TunnelVision;24",
+        "Shaman;EarthShield;24",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "GrommashLeader;Bladestorm;20",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "FireElemental;ImmolationAura;24",
+        "Harpy;InfectiousSwipes;24",
+        "GryphonRider;MightyThrow;22",
+        "Pyromancer;Pyroblast;22",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;22",
+        "Pyromancer;Pyroblast;22",
+        "FireElemental;ImmolationAura;24",
+        "GryphonRider;MightyThrow;22",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Shaman;EarthShield;24",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "Drake;MotherDrake;24",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "ChainLightning;Reverberation;18",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;24"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;21",
+        "GryphonRider;MightyThrow;22",
+        "Worgen;Premeditation;21",
+        "Quilboar;TunnelVision;24",
+        "SkeletonWarrior;QuestingBuddies;20",
+        "WhelpEggs;FlameBurst;24",
+        "AngryChickens;;17"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;24",
+        "GryphonRider;MightyThrow;22",
+        "WhelpEggs;FlameBurst;24",
+        "DarkspearTroll;BigBadVoodoo;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Shaman;EarthShield;24",
+        "Pyromancer;Pyroblast;22",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;24",
+        "Pyromancer;Pyroblast;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;23",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Shaman;EarthShield;24",
+        "FireElemental;ImmolationAura;24",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;19",
+        "GnollBrute;Rabid;21",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;24",
+        "Execute;Bloodthirsty;20",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Pyroblast;22",
+        "FireElemental;ImmolationAura;24",
+        "Shaman;EarthShield;24",
+        "WhelpEggs;FlameBurst;24",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Pyroblast;22",
+        "FireElemental;ImmolationAura;24",
+        "DefiasBandits;DeadlyPoison;22",
+        "Harpy;InfectiousSwipes;24",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Necromancer;JeweledSkulls;21",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "WhelpEggs;FlameBurst;24",
+        "FireElemental;ImmolationAura;24",
+        "Quilboar;TunnelVision;24"
+      ]
+    ],
+    "lastUpdate": 1719063109
+  },
+  "token": "b8f8e59c-d6c8-4973-903b-4229833ea096"
+}

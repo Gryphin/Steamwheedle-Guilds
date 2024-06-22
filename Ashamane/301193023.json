@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 301193023,
+    "btag": "KasaiOkami",
+    "name": "KasaiOkami",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 139,
+    "level": 45,
+    "pvpWins": 75,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 15,
+    "leaderAHonor": 1780,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 24,
+    "leaderBHonor": 3190,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 13,
+    "leaderCHonor": 2255,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "GryphonRider;OdynsFury;24",
+        "Execute;Bloodthirsty;22",
+        "FireElemental;FanTheFlames;22",
+        "Shaman;EarthShield;25",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "GryphonRider;AirDrop;24",
+        "HolyNova;InnerFire;18",
+        "Quilboar;Bristleback;24",
+        "Harpy;InfectiousSwipes;24",
+        "Pyromancer;Pyroblast;25",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Chimaera;CorrosiveBreath;24",
+        "Quilboar;Bristleback;24",
+        "EarthElemental;ReadyToRumble;21",
+        "Shaman;EarthShield;25",
+        "SkeletonWarrior;Exhume;19",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;24",
+        "Shaman;EarthShield;25",
+        "Execute;Bloodthirsty;22",
+        "WhelpEggs;FlameBurst;25",
+        "Pyromancer;Pyroblast;25",
+        "GryphonRider;AirDrop;24",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;25",
+        "Pyromancer;Conflagrate;25",
+        "WhelpEggs;FlameBurst;25",
+        "Execute;Bloodthirsty;22",
+        "Quilboar;BrambleBurst;24",
+        "Harpy;InfectiousSwipes;24",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;22",
+        "MeatWagon;FiletTrebuchet;21",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Execute;Bloodthirsty;22",
+        "Quilboar;Bristleback;24",
+        "Harpy;InfectiousSwipes;24",
+        "Shaman;EarthShield;25"
+      ],
+      [
+        "MaievLeader;Shadowstep;22",
+        "Huntress;ElvenMight;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Quilboar;Bristleback;24",
+        "Execute;Bloodthirsty;22",
+        "FireElemental;FanTheFlames;22",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Harpy;InfectiousSwipes;24",
+        "Chimaera;CorrosiveBreath;24",
+        "Quilboar;Bristleback;24",
+        "Execute;Bloodthirsty;22",
+        "WhelpEggs;FlameBurst;25",
+        "Pyromancer;Conflagrate;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "Shaman;EarthShield;25",
+        "Execute;Bloodthirsty;22",
+        "Pyromancer;Pyroblast;24",
+        "Chimaera;CorrosiveBreath;24",
+        "Quilboar;Bristleback;24",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Necromancer;BreathOfTheDying;20",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "WhelpEggs;FlameBurst;25",
+        "Execute;Bloodthirsty;22",
+        "Chimaera;CorrosiveBreath;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "Shaman;EarthShield;24",
+        "DarkspearTroll;Headhunting;20",
+        "MeatWagon;FiletTrebuchet;21",
+        "Pyromancer;Conflagrate;24",
+        "Quilboar;Bristleback;24",
+        "Chimaera;CorrosiveBreath;24"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "Chimaera;CorrosiveBreath;22",
+        "Harpy;InfectiousSwipes;24",
+        "Huntress;ElvenMight;21",
+        "Pyromancer;Conflagrate;24",
+        "Shaman;EarthShield;22",
+        "FireElemental;FanTheFlames;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;25",
+        "WhelpEggs;FlameBurst;25",
+        "Drake;MotherDrake;24",
+        "WitchDoctor;SpiritWard;24",
+        "DefiasBandits;PickLock;24",
+        "Shaman;EarthShield;25",
+        "Pyromancer;Conflagrate;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;22",
+        "FireElemental;FanTheFlames;22",
+        "Drake;MotherDrake;24",
+        "Quilboar;TunnelVision;24",
+        "Shaman;EarthShield;25",
+        "Harpy;InfectiousSwipes;24",
+        "Execute;Bloodthirsty;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Banshee;WillOfTheNecropolis;21",
+        "Shaman;EarthShield;25",
+        "WhelpEggs;FlameBurst;25",
+        "FireElemental;FanTheFlames;22",
+        "Execute;Bloodthirsty;22"
+      ]
+    ],
+    "lastUpdate": 1719063079
+  },
+  "token": "2e0aa673-b9b4-4ebe-bbc6-89383922fef6"
+}

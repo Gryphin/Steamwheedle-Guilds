@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1358429,
+    "btag": "Viaggro",
+    "name": "Viaggro",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 134,
+    "level": 43,
+    "pvpWins": 109,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 30,
+    "leaderAHonor": 3222,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 34,
+    "leaderBHonor": 3392,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 23,
+    "leaderCHonor": 3087,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;20",
+        "DefiasBandits;DeadlyPoison;21",
+        "Footmen;ShieldBash;20",
+        "Execute;Bloodthirsty;21",
+        "ChainLightning;StormsReach;21",
+        "Prowler;OnTheProwl;21",
+        "Worgen;Premeditation;23"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "Worgen;Premeditation;23",
+        "HolyNova;InnerFire;21",
+        "HarvestGolem;UnstableCore;18",
+        "WitchDoctor;SpiritWard;21",
+        "WhelpEggs;FlameBurst;19",
+        "BatRider;EnchantedVials;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;InfectiousSwipes;21",
+        "PolymorphSpell;GoldenFleece;20",
+        "Prowler;OnTheProwl;19",
+        "Blizzard;BrittleIce;20",
+        "Quilboar;TunnelVision;21",
+        "AngryChickens;Snackrifice;19"
+      ],
+      [
+        "GrommashLeader;Bladestorm;18",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WitchDoctor;SpiritWard;21",
+        "SkeletonWarrior;Exhume;20",
+        "Worgen;Premeditation;23",
+        "Quilboar;TunnelVision;21",
+        "Chimaera;Leviathan;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "Drake;MotherDrake;18",
+        "EarthElemental;ObsidianShard;21",
+        "Chimaera;CorrosiveBreath;20",
+        "GnollBrute;Rabid;18",
+        "Shaman;EarthShield;21",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Abomination;NoxiousPresence;19",
+        "Ghoul;BoneArmor;19",
+        "ArcaneBlast;Torrent;21",
+        "HolyNova;InnerFire;21",
+        "Shaman;EarthShield;21",
+        "ChainLightning;BrilliantFlash;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Huntress;Shadowmeld;21",
+        "Worgen;Premeditation;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "DefiasBandits;PickLock;21",
+        "DarkIronMiner;GoldMine;19",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;TunnelVision;21",
+        "Chimaera;Leviathan;20",
+        "ChainLightning;BrilliantFlash;21",
+        "MurlocTidehunters;SafetyBubble;18",
+        "BatRider;EnchantedVials;21",
+        "AngryChickens;Snackrifice;19"
+      ],
+      [
+        "CairneLeader;Reincarnation;19",
+        "BatRider;EnchantedVials;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WitchDoctor;SpiritWard;21",
+        "GoblinSapper;RocketBoots;23",
+        "OgreMage;FrostfireBolt;21",
+        "PolymorphSpell;GoldenFleece;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Ghoul;BoneArmor;19",
+        "SkeletonWarrior;Exhume;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Harpy;InfectiousSwipes;21",
+        "FireElemental;ImmolationAura;18",
+        "GoblinSapper;CrudeGunpowder;23"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "BatRider;EnchantedVials;21",
+        "WitchDoctor;AmplifyCurse;21",
+        "Chimaera;CorrosiveBreath;20",
+        "SmokeBombSpell;ThroughTheShadows;20",
+        "EarthElemental;ObsidianShard;21",
+        "GoblinSapper;RocketBoots;23"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "AngryChickens;Snackrifice;19",
+        "MurlocTidehunters;SafetyBubble;19",
+        "Harpy;InfectiousSwipes;21",
+        "Worgen;LoneWolf;23",
+        "Chimaera;CorrosiveBreath;21",
+        "WarsongGrunts;Command;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "EarthElemental;ObsidianShard;21",
+        "Pyromancer;Conflagrate;21",
+        "WitchDoctor;SpiritWard;21",
+        "Worgen;LoneWolf;23",
+        "PolymorphSpell;GoldenFleece;20",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "EarthElemental;ObsidianShard;21",
+        "SmokeBombSpell;ThroughTheShadows;20",
+        "Worgen;Premeditation;23",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;Shadowmeld;21",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;BoneArmor;19",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "BatRider;EnchantedVials;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "WitchDoctor;SpiritWard;21",
+        "FireElemental;ImmolationAura;18"
+      ]
+    ],
+    "lastUpdate": 1719063108
+  },
+  "token": "4ae552ac-499b-4e46-9110-ca1ee4b3eedf"
+}

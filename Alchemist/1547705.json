@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1547705,
+    "btag": "Kurhan",
+    "name": "Kurhan",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sneed_Pose",
+    "skulls": 116,
+    "level": 40,
+    "pvpWins": 401,
+    "leaderA": "SneedLeader",
+    "leaderAWins": 67,
+    "leaderAHonor": 3694,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 23,
+    "leaderBHonor": 3772,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 20,
+    "leaderCHonor": 3736,
+    "socials": null,
+    "armies": [
+      [
+        "04320a384d8cbf648b5fd5eb2f061208;6783d455b088edb4c9f86e293698922f;18",
+        "724ebbab65fd2477db54c91707f4a6d8;7b5cacdfa38f8874eb80a5583924aca4;21",
+        "ddd9c76766fce4940afe7512cf2d8ced;e6daaee1092311e46aa247d90095a9bf;18",
+        "010159552421635498f7b2a538788b09;cd664c866d8c69f4883a645464f91eec;19",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;9a83af5b4c2bdbb4dbe7cdf82834cfbf;21",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;22",
+        "5b893c52c1e623541bececb01409caf3;992769225cb48dc47a9b429d7c678193;17"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "HolyNova;InnerFire;20",
+        "DefiasBandits;PickLock;18",
+        "StonehoofTauren;Momentum;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Pyromancer;Conflagrate;22",
+        "DarkIronMiner;GoldMine;16"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;OnTheProwl;19",
+        "Gargoyle;WingBuffet;18",
+        "Pyromancer;Conflagrate;22",
+        "Quilboar;TunnelVision;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "GoblinSapper;RocketBoots;20",
+        "Execute;Bloodthirsty;19",
+        "Chimaera;CorrosiveBreath;20",
+        "WhelpEggs;FlameBurst;20",
+        "Pyromancer;Pyroblast;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "Pyromancer;Pyroblast;22",
+        "FireElemental;ImmolationAura;21",
+        "Chimaera;CorrosiveBreath;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "WhelpEggs;FlameBurst;20",
+        "WitchDoctor;SpiritWard;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Abomination;NoxiousPresence;17",
+        "CheatDeath;Vampirism;18",
+        "PolymorphSpell;GoldenFleece;17",
+        "Shaman;EarthShield;22",
+        "Quilboar;TunnelVision;19",
+        "ArcaneBlast;Amplification;18"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "GryphonRider;AirDrop;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "WhelpEggs;FlameBurst;20",
+        "WarsongRaider;RazingFocus;18",
+        "EarthElemental;ObsidianShard;18",
+        "FireElemental;ImmolationAura;21"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Harpy;InfectiousSwipes;20",
+        "Prowler;OnTheProwl;19",
+        "GoblinSapper;RocketBoots;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "CairneLeader;Plainsrunning;18",
+        "Execute;Bloodthirsty;18",
+        "WarsongRaider;RazingFocus;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "FireElemental;ImmolationAura;21",
+        "Chimaera;CorrosiveBreath;20",
+        "SkeletonParty;5Man;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Abomination;NoxiousPresence;17",
+        "Ghoul;BoneArmor;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "FireElemental;ImmolationAura;21",
+        "Execute;Bloodthirsty;19",
+        "Quilboar;TunnelVision;19"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;22",
+        "StonehoofTauren;Momentum;20",
+        "Execute;Bloodthirsty;19",
+        "GoblinSapper;RocketBoots;20",
+        "Pyromancer;Pyroblast;22",
+        "WhelpEggs;FlameBurst;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;19",
+        "PolymorphSpell;GoldenFleece;17",
+        "Chimaera;CorrosiveBreath;19",
+        "Harpy;InfectiousSwipes;21",
+        "Execute;Bloodthirsty;18",
+        "HolyNova;InnerFire;20",
+        "DarkIronMiner;GoldMine;16"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "Pyromancer;Pyroblast;22",
+        "FireElemental;ImmolationAura;21",
+        "Shaman;EarthShield;22",
+        "GoblinSapper;RocketBoots;20",
+        "Gargoyle;WingBuffet;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "FireElemental;ImmolationAura;21",
+        "Pyromancer;Pyroblast;22",
+        "WarsongRaider;RazingFocus;18",
+        "Chimaera;CorrosiveBreath;20",
+        "Execute;Bloodthirsty;19",
+        "DarkspearTroll;BigBadVoodoo;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Abomination;NoxiousPresence;17",
+        "Banshee;WillOfTheNecropolis;19",
+        "Shaman;EarthShield;22",
+        "FireElemental;ImmolationAura;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Execute;Bloodthirsty;19"
+      ]
+    ],
+    "lastUpdate": 1719063132
+  },
+  "token": "d9ae52a5-5792-4b1c-9fe7-ec8e3b73b681"
+}

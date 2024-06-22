@@ -1,0 +1,144 @@
+{
+  "data": {
+    "id": 52381491,
+    "btag": "Rezputin",
+    "name": "Rezputin",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Thaurissan_Pose",
+    "skulls": 120,
+    "level": 37,
+    "pvpWins": 134,
+    "leaderA": "ThaurissanLeader",
+    "leaderAWins": 15,
+    "leaderAHonor": 2614,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 38,
+    "leaderBHonor": 3150,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 38,
+    "leaderCHonor": 2763,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;14",
+        "MeatWagon;FiletTrebuchet;18",
+        "SkeletonWarrior;;17",
+        "WhelpEggs;FlameBurst;19",
+        "Blizzard;ColdSnap;21",
+        "OgreMage;FrostfireBolt;20",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "TirionLeader;Consecrate;23",
+        "Blizzard;ColdSnap;21",
+        "Worgen;Premeditation;21",
+        "Quilboar;TunnelVision;21",
+        "OgreMage;FrostfireBolt;21",
+        "GryphonRider;MightyThrow;21",
+        "EarthElemental;ObsidianShard;19"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;20",
+        "AngryChickens;FuriousFowl;18",
+        "Prowler;OnTheProwl;19",
+        "GnollBrute;;15",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;19",
+        "MurlocTidehunters;;17"
+      ],
+      [
+        "GrommashLeader;;14",
+        "AngryChickens;FuriousFowl;18",
+        "Prowler;OnTheProwl;19",
+        "GnollBrute;;15",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;TunnelVision;21",
+        "MurlocTidehunters;;17"
+      ],
+      [
+        "RendLeader;Legionnaire;21",
+        "EarthElemental;ObsidianShard;19",
+        "WhelpEggs;FlameBurst;19",
+        "Drake;MotherDrake;19",
+        "Blizzard;ColdSnap;21",
+        "Worgen;Premeditation;20",
+        "DarkIronMiner;;17"
+      ],
+      [
+        "MaievLeader;;17",
+        "Worgen;Premeditation;20",
+        "DefiasBandits;PickLock;18",
+        "Quilboar;TunnelVision;21",
+        "Blizzard;ColdSnap;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Harpy;InfectiousSwipes;19",
+        "AngryChickens;FuriousFowl;18",
+        "GoblinSapper;RocketBoots;17",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;19",
+        "FireElemental;ImmolationAura;19"
+      ],
+      [
+        "CairneLeader;;15",
+        "Blizzard;ColdSnap;21",
+        "Worgen;Premeditation;20",
+        "Quilboar;TunnelVision;21",
+        "OgreMage;FrostfireBolt;20",
+        "GryphonRider;MightyThrow;21",
+        "EarthElemental;ObsidianShard;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;23",
+        "MeatWagon;FiletTrebuchet;19",
+        "SkeletonWarrior;;17",
+        "Quilboar;TunnelVision;21",
+        "Blizzard;ColdSnap;21",
+        "OgreMage;FrostfireBolt;21",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "OgreMage;FrostfireBolt;21",
+        "DarkspearTroll;Headhunting;18",
+        "Worgen;Premeditation;21",
+        "Quilboar;TunnelVision;21",
+        "Huntress;Shadowmeld;19",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;20",
+        "EarthElemental;ObsidianShard;19",
+        "Pyromancer;Conflagrate;18",
+        "Blizzard;ColdSnap;21",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;TunnelVision;21",
+        "WitchDoctor;;17"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "WhelpEggs;FlameBurst;19",
+        "FireElemental;ImmolationAura;18",
+        "Quilboar;Bristleback;21",
+        "Drake;MotherDrake;19",
+        "Huntress;Shadowmeld;18",
+        "EarthElemental;ObsidianShard;19"
+      ],
+      [
+        "SylvanasLeader;;18",
+        "Necromancer;;17",
+        "MeatWagon;FiletTrebuchet;19",
+        "DarkspearTroll;Headhunting;18",
+        "EarthElemental;ObsidianShard;19",
+        "Huntress;Shadowmeld;19",
+        "Quilboar;TunnelVision;21"
+      ]
+    ],
+    "lastUpdate": 1719063145
+  },
+  "token": "3f7b875c-a8bd-488f-a6dc-f4d0e06f3429"
+}

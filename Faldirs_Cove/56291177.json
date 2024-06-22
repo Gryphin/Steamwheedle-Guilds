@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 56291177,
+    "btag": "Gardakan",
+    "name": "Gardakan",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Hogger_Pose",
+    "skulls": 131,
+    "level": 40,
+    "pvpWins": 301,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 51,
+    "leaderAHonor": 3286,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 26,
+    "leaderBHonor": 3206,
+    "leaderC": "MaievLeader",
+    "leaderCWins": 24,
+    "leaderCHonor": 3533,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;20",
+        "Huntress;ElvenMight;21",
+        "Blizzard;ColdSnap;18",
+        "Execute;Bloodthirsty;17",
+        "Quilboar;TunnelVision;21",
+        "Necromancer;CultOfTheDamned;18",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "TirionLeader;DivineShield;19",
+        "Huntress;ElvenMight;21",
+        "GryphonRider;MightyThrow;21",
+        "MoltenGiant;ThreateningPresence;20",
+        "DarkIronMiner;GoldMine;18",
+        "WhelpEggs;FlameBurst;19",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "Prowler;PredatoryInstincts;18",
+        "Quilboar;TunnelVision;21",
+        "WarsongGrunts;Command;18",
+        "WhelpEggs;FlameBurst;19",
+        "Huntress;ElvenMight;21",
+        "ChainLightning;Reverberation;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "BatRider;FlamingPitch;18",
+        "WitchDoctor;SpiritWard;20",
+        "WhelpEggs;FlameBurst;19",
+        "SkeletonParty;5Man;20",
+        "Execute;Bloodthirsty;17",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "WhelpEggs;FlameBurst;19",
+        "Drake;EngulfingFlames;18",
+        "Harpy;InfectiousSwipes;19",
+        "Quilboar;TunnelVision;21",
+        "Huntress;ElvenMight;21",
+        "Necromancer;CultOfTheDamned;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "Necromancer;CultOfTheDamned;18",
+        "SkeletonParty;5Man;20",
+        "Execute;Bloodthirsty;17",
+        "Huntress;ElvenMight;21",
+        "Ghoul;TasteForBlood;19",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "GryphonRider;MightyThrow;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "DarkIronMiner;GoldMine;18",
+        "Huntress;ElvenMight;21",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Prowler;PredatoryInstincts;18",
+        "Quilboar;TunnelVision;21",
+        "GryphonRider;MightyThrow;21",
+        "Huntress;ElvenMight;21",
+        "Blizzard;ColdSnap;18",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "CairneLeader;Reincarnation;19",
+        "OgreMage;FrostfireBolt;20",
+        "GoblinSapper;RocketBoots;18",
+        "DarkspearTroll;Headhunting;18",
+        "GryphonRider;MightyThrow;19",
+        "ChainLightning;Reverberation;18",
+        "Ghoul;TasteForBlood;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Necromancer;CultOfTheDamned;18",
+        "SkeletonParty;5Man;20",
+        "Quilboar;TunnelVision;21",
+        "Execute;Bloodthirsty;17",
+        "WhelpEggs;FlameBurst;19",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;19",
+        "WarsongRaider;SunderArmor;18",
+        "Execute;Bloodthirsty;17",
+        "GoblinSapper;RocketBoots;18",
+        "Huntress;ElvenMight;21",
+        "DarkIronMiner;GoldMine;18",
+        "GryphonRider;MightyThrow;19"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "Quilboar;BrambleBurst;21",
+        "MurlocTidehunters;CarefulAim;18",
+        "Huntress;DarnassianSteel;21",
+        "Harpy;InfectiousSwipes;19",
+        "GnollBrute;Rabid;19",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "WhelpEggs;FlameBurst;19",
+        "DarkIronMiner;GoldMine;18",
+        "Firehammer;MoultinMetal;20",
+        "Blizzard;ColdSnap;18",
+        "Harpy;InfectiousSwipes;19",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "WhelpEggs;FlameBurst;19",
+        "FireElemental;MoltenCore;18",
+        "Quilboar;TunnelVision;21",
+        "Blizzard;ColdSnap;18",
+        "Huntress;DarnassianSteel;21",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "SkeletonParty;5Man;20",
+        "Ghoul;TasteForBlood;19",
+        "GryphonRider;AirDrop;21",
+        "WhelpEggs;FlameBurst;19",
+        "Execute;Bloodthirsty;17",
+        "Quilboar;TunnelVision;21"
+      ]
+    ],
+    "lastUpdate": 1719063107
+  },
+  "token": "b22f6a72-461a-4e42-9f26-0d772d2130b0"
+}

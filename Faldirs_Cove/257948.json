@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 257948,
+    "btag": "Odea",
+    "name": "Odea",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 90,
+    "level": 38,
+    "pvpWins": 38,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 4,
+    "leaderAHonor": 777,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 5,
+    "leaderBHonor": 584,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 12,
+    "leaderCHonor": 1066,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "HarvestGolem;TrojanChickens;18",
+        "GryphonRider;MightyThrow;20",
+        "Execute;Bloodthirsty;18",
+        "Spiderlings;;16",
+        "ArcaneBlast;;16",
+        "GoblinSapper;RocketBoots;18"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "GryphonRider;MightyThrow;20",
+        "Huntress;;16",
+        "CoreHounds;EternalBond;18",
+        "Blizzard;ColdSnap;18",
+        "Footmen;ShieldBash;18",
+        "Gargoyle;WingBuffet;18"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "GnollBrute;Rabid;18",
+        "MurlocTidehunters;CarefulAim;18",
+        "EarthElemental;ObsidianShard;17",
+        "Harpy;InfectiousSwipes;18",
+        "GryphonRider;MightyThrow;20",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "WarsongRaider;Saboteur;18",
+        "BatRider;EnchantedVials;18",
+        "Footmen;ShieldBash;18",
+        "Huntress;;16",
+        "GryphonRider;MightyThrow;20",
+        "Gargoyle;WingBuffet;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "WhelpEggs;FlameBurst;18",
+        "Drake;MotherDrake;18",
+        "Gargoyle;WingBuffet;18",
+        "GryphonRider;MightyThrow;21",
+        "WitchDoctor;Alchemist;18",
+        "GnollBrute;Rabid;18"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Gargoyle;WingBuffet;18",
+        "Necromancer;JeweledSkulls;18",
+        "Execute;Bloodthirsty;18",
+        "Harpy;InfectiousSwipes;18",
+        "GnollBrute;Rabid;18",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "GryphonRider;MightyThrow;20",
+        "Worgen;Premeditation;17",
+        "SkeletonParty;5Man;18",
+        "Blizzard;ColdSnap;18",
+        "WarsongRaider;Saboteur;18",
+        "DarkIronMiner;;17"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "GnollBrute;Rabid;18",
+        "Harpy;InfectiousSwipes;18",
+        "Spiderlings;;15",
+        "SkeletonParty;5Man;18",
+        "Necromancer;JeweledSkulls;18",
+        "Execute;Bloodthirsty;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "WarsongRaider;Saboteur;18",
+        "Shaman;;16",
+        "DarkspearTroll;;15",
+        "WarsongGrunts;BloodPact;17",
+        "GryphonRider;MightyThrow;20",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Gargoyle;WingBuffet;18",
+        "Necromancer;JeweledSkulls;18",
+        "SkeletonParty;5Man;18",
+        "GryphonRider;MightyThrow;21",
+        "Pyromancer;Conflagrate;18",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;20",
+        "StonehoofTauren;Momentum;18",
+        "WitchDoctor;Alchemist;18",
+        "WarsongRaider;Saboteur;18",
+        "GryphonRider;MightyThrow;20",
+        "GoblinSapper;RocketBoots;18",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Prowler;OnTheProwl;18",
+        "Quilboar;;17",
+        "GoblinSapper;RocketBoots;18",
+        "PolymorphSpell;GoldenFleece;18",
+        "GryphonRider;MightyThrow;20",
+        "Pyromancer;Conflagrate;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "FireElemental;;17",
+        "Firehammer;MoultinMetal;17",
+        "Pyromancer;Conflagrate;18",
+        "Execute;Bloodthirsty;18",
+        "GryphonRider;MightyThrow;20",
+        "Gargoyle;WingBuffet;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "EarthElemental;ObsidianShard;18",
+        "DarkIronMiner;;17",
+        "SkeletonParty;5Man;18",
+        "Gargoyle;WingBuffet;18",
+        "Execute;Bloodthirsty;18",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Necromancer;JeweledSkulls;18",
+        "SkeletonParty;5Man;18",
+        "WitchDoctor;Alchemist;18",
+        "GryphonRider;MightyThrow;20",
+        "Blizzard;ColdSnap;18",
+        "FireElemental;ImmolationAura;18"
+      ]
+    ],
+    "lastUpdate": 1719063106
+  },
+  "token": "763a5b35-7f69-4126-a926-70b3741a3c1d"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 64069311,
+    "btag": "zubs",
+    "name": "zubs",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sneed_Pose",
+    "skulls": 130,
+    "level": 41,
+    "pvpWins": 103,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 29,
+    "leaderAHonor": 1579,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 22,
+    "leaderBHonor": 1711,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 19,
+    "leaderCHonor": 1845,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "Footmen;ShieldBash;22",
+        "Huntress;Shadowmeld;22",
+        "Execute;Bloodthirsty;19",
+        "DefiasBandits;DeadlyPoison;19",
+        "Harpy;InfectiousSwipes;22",
+        "StonehoofTauren;Momentum;21"
+      ],
+      [
+        "TirionLeader;ByTheLight;24",
+        "Footmen;Fortification;22",
+        "Huntress;ElvenMight;22",
+        "Gargoyle;WingBuffet;18",
+        "Blizzard;ColdSnap;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;Bristleback;18",
+        "Footmen;ShieldBash;22",
+        "Blizzard;ColdSnap;22",
+        "Drake;MotherDrake;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "WitchDoctor;SpiritWard;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Harpy;InfectiousSwipes;22",
+        "Shaman;EarthwallTotem;21",
+        "Execute;Bloodthirsty;19",
+        "EarthElemental;ObsidianShard;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "DarkIronMiner;GoldMine;18",
+        "Drake;MotherDrake;21",
+        "Chimaera;CorrosiveBreath;20",
+        "Harpy;InfectiousSwipes;22",
+        "HolyNova;InnerFire;18",
+        "Gargoyle;WingBuffet;18"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;20",
+        "Necromancer;JeweledSkulls;20",
+        "Abomination;Cannonball;21",
+        "Blizzard;ColdSnap;22",
+        "WhelpEggs;FlameBurst;21",
+        "Ghoul;BoneArmor;18",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "MaievLeader;Shadowstep;16",
+        "Footmen;ShieldBash;22",
+        "Huntress;Shadowmeld;22",
+        "EarthElemental;ObsidianShard;24",
+        "Blizzard;ColdSnap;22",
+        "Harpy;InfectiousSwipes;22",
+        "SkeletonParty;5Man;19"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;OnTheProwl;18",
+        "BatRider;FierySurplus;18",
+        "EarthElemental;ObsidianShard;21",
+        "Blizzard;ColdSnap;22",
+        "Pyromancer;Conflagrate;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "StonehoofTauren;Momentum;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Huntress;ElvenMight;22",
+        "Shaman;EarthShield;21",
+        "Pyromancer;Conflagrate;22",
+        "Blizzard;ColdSnap;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Abomination;NoxiousPresence;21",
+        "Necromancer;JeweledSkulls;19",
+        "WhelpEggs;FlameBurst;21",
+        "EarthElemental;ObsidianShard;24",
+        "Harpy;InfectiousSwipes;22",
+        "Pyromancer;Conflagrate;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;20",
+        "StonehoofTauren;Momentum;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "EarthElemental;ObsidianShard;23",
+        "WitchDoctor;SpiritWard;20",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "CharlgaLeader;;13",
+        "Quilboar;Bristleback;16",
+        "Prowler;OnTheProwl;16",
+        "Harpy;InfectiousSwipes;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Blizzard;ColdSnap;20",
+        "Pyromancer;Conflagrate;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Conflagrate;22",
+        "Drake;MotherDrake;21",
+        "Shaman;EarthwallTotem;22",
+        "Blizzard;ColdSnap;22",
+        "EarthElemental;ObsidianShard;24",
+        "DarkspearTroll;BigBadVoodoo;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Drake;MotherDrake;21",
+        "DarkIronMiner;GoldMine;18",
+        "StonehoofTauren;Momentum;21",
+        "Footmen;Fortification;22",
+        "Pyromancer;Conflagrate;22",
+        "Shaman;EarthwallTotem;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "Abomination;Cannonball;21",
+        "Necromancer;JeweledSkulls;20",
+        "BatRider;FierySurplus;21",
+        "EarthElemental;ObsidianShard;24",
+        "Harpy;InfectiousSwipes;22",
+        "Blizzard;ColdSnap;22"
+      ]
+    ],
+    "lastUpdate": 1719063146
+  },
+  "token": "3ef4c88c-6a31-42f8-9534-77b6e8e89c09"
+}

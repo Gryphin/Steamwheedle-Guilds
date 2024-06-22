@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 2100156,
+    "btag": "Lastcaress",
+    "name": "Lastcaress",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Jaina_Pose",
+    "skulls": 100,
+    "level": 35,
+    "pvpWins": 101,
+    "leaderA": "MaievLeader",
+    "leaderAWins": 16,
+    "leaderAHonor": 2332,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 19,
+    "leaderBHonor": 2520,
+    "leaderC": "BloodmageThalnosLeader",
+    "leaderCWins": 14,
+    "leaderCHonor": 1482,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;20",
+        "GryphonRider;MightyThrow;17",
+        "Worgen;Premeditation;20",
+        "Execute;Bloodthirsty;18",
+        "Huntress;DarnassianSteel;17",
+        "Gargoyle;WingBuffet;18",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "TirionLeader;Consecrate;20",
+        "Chimaera;FrostShock;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Gargoyle;WingBuffet;18",
+        "GryphonRider;MightyThrow;18",
+        "Harpy;TrinketCollectors;18",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;17",
+        "Execute;Bloodthirsty;17",
+        "Prowler;PredatoryInstincts;20",
+        "Gargoyle;WingBuffet;18",
+        "Chimaera;FrostShock;20",
+        "Harpy;TrinketCollectors;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "GrommashLeader;Bladestorm;20",
+        "WarsongRaider;RazingFocus;18",
+        "DarkspearTroll;SerpentSting;17",
+        "Harpy;TrinketCollectors;18",
+        "Execute;Bloodthirsty;17",
+        "Gargoyle;WingBuffet;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "RendLeader;Legionnaire;17",
+        "GnollBrute;ThickHide;18",
+        "Prowler;PredatoryInstincts;20",
+        "Gargoyle;WingBuffet;18",
+        "Drake;EngulfingFlames;17",
+        "Chimaera;FrostShock;20",
+        "Harpy;TrinketCollectors;18"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Gargoyle;WingBuffet;18",
+        "Necromancer;JeweledSkulls;17",
+        "HolyNova;;14",
+        "Harpy;TrinketCollectors;18",
+        "Blizzard;ColdSnap;17",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "Blizzard;ColdSnap;17",
+        "Worgen;Premeditation;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "SkeletonWarrior;QuestingBuddies;17",
+        "SkeletonParty;RitualOfRime;17",
+        "EarthElemental;ObsidianShard;18"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;17",
+        "GnollBrute;ThickHide;17",
+        "Quilboar;;14",
+        "Prowler;PredatoryInstincts;19",
+        "Chimaera;FrostShock;19",
+        "PolymorphSpell;;12",
+        "Spiderlings;;12"
+      ],
+      [
+        "CairneLeader;;15",
+        "Harpy;TrinketCollectors;18",
+        "AngryChickens;WalkingCrate;17",
+        "Pyromancer;Pyroblast;16",
+        "Huntress;DarnassianSteel;16",
+        "OgreMage;FrostfireBolt;16",
+        "Gargoyle;WingBuffet;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Gargoyle;WingBuffet;18",
+        "Necromancer;JeweledSkulls;17",
+        "SkeletonParty;RitualOfRime;17",
+        "Chimaera;FrostShock;20",
+        "GryphonRider;MightyThrow;17",
+        "Harpy;TrinketCollectors;18"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;13",
+        "Drake;;12",
+        "GnollBrute;ThickHide;14",
+        "Chimaera;FrostShock;15",
+        "StonehoofTauren;;12",
+        "Harpy;;12",
+        "Banshee;;12"
+      ],
+      [
+        "DrakkisathLeader;LastingLegacy;17",
+        "LivingBomb;;14",
+        "FireElemental;ImmolationAura;17",
+        "Chimaera;CorrosiveBreath;20",
+        "Blizzard;ColdSnap;17",
+        "Pyromancer;Pyroblast;17",
+        "Harpy;TrinketCollectors;18"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;19",
+        "Pyromancer;Pyroblast;17",
+        "Blizzard;ColdSnap;17",
+        "Gargoyle;WingBuffet;18",
+        "Execute;Bloodthirsty;18",
+        "Prowler;PredatoryInstincts;20",
+        "FireElemental;ImmolationAura;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;17",
+        "Blizzard;ColdSnap;17",
+        "Chimaera;FrostShock;19",
+        "Harpy;TrinketCollectors;17",
+        "GnollBrute;ThickHide;17",
+        "Gargoyle;WingBuffet;18",
+        "Prowler;PredatoryInstincts;19"
+      ]
+    ],
+    "lastUpdate": 1719063106
+  },
+  "token": "4bffce8f-0c1c-4298-a8bb-0dd33cf9aa17"
+}

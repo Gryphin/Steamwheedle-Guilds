@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 100013508,
+    "btag": "Likecoke",
+    "name": "Likecoke",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Rend_Pose",
+    "skulls": 150,
+    "level": 45,
+    "pvpWins": 1425,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 135,
+    "leaderAHonor": 4454,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 193,
+    "leaderBHonor": 4514,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 107,
+    "leaderCHonor": 4486,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "ArcaneBlast;ArcanePower;21",
+        "DefiasBandits;PickLock;21",
+        "Execute;KillingSpree;24",
+        "DeepBreath;;20",
+        "Shaman;EarthwallTotem;22",
+        "HarvestGolem;UnstableCore;19"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Huntress;Shadowmeld;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Abomination;Cannonball;22",
+        "PolymorphSpell;GoldenFleece;19",
+        "Shaman;EarthwallTotem;22",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;InfectiousSwipes;25",
+        "CheatDeath;Vampirism;20",
+        "EarthElemental;ObsidianShard;24",
+        "Execute;Bloodthirsty;23",
+        "Quilboar;BrambleBurst;24",
+        "Huntress;Shadowmeld;24"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "WitchDoctor;SpiritWard;24",
+        "Execute;Bloodthirsty;24",
+        "Harpy;InfectiousSwipes;25",
+        "EarthElemental;ObsidianShard;24",
+        "Quilboar;BrambleBurst;24",
+        "Huntress;Shadowmeld;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Drake;EngulfingFlames;24",
+        "DarkIronMiner;GoldMine;21",
+        "Chimaera;CorrosiveBreath;20",
+        "Harpy;InfectiousSwipes;25",
+        "CheatDeath;Vampirism;20",
+        "Gargoyle;WingBuffet;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Gargoyle;WingBuffet;20",
+        "CheatDeath;Vampirism;20",
+        "ArcaneBlast;Torrent;21",
+        "HolyNova;AmplifyMagic;18",
+        "Execute;Bloodthirsty;24",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;19",
+        "Worgen;Premeditation;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "WhelpEggs;FlameBurst;25",
+        "Huntress;Shadowmeld;24",
+        "EarthElemental;ObsidianShard;24",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;BrambleBurst;24",
+        "Harpy;InfectiousSwipes;25",
+        "GryphonRider;MightyThrow;21",
+        "Huntress;Shadowmeld;24",
+        "EarthElemental;ObsidianShard;24",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "WitchDoctor;SpiritWard;24",
+        "Execute;Bloodthirsty;23",
+        "Huntress;Shadowmeld;24",
+        "ArcaneBlast;ArcanePower;21",
+        "Gargoyle;ObsidianStatue;20",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;23",
+        "Ghoul;BoneArmor;20",
+        "PolymorphSpell;GoldenFleece;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "GryphonRider;MightyThrow;22",
+        "DeepBreath;DoubleDragon;20",
+        "MurlocTidehunters;SafetyBubble;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;20",
+        "WitchDoctor;SpiritWard;24",
+        "Execute;Bloodthirsty;24",
+        "EarthElemental;ObsidianShard;24",
+        "Quilboar;BrambleBurst;24",
+        "Harpy;InfectiousSwipes;25",
+        "Huntress;Shadowmeld;24"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;20",
+        "Quilboar;BrambleBurst;24",
+        "DefiasBandits;PickLock;21",
+        "Huntress;Shadowmeld;24",
+        "Execute;Bloodthirsty;24",
+        "WhelpEggs;Rookery;25",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;25",
+        "DeepBreath;;20",
+        "EarthElemental;ObsidianShard;24",
+        "PolymorphSpell;GoldenFleece;19",
+        "Shaman;EarthwallTotem;22",
+        "WitchDoctor;SpiritWard;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "WhelpEggs;Rookery;25",
+        "EarthElemental;ObsidianShard;24",
+        "Quilboar;BrambleBurst;24",
+        "Huntress;Shadowmeld;24",
+        "WitchDoctor;SpiritWard;24",
+        "Execute;Bloodthirsty;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Abomination;NoxiousPresence;22",
+        "MeatWagon;FiletTrebuchet;21",
+        "WitchDoctor;SpiritWard;24",
+        "WhelpEggs;FlameBurst;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Huntress;Shadowmeld;24"
+      ]
+    ],
+    "lastUpdate": 1717899078
+  },
+  "token": "85bf1c63-e823-41eb-bc6f-125a0b1b39de"
+}

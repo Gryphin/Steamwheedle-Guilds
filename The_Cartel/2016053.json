@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 2016053,
+    "btag": "Desire",
+    "name": "Desire",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 905,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 61,
+    "leaderAHonor": 4210,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 56,
+    "leaderBHonor": 3625,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 75,
+    "leaderCHonor": 3781,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;25",
+        "ArcaneBlast;ArcanePower;24",
+        "DefiasBandits;PickLock;23",
+        "Execute;Bloodthirsty;25",
+        "Shaman;EarthwallTotem;25",
+        "DeepBreath;Attunement;25",
+        "HarvestGolem;UnstableCore;25"
+      ],
+      [
+        "TirionLeader;DivineShield;25",
+        "Worgen;Premeditation;24",
+        "HolyNova;InnerFire;24",
+        "CoreHounds;EternalBond;24",
+        "BatRider;EnchantedVials;24",
+        "OgreMage;FrostfireBolt;22",
+        "GnollBrute;Rabid;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;25",
+        "Quilboar;BrambleBurst;25",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Prowler;PackLeader;25",
+        "WhelpEggs;FlameBurst;26",
+        "WitchDoctor;SpiritWard;25",
+        "Pyromancer;Pyroblast;26"
+      ],
+      [
+        "GrommashLeader;MirrorImage;25",
+        "WitchDoctor;SpiritWard;25",
+        "Shaman;EarthShield;25",
+        "DefiasBandits;PickLock;23",
+        "EarthElemental;ObsidianShard;25",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Chimaera;CorrosiveBreath;25"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;25",
+        "WhelpEggs;FlameBurst;26",
+        "Drake;MotherDrake;25",
+        "Chimaera;CorrosiveBreath;25",
+        "WitchDoctor;AmplifyCurse;24",
+        "Flamewaker;Backdraft;23",
+        "CoreHounds;EternalBond;24"
+      ],
+      [
+        "61df20ddc31aff04dbc5393d831fbba5;04858f250a124bd4b97d871656593429;23",
+        "aefd32eb6d8243047a104a9cf4f3204b;23e33cc75805bb849aaf74e58e90b5bb;25",
+        "8e4de308ad10b4b4d8774653a0243691;bb3ae2d8c12d8df418a1ac9c2f98d695;25",
+        "ef683be6878582a46943728b337d1bd5;d7a0c2498acaf0e44aea179cb2873fbb;24",
+        "af242a8c5fe2242dabfaab2a6e2174c2;ff2db354d9405374eb00c6bc91989553;24",
+        "5b893c52c1e623541bececb01409caf3;00000000000000000000000000000000;18",
+        "ee3f41404e84e49938a7b61acc42d304;e418dbe4cfd227d4c911770c6253e689;22"
+      ],
+      [
+        "MaievLeader;Shadowstep;25",
+        "HolyNova;AmplifyMagic;24",
+        "Huntress;ElvenMight;25",
+        "EarthElemental;ObsidianShard;25",
+        "Spiderlings;BloatedCarapace;21",
+        "FaerieDragon;FaeBlessing;24",
+        "Worgen;Premeditation;24"
+      ],
+      [
+        "HoggerLeader;HamHock;25",
+        "Prowler;PackLeader;25",
+        "AngryChickens;Snackrifice;24",
+        "WitchDoctor;SpiritWard;25",
+        "Quilboar;BrambleBurst;25",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Vultures;FeedingFrenzy;22"
+      ],
+      [
+        "83b3562b80fcc684d83dfdfa188250e2;2c25599d5ebdf6646b2efe72f119e2c7;25",
+        "4affac52400e3493d99aabe48b34873c;20d18adc66f4a5b45b308ff497efc021;21",
+        "59f90a951cf6a484fb7a25e717fdf8fd;d83af40a514a6304aa94cffa0f12dd45;24",
+        "83db76e840bca4c72ba0bf4a50898770;8881a14e445c32142b463fc60024dd03;22",
+        "20772be4121664be59876a8d41ed2696;a6496f312f13dd744a3bd9b2180c8e35;22",
+        "5b893c52c1e623541bececb01409caf3;00000000000000000000000000000000;18",
+        "af242a8c5fe2242dabfaab2a6e2174c2;ff2db354d9405374eb00c6bc91989553;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;25",
+        "CheatDeath;Vampirism;22",
+        "Abomination;FreshMeat;22",
+        "Worgen;Premeditation;24",
+        "WitchDoctor;SpiritWard;25",
+        "FaerieDragon;FaeBlessing;24",
+        "AngryChickens;FuriousFowl;24"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;25",
+        "BatRider;FlamingPitch;24",
+        "OgreMage;FrostfireBolt;22",
+        "WarsongRaider;Saboteur;23",
+        "Vultures;FeedingFrenzy;22",
+        "Firehammer;BlazingSpeed;23",
+        "Worgen;Premeditation;24"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;23",
+        "Quilboar;BrambleBurst;25",
+        "Prowler;OnTheProwl;25",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Execute;Bloodthirsty;25",
+        "Pyromancer;Pyroblast;26",
+        "WitchDoctor;SpiritWard;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;23",
+        "Pyromancer;Pyroblast;26",
+        "EarthElemental;ObsidianShard;25",
+        "WitchDoctor;AmplifyCurse;25",
+        "Shaman;EarthShield;25",
+        "GryphonRider;MightyThrow;25",
+        "PlagueFarmer;SplashingPumpkins;23"
+      ],
+      [
+        "ThaurissanLeader;Hubris;25",
+        "Flamewaker;Backdraft;23",
+        "CoreHounds;EternalBond;24",
+        "AngryChickens;FuriousFowl;24",
+        "FaerieDragon;Invisibility;24",
+        "Vultures;FeedingFrenzy;22",
+        "Firehammer;BlazingSpeed;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;25",
+        "Ghoul;BoneArmor;25",
+        "Necromancer;JeweledSkulls;25",
+        "BatRider;EnchantedVials;24",
+        "WitchDoctor;SpiritWard;25",
+        "EarthElemental;ObsidianShard;25",
+        "GryphonRider;MightyThrow;25"
+      ]
+    ],
+    "lastUpdate": 1717414085
+  },
+  "token": "657c1e12-7966-4ce0-af6a-c354b0be1de0"
+}

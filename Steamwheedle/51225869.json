@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 51225869,
+    "btag": "Trodgie69",
+    "name": "Trodgie69",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_OldMurkEye_Pose",
+    "skulls": 132,
+    "level": 42,
+    "pvpWins": 286,
+    "leaderA": "SylvanasLeader",
+    "leaderAWins": 46,
+    "leaderAHonor": 1731,
+    "leaderB": "RendLeader",
+    "leaderBWins": 155,
+    "leaderBHonor": 3402,
+    "leaderC": "MaievLeader",
+    "leaderCWins": 21,
+    "leaderCHonor": 1047,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;21",
+        "Footmen;ShieldBash;23",
+        "Huntress;DarnassianSteel;24",
+        "Blizzard;Icecrown;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23",
+        "MeatWagon;MeatAndBones;23",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "GryphonRider;MightyThrow;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23",
+        "Footmen;ShieldBash;22",
+        "DarkIronMiner;DwarvenAmbition;23",
+        "Huntress;ElvenMight;24",
+        "MurlocTidehunters;Morelocs;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "MurlocTidehunters;CarefulAim;21",
+        "Harpy;TrinketCollectors;21",
+        "Footmen;ShieldBash;22",
+        "Huntress;ElvenMight;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23",
+        "Drake;EngulfingFlames;24"
+      ],
+      [
+        "GrommashLeader;Bladestorm;20",
+        "Shaman;EarthwallTotem;23",
+        "BatRider;EnchantedVials;18",
+        "Footmen;ShieldBash;23",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Drake;EngulfingFlames;24"
+      ],
+      [
+        "RendLeader;Legionnaire;24",
+        "Drake;EngulfingFlames;24",
+        "CoreHounds;EternalBond;21",
+        "GryphonRider;AirDrop;24",
+        "DarkIronMiner;GoldMine;23",
+        "Huntress;ElvenMight;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "MeatWagon;FiletTrebuchet;23",
+        "Abomination;NoxiousPresence;21",
+        "Blizzard;Icecrown;18",
+        "Ghoul;TasteForBlood;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;21",
+        "Footmen;ShieldBash;22",
+        "Huntress;ElvenMight;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23",
+        "GryphonRider;AirDrop;24",
+        "DarkIronMiner;DwarvenAmbition;23",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;20",
+        "MurlocTidehunters;Morelocs;21",
+        "Harpy;TrinketCollectors;21",
+        "WitchDoctor;SpiritWard;20",
+        "Drake;EngulfingFlames;24",
+        "Huntress;ElvenMight;24",
+        "GryphonRider;AirDrop;24"
+      ],
+      [
+        "CairneLeader;Aftershock;20",
+        "Shaman;EarthwallTotem;23",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23",
+        "GryphonRider;AirDrop;24",
+        "Drake;EngulfingFlames;24",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;23",
+        "MeatWagon;GreasedGears;23",
+        "Abomination;FreshMeat;21",
+        "SkeletonWarrior;Exhume;18",
+        "WitchDoctor;SpiritWard;20",
+        "Spiderlings;;17",
+        "Necromancer;;17"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;23",
+        "Shaman;EarthwallTotem;23",
+        "OgreMage;;20",
+        "MeatWagon;FiletTrebuchet;23",
+        "Huntress;ElvenMight;24",
+        "Footmen;ShieldBash;23",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;23",
+        "Chimaera;CorrosiveBreath;21",
+        "Harpy;TrinketCollectors;21",
+        "Huntress;ElvenMight;24",
+        "MeatWagon;FiletTrebuchet;23",
+        "Footmen;ShieldBash;23",
+        "GryphonRider;AirDrop;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "CoreHounds;EternalBond;21",
+        "DarkIronMiner;DwarvenAmbition;23",
+        "Drake;EngulfingFlames;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "Huntress;ElvenMight;24",
+        "GryphonRider;MightyThrow;23"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;21",
+        "Drake;EngulfingFlames;24",
+        "DarkIronMiner;GoldMine;23",
+        "Footmen;ShieldBash;22",
+        "MeatWagon;FiletTrebuchet;22",
+        "GryphonRider;AirDrop;23",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Necromancer;;17",
+        "MeatWagon;GreasedGears;23",
+        "Shaman;EarthwallTotem;23",
+        "GryphonRider;MightyThrow;24",
+        "Huntress;ElvenMight;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23"
+      ]
+    ],
+    "lastUpdate": 1719063128
+  },
+  "token": "6a22bf2d-379c-4c29-a806-12dc63bbaf1b"
+}

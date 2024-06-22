@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 79026907,
+    "btag": "Judabdu",
+    "name": "Judabdu",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 149,
+    "level": 47,
+    "pvpWins": 268,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 56,
+    "leaderAHonor": 3025,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 46,
+    "leaderBHonor": 3269,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 34,
+    "leaderCHonor": 3366,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "Blizzard;ColdSnap;21",
+        "DarkIronMiner;GoldMine;24",
+        "Banshee;WillOfTheNecropolis;21",
+        "Harpy;InfectiousSwipes;22",
+        "WhelpEggs;FlameBurst;24",
+        "FireElemental;ImmolationAura;22"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "DefiasBandits;PickLock;24",
+        "DarkIronMiner;GoldMine;24",
+        "FireElemental;ImmolationAura;21",
+        "Quilboar;TunnelVision;22",
+        "Pyromancer;Conflagrate;25",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;22",
+        "FireElemental;ImmolationAura;21",
+        "WitchDoctor;SpiritWard;21",
+        "DefiasBandits;PickLock;24",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "WitchDoctor;SpiritWard;21",
+        "Shaman;EarthShield;22",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;22",
+        "WhelpEggs;FlameBurst;24",
+        "Pyromancer;Pyroblast;25"
+      ],
+      [
+        "RendLeader;FlamingSoul;24",
+        "WhelpEggs;FlameBurst;24",
+        "DarkIronMiner;DarkIronArmaments;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "Pyromancer;Pyroblast;25",
+        "Quilboar;TunnelVision;22",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "CheatDeath;Vampirism;21",
+        "Gargoyle;WingBuffet;21",
+        "PolymorphSpell;GoldenFleece;21",
+        "Quilboar;TunnelVision;22",
+        "Raptors;StrengthInNumbers;18",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Worgen;Premeditation;19",
+        "DarkIronMiner;DarkIronArmaments;24",
+        "Banshee;WillOfTheNecropolis;19",
+        "Quilboar;TunnelVision;22",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Quilboar;TunnelVision;22",
+        "Harpy;InfectiousSwipes;22",
+        "DarkIronMiner;GoldMine;24",
+        "WhelpEggs;FlameBurst;24",
+        "Pyromancer;Conflagrate;25",
+        "ChainLightning;BrilliantFlash;22"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "DefiasBandits;PickLock;24",
+        "Execute;Bloodthirsty;21",
+        "MeatWagon;FiletTrebuchet;20",
+        "Quilboar;Bristleback;22",
+        "Pyromancer;Conflagrate;25",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Banshee;WillOfTheNecropolis;19",
+        "Gargoyle;WingBuffet;21",
+        "WhelpEggs;FlameBurst;24",
+        "Blizzard;ColdSnap;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "Execute;Bloodthirsty;21",
+        "ChainLightning;BrilliantFlash;22",
+        "DefiasBandits;PickLock;24",
+        "Pyromancer;Conflagrate;25",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;21",
+        "Quilboar;TunnelVision;22",
+        "DefiasBandits;LastResort;24",
+        "Harpy;InfectiousSwipes;21",
+        "Execute;Overpower;21",
+        "Banshee;WillOfTheNecropolis;19",
+        "EarthElemental;ObsidianShard;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "Pyromancer;Pyroblast;25",
+        "WhelpEggs;FlameBurst;24",
+        "Shaman;EarthShield;22",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;22",
+        "PolymorphSpell;GoldenFleece;21"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;21",
+        "EarthElemental;ObsidianShard;21",
+        "Pyromancer;Conflagrate;25",
+        "Quilboar;TunnelVision;22",
+        "Execute;Bloodthirsty;21",
+        "Harpy;InfectiousSwipes;21",
+        "Banshee;WillOfTheNecropolis;19"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "CheatDeath;Vampirism;21",
+        "Ghoul;BoneArmor;19",
+        "Execute;Bloodthirsty;21",
+        "Quilboar;TunnelVision;22",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;21"
+      ]
+    ],
+    "lastUpdate": 1719063100
+  },
+  "token": "a5475ee0-82d0-49e7-8c89-1e9c3bbddc3a"
+}

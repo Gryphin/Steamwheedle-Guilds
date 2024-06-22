@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1401924065,
+    "btag": "Depthew",
+    "name": "Depthew",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Jaina_Pose",
+    "skulls": 150,
+    "level": 42,
+    "pvpWins": 1088,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 127,
+    "leaderAHonor": 3729,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 77,
+    "leaderBHonor": 3996,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 70,
+    "leaderCHonor": 3695,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;19",
+        "GryphonRider;MightyThrow;21",
+        "Huntress;ElvenMight;21",
+        "Blizzard;ColdSnap;19",
+        "DefiasBandits;PickLock;21",
+        "WhelpEggs;FlameBurst;22",
+        "DarkIronMiner;GoldMine;21"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Blizzard;ColdSnap;19",
+        "Huntress;Shadowmeld;21",
+        "Quilboar;BrambleBurst;22",
+        "WitchDoctor;SpiritWard;22",
+        "WhelpEggs;FlameBurst;22",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "PolymorphSpell;GoldenFleece;19",
+        "MurlocTidehunters;SafetyBubble;19",
+        "Quilboar;BrambleBurst;22",
+        "WhelpEggs;FlameBurst;22",
+        "WitchDoctor;SpiritWard;22",
+        "Blizzard;ColdSnap;19"
+      ],
+      [
+        "GrommashLeader;MirrorImage;19",
+        "WitchDoctor;SpiritWard;22",
+        "Shaman;EarthwallTotem;22",
+        "DefiasBandits;PickLock;21",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;BrambleBurst;22",
+        "Blizzard;ColdSnap;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "DarkIronMiner;GoldMine;20",
+        "WhelpEggs;FlameBurst;22",
+        "Gargoyle;WingBuffet;20",
+        "Blizzard;ColdSnap;19",
+        "Quilboar;BrambleBurst;22",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "CheatDeath;Vampirism;18",
+        "SmokeBombSpell;ThroughTheShadows;18",
+        "ArcaneBlast;Torrent;18",
+        "DefiasBandits;PickLock;21",
+        "HolyNova;AmplifyMagic;18",
+        "PolymorphSpell;GoldenFleece;19"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "GryphonRider;MightyThrow;21",
+        "DefiasBandits;PickLock;21",
+        "WhelpEggs;FlameBurst;22",
+        "SkeletonWarrior;Exhume;18",
+        "Blizzard;ColdSnap;19",
+        "Quilboar;BrambleBurst;22"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "Quilboar;BrambleBurst;22",
+        "MurlocTidehunters;SafetyBubble;19",
+        "WitchDoctor;SpiritWard;22",
+        "WhelpEggs;FlameBurst;22",
+        "Blizzard;ColdSnap;19",
+        "DarkspearTroll;BigBadVoodoo;18"
+      ],
+      [
+        "CairneLeader;;17",
+        "StonehoofTauren;Momentum;19",
+        "WitchDoctor;SpiritWard;22",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Shaman;EarthwallTotem;22",
+        "Quilboar;BrambleBurst;22",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Banshee;WillOfTheNecropolis;19",
+        "Necromancer;JeweledSkulls;18",
+        "Quilboar;BrambleBurst;22",
+        "WhelpEggs;FlameBurst;22",
+        "Blizzard;ColdSnap;19",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;20",
+        "WitchDoctor;SpiritWard;22",
+        "Shaman;EarthwallTotem;22",
+        "GoblinSapper;RocketBoots;19",
+        "Quilboar;BrambleBurst;22",
+        "Blizzard;ColdSnap;19",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "Quilboar;BrambleBurst;22",
+        "MurlocTidehunters;SafetyBubble;19",
+        "GryphonRider;MightyThrow;21",
+        "WhelpEggs;FlameBurst;22",
+        "Blizzard;ColdSnap;19",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Conflagrate;22",
+        "Shaman;EarthShield;22",
+        "Necromancer;JeweledSkulls;18",
+        "WitchDoctor;SpiritWard;22",
+        "Quilboar;BrambleBurst;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "WhelpEggs;FlameBurst;22",
+        "DarkIronMiner;GoldMine;21",
+        "Quilboar;BrambleBurst;22",
+        "SkeletonParty;RitualOfRime;20",
+        "Blizzard;ColdSnap;19",
+        "Huntress;Shadowmeld;21"
+      ],
+      [
+        "SylvanasLeader;;17",
+        "Ghoul;BoneArmor;19",
+        "Firehammer;HeightenedRage;21",
+        "WitchDoctor;SpiritWard;21",
+        "Quilboar;BrambleBurst;22",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;22"
+      ]
+    ],
+    "lastUpdate": 1717414085
+  },
+  "token": "5aa5ce4f-08be-4611-be3e-3b1d8aaf17c0"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 101223821,
+    "btag": "Lackmo",
+    "name": "Lackmo",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 145,
+    "level": 44,
+    "pvpWins": 244,
+    "leaderA": "BloodmageThalnosLeader",
+    "leaderAWins": 45,
+    "leaderAHonor": 3321,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 38,
+    "leaderBHonor": 3109,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 47,
+    "leaderCHonor": 3117,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "HarvestGolem;UnstableCore;21",
+        "DefiasBandits;PickLock;20",
+        "Execute;Bloodthirsty;21",
+        "Huntress;Shadowmeld;21",
+        "Blizzard;BrittleIce;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Blizzard;BrittleIce;18",
+        "Quilboar;Bristleback;22",
+        "WhelpEggs;FlameBurst;22",
+        "DefiasBandits;PickLock;20",
+        "Huntress;Shadowmeld;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "Prowler;OnTheProwl;21",
+        "DefiasBandits;PickLock;20",
+        "Quilboar;Bristleback;22",
+        "WhelpEggs;FlameBurst;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Huntress;Shadowmeld;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "WitchDoctor;SpiritWard;21",
+        "WarsongRaider;SunderArmor;18",
+        "WhelpEggs;FlameBurst;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "WhelpEggs;FlameBurst;22",
+        "Drake;MotherDrake;19",
+        "Chimaera;CorrosiveBreath;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;Bristleback;22",
+        "Prowler;OnTheProwl;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "CheatDeath;Vampirism;21",
+        "ArcaneBlast;Torrent;21",
+        "Execute;Bloodthirsty;21",
+        "Quilboar;Bristleback;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "Worgen;Premeditation;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;22",
+        "Execute;Overpower;21",
+        "Quilboar;Bristleback;22",
+        "EarthElemental;ObsidianShard;18"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Chimaera;CorrosiveBreath;21",
+        "Prowler;OnTheProwl;21",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;21",
+        "HolyNova;InnerFire;21",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "WitchDoctor;SpiritWard;21",
+        "Execute;Bloodthirsty;21",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;22",
+        "Huntress;Shadowmeld;21",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "MeatWagon;FiletTrebuchet;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;Bristleback;22",
+        "Prowler;OnTheProwl;21",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "WarsongRaider;SunderArmor;18",
+        "BatRider;EnchantedVials;19",
+        "MeatWagon;FiletTrebuchet;21",
+        "Prowler;OnTheProwl;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "Quilboar;Bristleback;22",
+        "Prowler;OnTheProwl;21",
+        "Huntress;Shadowmeld;21",
+        "WhelpEggs;FlameBurst;22",
+        "WitchDoctor;SpiritWard;21",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Pyroblast;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "SmokeBombSpell;ThroughTheShadows;21",
+        "Quilboar;Bristleback;22",
+        "EarthElemental;ObsidianShard;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;Bristleback;22",
+        "Huntress;Shadowmeld;21",
+        "Prowler;OnTheProwl;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "MeatWagon;FiletTrebuchet;21",
+        "Ghoul;BoneArmor;19",
+        "Execute;Overpower;21",
+        "Quilboar;Bristleback;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;22"
+      ]
+    ],
+    "lastUpdate": 1719062204
+  },
+  "token": "a4b5578c-de3e-4f6d-8c13-fab173d668d6"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 52056778,
+    "btag": "Krabpeople",
+    "name": "Krabpeople",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 109,
+    "level": 40,
+    "pvpWins": 113,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 13,
+    "leaderAHonor": 2175,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 33,
+    "leaderBHonor": 1873,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 25,
+    "leaderCHonor": 1872,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;19",
+        "GryphonRider;AirDrop;18",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "ArcaneBlast;Amplification;21",
+        "Quilboar;TunnelVision;18",
+        "Ghoul;BoneArmor;18",
+        "Execute;Bloodthirsty;20"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Footmen;Fortification;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;18",
+        "GnollBrute;ThickHide;20",
+        "Harpy;InfectiousSwipes;20",
+        "Pyromancer;Pyroblast;20",
+        "ChainLightning;BrilliantFlash;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;15",
+        "GnollBrute;ThickHide;16",
+        "Quilboar;TunnelVision;15",
+        "FireElemental;MoltenCore;15",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;16",
+        "Harpy;InfectiousSwipes;16",
+        "Necromancer;CultOfTheDamned;16"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "ChainLightning;BrilliantFlash;20",
+        "DarkspearTroll;Headhunting;18",
+        "Harpy;InfectiousSwipes;20",
+        "Pyromancer;Pyroblast;20",
+        "Quilboar;TunnelVision;18",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "ChainLightning;BrilliantFlash;20",
+        "GnollBrute;ThickHide;20",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;TunnelVision;18",
+        "Prowler;OnTheProwl;18",
+        "Pyromancer;Pyroblast;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Gargoyle;WingBuffet;18",
+        "Necromancer;CultOfTheDamned;20",
+        "ArcaneBlast;Amplification;21",
+        "MeatWagon;FiletTrebuchet;18",
+        "Quilboar;TunnelVision;18",
+        "FireElemental;MoltenCore;18"
+      ],
+      [
+        "MaievLeader;Remorseless;16",
+        "GryphonRider;AirDrop;16",
+        "Worgen;;14",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;16",
+        "Quilboar;TunnelVision;16",
+        "DarkIronMiner;DarkIronArmaments;16",
+        "Harpy;InfectiousSwipes;16"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Harpy;InfectiousSwipes;20",
+        "GnollBrute;ThickHide;20",
+        "Quilboar;TunnelVision;18",
+        "ChainLightning;BrilliantFlash;20",
+        "WarsongRaider;RazingFocus;18",
+        "Pyromancer;Pyroblast;20"
+      ],
+      [
+        "CairneLeader;;15",
+        "StonehoofTauren;Momentum;16",
+        "DarkspearTroll;Headhunting;16",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;16",
+        "ChainLightning;StormsReach;18",
+        "Ghoul;BoneArmor;16",
+        "Harpy;InfectiousSwipes;16"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Ghoul;BoneArmor;18",
+        "SkeletonWarrior;Exhume;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;18",
+        "GryphonRider;AirDrop;18",
+        "Execute;Bloodthirsty;20",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "GoblinSapper;RocketBoots;18",
+        "ChainLightning;StormsReach;20",
+        "WarsongRaider;RazingFocus;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;18",
+        "GryphonRider;AirDrop;18",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "PolymorphSpell;;13",
+        "MurlocTidehunters;Morelocs;15",
+        "Prowler;;13",
+        "Quilboar;TunnelVision;15",
+        "GryphonRider;AirDrop;15",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;16"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "Drake;MotherDrake;20",
+        "Pyromancer;Pyroblast;20",
+        "WhelpEggs;FlameBurst;18",
+        "Quilboar;TunnelVision;18",
+        "Execute;Bloodthirsty;20",
+        "Shaman;EarthShield;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Drake;MotherDrake;19",
+        "FireElemental;MoltenCore;18",
+        "Quilboar;TunnelVision;18",
+        "Huntress;ElvenMight;18",
+        "ChainLightning;StormsReach;20",
+        "Worgen;Premeditation;18"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;18",
+        "Necromancer;CultOfTheDamned;20",
+        "Ghoul;BoneArmor;18",
+        "StonehoofTauren;Momentum;18",
+        "WhelpEggs;FlameBurst;18",
+        "Quilboar;TunnelVision;18",
+        "Huntress;ElvenMight;18"
+      ]
+    ],
+    "lastUpdate": 1719063096
+  },
+  "token": "d451752d-062f-4c4d-97b9-8e8f365edab6"
+}

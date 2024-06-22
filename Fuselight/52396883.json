@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 52396883,
+    "btag": "Kaldorn",
+    "name": "Kaldorn",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 135,
+    "level": 44,
+    "pvpWins": 148,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 17,
+    "leaderAHonor": 2827,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 20,
+    "leaderBHonor": 2828,
+    "leaderC": "GrommashLeader",
+    "leaderCWins": 24,
+    "leaderCHonor": 2757,
+    "socials": null,
+    "armies": [
+      [
+        "04320a384d8cbf648b5fd5eb2f061208;ea8e7dc829e8ace49911aec464cae595;18",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;22",
+        "724ebbab65fd2477db54c91707f4a6d8;8f9bd07f0178c1d46a071bcef041138b;21",
+        "5b893c52c1e623541bececb01409caf3;4409adb7ffddc3c4eba2e70746399464;16",
+        "7f41c5daef0edd340bd22484b707587d;c5c5a488b3582fb4faf2ea68a30dc7fc;22",
+        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;23",
+        "a1b157c1b64d4446f987596e5cda8777;d4a8364c60de703449e7a0ea2463f3da;21"
+      ],
+      [
+        "TirionLeader;ByTheLight;22",
+        "Footmen;ShieldBash;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Execute;Overpower;20",
+        "GryphonRider;MightyThrow;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "BatRider;EnchantedVials;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "AngryChickens;FuriousFowl;19",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;PredatoryInstincts;21",
+        "WitchDoctor;SpiritWard;23",
+        "Vultures;TendonRip;19",
+        "MurlocTidehunters;Morelocs;19"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "StonehoofTauren;Momentum;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Harpy;InfectiousSwipes;21",
+        "BatRider;EnchantedVials;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "WitchDoctor;SpiritWard;23"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;19",
+        "Drake;MotherDrake;21",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;InfectiousSwipes;21",
+        "Pyromancer;Pyroblast;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Mountaineer;Growl;23"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Ghoul;BoneArmor;21",
+        "SmokeBombSpell;ThroughTheShadows;18",
+        "Huntress;ElvenMight;21",
+        "Pyromancer;Conflagrate;21",
+        "FireElemental;ImmolationAura;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Footmen;ShieldBash;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;21",
+        "WitchDoctor;SpiritWard;23",
+        "BatRider;EnchantedVials;19",
+        "LivingBomb;ChainReaction;18"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "Prowler;PredatoryInstincts;21",
+        "Chimaera;CorrosiveBreath;21",
+        "WitchDoctor;SpiritWard;23",
+        "BatRider;EnchantedVials;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;19",
+        "Shaman;EarthShield;21",
+        "StonehoofTauren;Momentum;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "WitchDoctor;SpiritWard;23",
+        "OgreMage;FrostfireBolt;20",
+        "BatRider;EnchantedVials;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Ghoul;BoneArmor;21",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;InfectiousSwipes;21",
+        "Pyromancer;Pyroblast;21",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "WitchDoctor;SpiritWard;23",
+        "StonehoofTauren;Momentum;21",
+        "WarsongRaider;SunderArmor;21",
+        "Harpy;TrinketCollectors;21",
+        "GryphonRider;MightyThrow;21",
+        "DarkspearTroll;BigBadVoodoo;24"
+      ],
+      [
+        "cd2137bffb5084548a4b1a81f47c725f;c9cfdd95e0f921248bf58e653d4b7dcc;21",
+        "20772be4121664be59876a8d41ed2696;812f5e83bd6c49145bea568ee5ef37cd;19",
+        "adb619f981176e444bd759d85e80cbfc;85415575670822340a36efab0dfc50a9;21",
+        "7b8e2425177bf46efb482030fc693d76;4fbd7c7dff8c3554b943906a8bf6c269;19",
+        "e63c9fb8027924c40a4dc3ea251ae368;1f1ab816cf486f04393815a11a853894;24",
+        "9085cfafc6ced4d97b590458dc179c62;8ee7bc3a7216c5446bd3122ea2f4bf3c;19",
+        "5b893c52c1e623541bececb01409caf3;4409adb7ffddc3c4eba2e70746399464;16"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;21",
+        "WhelpEggs;FlameBurst;21",
+        "Pyromancer;Pyroblast;21",
+        "Shaman;EarthShield;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "BatRider;FlamingPitch;21",
+        "Chimaera;CorrosiveBreath;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "FireElemental;ImmolationAura;21",
+        "WhelpEggs;FlameBurst;21",
+        "Prowler;PredatoryInstincts;21",
+        "Pyromancer;Pyroblast;21",
+        "Harpy;InfectiousSwipes;21",
+        "DarkspearTroll;BigBadVoodoo;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Ghoul;BoneArmor;21",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;Bristleback;21",
+        "Huntress;ElvenMight;21"
+      ]
+    ],
+    "lastUpdate": 1719063157
+  },
+  "token": "2e1e518c-5042-43ca-8558-85426b586604"
+}

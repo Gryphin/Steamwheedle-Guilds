@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 431430930,
+    "btag": "Moha",
+    "name": "Moha",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 132,
+    "level": 33,
+    "pvpWins": 183,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 29,
+    "leaderAHonor": 3178,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 19,
+    "leaderBHonor": 3509,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 31,
+    "leaderCHonor": 3336,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;12",
+        "DefiasBandits;DeadlyPoison;16",
+        "Huntress;DarnassianSteel;17",
+        "Execute;Overpower;16",
+        "Prowler;OnTheProwl;17",
+        "WitchDoctor;SpiritWard;19",
+        "GoblinSapper;RocketBoots;17"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Huntress;DarnassianSteel;20",
+        "DefiasBandits;DeadlyPoison;17",
+        "Pyromancer;Conflagrate;18",
+        "Harpy;InfectiousSwipes;18",
+        "WitchDoctor;SpiritWard;20",
+        "Shaman;EarthShield;18"
+      ],
+      [
+        "OldMurkEyeLeader;;11",
+        "Prowler;OnTheProwl;16",
+        "Quilboar;;14",
+        "StonehoofTauren;Momentum;16",
+        "Harpy;;14",
+        "GoblinSapper;RocketBoots;16",
+        "WitchDoctor;SpiritWard;19"
+      ],
+      [
+        "GrommashLeader;;11",
+        "Shaman;EarthShield;18",
+        "Execute;Overpower;18",
+        "GoblinSapper;RocketBoots;18",
+        "Chimaera;;15",
+        "DefiasBandits;DeadlyPoison;17",
+        "Pyromancer;Conflagrate;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Flamewaker;Backdraft;15",
+        "Pyromancer;Conflagrate;18",
+        "Chimaera;;15",
+        "Prowler;OnTheProwl;17",
+        "WitchDoctor;SpiritWard;20",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;19",
+        "Abomination;NoxiousPresence;17",
+        "Ghoul;BoneArmor;17",
+        "HolyNova;InnerFire;18",
+        "ArcaneBlast;Amplification;18",
+        "Execute;Overpower;18",
+        "Quilboar;;17"
+      ],
+      [
+        "MaievLeader;;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "DefiasBandits;DeadlyPoison;17",
+        "SkeletonParty;5Man;17",
+        "WhelpEggs;FlameBurst;18",
+        "GoblinSapper;RocketBoots;18",
+        "EarthElemental;ObsidianShard;17"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Harpy;InfectiousSwipes;18",
+        "Chimaera;;16",
+        "GoblinSapper;RocketBoots;18",
+        "WitchDoctor;SpiritWard;20",
+        "WhelpEggs;FlameBurst;18",
+        "Pyromancer;Conflagrate;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "StonehoofTauren;Momentum;17",
+        "Shaman;EarthShield;18",
+        "DarkIronMiner;;14",
+        "OgreMage;Avarice;18",
+        "Harpy;InfectiousSwipes;18",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Abomination;NoxiousPresence;17",
+        "Ghoul;BoneArmor;17",
+        "WhelpEggs;FlameBurst;18",
+        "DefiasBandits;DeadlyPoison;17",
+        "GoblinSapper;RocketBoots;18",
+        "WitchDoctor;SpiritWard;20"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;17",
+        "StonehoofTauren;Momentum;17",
+        "WitchDoctor;SpiritWard;20",
+        "DarkIronMiner;;14",
+        "Pyromancer;Conflagrate;18",
+        "Harpy;InfectiousSwipes;18",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "CharlgaLeader;;11",
+        "MurlocTidehunters;SafetyBubble;17",
+        "Quilboar;;15",
+        "Raptors;;11",
+        "EarthElemental;ObsidianShard;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "DefiasBandits;DeadlyPoison;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "WhelpEggs;FlameBurst;18",
+        "Pyromancer;Conflagrate;18",
+        "WitchDoctor;SpiritWard;20",
+        "DarkIronMiner;;14",
+        "Shaman;EarthShield;18",
+        "DefiasBandits;DeadlyPoison;17"
+      ],
+      [
+        "ThaurissanLeader;;13",
+        "Pyromancer;Conflagrate;18",
+        "WhelpEggs;FlameBurst;18",
+        "DefiasBandits;DeadlyPoison;17",
+        "SkeletonParty;5Man;17",
+        "WitchDoctor;SpiritWard;20",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Abomination;NoxiousPresence;17",
+        "Ghoul;BoneArmor;17",
+        "Execute;Overpower;18",
+        "StonehoofTauren;Momentum;17",
+        "Harpy;InfectiousSwipes;18",
+        "WhelpEggs;FlameBurst;18"
+      ]
+    ],
+    "lastUpdate": 1719063145
+  },
+  "token": "b0da008c-3d97-4884-8cb8-53b31f3b9824"
+}

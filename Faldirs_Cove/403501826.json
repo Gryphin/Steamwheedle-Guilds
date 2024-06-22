@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 403501826,
+    "btag": "Bosak",
+    "name": "Bosak",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 118,
+    "level": 39,
+    "pvpWins": 126,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 20,
+    "leaderAHonor": 1705,
+    "leaderB": "RendLeader",
+    "leaderBWins": 26,
+    "leaderBHonor": 1977,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 51,
+    "leaderCHonor": 1622,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "Huntress;Shadowmeld;17",
+        "Mountaineer;Growl;17",
+        "ArcaneBlast;Torrent;20",
+        "Worgen;Premeditation;18",
+        "StonehoofTauren;Momentum;18",
+        "Drake;EngulfingFlames;20"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "Mountaineer;Growl;17",
+        "Worgen;Premeditation;18",
+        "StonehoofTauren;Momentum;18",
+        "Shaman;EarthShield;18",
+        "Drake;EngulfingFlames;20",
+        "WitchDoctor;SpiritWard;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Raptors;StrengthInNumbers;18",
+        "Chimaera;CorrosiveBreath;20",
+        "Prowler;PackLeader;18",
+        "WitchDoctor;AmplifyCurse;19",
+        "Drake;MotherDrake;20",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "StonehoofTauren;Momentum;18",
+        "DefiasBandits;DeadlyPoison;20",
+        "Shaman;EarthShield;18",
+        "BatRider;FlamingPitch;17",
+        "WitchDoctor;SpiritWard;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "WhelpEggs;FlameBurst;18",
+        "SmokeBombSpell;ThroughTheShadows;17",
+        "Drake;EngulfingFlames;20",
+        "Shaman;EarthShield;18",
+        "FaerieDragon;FaeBlessing;17",
+        "Gargoyle;WingBuffet;18"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;20",
+        "Necromancer;JeweledSkulls;18",
+        "Abomination;NoxiousPresence;18",
+        "CheatDeath;Vampirism;18",
+        "MeatWagon;FiletTrebuchet;18",
+        "Ghoul;BoneArmor;18",
+        "ArcaneBlast;Torrent;20"
+      ],
+      [
+        "MaievLeader;Remorseless;17",
+        "Footmen;ShieldBash;17",
+        "DefiasBandits;PickLock;20",
+        "Worgen;Premeditation;17",
+        "Huntress;Shadowmeld;17",
+        "WhelpEggs;FlameBurst;18",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Prowler;PackLeader;18",
+        "GnollBrute;ThickHide;18",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Harpy;TrinketCollectors;20",
+        "Chimaera;Leviathan;20",
+        "WitchDoctor;SpiritWard;19"
+      ],
+      [
+        "CairneLeader;Plainsrunning;18",
+        "StonehoofTauren;Momentum;18",
+        "Execute;Bloodthirsty;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "WitchDoctor;SpiritWard;19",
+        "Shaman;EarthShield;18",
+        "Drake;EngulfingFlames;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "Banshee;WillOfTheNecropolis;17",
+        "MeatWagon;FiletTrebuchet;18",
+        "Worgen;Premeditation;17",
+        "Abomination;NoxiousPresence;17",
+        "Gargoyle;WingBuffet;18",
+        "Necromancer;JeweledSkulls;18"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "Shaman;EarthShield;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "MeatWagon;FiletTrebuchet;18",
+        "FaerieDragon;FaeBlessing;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "WarsongRaider;SunderArmor;17"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "Prowler;PackLeader;18",
+        "Harpy;TrinketCollectors;20",
+        "Huntress;Shadowmeld;17",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Chimaera;Leviathan;20"
+      ],
+      [
+        "d7879bad32a57449fb1b3265bc12f821;bcf8de3e7b863bb43b46b4b91b9eb0ae;21",
+        "4d60f72627b7c36468f3107e40109845;fcc5c64ae7d56af4886c6cba42a594c6;18",
+        "f7692d689d3b17547af9fbe9afd832ff;df3d51aed8f6593449c3ae184814ed82;20",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;18",
+        "5b893c52c1e623541bececb01409caf3;00000000000000000000000000000000;15",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;18",
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "EarthElemental;ObsidianShard;17",
+        "Drake;EngulfingFlames;20",
+        "GnollBrute;ThickHide;18",
+        "Huntress;Shadowmeld;17",
+        "AngryChickens;FuriousFowl;17",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "MeatWagon;FiletTrebuchet;18",
+        "Necromancer;JeweledSkulls;18",
+        "FaerieDragon;FaeBlessing;17",
+        "Abomination;NoxiousPresence;17",
+        "Gargoyle;WingBuffet;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ]
+    ],
+    "lastUpdate": 1719063105
+  },
+  "token": "561ad261-0553-4351-a336-a16525170d19"
+}

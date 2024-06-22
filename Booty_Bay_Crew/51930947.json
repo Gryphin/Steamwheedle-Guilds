@@ -1,0 +1,144 @@
+{
+  "data": {
+    "id": 51930947,
+    "btag": "Eruantien201",
+    "name": "Eruantien201",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 104,
+    "level": 41,
+    "pvpWins": 4,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 4,
+    "leaderAHonor": 600,
+    "leaderB": "",
+    "leaderBWins": 0,
+    "leaderBHonor": 0,
+    "leaderC": "",
+    "leaderCWins": 0,
+    "leaderCHonor": 0,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;20",
+        "Footmen;ShieldBash;20",
+        "EarthElemental;ReadyToRumble;20",
+        "Blizzard;Icecrown;17",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;20",
+        "Huntress;ElvenMight;19",
+        "WhelpEggs;ChromaticPlating;20"
+      ],
+      [
+        "TirionLeader;;20",
+        "WhelpEggs;ChromaticPlating;20",
+        "MoltenGiant;ThreateningPresence;20",
+        "HolyNova;Renew;18",
+        "GryphonRider;MightyThrow;20",
+        "MurlocTidehunters;Morelocs;20",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "WhelpEggs;ChromaticPlating;20",
+        "DarkspearTroll;SerpentSting;19",
+        "Quilboar;TunnelVision;17",
+        "Drake;EngulfingFlames;20",
+        "Flamewaker;Backdraft;19",
+        "MurlocTidehunters;SafetyBubble;20"
+      ],
+      [
+        "GrommashLeader;MirrorImage;22",
+        "WhelpEggs;ChromaticPlating;20",
+        "DarkspearTroll;SerpentSting;20",
+        "SkeletonParty;RitualOfRime;20",
+        "Drake;EngulfingFlames;20",
+        "Flamewaker;Backdraft;20",
+        "MurlocTidehunters;SafetyBubble;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;22",
+        "WhelpEggs;ChromaticPlating;20",
+        "DarkIronMiner;GoldMine;19",
+        "GryphonRider;MightyThrow;20",
+        "Drake;EngulfingFlames;20",
+        "CoreHounds;FieryRebirth;17",
+        "MurlocTidehunters;SafetyBubble;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Necromancer;JeweledSkulls;17",
+        "SkeletonParty;RitualOfRime;17",
+        "Banshee;UnholyFrenzy;17",
+        "SkeletonWarrior;Exhume;18",
+        "PlagueFarmer;Virulence;18",
+        "Gargoyle;ObsidianStatue;16"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;18",
+        "WhelpEggs;ChromaticPlating;20",
+        "GryphonRider;OdynsFury;19",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;20",
+        "Drake;EngulfingFlames;20",
+        "Worgen;Premeditation;20",
+        "Footmen;LastStand;19"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "WhelpEggs;ChromaticPlating;20",
+        "DarkspearTroll;SerpentSting;19",
+        "OgreMage;Ignite;20",
+        "Drake;EngulfingFlames;20",
+        "Raptors;StrengthInNumbers;20",
+        "MurlocTidehunters;SafetyBubble;20"
+      ],
+      [
+        "CairneLeader;Plainsrunning;19",
+        "WhelpEggs;ChromaticPlating;20",
+        "DarkspearTroll;SerpentSting;20",
+        "OgreMage;Ignite;20",
+        "Raptors;StrengthInNumbers;20",
+        "MurlocTidehunters;SafetyBubble;20",
+        "WitchDoctor;AmplifyCurse;20"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;20",
+        "Abomination;Cannonball;18",
+        "SkeletonWarrior;Exhume;19",
+        "WhelpEggs;ChromaticPlating;20",
+        "SkeletonParty;RitualOfRime;20",
+        "Necromancer;JeweledSkulls;18",
+        "Ghoul;BoneArmor;19"
+      ],
+      [
+        "DrakkisathLeader;LastingLegacy;19",
+        "WhelpEggs;ChromaticPlating;20",
+        "MoltenGiant;BloodOfTheMountain;20",
+        "EarthElemental;ReadyToRumble;20",
+        "Drake;EngulfingFlames;20",
+        "Raptors;StrengthInNumbers;20",
+        "MurlocTidehunters;SafetyBubble;20"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;19",
+        "WhelpEggs;ChromaticPlating;20",
+        "Pyromancer;BlazeOfGlory;20",
+        "MoltenGiant;ThreateningPresence;20",
+        "Drake;EngulfingFlames;20",
+        "Raptors;StrengthInNumbers;20",
+        "MurlocTidehunters;SafetyBubble;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "WhelpEggs;ChromaticPlating;19",
+        "Necromancer;JeweledSkulls;17",
+        "MeatWagon;FiletTrebuchet;16",
+        "SkeletonWarrior;Exhume;18",
+        "SkeletonParty;RitualOfRime;17",
+        "Abomination;Cannonball;16"
+      ]
+    ],
+    "lastUpdate": 1719063117
+  },
+  "token": "5b2e7a62-7583-4856-af7c-09f9d719c293"
+}

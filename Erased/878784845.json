@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 878784845,
+    "btag": "MuffDaddy",
+    "name": "MuffDaddy",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Jaina_Pose",
+    "skulls": 107,
+    "level": 35,
+    "pvpWins": 73,
+    "leaderA": "CharlgaLeader",
+    "leaderAWins": 14,
+    "leaderAHonor": 1259,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 16,
+    "leaderBHonor": 1773,
+    "leaderC": "GrommashLeader",
+    "leaderCWins": 18,
+    "leaderCHonor": 2070,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Quilboar;TunnelVision;20",
+        "Blizzard;ColdSnap;17",
+        "Abomination;NoxiousPresence;17",
+        "DefiasBandits;PickLock;18",
+        "GryphonRider;MightyThrow;17"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "DefiasBandits;PickLock;18",
+        "Quilboar;TunnelVision;20",
+        "WitchDoctor;SpiritWard;20",
+        "WhelpEggs;FlameBurst;18",
+        "BatRider;EnchantedVials;17"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;;17",
+        "Quilboar;TunnelVision;20",
+        "Abomination;NoxiousPresence;17",
+        "WhelpEggs;FlameBurst;18",
+        "DefiasBandits;PickLock;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "Shaman;EarthShield;16",
+        "BatRider;EnchantedVials;17",
+        "DefiasBandits;PickLock;18",
+        "Quilboar;TunnelVision;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "Drake;MotherDrake;17",
+        "WhelpEggs;FlameBurst;18",
+        "Harpy;;17",
+        "Quilboar;TunnelVision;20",
+        "DefiasBandits;PickLock;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "PlagueFarmer;Virulence;17",
+        "Abomination;NoxiousPresence;17",
+        "ChainLightning;StormsReach;17",
+        "Quilboar;TunnelVision;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "MaievLeader;Remorseless;17",
+        "GryphonRider;MightyThrow;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Quilboar;TunnelVision;20",
+        "Abomination;NoxiousPresence;17",
+        "WhelpEggs;FlameBurst;18",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "HoggerLeader;HamHock;16",
+        "Quilboar;TunnelVision;18",
+        "Harpy;TrinketCollectors;16",
+        "DefiasBandits;PickLock;16",
+        "Gargoyle;;16",
+        "PlagueFarmer;Virulence;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "CairneLeader;;15",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "WitchDoctor;SpiritWard;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Gargoyle;WingBuffet;18",
+        "Quilboar;TunnelVision;20",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "Abomination;NoxiousPresence;17",
+        "PlagueFarmer;Virulence;17",
+        "WhelpEggs;FlameBurst;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "DefiasBandits;PickLock;18",
+        "Quilboar;TunnelVision;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "WitchDoctor;SpiritWard;20",
+        "Gargoyle;WingBuffet;18",
+        "Quilboar;TunnelVision;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;17",
+        "Harpy;;17",
+        "Vultures;TendonRip;16",
+        "WarsongRaider;RazingFocus;16",
+        "Quilboar;TunnelVision;20",
+        "WhelpEggs;FlameBurst;18",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;17",
+        "Pyromancer;Pyroblast;17",
+        "WhelpEggs;FlameBurst;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Execute;Bloodthirsty;17",
+        "Quilboar;TunnelVision;20",
+        "Gargoyle;WingBuffet;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;17",
+        "DarkIronMiner;GoldMine;16",
+        "Pyromancer;Pyroblast;16",
+        "DefiasBandits;PickLock;17",
+        "Gargoyle;WingBuffet;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Quilboar;TunnelVision;20"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;17",
+        "Abomination;NoxiousPresence;17",
+        "Banshee;WillOfTheNecropolis;17",
+        "WitchDoctor;SpiritWard;20",
+        "Quilboar;TunnelVision;20",
+        "BatRider;EnchantedVials;17",
+        "DefiasBandits;PickLock;18"
+      ]
+    ],
+    "lastUpdate": 1719063114
+  },
+  "token": "3d047dff-da9b-4809-8b85-9ae38f55a9d3"
+}

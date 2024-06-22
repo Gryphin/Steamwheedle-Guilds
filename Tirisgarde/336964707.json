@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 336964707,
+    "btag": "Akazamzarak",
+    "name": "Akazamzarak",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sneed_Pose",
+    "skulls": 119,
+    "level": 37,
+    "pvpWins": 112,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 27,
+    "leaderAHonor": 2864,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 29,
+    "leaderBHonor": 3004,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 22,
+    "leaderCHonor": 2803,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;15",
+        "Huntress;ElvenMight;20",
+        "DefiasBandits;PickLock;17",
+        "Execute;Bloodthirsty;19",
+        "DarkIronMiner;DarkIronArmaments;17",
+        "Shaman;EarthShield;18",
+        "Harpy;InfectiousSwipes;17"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "DefiasBandits;PickLock;18",
+        "FireElemental;ImmolationAura;17",
+        "Shaman;EarthShield;18",
+        "GryphonRider;MightyThrow;18",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;17",
+        "Chimaera;CorrosiveBreath;18",
+        "Harpy;InfectiousSwipes;17",
+        "Quilboar;Bristleback;17",
+        "MurlocTidehunters;SafetyBubble;16",
+        "DefiasBandits;PickLock;17",
+        "DarkIronMiner;DarkIronArmaments;17"
+      ],
+      [
+        "GrommashLeader;MirrorImage;17",
+        "StonehoofTauren;Pummel;17",
+        "BatRider;FlamingPitch;17",
+        "DefiasBandits;PickLock;18",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "Quilboar;Bristleback;17",
+        "Huntress;ElvenMight;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;17",
+        "WhelpEggs;FlameBurst;18",
+        "DarkIronMiner;DarkIronArmaments;17",
+        "Harpy;InfectiousSwipes;17",
+        "Quilboar;Bristleback;17",
+        "Shaman;EarthShield;18",
+        "DefiasBandits;PickLock;17"
+      ],
+      [
+        "BloodmageThalnosLeader;;16",
+        "SkeletonParty;RitualOfRime;17",
+        "CheatDeath;Vampirism;18",
+        "Execute;Bloodthirsty;20",
+        "Necromancer;JeweledSkulls;17",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "Huntress;ElvenMight;20"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;18",
+        "Worgen;Premeditation;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Quilboar;Bristleback;17",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "Harpy;InfectiousSwipes;18",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Quilboar;Bristleback;17",
+        "MurlocTidehunters;SafetyBubble;17",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "CairneLeader;;17",
+        "BatRider;FlamingPitch;16",
+        "WitchDoctor;SpiritWard;16",
+        "Banshee;WillOfTheNecropolis;17",
+        "Harpy;InfectiousSwipes;18",
+        "DefiasBandits;PickLock;18",
+        "GryphonRider;MightyThrow;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "MeatWagon;FiletTrebuchet;17",
+        "SkeletonWarrior;Exhume;17",
+        "Chimaera;CorrosiveBreath;19",
+        "WitchDoctor;SpiritWard;18",
+        "Harpy;InfectiousSwipes;18",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "SneedLeader;;17",
+        "WitchDoctor;SpiritWard;18",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "MeatWagon;FiletTrebuchet;17",
+        "GryphonRider;MightyThrow;18",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;17",
+        "Quilboar;Bristleback;17",
+        "Vultures;TendonRip;17",
+        "WarsongRaider;;15",
+        "WhelpEggs;FlameBurst;17",
+        "Chimaera;CorrosiveBreath;18",
+        "DefiasBandits;PickLock;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "Pyromancer;Pyroblast;17",
+        "LivingBomb;ChainReaction;16",
+        "Shaman;EarthShield;18",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "DefiasBandits;PickLock;18",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "LivingBomb;ChainReaction;16",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "EarthElemental;ObsidianShard;17",
+        "Huntress;ElvenMight;20",
+        "Harpy;InfectiousSwipes;18",
+        "DefiasBandits;PickLock;18"
+      ],
+      [
+        "SylvanasLeader;;14",
+        "SkeletonWarrior;Exhume;17",
+        "Necromancer;JeweledSkulls;17",
+        "Shaman;EarthShield;18",
+        "DarkIronMiner;DarkIronArmaments;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Harpy;InfectiousSwipes;18"
+      ]
+    ],
+    "lastUpdate": 1719063094
+  },
+  "token": "2b242c6e-d404-4192-8e56-98d1b6f9a1fc"
+}

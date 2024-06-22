@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 108514996,
+    "btag": "Vale",
+    "name": "Vale",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Thaurissan_Pose",
+    "skulls": 150,
+    "level": 41,
+    "pvpWins": 292,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 46,
+    "leaderAHonor": 3783,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 44,
+    "leaderBHonor": 3853,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 40,
+    "leaderCHonor": 3886,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Huntress;ElvenMight;24",
+        "Blizzard;ColdSnap;20",
+        "Harpy;InfectiousSwipes;22",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Huntress;ElvenMight;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;22",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;Bristleback;22",
+        "EarthElemental;ObsidianShard;20",
+        "Huntress;ElvenMight;24",
+        "WhelpEggs;FlameBurst;22",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;20",
+        "Shaman;EarthShield;21",
+        "WitchDoctor;SpiritWard;21",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;Bristleback;22",
+        "Huntress;ElvenMight;24",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;19",
+        "WhelpEggs;FlameBurst;22",
+        "EarthElemental;ObsidianShard;20",
+        "Harpy;InfectiousSwipes;22",
+        "DarkIronMiner;;17",
+        "Gargoyle;ObsidianStatue;18",
+        "Banshee;WillOfTheNecropolis;19"
+      ],
+      [
+        "BloodmageThalnosLeader;;16",
+        "Banshee;WillOfTheNecropolis;19",
+        "Gargoyle;ObsidianStatue;18",
+        "Blizzard;ColdSnap;20",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;22",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "MaievLeader;;19",
+        "DefiasBandits;PickLock;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;Bristleback;22",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;22",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "HoggerLeader;;16",
+        "Harpy;InfectiousSwipes;21",
+        "Chimaera;CorrosiveBreath;19",
+        "Quilboar;Bristleback;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "WhelpEggs;FlameBurst;21",
+        "Huntress;DarnassianSteel;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "WitchDoctor;SpiritWard;21",
+        "Shaman;EarthShield;21",
+        "Huntress;ElvenMight;24",
+        "Quilboar;Bristleback;22",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "MeatWagon;FiletTrebuchet;21",
+        "Gargoyle;ObsidianStatue;18",
+        "Quilboar;TunnelVision;22",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;22",
+        "Huntress;ElvenMight;24"
+      ],
+      [
+        "SneedLeader;;16",
+        "WitchDoctor;SpiritWard;21",
+        "Shaman;EarthShield;21",
+        "MeatWagon;FiletTrebuchet;21",
+        "Huntress;ElvenMight;23",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "CharlgaLeader;;15",
+        "WhelpEggs;FlameBurst;21",
+        "Shaman;EarthShield;21",
+        "WitchDoctor;SpiritWard;21",
+        "DefiasBandits;PickLock;20",
+        "Drake;MotherDrake;21",
+        "Pyromancer;Conflagrate;19"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;22",
+        "Drake;MotherDrake;21",
+        "Pyromancer;Conflagrate;19",
+        "WitchDoctor;SpiritWard;21",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;TunnelVision;22",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Conflagrate;19",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;22",
+        "Huntress;ElvenMight;24",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Gargoyle;ObsidianStatue;18",
+        "MeatWagon;FiletTrebuchet;21",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;22",
+        "Huntress;ElvenMight;24",
+        "WhelpEggs;FlameBurst;22"
+      ]
+    ],
+    "lastUpdate": 1719063159
+  },
+  "token": "ec887ea9-4688-485b-9037-69d06cbd92b5"
+}

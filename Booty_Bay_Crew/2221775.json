@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 2221775,
+    "btag": "Frixtion",
+    "name": "Frixtion",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 138,
+    "level": 38,
+    "pvpWins": 457,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 125,
+    "leaderAHonor": 4012,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 140,
+    "leaderBHonor": 3719,
+    "leaderC": "RendLeader",
+    "leaderCWins": 176,
+    "leaderCHonor": 3643,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;16",
+        "Huntress;Shadowmeld;22",
+        "DefiasBandits;DeadlyPoison;20",
+        "ArcaneBlast;Amplification;18",
+        "WarsongRaider;SunderArmor;22",
+        "Abomination;NoxiousPresence;23",
+        "Harpy;TalonDive;24"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Huntress;Shadowmeld;22",
+        "WarsongRaider;SunderArmor;22",
+        "Harpy;TalonDive;24",
+        "Quilboar;TunnelVision;24",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+        "Harpy;TalonDive;24",
+        "Quilboar;TunnelVision;24",
+        "Abomination;NoxiousPresence;23",
+        "DefiasBandits;DeadlyPoison;20",
+        "BatRider;FlamingPitch;21",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "GrommashLeader;Bladestorm;21",
+        "BatRider;EnchantedVials;21",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Harpy;TalonDive;24",
+        "Quilboar;Bristleback;24",
+        "Flamewaker;HeatStroke;21",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Flamewaker;HeatStroke;22",
+        "Pyromancer;Pyroblast;21",
+        "Harpy;TalonDive;24",
+        "Quilboar;TunnelVision;24",
+        "WarsongRaider;SunderArmor;22",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "BloodmageThalnosLeader;;14",
+        "Abomination;NoxiousPresence;23",
+        "Necromancer;CultOfTheDamned;22",
+        "ArcaneBlast;Amplification;18",
+        "Harpy;TalonDive;24",
+        "Quilboar;TunnelVision;24",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "MaievLeader;;13",
+        "DefiasBandits;DeadlyPoison;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Quilboar;TunnelVision;22",
+        "WarsongRaider;SunderArmor;22",
+        "Huntress;Shadowmeld;22",
+        "Harpy;TalonDive;24"
+      ],
+      [
+        "HoggerLeader;;14",
+        "Raptors;FastFood;18",
+        "Quilboar;TunnelVision;22",
+        "DefiasBandits;DeadlyPoison;20",
+        "Necromancer;CultOfTheDamned;22",
+        "Harpy;TalonDive;24",
+        "WarsongRaider;SunderArmor;22"
+      ],
+      [
+        "CairneLeader;;13",
+        "BatRider;EnchantedVials;21",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Necromancer;CultOfTheDamned;22",
+        "Harpy;TalonDive;24",
+        "WarsongRaider;SunderArmor;22",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Necromancer;CultOfTheDamned;22",
+        "Abomination;NoxiousPresence;23",
+        "WarsongRaider;SunderArmor;22",
+        "Harpy;TalonDive;24",
+        "Pyromancer;Pyroblast;21",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "SneedLeader;;14",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "BatRider;EnchantedVials;21",
+        "WarsongRaider;SunderArmor;22",
+        "Harpy;TalonDive;24",
+        "Quilboar;TunnelVision;24",
+        "Huntress;Shadowmeld;22"
+      ],
+      [
+        "CharlgaLeader;;12",
+        "Harpy;TalonDive;21",
+        "Quilboar;TunnelVision;21",
+        "Huntress;Shadowmeld;21",
+        "DefiasBandits;DeadlyPoison;20",
+        "Abomination;NoxiousPresence;20",
+        "Necromancer;CultOfTheDamned;20"
+      ],
+      [
+        "DrakkisathLeader;;14",
+        "Flamewaker;HeatStroke;21",
+        "Firehammer;MoultinMetal;20",
+        "Pyromancer;Pyroblast;21",
+        "Quilboar;TunnelVision;24",
+        "Harpy;TalonDive;24",
+        "WarsongRaider;SunderArmor;22"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;17",
+        "Flamewaker;HeatStroke;21",
+        "Pyromancer;Pyroblast;21",
+        "Quilboar;TunnelVision;24",
+        "Huntress;Shadowmeld;22",
+        "WarsongRaider;SunderArmor;22",
+        "Harpy;TalonDive;24"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;18",
+        "Abomination;NoxiousPresence;23",
+        "Necromancer;CultOfTheDamned;22",
+        "WarsongRaider;SunderArmor;22",
+        "Huntress;Shadowmeld;22",
+        "Harpy;TalonDive;24",
+        "Quilboar;TunnelVision;24"
+      ]
+    ],
+    "lastUpdate": 1719063117
+  },
+  "token": "b149dbe6-8d3e-4b33-aeed-fb97b54edb6f"
+}

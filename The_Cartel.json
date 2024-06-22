@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 199066642,
+    "name": "The Cartel",
+    "member_count": 15,
+    "description": "The Steamwheedle Cartel  https://discord.gg/bTNMMaJUaA",
+    "members": [
+      {
+        "id": 70114831,
+        "name": "alinox",
+        "btag": "alinox",
+        "skulls": 150,
+        "honor": 10049,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1717414084
+      },
+      {
+        "id": 101883872,
+        "name": "Takerpt",
+        "btag": "Takerpt",
+        "skulls": 150,
+        "honor": 10151,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1717874902
+      },
+      {
+        "id": 101112923,
+        "name": "iimu",
+        "btag": "iimu",
+        "skulls": 150,
+        "honor": 10384,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1718197409
+      },
+      {
+        "id": 104022768,
+        "name": "Blutbad",
+        "btag": "Blutbad",
+        "skulls": 150,
+        "honor": 9838,
+        "avatar": "Indicator_Sneed_Pose",
+        "lastUpdate": 1717911002
+      },
+      {
+        "id": 858594,
+        "name": "Moneo",
+        "btag": "Moneo",
+        "skulls": 150,
+        "honor": 11806,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1718206092
+      },
+      {
+        "id": 322970404,
+        "name": "OldGumbo",
+        "btag": "OldGumbo",
+        "skulls": 150,
+        "honor": 12077,
+        "avatar": "Indicator_KoboldMurloc_Pose",
+        "lastUpdate": 1719062213
+      },
+      {
+        "id": 489584994,
+        "name": "Mystic",
+        "btag": "Mystic",
+        "skulls": 150,
+        "honor": 10574,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717414085
+      },
+      {
+        "id": 1401924065,
+        "name": "Depthew",
+        "btag": "Depthew",
+        "skulls": 150,
+        "honor": 11420,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1717414085
+      },
+      {
+        "id": 2016053,
+        "name": "Desire",
+        "btag": "Desire",
+        "skulls": 150,
+        "honor": 11616,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1717414085
+      },
+      {
+        "id": 715972,
+        "name": "Snow",
+        "btag": "Snow",
+        "skulls": 150,
+        "honor": 11019,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062214
+      },
+      {
+        "id": 50805909,
+        "name": "TK7",
+        "btag": "TK7",
+        "skulls": 150,
+        "honor": 9119,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717414085
+      },
+      {
+        "id": 63224460,
+        "name": "Nathure",
+        "btag": "Nathure",
+        "skulls": 150,
+        "honor": 11021,
+        "avatar": "Indicator_KoboldMurloc_Pose",
+        "lastUpdate": 1717788503
+      },
+      {
+        "id": 931154,
+        "name": "Fliggin",
+        "btag": "Fliggin",
+        "skulls": 150,
+        "honor": 12003,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717990095
+      },
+      {
+        "id": 124612983,
+        "name": "Humanoss",
+        "btag": "Humanoss",
+        "skulls": 150,
+        "honor": 10040,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1717788503
+      },
+      {
+        "id": 101772861,
+        "name": "Elvapej",
+        "btag": "Elvapej",
+        "skulls": 150,
+        "honor": 10998,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1717846195
+      },
+      {
+        "id": 123773732,
+        "name": "gigzz",
+        "btag": "gigzz",
+        "skulls": 150,
+        "honor": 10749,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1717911003
+      },
+      {
+        "id": 1783514,
+        "name": "Lyph",
+        "btag": "Lyph",
+        "skulls": 150,
+        "honor": 13382,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1717917881
+      },
+      {
+        "id": 100367556,
+        "name": "Vinge",
+        "btag": "Vinge",
+        "skulls": 150,
+        "honor": 10557,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717939771
+      },
+      {
+        "id": 2002758,
+        "name": "Mercaniry",
+        "btag": "Mercaniry",
+        "skulls": 150,
+        "honor": 8049,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1718083939
+      },
+      {
+        "id": 76112794,
+        "name": "CoNDeJezZ",
+        "btag": "CoNDeJezZ",
+        "skulls": 150,
+        "honor": 12889,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062216
+      }
+    ],
+    "lastUpdate": 1719062980
+  },
+  "token": "126d7e8e-f312-4a53-9515-224f1ad59a4e",
+  "link": "https://localhost:7080/guild/199066642?token=126d7e8e-f312-4a53-9515-224f1ad59a4e"
+}

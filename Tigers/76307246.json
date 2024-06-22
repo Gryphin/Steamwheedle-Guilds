@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": 76307246,
+    "btag": "HookTurn",
+    "name": "HookTurn",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_OldMurkEye_Pose",
+    "skulls": 45,
+    "level": 24,
+    "pvpWins": 29,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 4,
+    "leaderAHonor": 791,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 7,
+    "leaderBHonor": 1225,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 4,
+    "leaderCHonor": 719,
+    "socials": null,
+    "armies": [
+      [
+        "TirionLeader;;12",
+        "Ghoul;;12",
+        "EarthElemental;;12",
+        "Quilboar;;13",
+        "Harpy;InfectiousSwipes;15",
+        "DarkspearTroll;;13",
+        "Pyromancer;Conflagrate;14"
+      ],
+      [
+        "OldMurkEyeLeader;;11",
+        "Quilboar;;13",
+        "Harpy;InfectiousSwipes;14",
+        "Ghoul;;12",
+        "StonehoofTauren;;11",
+        "Blizzard;;12",
+        "Pyromancer;Conflagrate;14"
+      ],
+      [
+        "GrommashLeader;;10",
+        "Quilboar;;12",
+        "DefiasBandits;;13",
+        "Ghoul;;11",
+        "Harpy;InfectiousSwipes;14",
+        "DarkspearTroll;;11",
+        "Pyromancer;Conflagrate;13"
+      ],
+      [
+        "RendLeader;;12",
+        "Pyromancer;Conflagrate;15",
+        "DarkspearTroll;BigBadVoodoo;15",
+        "Quilboar;BrambleBurst;16",
+        "Harpy;InfectiousSwipes;15",
+        "PlagueFarmer;SplashingPumpkins;15",
+        "StonehoofTauren;;12"
+      ],
+      [
+        "HoggerLeader;;9",
+        "EarthElemental;;11",
+        "PlagueFarmer;;11",
+        "Quilboar;;12",
+        "Harpy;InfectiousSwipes;14",
+        "DarkspearTroll;;11",
+        "StonehoofTauren;;11"
+      ],
+      [
+        "CairneLeader;Reincarnation;13",
+        "StonehoofTauren;;12",
+        "DarkspearTroll;;13",
+        "Pyromancer;Conflagrate;14",
+        "Harpy;InfectiousSwipes;14",
+        "EarthElemental;;12",
+        "Quilboar;;13"
+      ],
+      [
+        "BaronRivendareLeader;;12",
+        "Ghoul;;12",
+        "PlagueFarmer;SplashingPumpkins;15",
+        "Quilboar;BrambleBurst;15",
+        "Harpy;InfectiousSwipes;15",
+        "DarkspearTroll;;14",
+        "Blizzard;;12"
+      ],
+      [
+        "SneedLeader;;9",
+        "Quilboar;;12",
+        "StonehoofTauren;;11",
+        "EarthElemental;;11",
+        "Harpy;InfectiousSwipes;14",
+        "GryphonRider;;10",
+        "Pyromancer;Conflagrate;13"
+      ],
+      [
+        "DrakkisathLeader;;11",
+        "FireElemental;ImmolationAura;13",
+        "Pyromancer;Conflagrate;14",
+        "ChainLightning;;10",
+        "Harpy;InfectiousSwipes;14",
+        "Quilboar;;13",
+        "EarthElemental;;12"
+      ],
+      [
+        "ThaurissanLeader;Hubris;12",
+        "Pyromancer;Conflagrate;14",
+        "EarthElemental;;12",
+        "StonehoofTauren;;12",
+        "Harpy;InfectiousSwipes;15",
+        "Quilboar;;13",
+        "Blizzard;;12"
+      ]
+    ],
+    "lastUpdate": 1719063122
+  },
+  "token": "a11176f3-b6eb-4283-a20b-a1fdf6413ddf"
+}

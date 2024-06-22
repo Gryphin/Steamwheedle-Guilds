@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 841754329,
+    "btag": "Key",
+    "name": "Key",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 95,
+    "level": 33,
+    "pvpWins": 104,
+    "leaderA": "RendLeader",
+    "leaderAWins": 15,
+    "leaderAHonor": 1299,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 25,
+    "leaderBHonor": 1500,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 34,
+    "leaderCHonor": 1793,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;15",
+        "Huntress;;12",
+        "DefiasBandits;DeadlyPoison;16",
+        "Blizzard;;12",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "Harpy;TrinketCollectors;16",
+        "WhelpEggs;;14"
+      ],
+      [
+        "TirionLeader;Consecrate;17",
+        "DefiasBandits;DeadlyPoison;17",
+        "Footmen;;15",
+        "Quilboar;;15",
+        "Harpy;TrinketCollectors;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Drake;MotherDrake;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;16",
+        "Raptors;StrengthInNumbers;16",
+        "Harpy;TrinketCollectors;17",
+        "Quilboar;;15",
+        "GryphonRider;AirDrop;17",
+        "MurlocTidehunters;SafetyBubble;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17"
+      ],
+      [
+        "GrommashLeader;;13",
+        "BatRider;FlamingPitch;17",
+        "WitchDoctor;Alchemist;15",
+        "WhelpEggs;Rookery;16",
+        "Shaman;LightningMastery;14",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Chimaera;FrostShock;19"
+      ],
+      [
+        "RendLeader;Legionnaire;17",
+        "Drake;MotherDrake;20",
+        "Pyromancer;Conflagrate;17",
+        "Chimaera;FrostShock;19",
+        "Harpy;TrinketCollectors;17",
+        "BatRider;FlamingPitch;17",
+        "DefiasBandits;DeadlyPoison;17"
+      ],
+      [
+        "BloodmageThalnosLeader;;15",
+        "Abomination;NoxiousPresence;17",
+        "SkeletonWarrior;QuestingBuddies;15",
+        "Execute;;13",
+        "Pyromancer;Conflagrate;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Chimaera;FrostShock;19"
+      ],
+      [
+        "MaievLeader;;8",
+        "DefiasBandits;;10",
+        "Huntress;;9",
+        "Quilboar;;10",
+        "Harpy;;11",
+        "S.A.F.E.PilotFlyingMachine;;11",
+        "WhelpEggs;;9"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;16",
+        "Harpy;TrinketCollectors;17",
+        "Chimaera;FrostShock;19",
+        "Quilboar;;15",
+        "DefiasBandits;DeadlyPoison;17",
+        "Drake;MotherDrake;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "BatRider;FlamingPitch;17",
+        "DarkspearTroll;Headhunting;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Chimaera;FrostShock;19",
+        "Harpy;TrinketCollectors;17",
+        "WhelpEggs;Rookery;16"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Abomination;NoxiousPresence;17",
+        "Gargoyle;;14",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Harpy;TrinketCollectors;17",
+        "DefiasBandits;DeadlyPoison;17",
+        "BatRider;FlamingPitch;17"
+      ],
+      [
+        "SneedLeader;;13",
+        "DarkspearTroll;Headhunting;16",
+        "BatRider;FlamingPitch;16",
+        "WarsongRaider;SunderArmor;16",
+        "EarthElemental;;13",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "SkeletonWarrior;;13"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;13",
+        "Harpy;TrinketCollectors;16",
+        "Quilboar;;13",
+        "Huntress;;13",
+        "Raptors;StrengthInNumbers;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "Abomination;NoxiousPresence;15"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;17",
+        "CoreHounds;EternalBond;16",
+        "FireElemental;ImmolationAura;17",
+        "Flamewaker;Backdraft;16",
+        "Pyromancer;Conflagrate;17",
+        "Drake;MotherDrake;19",
+        "Firehammer;BlazingSpeed;17"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;18",
+        "Drake;MotherDrake;20",
+        "Pyromancer;Conflagrate;17",
+        "Quilboar;;15",
+        "Harpy;TrinketCollectors;17",
+        "DefiasBandits;DeadlyPoison;17",
+        "BatRider;FlamingPitch;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;16",
+        "BatRider;FlamingPitch;17",
+        "MeatWagon;MeatAndBones;17",
+        "Quilboar;;15",
+        "Harpy;TrinketCollectors;17",
+        "DefiasBandits;DeadlyPoison;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17"
+      ]
+    ],
+    "lastUpdate": 1719063116
+  },
+  "token": "c201e15b-ed86-44c2-9b5f-34363c24d16c"
+}

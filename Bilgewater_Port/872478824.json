@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 872478824,
+    "btag": "Winner",
+    "name": "Winner",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 142,
+    "level": 41,
+    "pvpWins": 1135,
+    "leaderA": "RendLeader",
+    "leaderAWins": 177,
+    "leaderAHonor": 3417,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 155,
+    "leaderBHonor": 3344,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 43,
+    "leaderCHonor": 3309,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "GryphonRider;MightyThrow;20",
+        "Banshee;WillOfTheNecropolis;18",
+        "Blizzard;ColdSnap;18",
+        "Execute;Bloodthirsty;20",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Huntress;ElvenMight;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Footmen;ShieldBash;20",
+        "WhelpEggs;FlameBurst;19",
+        "Shaman;EarthShield;21",
+        "Quilboar;BrambleBurst;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "Gargoyle;WingBuffet;18",
+        "WhelpEggs;FlameBurst;19",
+        "CheatDeath;Vampirism;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19"
+      ],
+      [
+        "GrommashLeader;;19",
+        "Shaman;EarthwallTotem;21",
+        "WitchDoctor;SpiritWard;19",
+        "Footmen;ShieldBash;20",
+        "Huntress;ElvenMight;20",
+        "Chimaera;CorrosiveBreath;20",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "WhelpEggs;FlameBurst;19",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "Execute;Bloodthirsty;20",
+        "Banshee;WillOfTheNecropolis;18",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "Banshee;WillOfTheNecropolis;18",
+        "Gargoyle;WingBuffet;19",
+        "Execute;Bloodthirsty;20",
+        "CheatDeath;Vampirism;17",
+        "Harpy;InfectiousSwipes;21",
+        "EarthElemental;ReadyToRumble;21"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;19",
+        "Huntress;ElvenMight;20",
+        "Footmen;ShieldBash;20",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;TunnelVision;21",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "EarthElemental;ReadyToRumble;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "GnollBrute;Rabid;19",
+        "WhelpEggs;FlameBurst;19",
+        "Mountaineer;MendPets;18",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "Shaman;EarthShield;21",
+        "WitchDoctor;SpiritWard;19",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Harpy;InfectiousSwipes;21",
+        "Execute;Bloodthirsty;20",
+        "EarthElemental;ReadyToRumble;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "CheatDeath;Vampirism;17",
+        "Banshee;WillOfTheNecropolis;17",
+        "EarthElemental;ReadyToRumble;21",
+        "Prowler;OnTheProwl;18",
+        "Execute;Bloodthirsty;19",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "StonehoofTauren;Momentum;19",
+        "Shaman;EarthShield;21",
+        "EarthElemental;ReadyToRumble;21",
+        "Execute;Bloodthirsty;20",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;ElvenMight;20"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;20",
+        "Quilboar;TunnelVision;21",
+        "Raptors;FastFood;17",
+        "Shaman;EarthwallTotem;21",
+        "Vultures;;17",
+        "WitchDoctor;SpiritWard;19",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "WhelpEggs;FlameBurst;19",
+        "EarthElemental;ReadyToRumble;21",
+        "Chimaera;CorrosiveBreath;20",
+        "Huntress;ElvenMight;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;BrambleBurst;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Pyromancer;Conflagrate;18",
+        "WhelpEggs;FlameBurst;19",
+        "DefiasBandits;PickLock;20",
+        "Huntress;ElvenMight;20",
+        "PolymorphSpell;GoldenFleece;18",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "DefiasBandits;PickLock;20",
+        "Execute;Bloodthirsty;20",
+        "Quilboar;TunnelVision;21",
+        "EarthElemental;ReadyToRumble;21",
+        "WhelpEggs;FlameBurst;19"
+      ]
+    ],
+    "lastUpdate": 1719063087
+  },
+  "token": "00a09e8c-d3e9-4ee9-b721-80cc8d54e421"
+}

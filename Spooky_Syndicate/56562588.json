@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 56562588,
+    "btag": "Xendro",
+    "name": "Xendro",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Maiev_Pose",
+    "skulls": 100,
+    "level": 36,
+    "pvpWins": 22,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 3,
+    "leaderAHonor": 561,
+    "leaderB": "SneedLeader",
+    "leaderBWins": 4,
+    "leaderBHonor": 630,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 3,
+    "leaderCHonor": 576,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;17",
+        "Blizzard;Icecrown;17",
+        "DefiasBandits;PickLock;17",
+        "LivingBomb;ChainReaction;17",
+        "WhelpEggs;FlameBurst;17",
+        "Quilboar;Bristleback;17",
+        "WitchDoctor;SpiritWard;18"
+      ],
+      [
+        "TirionLeader;ByTheLight;17",
+        "Worgen;Premeditation;17",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "WarsongRaider;SunderArmor;17",
+        "LivingBomb;ChainReaction;17",
+        "Shaman;EarthShield;17",
+        "WitchDoctor;SpiritWard;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+        "MurlocTidehunters;CarefulAim;17",
+        "Harpy;;15",
+        "DefiasBandits;PickLock;17",
+        "WhelpEggs;FlameBurst;17",
+        "WitchDoctor;SpiritWard;20",
+        "PlagueFarmer;SplashingPumpkins;17"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "Shaman;LightningMastery;19",
+        "BatRider;;15",
+        "MurlocTidehunters;CarefulAim;17",
+        "WhelpEggs;FlameBurst;17",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "WitchDoctor;SpiritWard;20"
+      ],
+      [
+        "RendLeader;;15",
+        "WhelpEggs;FlameBurst;17",
+        "Drake;;15",
+        "Harpy;;15",
+        "Quilboar;Bristleback;18",
+        "Chimaera;Leviathan;19",
+        "DefiasBandits;PickLock;17"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Necromancer;BreathOfTheDying;17",
+        "SkeletonWarrior;Exhume;17",
+        "ArcaneBlast;Torrent;20",
+        "PolymorphSpell;GoldenFleece;17",
+        "GryphonRider;AirDrop;17",
+        "WarsongRaider;SunderArmor;17"
+      ],
+      [
+        "MaievLeader;Remorseless;17",
+        "Worgen;Premeditation;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
+        "SkeletonWarrior;Exhume;17",
+        "Quilboar;Bristleback;18",
+        "WhelpEggs;FlameBurst;17",
+        "DarkIronMiner;DwarvenAmbition;17"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "MurlocTidehunters;CarefulAim;17",
+        "GnollBrute;Rabid;19",
+        "WitchDoctor;SpiritWard;20",
+        "WhelpEggs;FlameBurst;17",
+        "Raptors;;15",
+        "DarkIronMiner;DwarvenAmbition;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;16",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "OgreMage;Avarice;17",
+        "Shaman;EarthShield;17",
+        "WitchDoctor;SpiritWard;18",
+        "HolyNova;InnerFire;17",
+        "WarsongRaider;SunderArmor;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "SkeletonWarrior;Exhume;17",
+        "Necromancer;BreathOfTheDying;17",
+        "SkeletonParty;5Man;17",
+        "CheatDeath;Apocalypse;17",
+        "MurlocTidehunters;CarefulAim;17",
+        "WitchDoctor;SpiritWard;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "WitchDoctor;SpiritWard;20",
+        "WarsongRaider;SunderArmor;17",
+        "GoblinSapper;ExtraBoom;17",
+        "SkeletonParty;5Man;17",
+        "MeatWagon;FiletTrebuchet;17"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;16",
+        "Quilboar;Bristleback;18",
+        "PolymorphSpell;GoldenFleece;17",
+        "MurlocTidehunters;CarefulAim;17",
+        "WitchDoctor;SpiritWard;20",
+        "SkeletonWarrior;Exhume;17",
+        "EarthElemental;;15"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;17",
+        "DarkIronMiner;DwarvenAmbition;17",
+        "LivingBomb;ChainReaction;17",
+        "ArcaneBlast;Torrent;18",
+        "Shaman;EarthShield;17",
+        "Drake;;15",
+        "WitchDoctor;SpiritWard;20"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;19",
+        "MoltenGiant;BloodOfTheMountain;17",
+        "WhelpEggs;FlameBurst;17",
+        "DefiasBandits;PickLock;17",
+        "Harpy;;15",
+        "GryphonRider;AirDrop;17",
+        "Execute;Bloodthirsty;17"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;17",
+        "Ghoul;BoneArmor;17",
+        "Necromancer;BreathOfTheDying;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "Execute;Bloodthirsty;17",
+        "WitchDoctor;SpiritWard;20",
+        "StonehoofTauren;Pummel;17"
+      ]
+    ],
+    "lastUpdate": 1719063148
+  },
+  "token": "5dc85111-55d5-4a2f-824c-d77df82569a3"
+}

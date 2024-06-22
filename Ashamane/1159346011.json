@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1159346011,
+    "btag": "Super",
+    "name": "Super",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 144,
+    "level": 42,
+    "pvpWins": 246,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 56,
+    "leaderAHonor": 3219,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 54,
+    "leaderBHonor": 3812,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 53,
+    "leaderCHonor": 3254,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "GryphonRider;MightyThrow;21",
+        "Worgen;Premeditation;18",
+        "Blizzard;ColdSnap;18",
+        "Chimaera;FrostShock;21",
+        "Quilboar;TunnelVision;21",
+        "Pyromancer;Pyroblast;19"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "DefiasBandits;PickLock;19",
+        "Pyromancer;Conflagrate;21",
+        "Quilboar;TunnelVision;21",
+        "Chimaera;FrostShock;21",
+        "PlagueFarmer;SplashingPumpkins;23"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "Chimaera;FrostShock;21",
+        "PolymorphSpell;GoldenFleece;18",
+        "Ghoul;BoneArmor;21",
+        "Pyromancer;Pyroblast;19",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19"
+      ],
+      [
+        "GrommashLeader;MirrorImage;19",
+        "WitchDoctor;AmplifyCurse;24",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "AngryChickens;FuriousFowl;18",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;21",
+        "Banshee;WillOfTheNecropolis;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Pyromancer;Pyroblast;19",
+        "LivingBomb;ChainReaction;21",
+        "Chimaera;FrostShock;21",
+        "PlagueFarmer;SplashingPumpkins;23",
+        "EarthElemental;ObsidianShard;19",
+        "WitchDoctor;AmplifyCurse;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Ghoul;BoneArmor;20",
+        "PlagueFarmer;SplashingPumpkins;23",
+        "Execute;Bloodthirsty;21",
+        "Abomination;NoxiousPresence;21",
+        "Harpy;InfectiousSwipes;21",
+        "Pyromancer;Pyroblast;19"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "GryphonRider;MightyThrow;21",
+        "Quilboar;TunnelVision;21",
+        "Worgen;Premeditation;18",
+        "HarvestGolem;UnstableCore;19",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "AngryChickens;FuriousFowl;18",
+        "Quilboar;TunnelVision;21",
+        "WitchDoctor;AmplifyCurse;24",
+        "WhelpEggs;FlameBurst;21",
+        "Banshee;WillOfTheNecropolis;18",
+        "Blizzard;ColdSnap;19"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "WitchDoctor;SpiritWard;24",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "PlagueFarmer;SplashingPumpkins;23",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Ghoul;BoneArmor;21",
+        "PlagueFarmer;SplashingPumpkins;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Execute;Bloodthirsty;21",
+        "WitchDoctor;SpiritWard;24",
+        "Chimaera;FrostShock;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;17",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Execute;Bloodthirsty;21",
+        "EarthElemental;ObsidianShard;19",
+        "Pyromancer;Pyroblast;19",
+        "Worgen;Premeditation;18",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "CharlgaLeader;;15",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;OnTheProwl;17",
+        "Huntress;ElvenMight;21",
+        "SkeletonParty;5Man;18",
+        "Chimaera;FrostShock;20",
+        "Abomination;NoxiousPresence;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Pyroblast;19",
+        "WhelpEggs;FlameBurst;21",
+        "Shaman;EarthShield;21",
+        "DefiasBandits;PickLock;19",
+        "SkeletonParty;5Man;18",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Pyroblast;19",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;21",
+        "WitchDoctor;AmplifyCurse;21",
+        "Harpy;InfectiousSwipes;21",
+        "Abomination;NoxiousPresence;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Necromancer;JeweledSkulls;18",
+        "Banshee;WillOfTheNecropolis;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "FireElemental;ImmolationAura;18",
+        "WhelpEggs;FlameBurst;21"
+      ]
+    ],
+    "lastUpdate": 1719063078
+  },
+  "token": "bae289a3-60ce-46f3-a9e7-91297e910286"
+}

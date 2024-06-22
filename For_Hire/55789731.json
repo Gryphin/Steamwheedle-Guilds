@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 55789731,
+    "btag": "Grauhl",
+    "name": "Grauhl",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_OldMurkEye_Pose",
+    "skulls": 115,
+    "level": 39,
+    "pvpWins": 155,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 26,
+    "leaderAHonor": 1738,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 15,
+    "leaderBHonor": 1451,
+    "leaderC": "RendLeader",
+    "leaderCWins": 20,
+    "leaderCHonor": 1618,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "Worgen;Premeditation;18",
+        "GryphonRider;MightyThrow;19",
+        "Execute;;18",
+        "Footmen;Fortification;18",
+        "DarkIronMiner;GoldMine;19",
+        "ChainLightning;BrilliantFlash;18"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "GryphonRider;MightyThrow;19",
+        "Huntress;ElvenMight;19",
+        "Footmen;Fortification;18",
+        "BatRider;EnchantedVials;18",
+        "Quilboar;TunnelVision;19",
+        "DarkIronMiner;GoldMine;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;InfectiousSwipes;20",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Quilboar;TunnelVision;19",
+        "DefiasBandits;PickLock;18",
+        "DarkIronMiner;GoldMine;19",
+        "GryphonRider;MightyThrow;19"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;19",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "StonehoofTauren;Momentum;18",
+        "Harpy;InfectiousSwipes;21",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Pyromancer;Pyroblast;18",
+        "DarkIronMiner;GoldMine;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Drake;MotherDrake;18",
+        "Pyromancer;Pyroblast;19",
+        "Harpy;InfectiousSwipes;21",
+        "FireElemental;ImmolationAura;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "DarkIronMiner;GoldMine;19"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "SkeletonParty;;19",
+        "Ghoul;BoneArmor;18",
+        "ChainLightning;BrilliantFlash;18",
+        "Harpy;InfectiousSwipes;21",
+        "Abomination;NoxiousPresence;18",
+        "DarkIronMiner;GoldMine;19"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Worgen;Premeditation;18",
+        "GryphonRider;MightyThrow;19",
+        "Quilboar;TunnelVision;18",
+        "DefiasBandits;PickLock;18",
+        "DarkIronMiner;GoldMine;18",
+        "EarthElemental;ObsidianShard;18"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Quilboar;TunnelVision;19",
+        "Prowler;OnTheProwl;18",
+        "DarkIronMiner;GoldMine;19",
+        "Harpy;InfectiousSwipes;21",
+        "WarsongRaider;RazingFocus;18",
+        "MurlocTidehunters;SafetyBubble;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "Shaman;EarthShield;18",
+        "WitchDoctor;SpiritWard;20",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "MurlocTidehunters;SafetyBubble;18",
+        "DarkIronMiner;GoldMine;19",
+        "BatRider;EnchantedVials;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "SkeletonParty;;19",
+        "Abomination;NoxiousPresence;18",
+        "Quilboar;TunnelVision;19",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "DarkIronMiner;GoldMine;19",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Shaman;EarthShield;18",
+        "EarthElemental;ObsidianShard;18",
+        "BatRider;EnchantedVials;18",
+        "GryphonRider;MightyThrow;19",
+        "DarkIronMiner;GoldMine;19"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "GnollBrute;Rabid;18",
+        "Quilboar;TunnelVision;19",
+        "MurlocTidehunters;SafetyBubble;18",
+        "AngryChickens;FuriousFowl;18",
+        "Harpy;InfectiousSwipes;21",
+        "DarkIronMiner;GoldMine;19"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "Drake;MotherDrake;18",
+        "Pyromancer;Pyroblast;19",
+        "WitchDoctor;SpiritWard;20",
+        "Harpy;InfectiousSwipes;21",
+        "DarkIronMiner;GoldMine;19",
+        "MurlocTidehunters;SafetyBubble;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Pyromancer;Pyroblast;19",
+        "DarkIronMiner;GoldMine;19",
+        "Quilboar;TunnelVision;19",
+        "GryphonRider;MightyThrow;19",
+        "MurlocTidehunters;SafetyBubble;18",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;20",
+        "Abomination;NoxiousPresence;18",
+        "SkeletonParty;5Man;19",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "DarkIronMiner;GoldMine;19",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;19"
+      ]
+    ],
+    "lastUpdate": 1719063133
+  },
+  "token": "eec6ac92-d0bb-407a-8647-12bf3038355a"
+}

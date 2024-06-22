@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 53734139,
+    "btag": "BansheeIt",
+    "name": "BansheeIt",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 143,
+    "level": 44,
+    "pvpWins": 226,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 31,
+    "leaderAHonor": 3159,
+    "leaderB": "RendLeader",
+    "leaderBWins": 47,
+    "leaderBHonor": 3316,
+    "leaderC": "BloodmageThalnosLeader",
+    "leaderCWins": 30,
+    "leaderCHonor": 3278,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;20",
+        "Worgen;Premeditation;21",
+        "GryphonRider;MightyThrow;21",
+        "ArcaneBlast;Amplification;21",
+        "FireElemental;ImmolationAura;21",
+        "Shaman;EarthShield;22",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "GryphonRider;MightyThrow;21",
+        "FireElemental;ImmolationAura;21",
+        "Harpy;InfectiousSwipes;24",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;24",
+        "Quilboar;TunnelVision;22",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;21",
+        "Shaman;EarthShield;22",
+        "DarkIronMiner;GoldMine;24",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;20",
+        "Shaman;EarthShield;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "SkeletonParty;5Man;23",
+        "Worgen;Premeditation;20",
+        "WhelpEggs;FlameBurst;22",
+        "Necromancer;JeweledSkulls;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "WhelpEggs;FlameBurst;22",
+        "DarkIronMiner;GoldMine;24",
+        "Chimaera;FrostShock;23",
+        "Quilboar;TunnelVision;22",
+        "Shaman;EarthShield;22",
+        "FaerieDragon;FaeBlessing;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;23",
+        "SkeletonParty;5Man;23",
+        "Ghoul;TasteForBlood;20",
+        "ArcaneBlast;Amplification;21",
+        "HolyNova;InnerFire;19",
+        "ChainLightning;BrilliantFlash;21",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Worgen;Premeditation;21",
+        "WhelpEggs;FlameBurst;22",
+        "DarkIronMiner;GoldMine;24",
+        "SkeletonParty;5Man;23",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Chimaera;CorrosiveBreath;23",
+        "Harpy;InfectiousSwipes;24",
+        "ChainLightning;BrilliantFlash;20",
+        "WitchDoctor;AmplifyCurse;21",
+        "WhelpEggs;FlameBurst;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "StonehoofTauren;Momentum;21",
+        "Shaman;EarthShield;22",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "FireElemental;ImmolationAura;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;TunnelVision;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Abomination;NoxiousPresence;21",
+        "Necromancer;JeweledSkulls;21",
+        "DarkIronMiner;GoldMine;24",
+        "Harpy;InfectiousSwipes;24",
+        "SkeletonParty;5Man;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "StonehoofTauren;Momentum;21",
+        "Gargoyle;WingBuffet;21",
+        "SkeletonParty;5Man;23",
+        "DarkIronMiner;GoldMine;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;17",
+        "Chimaera;CorrosiveBreath;23",
+        "Quilboar;TunnelVision;22",
+        "GoblinSapper;RocketBoots;20",
+        "Shaman;EarthShield;22",
+        "Abomination;NoxiousPresence;21",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;23",
+        "Drake;MotherDrake;21",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Conflagrate;21",
+        "Shaman;EarthShield;22",
+        "SkeletonParty;RitualOfRime;23",
+        "DefiasBandits;PickLock;20"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;20",
+        "Drake;MotherDrake;21",
+        "WhelpEggs;FlameBurst;22",
+        "FireElemental;ImmolationAura;21",
+        "Pyromancer;Conflagrate;21",
+        "DarkIronMiner;GoldMine;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Necromancer;JeweledSkulls;21",
+        "Banshee;WillOfTheNecropolis;18",
+        "Shaman;EarthShield;22",
+        "FireElemental;ImmolationAura;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Quilboar;TunnelVision;22"
+      ]
+    ],
+    "lastUpdate": 1719063141
+  },
+  "token": "ccf53e8a-4295-4e7d-a8b8-38016448bd4e"
+}

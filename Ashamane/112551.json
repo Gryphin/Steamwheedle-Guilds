@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 112551,
+    "btag": "EjoThims",
+    "name": "EjoThims",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 111,
+    "level": 36,
+    "pvpWins": 102,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 38,
+    "leaderAHonor": 3179,
+    "leaderB": "RendLeader",
+    "leaderBWins": 16,
+    "leaderBHonor": 2041,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 15,
+    "leaderCHonor": 2095,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;17",
+        "Footmen;Fortification;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "LivingBomb;;15",
+        "GnollBrute;;16",
+        "Shaman;LightningMastery;18",
+        "WarsongRaider;RazingFocus;18"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Footmen;Fortification;18",
+        "MurlocTidehunters;Morelocs;18",
+        "MeatWagon;FiletTrebuchet;18",
+        "WitchDoctor;AmplifyCurse;18"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;18",
+        "Chimaera;CorrosiveBreath;20",
+        "Raptors;;17",
+        "Footmen;Fortification;18",
+        "PlagueFarmer;Virulence;19",
+        "MeatWagon;FiletTrebuchet;18",
+        "Shaman;LightningMastery;18"
+      ],
+      [
+        "GrommashLeader;;15",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "Shaman;LightningMastery;18",
+        "Harpy;;16",
+        "WarsongRaider;RazingFocus;17",
+        "PlagueFarmer;Virulence;19",
+        "GryphonRider;MightyThrow;17"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "Drake;;15",
+        "Pyromancer;Conflagrate;18",
+        "Chimaera;CorrosiveBreath;20",
+        "Ghoul;BoneArmor;18",
+        "PlagueFarmer;Virulence;19",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Ghoul;BoneArmor;18",
+        "PlagueFarmer;Virulence;19",
+        "ChainLightning;StormsReach;18",
+        "Necromancer;JeweledSkulls;18",
+        "Pyromancer;Conflagrate;18",
+        "PolymorphSpell;;15"
+      ],
+      [
+        "MaievLeader;;15",
+        "Worgen;;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "DarkIronMiner;;15",
+        "SkeletonParty;5Man;17",
+        "WhelpEggs;;15",
+        "EarthElemental;;15"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Harpy;;16",
+        "GnollBrute;;15",
+        "PlagueFarmer;Virulence;19",
+        "Huntress;;15",
+        "MeatWagon;FiletTrebuchet;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17"
+      ],
+      [
+        "CairneLeader;Plainsrunning;19",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Shaman;LightningMastery;18",
+        "PlagueFarmer;Virulence;19",
+        "FaerieDragon;PhaseShift;17",
+        "WarsongRaider;RazingFocus;18",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Necromancer;JeweledSkulls;18",
+        "SkeletonParty;5Man;18",
+        "HarvestGolem;TrojanChickens;20",
+        "Abomination;FreshMeat;18",
+        "Chimaera;CorrosiveBreath;20",
+        "PlagueFarmer;Virulence;19"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;19",
+        "Shaman;LightningMastery;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "WarsongRaider;RazingFocus;18",
+        "Pyromancer;Conflagrate;18",
+        "CoreHounds;GuardDog;18",
+        "PlagueFarmer;Virulence;19"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "Chimaera;CorrosiveBreath;20",
+        "AngryChickens;WalkingCrate;17",
+        "MurlocTidehunters;Morelocs;18",
+        "PlagueFarmer;Virulence;19",
+        "Quilboar;;15",
+        "Ghoul;BoneArmor;18"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;17",
+        "MoltenGiant;ThreateningPresence;17",
+        "FireElemental;;16",
+        "Chimaera;CorrosiveBreath;20",
+        "Flamewaker;;15",
+        "Pyromancer;Conflagrate;17",
+        "BatRider;;15"
+      ],
+      [
+        "ThaurissanLeader;Hubris;17",
+        "Drake;;15",
+        "CoreHounds;GuardDog;17",
+        "WarsongRaider;RazingFocus;17",
+        "Pyromancer;Conflagrate;17",
+        "Shaman;LightningMastery;18",
+        "PlagueFarmer;Virulence;19"
+      ],
+      [
+        "SylvanasLeader;;18",
+        "Banshee;;15",
+        "Ghoul;BoneArmor;18",
+        "WarsongRaider;RazingFocus;18",
+        "Chimaera;CorrosiveBreath;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "PlagueFarmer;Virulence;19"
+      ]
+    ],
+    "lastUpdate": 1719063081
+  },
+  "token": "33e038aa-215d-40d6-be4a-3705e9e9a57f"
+}

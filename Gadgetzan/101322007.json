@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 101322007,
+    "btag": "APinCode",
+    "name": "APinCode",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 150,
+    "level": 50,
+    "pvpWins": 192,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 59,
+    "leaderAHonor": 2840,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 36,
+    "leaderBHonor": 2235,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 47,
+    "leaderCHonor": 3527,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;22",
+        "Blizzard;ColdSnap;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Execute;Overpower;21",
+        "GryphonRider;MightyThrow;24",
+        "Quilboar;TunnelVision;26",
+        "Prowler;PredatoryInstincts;24"
+      ],
+      [
+        "TirionLeader;ByTheLight;24",
+        "Footmen;Fortification;22",
+        "HolyNova;InnerFire;21",
+        "EarthElemental;ObsidianShard;24",
+        "WhelpEggs;FlameBurst;26",
+        "Pyromancer;Conflagrate;24",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;24",
+        "Quilboar;Bristleback;26",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Prowler;PredatoryInstincts;24",
+        "Harpy;InfectiousSwipes;25",
+        "Pyromancer;Pyroblast;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24"
+      ],
+      [
+        "GrommashLeader;MirrorImage;24",
+        "StonehoofTauren;Momentum;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Harpy;InfectiousSwipes;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "Quilboar;Bristleback;26",
+        "WhelpEggs;FlameBurst;26"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;26",
+        "Drake;MotherDrake;25",
+        "WhelpEggs;FlameBurst;25",
+        "Harpy;InfectiousSwipes;25",
+        "MeatWagon;FiletTrebuchet;24",
+        "Quilboar;BrambleBurst;26",
+        "DefiasBandits;PickLock;24"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;22",
+        "Ghoul;BoneArmor;22",
+        "Necromancer;JeweledSkulls;22",
+        "Execute;Bloodthirsty;21",
+        "Quilboar;BrambleBurst;26",
+        "HolyNova;InnerFire;21",
+        "WhelpEggs;FlameBurst;26"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "GryphonRider;MightyThrow;24",
+        "Quilboar;BrambleBurst;26",
+        "WhelpEggs;FlameBurst;26",
+        "EarthElemental;ObsidianShard;24",
+        "SkeletonWarrior;QuestingBuddies;21"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Quilboar;Bristleback;26",
+        "MurlocTidehunters;SafetyBubble;22",
+        "WitchDoctor;SpiritWard;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "ArcaneBlast;Amplification;21",
+        "WhelpEggs;FlameBurst;26"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "Execute;Bloodthirsty;21",
+        "BatRider;EnchantedVials;22",
+        "Shaman;EarthShield;24",
+        "Harpy;InfectiousSwipes;25",
+        "EarthElemental;ObsidianShard;24",
+        "AngryChickens;WalkingCrate;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Abomination;NoxiousPresence;24",
+        "Gargoyle;WingBuffet;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "FaerieDragon;FaeBlessing;16",
+        "DefiasBandits;PickLock;24",
+        "DarkIronMiner;GoldMine;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;22",
+        "StonehoofTauren;Momentum;21",
+        "Execute;Bloodthirsty;21",
+        "EarthElemental;ObsidianShard;24",
+        "Quilboar;TunnelVision;26",
+        "MeatWagon;FiletTrebuchet;24",
+        "Harpy;InfectiousSwipes;25"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;21",
+        "Prowler;PredatoryInstincts;24",
+        "Harpy;InfectiousSwipes;25",
+        "Huntress;ElvenMight;24",
+        "MurlocTidehunters;SafetyBubble;22",
+        "WhelpEggs;FlameBurst;26",
+        "Gargoyle;WingBuffet;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;26",
+        "Pyromancer;Conflagrate;24",
+        "WhelpEggs;FlameBurst;26",
+        "WitchDoctor;SpiritWard;21",
+        "DefiasBandits;PickLock;24",
+        "SkeletonParty;RitualOfRime;24",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;22",
+        "Necromancer;JeweledSkulls;22",
+        "Ghoul;BoneArmor;22",
+        "StonehoofTauren;Momentum;21",
+        "BatRider;EnchantedVials;21",
+        "Quilboar;BrambleBurst;26",
+        "WhelpEggs;FlameBurst;25"
+      ]
+    ],
+    "lastUpdate": 1719063109
+  },
+  "token": "585640ae-94fb-4f90-8305-7203a1525769"
+}

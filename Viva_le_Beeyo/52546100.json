@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 52546100,
+    "btag": "ArkVII",
+    "name": "ArkVII",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 117,
+    "level": 40,
+    "pvpWins": 122,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 19,
+    "leaderAHonor": 2125,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 29,
+    "leaderBHonor": 2268,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 25,
+    "leaderCHonor": 2318,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "Huntress;ElvenMight;18",
+        "Footmen;ShieldBash;21",
+        "Blizzard;ColdSnap;20",
+        "Quilboar;BrambleBurst;18",
+        "Chimaera;FrostShock;20",
+        "StonehoofTauren;Pummel;21"
+      ],
+      [
+        "TirionLeader;Consecrate;19",
+        "StonehoofTauren;Pummel;21",
+        "Footmen;ShieldBash;21",
+        "Abomination;FreshMeat;20",
+        "Pyromancer;Conflagrate;20",
+        "Harpy;InfectiousSwipes;21",
+        "Execute;Bloodthirsty;17"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;18",
+        "DefiasBandits;DeadlyPoison;20",
+        "Pyromancer;Conflagrate;20",
+        "Footmen;ShieldBash;21",
+        "GoblinSapper;RocketBoots;20",
+        "Harpy;InfectiousSwipes;21",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "EarthElemental;ObsidianShard;17",
+        "AngryChickens;FuriousFowl;17",
+        "Harpy;InfectiousSwipes;21",
+        "PolymorphSpell;ExplodingSheep;17",
+        "Blizzard;ColdSnap;20",
+        "Quilboar;BrambleBurst;19"
+      ],
+      [
+        "RendLeader;FlamingSoul;20",
+        "WhelpEggs;FlameBurst;17",
+        "Pyromancer;Conflagrate;20",
+        "Blizzard;ColdSnap;20",
+        "Footmen;ShieldBash;21",
+        "BatRider;EnchantedVials;20",
+        "Quilboar;TunnelVision;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "DefiasBandits;DeadlyPoison;20",
+        "Footmen;ShieldBash;21",
+        "Blizzard;ColdSnap;20",
+        "Harpy;InfectiousSwipes;21",
+        "Pyromancer;Conflagrate;20",
+        "StonehoofTauren;Pummel;21"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;18",
+        "Footmen;ShieldBash;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Worgen;Premeditation;18",
+        "GoblinSapper;RocketBoots;18",
+        "Blizzard;ColdSnap;20",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Chimaera;FrostShock;20",
+        "Harpy;InfectiousSwipes;20",
+        "DefiasBandits;DeadlyPoison;17",
+        "Huntress;ElvenMight;17",
+        "WhelpEggs;FlameBurst;17",
+        "Footmen;ShieldBash;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;19",
+        "StonehoofTauren;Pummel;21",
+        "WitchDoctor;AmplifyCurse;19",
+        "Pyromancer;Conflagrate;20",
+        "Quilboar;BrambleBurst;20",
+        "Harpy;InfectiousSwipes;21",
+        "Footmen;ShieldBash;21"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;18",
+        "MeatWagon;GreasedGears;19",
+        "Abomination;FreshMeat;20",
+        "WhelpEggs;FlameBurst;17",
+        "Execute;Bloodthirsty;17",
+        "Pyromancer;Conflagrate;20",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "StonehoofTauren;Pummel;21",
+        "WitchDoctor;AmplifyCurse;19",
+        "Footmen;ShieldBash;21",
+        "Quilboar;BrambleBurst;20",
+        "Pyromancer;Conflagrate;20",
+        "Execute;Bloodthirsty;17"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;16",
+        "Chimaera;FrostShock;19",
+        "Quilboar;BrambleBurst;16",
+        "Harpy;InfectiousSwipes;17",
+        "Raptors;StrengthInNumbers;17",
+        "CoreHounds;GuardDog;16",
+        "SkeletonParty;5Man;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "EarthElemental;ObsidianShard;17",
+        "Blizzard;ColdSnap;20",
+        "AngryChickens;FuriousFowl;17",
+        "PolymorphSpell;ExplodingSheep;17",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;BrambleBurst;19"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "FireElemental;ImmolationAura;17",
+        "Firehammer;BlazingSpeed;18",
+        "StonehoofTauren;Pummel;20",
+        "Chimaera;FrostShock;20",
+        "Pyromancer;Conflagrate;20",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Blizzard;ColdSnap;20",
+        "Quilboar;BrambleBurst;19",
+        "Harpy;InfectiousSwipes;21",
+        "EarthElemental;ObsidianShard;17",
+        "AngryChickens;FuriousFowl;17",
+        "PolymorphSpell;ExplodingSheep;17"
+      ]
+    ],
+    "lastUpdate": 1719063137
+  },
+  "token": "c0f5f7b5-a82d-4209-800d-f1e3b733d925"
+}

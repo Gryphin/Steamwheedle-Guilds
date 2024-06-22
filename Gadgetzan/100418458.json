@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 100418458,
+    "btag": "Mystclick",
+    "name": "Mystclick",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 126,
+    "level": 41,
+    "pvpWins": 261,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 17,
+    "leaderAHonor": 2383,
+    "leaderB": "SneedLeader",
+    "leaderBWins": 36,
+    "leaderBHonor": 2517,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 34,
+    "leaderCHonor": 2396,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;Bristleback;22",
+        "PolymorphSpell;GoldenFleece;17",
+        "Harpy;TrinketCollectors;21",
+        "WhelpEggs;FlameBurst;21",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "GryphonRider;MightyThrow;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;22",
+        "Blizzard;ColdSnap;18",
+        "Harpy;TrinketCollectors;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;20",
+        "AngryChickens;FuriousFowl;17",
+        "GnollBrute;Rabid;17",
+        "Quilboar;TunnelVision;22",
+        "Harpy;TrinketCollectors;21",
+        "Blizzard;ColdSnap;18",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "BatRider;EnchantedVials;18",
+        "DefiasBandits;DeadlyPoison;20",
+        "GoblinSapper;RocketBoots;20",
+        "Harpy;TrinketCollectors;21",
+        "Huntress;ElvenMight;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Pyromancer;Conflagrate;19",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;TrinketCollectors;21",
+        "Quilboar;TunnelVision;22",
+        "Blizzard;ColdSnap;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "Ghoul;BoneArmor;18",
+        "Necromancer;JeweledSkulls;18",
+        "Blizzard;ColdSnap;18",
+        "Quilboar;TunnelVision;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "DefiasBandits;DeadlyPoison;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;ChromaticPlating;21",
+        "DarkIronMiner;DarkIronArmaments;17",
+        "Quilboar;TunnelVision;22",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "AngryChickens;FuriousFowl;17",
+        "Quilboar;TunnelVision;22",
+        "GryphonRider;MightyThrow;20",
+        "Harpy;TrinketCollectors;21",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "BatRider;EnchantedVials;19",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GoblinSapper;RocketBoots;21",
+        "Quilboar;Bristleback;22",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Abomination;NoxiousPresence;18",
+        "Banshee;UnholyFrenzy;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;22",
+        "WhelpEggs;ChromaticPlating;21",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "BatRider;EnchantedVials;19",
+        "EarthElemental;ObsidianShard;16",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;20",
+        "Harpy;TrinketCollectors;21",
+        "Chimaera;Leviathan;20",
+        "Banshee;UnholyFrenzy;18",
+        "Quilboar;Bristleback;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "WhelpEggs;FlameBurst;21",
+        "EarthElemental;ObsidianShard;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;22",
+        "GryphonRider;MightyThrow;20",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "ThaurissanLeader;;19",
+        "Drake;MotherDrake;19",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;22",
+        "PolymorphSpell;GoldenFleece;17",
+        "Harpy;TrinketCollectors;21",
+        "Execute;;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Gargoyle;WingBuffet;18",
+        "Ghoul;BoneArmor;18",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Harpy;TrinketCollectors;21",
+        "Quilboar;Bristleback;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ]
+    ],
+    "lastUpdate": 1719063111
+  },
+  "token": "99f829ff-04ec-4fb0-af7f-822bb2e12299"
+}

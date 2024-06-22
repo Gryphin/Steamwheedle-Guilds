@@ -12,7 +12,7 @@
         "skulls": 90,
         "honor": 10818,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062143
+        "lastUpdate": 1719063125
       },
       {
         "id": 306577076,
@@ -21,7 +21,7 @@
         "skulls": 116,
         "honor": 8703,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062144
+        "lastUpdate": 1719063125
       },
       {
         "id": 10267199,
@@ -30,7 +30,7 @@
         "skulls": 130,
         "honor": 7106,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062144
+        "lastUpdate": 1719063125
       },
       {
         "id": 112325544,
@@ -39,7 +39,7 @@
         "skulls": 130,
         "honor": 12063,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062144
+        "lastUpdate": 1719063125
       },
       {
         "id": 1711605,
@@ -57,7 +57,7 @@
         "skulls": 140,
         "honor": 10159,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062144
+        "lastUpdate": 1719063126
       },
       {
         "id": 52467316,
@@ -75,7 +75,7 @@
         "skulls": 105,
         "honor": 5056,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062145
+        "lastUpdate": 1719063126
       },
       {
         "id": 406642017,
@@ -129,16 +129,7 @@
         "skulls": 115,
         "honor": 3528,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062146
-      },
-      {
-        "id": 51191408,
-        "name": "Therm",
-        "btag": "Therm",
-        "skulls": 143,
-        "honor": 10165,
-        "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062146
+        "lastUpdate": 1719063127
       },
       {
         "id": 50307425,
@@ -147,7 +138,7 @@
         "skulls": 106,
         "honor": 10516,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062147
+        "lastUpdate": 1719063127
       },
       {
         "id": 310164418,
@@ -156,16 +147,7 @@
         "skulls": 110,
         "honor": 11454,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062145
-      },
-      {
-        "id": 590317,
-        "name": "EarlGrey",
-        "btag": "EarlGrey",
-        "skulls": 129,
-        "honor": 2629,
-        "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062146
+        "lastUpdate": 1719063127
       },
       {
         "id": 51225869,
@@ -174,7 +156,7 @@
         "skulls": 132,
         "honor": 6180,
         "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719062146
+        "lastUpdate": 1719063128
       },
       {
         "id": 869751364,
@@ -183,11 +165,29 @@
         "skulls": 145,
         "honor": 9412,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062147
+        "lastUpdate": 1719063128
+      },
+      {
+        "id": 51191408,
+        "name": "Therm",
+        "btag": "Therm",
+        "skulls": 143,
+        "honor": 10165,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719063127
+      },
+      {
+        "id": 590317,
+        "name": "EarlGrey",
+        "btag": "EarlGrey",
+        "skulls": 129,
+        "honor": 2629,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719063128
       }
     ],
-    "lastUpdate": 1719062143
+    "lastUpdate": 1719063124
   },
-  "token": "3ab70e55-3ded-4310-83ba-6f1d4678194c",
-  "link": "https://localhost:7080/guild/437262641?token=3ab70e55-3ded-4310-83ba-6f1d4678194c"
+  "token": "ef3a9e12-2214-4846-a93a-df593c5c8f23",
+  "link": "https://localhost:7080/guild/437262641?token=ef3a9e12-2214-4846-a93a-df593c5c8f23"
 }

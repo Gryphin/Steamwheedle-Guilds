@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 52923799,
+    "btag": "Tenjitsu",
+    "name": "Tenjitsu",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 120,
+    "level": 40,
+    "pvpWins": 76,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 15,
+    "leaderAHonor": 1899,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 19,
+    "leaderBHonor": 1865,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 11,
+    "leaderCHonor": 1881,
+    "socials": null,
+    "armies": [
+      [
+        "TirionLeader;DivineShield;21",
+        "Huntress;ElvenMight;21",
+        "GryphonRider;OdynsFury;21",
+        "WarsongGrunts;BloodPact;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "ChainLightning;BrilliantFlash;21",
+        "Raptors;FastFood;21"
+      ],
+      [
+        "OldMurkEyeLeader;;14",
+        "Quilboar;Bristleback;16",
+        "Raptors;FastFood;17",
+        "WarsongGrunts;BloodPact;17",
+        "Shaman;EarthShield;16",
+        "ChainLightning;BrilliantFlash;18",
+        "Huntress;ElvenMight;17"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Shaman;EarthShield;21",
+        "WarsongGrunts;BloodPact;21",
+        "ChainLightning;BrilliantFlash;21",
+        "Raptors;FastFood;21",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Drake;MotherDrake;20",
+        "Pyromancer;Pyroblast;20",
+        "GryphonRider;MightyThrow;21",
+        "Raptors;FastFood;21",
+        "ChainLightning;BrilliantFlash;21",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;15",
+        "Abomination;FreshMeat;16",
+        "Gargoyle;WingBuffet;16",
+        "ChainLightning;BrilliantFlash;18",
+        "Huntress;ElvenMight;17",
+        "SkeletonParty;5Man;16",
+        "WarsongGrunts;BloodPact;17"
+      ],
+      [
+        "MaievLeader;;8",
+        "S.A.F.E.PilotFlyingMachine;;10",
+        "Worgen;;10",
+        "Quilboar;;10",
+        "Abomination;;10",
+        "FireElemental;;10",
+        "SkeletonParty;;8"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Raptors;FastFood;21",
+        "Chimaera;Leviathan;20",
+        "GryphonRider;MightyThrow;21",
+        "WarsongGrunts;Command;21",
+        "Huntress;ElvenMight;21",
+        "DarkspearTroll;BigBadVoodoo;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Shaman;EarthShield;21",
+        "GryphonRider;MightyThrow;21",
+        "ChainLightning;BrilliantFlash;21",
+        "Huntress;ElvenMight;21",
+        "WarsongGrunts;BloodPact;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Abomination;FreshMeat;20",
+        "SkeletonParty;5Man;20",
+        "EarthElemental;ObsidianShard;20",
+        "ChainLightning;BrilliantFlash;21",
+        "Raptors;FastFood;21",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Shaman;EarthShield;16",
+        "Gargoyle;WingBuffet;16",
+        "Huntress;ElvenMight;17",
+        "WarsongGrunts;BloodPact;17",
+        "ChainLightning;BrilliantFlash;18"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "Raptors;FastFood;19",
+        "Harpy;TrinketCollectors;18",
+        "Huntress;ElvenMight;19",
+        "WarsongGrunts;BloodPact;19",
+        "ChainLightning;BrilliantFlash;19",
+        "DarkspearTroll;BigBadVoodoo;19"
+      ],
+      [
+        "DrakkisathLeader;;7",
+        "Flamewaker;;10",
+        "Pyromancer;;10",
+        "Drake;;10",
+        "GryphonRider;;8",
+        "HolyNova;;10",
+        "Shaman;;10"
+      ],
+      [
+        "ThaurissanLeader;;16",
+        "Drake;MotherDrake;20",
+        "Pyromancer;Pyroblast;18",
+        "Raptors;FastFood;20",
+        "GryphonRider;OdynsFury;20",
+        "WarsongGrunts;BloodPact;20",
+        "ChainLightning;BrilliantFlash;19"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Abomination;FreshMeat;20",
+        "SkeletonParty;5Man;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Raptors;FastFood;21",
+        "ChainLightning;BrilliantFlash;21",
+        "Huntress;ElvenMight;21"
+      ]
+    ],
+    "lastUpdate": 1719063155
+  },
+  "token": "8ff1c5e7-b3f3-4fcb-bcfc-9d455903565e"
+}

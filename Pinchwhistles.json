@@ -21,7 +21,7 @@
         "skulls": 126,
         "honor": 10017,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062121
+        "lastUpdate": 1719063101
       },
       {
         "id": 1943195,
@@ -30,7 +30,7 @@
         "skulls": 125,
         "honor": 3498,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062121
+        "lastUpdate": 1719063101
       },
       {
         "id": 108226541,
@@ -39,7 +39,7 @@
         "skulls": 115,
         "honor": 9341,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062121
+        "lastUpdate": 1719063101
       },
       {
         "id": 310160449,
@@ -48,7 +48,7 @@
         "skulls": 117,
         "honor": 4250,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062122
+        "lastUpdate": 1719063102
       },
       {
         "id": 1492424,
@@ -57,7 +57,7 @@
         "skulls": 146,
         "honor": 9669,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062122
+        "lastUpdate": 1719063102
       },
       {
         "id": 54591692,
@@ -66,7 +66,7 @@
         "skulls": 135,
         "honor": 6732,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719062122
+        "lastUpdate": 1719063102
       },
       {
         "id": 300682969,
@@ -75,7 +75,7 @@
         "skulls": 117,
         "honor": 9817,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062122
+        "lastUpdate": 1719063102
       },
       {
         "id": 349413804,
@@ -84,7 +84,7 @@
         "skulls": 135,
         "honor": 12018,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062122
+        "lastUpdate": 1719063102
       },
       {
         "id": 308773389,
@@ -93,7 +93,7 @@
         "skulls": 136,
         "honor": 9221,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062123
+        "lastUpdate": 1719063102
       },
       {
         "id": 880090146,
@@ -111,16 +111,7 @@
         "skulls": 148,
         "honor": 12033,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719062123
-      },
-      {
-        "id": 101827189,
-        "name": "Victor",
-        "btag": "Victor",
-        "skulls": 150,
-        "honor": 12059,
-        "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062123
+        "lastUpdate": 1719063103
       },
       {
         "id": 328883526,
@@ -129,7 +120,7 @@
         "skulls": 150,
         "honor": 14014,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062123
+        "lastUpdate": 1719063103
       },
       {
         "id": 50560027,
@@ -138,7 +129,7 @@
         "skulls": 150,
         "honor": 12358,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062123
+        "lastUpdate": 1719063103
       },
       {
         "id": 112399649,
@@ -147,25 +138,7 @@
         "skulls": 141,
         "honor": 10034,
         "avatar": "CombatHUD_Tex_Player_Default",
-        "lastUpdate": 1719062122
-      },
-      {
-        "id": 69755231,
-        "name": "Jason",
-        "btag": "Jason",
-        "skulls": 141,
-        "honor": 9931,
-        "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062124
-      },
-      {
-        "id": 94538035,
-        "name": "SourGummies",
-        "btag": "SourGummies",
-        "skulls": 130,
-        "honor": 9418,
-        "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062124
+        "lastUpdate": 1719063103
       },
       {
         "id": 73062864,
@@ -174,7 +147,16 @@
         "skulls": 150,
         "honor": 9421,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062124
+        "lastUpdate": 1719063104
+      },
+      {
+        "id": 69755231,
+        "name": "Jason",
+        "btag": "Jason",
+        "skulls": 141,
+        "honor": 9931,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719063104
       },
       {
         "id": 80949861,
@@ -183,11 +165,29 @@
         "skulls": 150,
         "honor": 9290,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062124
+        "lastUpdate": 1719063104
+      },
+      {
+        "id": 101827189,
+        "name": "Victor",
+        "btag": "Victor",
+        "skulls": 150,
+        "honor": 12059,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719063103
+      },
+      {
+        "id": 94538035,
+        "name": "SourGummies",
+        "btag": "SourGummies",
+        "skulls": 130,
+        "honor": 9418,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719063104
       }
     ],
-    "lastUpdate": 1719062120
+    "lastUpdate": 1719063100
   },
-  "token": "76801d8a-74bf-4c9d-b871-d0c1b80facb6",
-  "link": "https://localhost:7080/guild/200912272?token=76801d8a-74bf-4c9d-b871-d0c1b80facb6"
+  "token": "5ebf83a5-9923-41a5-94b2-3aaa2bc43f12",
+  "link": "https://localhost:7080/guild/200912272?token=5ebf83a5-9923-41a5-94b2-3aaa2bc43f12"
 }

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 63222511,
+    "btag": "MadHen",
+    "name": "MadHen",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Maiev_Pose",
+    "skulls": 97,
+    "level": 37,
+    "pvpWins": 70,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 17,
+    "leaderAHonor": 1093,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 7,
+    "leaderBHonor": 643,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 13,
+    "leaderCHonor": 759,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;19",
+        "Worgen;Frenzy;17",
+        "GryphonRider;OdynsFury;17",
+        "Blizzard;ColdSnap;18",
+        "WarsongRaider;RazingFocus;17",
+        "Quilboar;TunnelVision;17",
+        "Harpy;TrinketCollectors;17"
+      ],
+      [
+        "TirionLeader;DivineShield;19",
+        "Huntress;Shadowmeld;17",
+        "GryphonRider;OdynsFury;17",
+        "WarsongRaider;RazingFocus;17",
+        "Harpy;TrinketCollectors;17",
+        "Quilboar;TunnelVision;17",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;16",
+        "Harpy;TrinketCollectors;16",
+        "Raptors;StrengthInNumbers;16",
+        "Quilboar;TunnelVision;17",
+        "SkeletonParty;CorpseRun;16",
+        "WarsongRaider;RazingFocus;16",
+        "Blizzard;ColdSnap;16"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "WarsongRaider;RazingFocus;18",
+        "WarsongGrunts;BloodPact;18",
+        "Harpy;TrinketCollectors;17",
+        "BatRider;EnchantedVials;17",
+        "DarkspearTroll;Headhunting;19",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;16",
+        "Drake;EngulfingFlames;17",
+        "EarthElemental;;15",
+        "Harpy;TrinketCollectors;17",
+        "Quilboar;TunnelVision;17",
+        "Raptors;StrengthInNumbers;17",
+        "WarsongRaider;RazingFocus;17"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;19",
+        "Necromancer;JeweledSkulls;17",
+        "Gargoyle;AerialSuperiority;16",
+        "Blizzard;ColdSnap;18",
+        "WarsongRaider;RazingFocus;17",
+        "Drake;EngulfingFlames;17",
+        "Harpy;TrinketCollectors;17"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "Worgen;Frenzy;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Quilboar;TunnelVision;17",
+        "Harpy;TrinketCollectors;17",
+        "WarsongRaider;RazingFocus;17",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Harpy;TrinketCollectors;17",
+        "Chimaera;CorrosiveBreath;19",
+        "Quilboar;TunnelVision;17",
+        "WarsongRaider;RazingFocus;17",
+        "SkeletonParty;CorpseRun;17",
+        "Raptors;StrengthInNumbers;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;16",
+        "WarsongGrunts;BloodPact;17",
+        "DarkspearTroll;Headhunting;17",
+        "Worgen;Frenzy;16",
+        "GryphonRider;OdynsFury;17",
+        "WarsongRaider;RazingFocus;17",
+        "Harpy;TrinketCollectors;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "SkeletonParty;CorpseRun;17",
+        "Gargoyle;AerialSuperiority;18",
+        "Quilboar;TunnelVision;17",
+        "Harpy;TrinketCollectors;17",
+        "WarsongRaider;RazingFocus;18",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;20",
+        "WarsongGrunts;BloodPact;17",
+        "DarkspearTroll;Headhunting;17",
+        "WarsongRaider;RazingFocus;17",
+        "Harpy;TrinketCollectors;17",
+        "Worgen;Frenzy;17",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "Harpy;TrinketCollectors;16",
+        "Raptors;StrengthInNumbers;16",
+        "WarsongRaider;RazingFocus;16",
+        "Quilboar;TunnelVision;16",
+        "SkeletonParty;CorpseRun;16",
+        "Blizzard;ColdSnap;16"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;16",
+        "Drake;EngulfingFlames;17",
+        "FireElemental;FanTheFlames;16",
+        "Flamewaker;Engulf;16",
+        "Raptors;StrengthInNumbers;17",
+        "WarsongRaider;RazingFocus;17",
+        "Quilboar;TunnelVision;17"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;19",
+        "Drake;EngulfingFlames;17",
+        "Pyromancer;BlazeOfGlory;17",
+        "WarsongRaider;RazingFocus;18",
+        "SkeletonParty;CorpseRun;17",
+        "Harpy;TrinketCollectors;17",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;19",
+        "Necromancer;JeweledSkulls;17",
+        "Gargoyle;AerialSuperiority;17",
+        "WarsongRaider;RazingFocus;17",
+        "SkeletonParty;CorpseRun;17",
+        "Harpy;TrinketCollectors;17",
+        "GryphonRider;OdynsFury;17"
+      ]
+    ],
+    "lastUpdate": 1719063116
+  },
+  "token": "c034cbfd-7cf1-4a27-a40e-a14f8a7b1af7"
+}

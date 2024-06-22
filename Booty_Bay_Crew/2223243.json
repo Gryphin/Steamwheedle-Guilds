@@ -1,0 +1,144 @@
+{
+  "data": {
+    "id": 2223243,
+    "btag": "DatWuxian",
+    "name": "DatWuxian",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Hogger_Pose",
+    "skulls": 106,
+    "level": 32,
+    "pvpWins": 121,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 27,
+    "leaderAHonor": 1362,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 15,
+    "leaderBHonor": 783,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 26,
+    "leaderCHonor": 1024,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;9",
+        "S.A.F.E.PilotFlyingMachine;;8",
+        "Vultures;;6",
+        "Blizzard;;7",
+        "Footmen;;7",
+        "AngryChickens;;8",
+        "GryphonRider;;8"
+      ],
+      [
+        "TirionLeader;DivineShield;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Blizzard;ColdSnap;16",
+        "Abomination;NoxiousPresence;16",
+        "DarkIronMiner;GoldMine;15",
+        "Shaman;EarthShield;17",
+        "Quilboar;TunnelVision;17"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;13",
+        "Raptors;;12",
+        "PolymorphSpell;;11",
+        "Quilboar;;13",
+        "CheatDeath;;12",
+        "DarkIronMiner;;11",
+        "HolyNova;;12"
+      ],
+      [
+        "GrommashLeader;;14",
+        "Shaman;EarthShield;15",
+        "StonehoofTauren;Momentum;16",
+        "Harpy;InfectiousSwipes;15",
+        "WarsongGrunts;;12",
+        "DarkspearTroll;BigBadVoodoo;15",
+        "Quilboar;TunnelVision;16"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "Drake;MotherDrake;16",
+        "EarthElemental;;15",
+        "Harpy;InfectiousSwipes;16",
+        "DefiasBandits;PickLock;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Quilboar;TunnelVision;17"
+      ],
+      [
+        "MaievLeader;Remorseless;15",
+        "Worgen;;13",
+        "DefiasBandits;PickLock;15",
+        "SkeletonWarrior;QuestingBuddies;16",
+        "Blizzard;ColdSnap;16",
+        "Quilboar;TunnelVision;16",
+        "Harpy;InfectiousSwipes;16"
+      ],
+      [
+        "HoggerLeader;HamHock;16",
+        "Quilboar;TunnelVision;17",
+        "Prowler;;12",
+        "DefiasBandits;PickLock;16",
+        "Huntress;ElvenMight;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Harpy;InfectiousSwipes;16"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "Shaman;EarthShield;17",
+        "StonehoofTauren;Momentum;17",
+        "OgreMage;Avarice;16",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "Blizzard;ColdSnap;16",
+        "GryphonRider;MightyThrow;16"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "Necromancer;JeweledSkulls;16",
+        "Ghoul;;14",
+        "Quilboar;TunnelVision;17",
+        "Gargoyle;;13",
+        "Harpy;InfectiousSwipes;16",
+        "Blizzard;ColdSnap;16"
+      ],
+      [
+        "SneedLeader;;14",
+        "GryphonRider;MightyThrow;16",
+        "DarkspearTroll;BigBadVoodoo;16",
+        "BatRider;;14",
+        "Blizzard;ColdSnap;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "HarvestGolem;;12"
+      ],
+      [
+        "DrakkisathLeader;;13",
+        "MoltenGiant;;12",
+        "DarkIronMiner;;12",
+        "HolyNova;;13",
+        "Shaman;EarthShield;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;15",
+        "DarkspearTroll;BigBadVoodoo;15"
+      ],
+      [
+        "ThaurissanLeader;;13",
+        "WhelpEggs;FlameBurst;15",
+        "EarthElemental;;14",
+        "StonehoofTauren;Momentum;16",
+        "Harpy;InfectiousSwipes;15",
+        "Huntress;ElvenMight;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16"
+      ],
+      [
+        "SylvanasLeader;;10",
+        "Shaman;;10",
+        "StonehoofTauren;;10",
+        "OgreMage;;10",
+        "GoblinSapper;;9",
+        "PolymorphSpell;;10",
+        "GryphonRider;;11"
+      ]
+    ],
+    "lastUpdate": 1719063118
+  },
+  "token": "24117fa9-9d59-4660-811f-89248546c46a"
+}

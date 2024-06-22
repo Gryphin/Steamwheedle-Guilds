@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 50640834,
+    "btag": "LASERBEAST",
+    "name": "LASERBEAST",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 139,
+    "level": 43,
+    "pvpWins": 691,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 66,
+    "leaderAHonor": 3405,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 105,
+    "leaderBHonor": 3409,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 59,
+    "leaderCHonor": 3449,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "Worgen;Premeditation;18",
+        "Huntress;DarnassianSteel;21",
+        "Blizzard;ColdSnap;24",
+        "Harpy;InfectiousSwipes;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "MurlocTidehunters;SafetyBubble;20"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Blizzard;ColdSnap;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;21",
+        "GryphonRider;AirDrop;21",
+        "DefiasBandits;PickLock;21",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;23",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Harpy;TrinketCollectors;24",
+        "Quilboar;TunnelVision;21",
+        "WitchDoctor;Alchemist;20",
+        "GoblinSapper;RocketBoots;21",
+        "DarkIronMiner;DarkIronArmaments;20"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "BatRider;EnchantedVials;21",
+        "GoblinSapper;RocketBoots;21",
+        "Harpy;TrinketCollectors;24",
+        "Quilboar;TunnelVision;21",
+        "Blizzard;ColdSnap;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "WhelpEggs;FlameBurst;21",
+        "Drake;MotherDrake;19",
+        "Harpy;TrinketCollectors;24",
+        "MeatWagon;FiletTrebuchet;21",
+        "BatRider;FierySurplus;21",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;21",
+        "Abomination;NoxiousPresence;21",
+        "MeatWagon;FiletTrebuchet;21",
+        "Blizzard;ColdSnap;24",
+        "Quilboar;TunnelVision;21",
+        "Harpy;TrinketCollectors;24",
+        "Necromancer;JeweledSkulls;21"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "Worgen;Premeditation;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;TrinketCollectors;24",
+        "Blizzard;ColdSnap;24",
+        "DarkIronMiner;DarkIronArmaments;20"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;20",
+        "Harpy;TrinketCollectors;24",
+        "Quilboar;TunnelVision;21",
+        "DarkIronMiner;DarkIronArmaments;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Blizzard;ColdSnap;24",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "BatRider;FierySurplus;21",
+        "WitchDoctor;Alchemist;20",
+        "MeatWagon;FiletTrebuchet;21",
+        "Chimaera;FrostShock;20",
+        "PolymorphSpell;GoldenFleece;18",
+        "Harpy;TrinketCollectors;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Banshee;WillOfTheNecropolis;18",
+        "MeatWagon;FiletTrebuchet;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;TrinketCollectors;24",
+        "Blizzard;ColdSnap;24",
+        "BatRider;EnchantedVials;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "BatRider;EnchantedVials;21",
+        "WitchDoctor;Alchemist;20",
+        "MeatWagon;FiletTrebuchet;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;20",
+        "Chimaera;FrostShock;20",
+        "Quilboar;TunnelVision;21",
+        "MurlocTidehunters;SafetyBubble;20",
+        "MeatWagon;FiletTrebuchet;21",
+        "GryphonRider;AirDrop;21",
+        "BatRider;FierySurplus;21"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;21",
+        "DarkIronMiner;DarkIronArmaments;20",
+        "WhelpEggs;FlameBurst;21",
+        "Blizzard;ColdSnap;24",
+        "GoblinSapper;RocketBoots;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;TrinketCollectors;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "DarkIronMiner;DarkIronArmaments;20",
+        "Firehammer;MoultinMetal;20",
+        "Quilboar;TunnelVision;21",
+        "Huntress;Shadowmeld;21",
+        "MeatWagon;FiletTrebuchet;21",
+        "Blizzard;ColdSnap;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Abomination;NoxiousPresence;21",
+        "MeatWagon;FiletTrebuchet;21",
+        "BatRider;EnchantedVials;21",
+        "Harpy;TrinketCollectors;24",
+        "Quilboar;TunnelVision;21",
+        "Blizzard;ColdSnap;24"
+      ]
+    ],
+    "lastUpdate": 1719063150
+  },
+  "token": "38a6950d-b1ff-4927-986e-a7891d4f600c"
+}

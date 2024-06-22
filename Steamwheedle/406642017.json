@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 406642017,
+    "btag": "wolverine",
+    "name": "wolverine",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Hogger_Pose",
+    "skulls": 148,
+    "level": 42,
+    "pvpWins": 405,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 69,
+    "leaderAHonor": 3524,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 44,
+    "leaderBHonor": 3530,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 92,
+    "leaderCHonor": 3012,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GryphonRider;MightyThrow;21",
+        "ChainLightning;Reverberation;21",
+        "DefiasBandits;LastResort;20",
+        "Abomination;Cannonball;24",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "GryphonRider;MightyThrow;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Abomination;Cannonball;24",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Conflagrate;24",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "MurlocTidehunters;Morelocs;21",
+        "Quilboar;TunnelVision;24",
+        "StonehoofTauren;Momentum;20",
+        "GryphonRider;MightyThrow;21",
+        "Harpy;InfectiousSwipes;21",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "GrommashLeader;Bladestorm;20",
+        "Shaman;EarthShield;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;24",
+        "Abomination;Cannonball;24",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "RendLeader;Legionnaire;21",
+        "WhelpEggs;FlameBurst;22",
+        "DarkIronMiner;DarkIronArmaments;19",
+        "Harpy;InfectiousSwipes;21",
+        "GryphonRider;MightyThrow;21",
+        "Quilboar;TunnelVision;22",
+        "DarkspearTroll;BigBadVoodoo;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "Abomination;Cannonball;24",
+        "MeatWagon;FiletTrebuchet;20",
+        "ArcaneBlast;;19",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;TunnelVision;24",
+        "Pyromancer;Conflagrate;24"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "GryphonRider;OdynsFury;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;TunnelVision;24",
+        "WarsongRaider;RazingFocus;18",
+        "ChainLightning;BrilliantFlash;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;TunnelVision;24",
+        "MurlocTidehunters;Morelocs;21",
+        "GryphonRider;MightyThrow;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Pyromancer;Conflagrate;24",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "CairneLeader;Aftershock;21",
+        "Shaman;EarthShield;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Pyromancer;Conflagrate;24",
+        "WhelpEggs;FlameBurst;22",
+        "GryphonRider;MightyThrow;21",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Abomination;Cannonball;24",
+        "Quilboar;TunnelVision;22",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Conflagrate;24",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "GryphonRider;MightyThrow;21",
+        "StonehoofTauren;Momentum;20",
+        "MeatWagon;FiletTrebuchet;20",
+        "Pyromancer;Conflagrate;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "DefiasBandits;LastResort;20"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "Quilboar;TunnelVision;24",
+        "DefiasBandits;LastResort;20",
+        "Harpy;InfectiousSwipes;21",
+        "Abomination;Cannonball;24",
+        "Pyromancer;Conflagrate;24",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "DrakkisathLeader;LastingLegacy;21",
+        "WhelpEggs;FlameBurst;22",
+        "MoltenGiant;BloodOfTheMountain;21",
+        "Pyromancer;Conflagrate;24",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "GryphonRider;MightyThrow;21",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "WhelpEggs;FlameBurst;22",
+        "MoltenGiant;BloodOfTheMountain;21",
+        "Quilboar;TunnelVision;22",
+        "Pyromancer;Conflagrate;24",
+        "Harpy;InfectiousSwipes;21",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Abomination;Cannonball;24",
+        "WhelpEggs;FlameBurst;22",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Quilboar;TunnelVision;22",
+        "DefiasBandits;LastResort;20",
+        "GryphonRider;MightyThrow;21"
+      ]
+    ],
+    "lastUpdate": 1716771555
+  },
+  "token": "0a5f968a-2564-4720-b578-9253723aee48"
+}

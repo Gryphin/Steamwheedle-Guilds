@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 90441118,
+    "btag": "davidcaro",
+    "name": "davidcaro",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Cairne_Pose",
+    "skulls": 144,
+    "level": 41,
+    "pvpWins": 471,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 96,
+    "leaderAHonor": 3638,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 39,
+    "leaderBHonor": 3705,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 127,
+    "leaderCHonor": 4029,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "Huntress;Shadowmeld;21",
+        "Quilboar;Bristleback;21",
+        "Blizzard;ColdSnap;21",
+        "FireElemental;ImmolationAura;20",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "Blizzard;ColdSnap;21",
+        "Huntress;Shadowmeld;21",
+        "FireElemental;ImmolationAura;20",
+        "Harpy;InfectiousSwipes;18",
+        "WitchDoctor;SpiritWard;20",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Quilboar;Bristleback;21",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Prowler;PredatoryInstincts;18",
+        "WhelpEggs;FlameBurst;21",
+        "SkeletonWarrior;Exhume;20",
+        "Execute;Bloodthirsty;20"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "OgreMage;Ignite;21",
+        "Shaman;EarthShield;21",
+        "DefiasBandits;PickLock;18",
+        "GryphonRider;MightyThrow;18",
+        "WitchDoctor;SpiritWard;20",
+        "MeatWagon;FiletTrebuchet;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "WhelpEggs;FlameBurst;21",
+        "FireElemental;ImmolationAura;20",
+        "Drake;MotherDrake;18",
+        "Pyromancer;Conflagrate;20",
+        "Shaman;EarthShield;21",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "SkeletonParty;RitualOfRime;21",
+        "Ghoul;BoneArmor;18",
+        "Blizzard;Icecrown;21",
+        "Pyromancer;Pyroblast;20",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "DefiasBandits;PickLock;19",
+        "Blizzard;ColdSnap;21",
+        "WhelpEggs;FlameBurst;21",
+        "Execute;Bloodthirsty;20",
+        "Quilboar;Bristleback;21",
+        "SkeletonParty;RitualOfRime;21"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Chimaera;FrostShock;20",
+        "PolymorphSpell;GoldenFleece;18",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "SkeletonParty;RitualOfRime;21",
+        "Blizzard;ColdSnap;21",
+        "Drake;MotherDrake;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Shaman;EarthShield;21",
+        "StonehoofTauren;Pummel;20",
+        "Execute;Bloodthirsty;20",
+        "OgreMage;Ignite;21",
+        "WitchDoctor;SpiritWard;20",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "CheatDeath;Vampirism;18",
+        "SkeletonParty;RitualOfRime;21",
+        "Quilboar;TunnelVision;21",
+        "Pyromancer;Pyroblast;20",
+        "Blizzard;Icecrown;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;18",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "StonehoofTauren;Pummel;20",
+        "MeatWagon;FiletTrebuchet;18",
+        "Quilboar;Bristleback;21",
+        "Drake;MotherDrake;18",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Quilboar;TunnelVision;21",
+        "Raptors;FastFood;18",
+        "MurlocTidehunters;SafetyBubble;18",
+        "WhelpEggs;FlameBurst;21",
+        "Blizzard;Icecrown;21",
+        "SkeletonParty;RitualOfRime;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "DarkIronMiner;DwarvenAmbition;18",
+        "Pyromancer;Pyroblast;20",
+        "Shaman;EarthShield;21",
+        "WhelpEggs;FlameBurst;19",
+        "Blizzard;ColdSnap;21",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "WhelpEggs;FlameBurst;21",
+        "EarthElemental;ObsidianShard;18",
+        "Quilboar;Bristleback;21",
+        "WitchDoctor;AmplifyCurse;20",
+        "Huntress;DarnassianSteel;21",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Abomination;NoxiousPresence;21",
+        "SkeletonWarrior;Exhume;20",
+        "OgreMage;Ignite;21",
+        "MurlocTidehunters;SafetyBubble;18",
+        "GryphonRider;MightyThrow;19",
+        "Blizzard;ColdSnap;21"
+      ]
+    ],
+    "lastUpdate": 1719063136
+  },
+  "token": "81ac18fa-8e8f-4929-8d49-994fb69885db"
+}

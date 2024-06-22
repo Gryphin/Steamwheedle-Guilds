@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 306726227,
+    "btag": "DrizzaVDoom",
+    "name": "DrizzaVDoom",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 131,
+    "level": 48,
+    "pvpWins": 148,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 17,
+    "leaderAHonor": 2699,
+    "leaderB": "RendLeader",
+    "leaderBWins": 18,
+    "leaderBHonor": 2933,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 22,
+    "leaderCHonor": 2451,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;24",
+        "HolyNova;AmplifyMagic;22",
+        "DefiasBandits;PickLock;22",
+        "Execute;KillingSpree;22",
+        "Pyromancer;Pyroblast;24",
+        "FaerieDragon;FaeBlessing;24",
+        "Harpy;TrinketCollectors;24"
+      ],
+      [
+        "TirionLeader;ByTheLight;25",
+        "Gargoyle;WingBuffet;24",
+        "Shaman;LightningMastery;24",
+        "Quilboar;BrambleBurst;24",
+        "WitchDoctor;SpiritWard;25",
+        "Pyromancer;Pyroblast;24",
+        "Harpy;TrinketCollectors;24"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;23",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Prowler;OnTheProwl;21",
+        "ArcaneBlast;Torrent;21",
+        "DefiasBandits;PickLock;22",
+        "WitchDoctor;SpiritWard;25",
+        "Vultures;TendonRip;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;23",
+        "WitchDoctor;SpiritWard;25",
+        "Shaman;EarthwallTotem;24",
+        "DefiasBandits;PickLock;22",
+        "Quilboar;BrambleBurst;24",
+        "Pyromancer;Pyroblast;24",
+        "Gargoyle;AerialSuperiority;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "Pyromancer;Pyroblast;24",
+        "Drake;EngulfingFlames;24",
+        "Gargoyle;WingBuffet;24",
+        "DefiasBandits;PickLock;22",
+        "FaerieDragon;FaeBlessing;24",
+        "WitchDoctor;SpiritWard;25"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;24",
+        "Gargoyle;AerialSuperiority;24",
+        "Ghoul;TasteForBlood;22",
+        "Execute;KillingSpree;22",
+        "Pyromancer;Conflagrate;24",
+        "WitchDoctor;SpiritWard;25",
+        "ArcaneBlast;Torrent;21"
+      ],
+      [
+        "MaievLeader;Remorseless;24",
+        "DefiasBandits;PickLock;22",
+        "Worgen;Premeditation;21",
+        "Quilboar;BrambleBurst;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "WhelpEggs;FlameBurst;24",
+        "ChainLightning;Reverberation;21"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;22",
+        "DefiasBandits;PickLock;22",
+        "Quilboar;BrambleBurst;24",
+        "WitchDoctor;SpiritWard;24",
+        "WhelpEggs;Rookery;24",
+        "Shaman;LightningMastery;24",
+        "Firehammer;HeightenedRage;22"
+      ],
+      [
+        "CairneLeader;Aftershock;22",
+        "WitchDoctor;SpiritWard;25",
+        "Shaman;LightningMastery;24",
+        "Pyromancer;Pyroblast;24",
+        "DefiasBandits;PickLock;22",
+        "BatRider;FlamingPitch;23",
+        "Harpy;TrinketCollectors;24"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;22",
+        "Ghoul;BoneArmor;22",
+        "Gargoyle;WingBuffet;24",
+        "Quilboar;Bristleback;24",
+        "ChainLightning;Reverberation;21",
+        "Harpy;InfectiousSwipes;24",
+        "SkeletonWarrior;QuestingBuddies;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;23",
+        "WitchDoctor;SpiritWard;25",
+        "Shaman;LightningMastery;24",
+        "GoblinSapper;;21",
+        "DefiasBandits;PickLock;22",
+        "Quilboar;BrambleBurst;24",
+        "Ghoul;BoneArmor;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;24",
+        "Quilboar;BrambleBurst;24",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Prowler;PackLeader;21",
+        "WitchDoctor;SpiritWard;25",
+        "DefiasBandits;PickLock;22",
+        "GryphonRider;OdynsFury;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "Drake;Roost;24",
+        "Pyromancer;Pyroblast;24",
+        "Shaman;EarthShield;24",
+        "DefiasBandits;PickLock;22",
+        "WitchDoctor;SpiritWard;25",
+        "FaerieDragon;FaeBlessing;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;22",
+        "Drake;MotherDrake;24",
+        "Pyromancer;Conflagrate;24",
+        "Quilboar;BrambleBurst;24",
+        "WitchDoctor;SpiritWard;24",
+        "Shaman;LightningMastery;24",
+        "SkeletonParty;RitualOfRime;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;26",
+        "Gargoyle;WingBuffet;24",
+        "Ghoul;BoneArmor;22",
+        "WitchDoctor;SpiritWard;25",
+        "Harpy;TrinketCollectors;24",
+        "Quilboar;BrambleBurst;24",
+        "FaerieDragon;FaeBlessing;24"
+      ]
+    ],
+    "lastUpdate": 1716934059
+  },
+  "token": "ecfecb6b-5623-4d67-95ac-d9838619893b"
+}

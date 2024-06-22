@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 51736171,
+    "btag": "Ryplee",
+    "name": "Ryplee",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sneed_Pose",
+    "skulls": 90,
+    "level": 34,
+    "pvpWins": 28,
+    "leaderA": "RendLeader",
+    "leaderAWins": 14,
+    "leaderAHonor": 1050,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 5,
+    "leaderBHonor": 616,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 3,
+    "leaderCHonor": 600,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;15",
+        "S.A.F.E.PilotFlyingMachine;;14",
+        "GryphonRider;;15",
+        "Execute;;16",
+        "Pyromancer;Conflagrate;17",
+        "GoblinSapper;RocketBoots;16",
+        "Drake;MotherDrake;17"
+      ],
+      [
+        "TirionLeader;;15",
+        "S.A.F.E.PilotFlyingMachine;;14",
+        "DefiasBandits;;14",
+        "Quilboar;Bristleback;17",
+        "Pyromancer;Conflagrate;17",
+        "Execute;;16",
+        "Drake;MotherDrake;17"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;17",
+        "Harpy;TrinketCollectors;17",
+        "Quilboar;Bristleback;17",
+        "EarthElemental;ObsidianShard;16",
+        "Pyromancer;Conflagrate;17",
+        "Execute;;16",
+        "SkeletonParty;CorpseRun;17"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;17",
+        "OgreMage;FrostfireBolt;17",
+        "Execute;;16",
+        "WarsongGrunts;Command;16",
+        "S.A.F.E.PilotFlyingMachine;;14",
+        "Harpy;TrinketCollectors;17",
+        "DarkIronMiner;DarkIronArmaments;16"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;19",
+        "Pyromancer;Conflagrate;17",
+        "Drake;MotherDrake;17",
+        "Harpy;TrinketCollectors;17",
+        "S.A.F.E.PilotFlyingMachine;;14",
+        "EarthElemental;ObsidianShard;16",
+        "DarkIronMiner;DarkIronArmaments;16"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;16",
+        "Necromancer;JeweledSkulls;16",
+        "SkeletonParty;CorpseRun;17",
+        "CheatDeath;Apocalypse;16",
+        "Gargoyle;;13",
+        "Pyromancer;Conflagrate;17",
+        "Ghoul;TasteForBlood;16"
+      ],
+      [
+        "MaievLeader;Remorseless;16",
+        "DefiasBandits;;14",
+        "Huntress;;14",
+        "S.A.F.E.PilotFlyingMachine;;14",
+        "EarthElemental;ObsidianShard;16",
+        "DarkIronMiner;DarkIronArmaments;16",
+        "Quilboar;Bristleback;17"
+      ],
+      [
+        "HoggerLeader;;14",
+        "Harpy;TrinketCollectors;17",
+        "Quilboar;Bristleback;17",
+        "GryphonRider;;14",
+        "Pyromancer;Conflagrate;17",
+        "SkeletonParty;CorpseRun;17",
+        "Drake;MotherDrake;17"
+      ],
+      [
+        "CairneLeader;;14",
+        "StonehoofTauren;;13",
+        "Shaman;;13",
+        "Pyromancer;Conflagrate;16",
+        "EarthElemental;ObsidianShard;16",
+        "Drake;MotherDrake;16",
+        "Necromancer;JeweledSkulls;15"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "PlagueFarmer;Virulence;17",
+        "Ghoul;TasteForBlood;16",
+        "Quilboar;Bristleback;17",
+        "Pyromancer;Conflagrate;17",
+        "Harpy;TrinketCollectors;17",
+        "Execute;Bloodthirsty;17"
+      ],
+      [
+        "SneedLeader;;15",
+        "WarsongGrunts;Command;15",
+        "Execute;;14",
+        "EarthElemental;ObsidianShard;16",
+        "S.A.F.E.PilotFlyingMachine;;14",
+        "Pyromancer;Conflagrate;16",
+        "Drake;MotherDrake;16"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;17",
+        "GnollBrute;;13",
+        "Quilboar;;16",
+        "Harpy;TrinketCollectors;16",
+        "Necromancer;JeweledSkulls;16",
+        "SkeletonParty;CorpseRun;16",
+        "CheatDeath;Apocalypse;16"
+      ],
+      [
+        "DrakkisathLeader;;14",
+        "EarthElemental;ObsidianShard;16",
+        "DarkIronMiner;DarkIronArmaments;16",
+        "ChainLightning;Reverberation;15",
+        "Pyromancer;Conflagrate;16",
+        "Drake;MotherDrake;16",
+        "S.A.F.E.PilotFlyingMachine;;14"
+      ],
+      [
+        "ThaurissanLeader;;16",
+        "Drake;MotherDrake;17",
+        "Pyromancer;Conflagrate;17",
+        "WarsongGrunts;Command;16",
+        "Necromancer;JeweledSkulls;16",
+        "Execute;;16",
+        "EarthElemental;ObsidianShard;16"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Necromancer;JeweledSkulls;16",
+        "Ghoul;TasteForBlood;16",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "SkeletonParty;CorpseRun;17",
+        "Execute;;16",
+        "PlagueFarmer;Virulence;17"
+      ]
+    ],
+    "lastUpdate": 1719063101
+  },
+  "token": "3c2ba09d-a474-4433-89a8-d825be8bacbb"
+}

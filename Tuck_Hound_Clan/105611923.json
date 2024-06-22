@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 105611923,
+    "btag": "adakran",
+    "name": "adakran",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 144,
+    "level": 44,
+    "pvpWins": 126,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 33,
+    "leaderAHonor": 3140,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 34,
+    "leaderBHonor": 3498,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 26,
+    "leaderCHonor": 3009,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "HarvestGolem;UnstableCore;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Execute;Bloodthirsty;21",
+        "Blizzard;ColdSnap;20",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "HarvestGolem;UnstableCore;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "FireElemental;ImmolationAura;21",
+        "DefiasBandits;PickLock;21",
+        "WhelpEggs;FlameBurst;21",
+        "Pyromancer;Conflagrate;21"
+      ],
+      [
+        "OldMurkEyeLeader;;19",
+        "Harpy;InfectiousSwipes;22",
+        "Prowler;PredatoryInstincts;21",
+        "HarvestGolem;UnstableCore;21",
+        "WhelpEggs;FlameBurst;21",
+        "GryphonRider;MightyThrow;22",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "Shaman;EarthShield;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "DefiasBandits;PickLock;21",
+        "BatRider;EnchantedVials;21",
+        "Pyromancer;Conflagrate;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "FireElemental;ImmolationAura;21",
+        "WhelpEggs;FlameBurst;21",
+        "BatRider;EnchantedVials;21",
+        "Harpy;InfectiousSwipes;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "Ghoul;BoneArmor;21",
+        "Necromancer;JeweledSkulls;20",
+        "Blizzard;ColdSnap;20",
+        "WhelpEggs;FlameBurst;21",
+        "FireElemental;ImmolationAura;21",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "Blizzard;ColdSnap;20",
+        "DefiasBandits;PickLock;21",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Harpy;InfectiousSwipes;22",
+        "BatRider;EnchantedVials;21"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Prowler;OnTheProwl;21",
+        "Harpy;InfectiousSwipes;21",
+        "DefiasBandits;PickLock;20",
+        "WhelpEggs;FlameBurst;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "CheatDeath;Vampirism;19"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "BatRider;EnchantedVials;21",
+        "Pyromancer;Conflagrate;21",
+        "DefiasBandits;PickLock;21",
+        "WhelpEggs;FlameBurst;21",
+        "Chimaera;CorrosiveBreath;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Ghoul;TasteForBlood;21",
+        "Gargoyle;WingBuffet;20",
+        "Pyromancer;Conflagrate;21",
+        "WhelpEggs;FlameBurst;21",
+        "DefiasBandits;PickLock;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "SneedLeader;LandGrab;21",
+        "OgreMage;Avarice;21",
+        "BatRider;EnchantedVials;21",
+        "MeatWagon;FiletTrebuchet;20",
+        "GryphonRider;MightyThrow;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Pyromancer;Conflagrate;21"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;20",
+        "Chimaera;CorrosiveBreath;21",
+        "Quilboar;BrambleBurst;21",
+        "BatRider;EnchantedVials;21",
+        "Pyromancer;Pyroblast;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "FireElemental;ImmolationAura;21",
+        "WhelpEggs;FlameBurst;21",
+        "Blizzard;ColdSnap;20",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;21",
+        "FireElemental;ImmolationAura;21",
+        "Blizzard;ColdSnap;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "DarkspearTroll;BigBadVoodoo;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Ghoul;BoneArmor;21",
+        "Necromancer;JeweledSkulls;20",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Huntress;Shadowmeld;20",
+        "DefiasBandits;PickLock;21",
+        "WhelpEggs;FlameBurst;21"
+      ]
+    ],
+    "lastUpdate": 1719063144
+  },
+  "token": "a0dba299-61a6-4880-b30b-0156cf7bcf98"
+}

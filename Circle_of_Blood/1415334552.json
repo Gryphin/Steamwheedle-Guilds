@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1415334552,
+    "btag": "Connections",
+    "name": "Connections",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Maiev_Pose",
+    "skulls": 134,
+    "level": 41,
+    "pvpWins": 140,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 28,
+    "leaderAHonor": 1948,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 25,
+    "leaderBHonor": 1677,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 17,
+    "leaderCHonor": 3031,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;19",
+        "Huntress;ElvenMight;22",
+        "DefiasBandits;PickLock;18",
+        "Execute;Bloodthirsty;20",
+        "FireElemental;ImmolationAura;23",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "TirionLeader;DivineShield;19",
+        "Huntress;ElvenMight;22",
+        "GryphonRider;MightyThrow;20",
+        "FireElemental;ImmolationAura;23",
+        "WhelpEggs;FlameBurst;22",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Quilboar;Bristleback;20",
+        "Harpy;InfectiousSwipes;19",
+        "FireElemental;ImmolationAura;23",
+        "WhelpEggs;FlameBurst;21",
+        "MeatWagon;FiletTrebuchet;18",
+        "Huntress;ElvenMight;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "FireElemental;ImmolationAura;23",
+        "Shaman;EarthShield;21",
+        "Harpy;InfectiousSwipes;19",
+        "GryphonRider;MightyThrow;20",
+        "Huntress;ElvenMight;22",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "RendLeader;FlamingSoul;21",
+        "FireElemental;ImmolationAura;23",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "Harpy;InfectiousSwipes;19",
+        "WhelpEggs;FlameBurst;22",
+        "Huntress;ElvenMight;22",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "MeatWagon;FiletTrebuchet;18",
+        "Abomination;NoxiousPresence;21",
+        "Execute;Bloodthirsty;20",
+        "WhelpEggs;FlameBurst;22",
+        "FireElemental;ImmolationAura;23",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Huntress;ElvenMight;22",
+        "DefiasBandits;PickLock;18",
+        "WhelpEggs;FlameBurst;22",
+        "FireElemental;ImmolationAura;23",
+        "Shaman;EarthShield;21",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "HoggerLeader;HamHock;24",
+        "Prowler;OnTheProwl;18",
+        "Quilboar;Bristleback;20",
+        "DefiasBandits;PickLock;18",
+        "Harpy;InfectiousSwipes;19",
+        "WhelpEggs;FlameBurst;22",
+        "Huntress;ElvenMight;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Shaman;EarthShield;21",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Huntress;ElvenMight;22",
+        "BatRider;EnchantedVials;18",
+        "FireElemental;ImmolationAura;23",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "MeatWagon;FiletTrebuchet;18",
+        "Abomination;NoxiousPresence;21",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "FireElemental;ImmolationAura;23",
+        "Harpy;InfectiousSwipes;19",
+        "Huntress;ElvenMight;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "Execute;Bloodthirsty;20",
+        "Shaman;EarthShield;21",
+        "WarsongRaider;RazingFocus;21",
+        "WhelpEggs;FlameBurst;22",
+        "Huntress;ElvenMight;21",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "Harpy;InfectiousSwipes;19",
+        "Quilboar;Bristleback;20",
+        "Huntress;ElvenMight;21",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "FireElemental;ImmolationAura;23",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "WhelpEggs;FlameBurst;22",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "FireElemental;ImmolationAura;23",
+        "Huntress;ElvenMight;22",
+        "Harpy;InfectiousSwipes;19",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "WhelpEggs;FlameBurst;22",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "FireElemental;ImmolationAura;23",
+        "Shaman;EarthShield;21",
+        "Harpy;InfectiousSwipes;19",
+        "Huntress;ElvenMight;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Abomination;NoxiousPresence;21",
+        "MeatWagon;FiletTrebuchet;18",
+        "Execute;Bloodthirsty;20",
+        "WhelpEggs;FlameBurst;22",
+        "Huntress;ElvenMight;22",
+        "Harpy;InfectiousSwipes;19"
+      ]
+    ],
+    "lastUpdate": 1719062199
+  },
+  "token": "3967af52-cfec-435b-8278-64dd41b60cbd"
+}

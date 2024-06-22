@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 2038714,
+    "btag": "Paina",
+    "name": "Paina",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 119,
+    "level": 42,
+    "pvpWins": 132,
+    "leaderA": "ThaurissanLeader",
+    "leaderAWins": 21,
+    "leaderAHonor": 2189,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 23,
+    "leaderBHonor": 1938,
+    "leaderC": "SneedLeader",
+    "leaderCWins": 20,
+    "leaderCHonor": 2677,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;20",
+        "DefiasBandits;PickLock;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "LivingBomb;BurdenOfFate;18",
+        "Shaman;EarthShield;19",
+        "Abomination;NoxiousPresence;18",
+        "WhelpEggs;FlameBurst;20"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Gargoyle;WingBuffet;18",
+        "Harpy;TrinketCollectors;20",
+        "Prowler;OnTheProwl;18",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+        "Abomination;NoxiousPresence;19",
+        "BatRider;EnchantedVials;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "StonehoofTauren;Momentum;19",
+        "Quilboar;TunnelVision;18",
+        "DefiasBandits;PickLock;19"
+      ],
+      [
+        "GrommashLeader;Bladestorm;19",
+        "WitchDoctor;SpiritWard;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "DefiasBandits;PickLock;18",
+        "Chimaera;Leviathan;19",
+        "Blizzard;ColdSnap;18",
+        "GryphonRider;MightyThrow;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Pyromancer;Conflagrate;20",
+        "WhelpEggs;FlameBurst;20",
+        "Gargoyle;WingBuffet;18",
+        "Harpy;InfectiousSwipes;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "GnollBrute;Rabid;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;20",
+        "DefiasBandits;PickLock;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Quilboar;TunnelVision;18",
+        "Pyromancer;Conflagrate;20",
+        "BatRider;EnchantedVials;19",
+        "Drake;MotherDrake;18"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Harpy;InfectiousSwipes;20",
+        "EarthElemental;ObsidianShard;19",
+        "SkeletonParty;5Man;18",
+        "SkeletonWarrior;Exhume;18",
+        "Quilboar;TunnelVision;18"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "EarthElemental;ObsidianShard;19",
+        "WhelpEggs;FlameBurst;20",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Quilboar;TunnelVision;18",
+        "BatRider;EnchantedVials;19"
+      ],
+      [
+        "CairneLeader;Plainsrunning;20",
+        "StonehoofTauren;Momentum;19",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "WitchDoctor;SpiritWard;20",
+        "Shaman;EarthShield;19",
+        "FaerieDragon;Invisibility;19",
+        "DarkIronMiner;DwarvenAmbition;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "FireElemental;ImmolationAura;18",
+        "WhelpEggs;FlameBurst;20",
+        "Pyromancer;Conflagrate;20",
+        "GnollBrute;Rabid;20",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "BatRider;EnchantedVials;19"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;19",
+        "WitchDoctor;SpiritWard;19",
+        "WarsongRaider;RazingFocus;18",
+        "GoblinSapper;CrudeGunpowder;18",
+        "EarthElemental;ObsidianShard;19",
+        "DefiasBandits;PickLock;18",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "FireElemental;ImmolationAura;18",
+        "WhelpEggs;FlameBurst;20",
+        "Pyromancer;Conflagrate;20",
+        "GnollBrute;Rabid;20",
+        "BatRider;EnchantedVials;19",
+        "DarkspearTroll;BigBadVoodoo;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "Drake;MotherDrake;18",
+        "Pyromancer;Conflagrate;20",
+        "ChainLightning;Reverberation;19",
+        "DefiasBandits;PickLock;18",
+        "Shaman;EarthShield;19",
+        "SkeletonParty;5Man;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Pyromancer;Conflagrate;20",
+        "DarkIronMiner;DwarvenAmbition;20",
+        "DefiasBandits;PickLock;18",
+        "Quilboar;TunnelVision;18",
+        "WitchDoctor;SpiritWard;19",
+        "WhelpEggs;FlameBurst;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Abomination;NoxiousPresence;19",
+        "MeatWagon;FiletTrebuchet;18",
+        "Shaman;EarthShield;19",
+        "FireElemental;ImmolationAura;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Quilboar;TunnelVision;18"
+      ]
+    ],
+    "lastUpdate": 1719063138
+  },
+  "token": "67e0149a-f6ff-4dcc-87f6-16213a14f1c8"
+}

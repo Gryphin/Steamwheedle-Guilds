@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 130043250,
+    "btag": "Phsust",
+    "name": "Phsust",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 134,
+    "level": 42,
+    "pvpWins": 464,
+    "leaderA": "RendLeader",
+    "leaderAWins": 65,
+    "leaderAHonor": 3094,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 70,
+    "leaderBHonor": 3097,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 71,
+    "leaderCHonor": 3107,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Huntress;Shadowmeld;19",
+        "Execute;Bloodthirsty;18",
+        "AngryChickens;FuriousFowl;19",
+        "DarkIronMiner;DarkIronArmaments;19",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "GryphonRider;OdynsFury;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Gargoyle;WingBuffet;21",
+        "Flamewaker;Engulf;18",
+        "Harpy;InfectiousSwipes;21",
+        "BatRider;EnchantedVials;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Vultures;TendonRip;19",
+        "Abomination;FreshMeat;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "GryphonRider;OdynsFury;21",
+        "DefiasBandits;PickLock;19"
+      ],
+      [
+        "GrommashLeader;Bladestorm;20",
+        "OgreMage;FrostfireBolt;19",
+        "WarsongGrunts;Command;21",
+        "Raptors;StrengthInNumbers;20",
+        "Blizzard;ColdSnap;20",
+        "Prowler;PackLeader;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Drake;MotherDrake;19",
+        "Pyromancer;Pyroblast;19",
+        "GryphonRider;OdynsFury;21",
+        "Quilboar;TunnelVision;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;19",
+        "Abomination;FreshMeat;21",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "Execute;Bloodthirsty;19",
+        "DefiasBandits;PickLock;19",
+        "Harpy;InfectiousSwipes;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22"
+      ],
+      [
+        "MaievLeader;Shadowstep;19",
+        "GryphonRider;OdynsFury;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Quilboar;TunnelVision;19",
+        "DefiasBandits;PickLock;19",
+        "Harpy;InfectiousSwipes;20",
+        "WitchDoctor;SpiritWard;20"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Raptors;StrengthInNumbers;20",
+        "AngryChickens;FuriousFowl;19",
+        "GnollBrute;Rabid;21",
+        "Chimaera;Leviathan;21",
+        "Mountaineer;Growl;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "StonehoofTauren;Provoke;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "HarvestGolem;TrojanChickens;20",
+        "Shaman;EarthShield;21",
+        "WitchDoctor;SpiritWard;21",
+        "BatRider;EnchantedVials;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "CheatDeath;Apocalypse;19",
+        "MeatWagon;MeatAndBones;21",
+        "SkeletonWarrior;Exhume;19",
+        "Ghoul;Ravenous;19",
+        "SkeletonParty;5Man;21",
+        "Necromancer;JeweledSkulls;19"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;20",
+        "DarkIronMiner;DarkIronArmaments;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Gargoyle;WingBuffet;21",
+        "Quilboar;TunnelVision;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;20",
+        "Quilboar;TunnelVision;19",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;Shadowmeld;19",
+        "GryphonRider;OdynsFury;21",
+        "DefiasBandits;PickLock;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Pyroblast;19",
+        "DarkIronMiner;DarkIronArmaments;19",
+        "Shaman;EarthShield;21",
+        "WhelpEggs;FlameBurst;19",
+        "Execute;Bloodthirsty;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "DarkIronMiner;DarkIronArmaments;19",
+        "Firehammer;HeightenedRage;19",
+        "Prowler;PackLeader;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Harpy;InfectiousSwipes;21",
+        "GryphonRider;OdynsFury;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Banshee;WillOfTheNecropolis;21",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "GryphonRider;OdynsFury;21",
+        "Huntress;Shadowmeld;19",
+        "Quilboar;TunnelVision;21"
+      ]
+    ],
+    "lastUpdate": 1719063158
+  },
+  "token": "5eebde8c-4280-46cb-b886-6768a35a6f0e"
+}

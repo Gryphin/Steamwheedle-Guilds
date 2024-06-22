@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": 355172029,
+    "btag": "dani",
+    "name": "dani",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 72,
+    "level": 28,
+    "pvpWins": 21,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 10,
+    "leaderAHonor": 1277,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 7,
+    "leaderBHonor": 998,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 3,
+    "leaderCHonor": 600,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;12",
+        "S.A.F.E.PilotFlyingMachine;;11",
+        "HarvestGolem;;11",
+        "HolyNova;InnerFire;12",
+        "SkeletonParty;;12",
+        "Blizzard;;11",
+        "Pyromancer;Pyroblast;14"
+      ],
+      [
+        "TirionLeader;Consecrate;15",
+        "GryphonRider;;12",
+        "S.A.F.E.PilotFlyingMachine;;12",
+        "Footmen;;12",
+        "Blizzard;;13",
+        "Pyromancer;Pyroblast;15",
+        "MurlocTidehunters;SafetyBubble;17"
+      ],
+      [
+        "OldMurkEyeLeader;;12",
+        "Prowler;;10",
+        "MurlocTidehunters;SafetyBubble;15",
+        "EarthElemental;ShrapnelBlast;14",
+        "WitchDoctor;AmplifyCurse;13",
+        "S.A.F.E.PilotFlyingMachine;;11",
+        "Shaman;;11"
+      ],
+      [
+        "GrommashLeader;Bladestorm;15",
+        "WitchDoctor;SpiritWard;17",
+        "BatRider;;11",
+        "Harpy;;12",
+        "WhelpEggs;Rookery;15",
+        "FireElemental;ImmolationAura;15",
+        "Shaman;EarthwallTotem;15"
+      ],
+      [
+        "BloodmageThalnosLeader;;13",
+        "Firehammer;;13",
+        "WhelpEggs;Rookery;15",
+        "Flamewaker;;13",
+        "S.A.F.E.PilotFlyingMachine;;12",
+        "SkeletonParty;;13",
+        "FireElemental;ImmolationAura;14"
+      ],
+      [
+        "CairneLeader;;5",
+        "BatRider;;8",
+        "GoblinSapper;;6",
+        "WarsongRaider;;6",
+        "Shaman;;7",
+        "ChainLightning;;5",
+        "DarkspearTroll;;6"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;16",
+        "SkeletonParty;;13",
+        "PlagueFarmer;;13",
+        "S.A.F.E.PilotFlyingMachine;;12",
+        "Blizzard;;13",
+        "FireElemental;ImmolationAura;15",
+        "Harpy;;13"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;15",
+        "Quilboar;;11",
+        "FaerieDragon;FaeBlessing;14",
+        "MurlocTidehunters;SafetyBubble;17",
+        "Harpy;;12",
+        "WitchDoctor;AmplifyCurse;17",
+        "S.A.F.E.PilotFlyingMachine;;12"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;16",
+        "Flamewaker;HeatStroke;15",
+        "FireElemental;ImmolationAura;15",
+        "FaerieDragon;FaeBlessing;15",
+        "Banshee;;12",
+        "Harpy;;13",
+        "WitchDoctor;AmplifyCurse;17"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;15",
+        "SkeletonParty;;13",
+        "Necromancer;;11",
+        "Shaman;;12",
+        "FireElemental;;13",
+        "HolyNova;InnerFire;13",
+        "MurlocTidehunters;SafetyBubble;17"
+      ]
+    ],
+    "lastUpdate": 1719063116
+  },
+  "token": "8514b329-c325-4ef7-b809-b9f10653b88c"
+}

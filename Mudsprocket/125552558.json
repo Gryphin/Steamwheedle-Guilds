@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 125552558,
+    "btag": "Kurton",
+    "name": "Kurton",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Rend_Pose",
+    "skulls": 145,
+    "level": 43,
+    "pvpWins": 186,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 32,
+    "leaderAHonor": 3181,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 26,
+    "leaderBHonor": 3098,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 30,
+    "leaderCHonor": 3288,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "Huntress;Shadowmeld;21",
+        "Blizzard;ColdSnap;21",
+        "StonehoofTauren;Momentum;22",
+        "Quilboar;Bristleback;23",
+        "Chimaera;CorrosiveBreath;19",
+        "Worgen;LoneWolf;20"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "GryphonRider;MightyThrow;23",
+        "Huntress;Shadowmeld;21",
+        "HarvestGolem;UnstableCore;20",
+        "Harpy;InfectiousSwipes;21",
+        "Worgen;LoneWolf;20",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Quilboar;Bristleback;23",
+        "Harpy;InfectiousSwipes;21",
+        "WitchDoctor;AmplifyCurse;21",
+        "WhelpEggs;FlameBurst;23",
+        "GryphonRider;MightyThrow;23",
+        "Chimaera;CorrosiveBreath;19"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;23",
+        "GryphonRider;MightyThrow;23",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Quilboar;BrambleBurst;23"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "WhelpEggs;FlameBurst;23",
+        "Pyromancer;Pyroblast;21",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;Shadowmeld;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;Bristleback;23"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "Gargoyle;AerialSuperiority;21",
+        "Necromancer;JeweledSkulls;21",
+        "Blizzard;ColdSnap;21",
+        "Harpy;InfectiousSwipes;21",
+        "FireElemental;ImmolationAura;18",
+        "WhelpEggs;FlameBurst;23"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;22",
+        "DefiasBandits;DeadlyPoison;21",
+        "Huntress;DarnassianSteel;21",
+        "WhelpEggs;FlameBurst;23",
+        "Quilboar;BrambleBurst;23",
+        "Chimaera;CorrosiveBreath;19",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "HoggerLeader;;19",
+        "Prowler;PredatoryInstincts;19",
+        "Harpy;TrinketCollectors;21",
+        "AngryChickens;;18",
+        "GryphonRider;MightyThrow;23",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Huntress;DarnassianSteel;21"
+      ],
+      [
+        "CairneLeader;Plainsrunning;23",
+        "StonehoofTauren;Momentum;22",
+        "WitchDoctor;AmplifyCurse;20",
+        "Flamewaker;HeatStroke;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Chimaera;CorrosiveBreath;19",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "Necromancer;JeweledSkulls;21",
+        "Banshee;WillOfTheNecropolis;20",
+        "Quilboar;Bristleback;23",
+        "WitchDoctor;AmplifyCurse;21",
+        "Harpy;InfectiousSwipes;21",
+        "WhelpEggs;FlameBurst;23"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "BatRider;FlamingPitch;19",
+        "OgreMage;FrostfireBolt;21",
+        "EarthElemental;ReadyToRumble;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "GryphonRider;MightyThrow;23",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;19",
+        "Quilboar;Bristleback;23",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;DarnassianSteel;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "GryphonRider;MightyThrow;23",
+        "StonehoofTauren;Momentum;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;23",
+        "WhelpEggs;FlameBurst;23",
+        "Pyromancer;Conflagrate;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Blizzard;ColdSnap;21",
+        "Quilboar;Bristleback;23",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "WhelpEggs;FlameBurst;23",
+        "Flamewaker;HeatStroke;21",
+        "StonehoofTauren;Momentum;21",
+        "Huntress;DarnassianSteel;21",
+        "Quilboar;Bristleback;23",
+        "Harpy;TrinketCollectors;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Abomination;NoxiousPresence;19",
+        "Necromancer;JeweledSkulls;22",
+        "StonehoofTauren;Momentum;22",
+        "Harpy;InfectiousSwipes;21",
+        "Huntress;DarnassianSteel;21",
+        "WhelpEggs;FlameBurst;23"
+      ]
+    ],
+    "lastUpdate": 1719063100
+  },
+  "token": "9e866974-206b-4141-b0e5-6083071cbf5a"
+}

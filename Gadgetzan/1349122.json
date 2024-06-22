@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1349122,
+    "btag": "kRaSh32",
+    "name": "kRaSh32",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Maiev_Pose",
+    "skulls": 125,
+    "level": 43,
+    "pvpWins": 135,
+    "leaderA": "MaievLeader",
+    "leaderAWins": 35,
+    "leaderAHonor": 2563,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 11,
+    "leaderBHonor": 1047,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 22,
+    "leaderCHonor": 1785,
+    "socials": null,
+    "armies": [
+      [
+        "04320a384d8cbf648b5fd5eb2f061208;fad207e75c9e13847ae42a813576f6ff;20",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;21",
+        "38852e1895cd540b79b4b3d1bdd06d23;8d075c3ecaecf6543be7c1ffd4af9c4f;20",
+        "5b893c52c1e623541bececb01409caf3;00000000000000000000000000000000;16",
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;21",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;377519909310fd54c8f7773047219250;18",
+        "1cdeebe6970781b4089ccd136a4732b8;d1028d2eba65a874e8ce2de9ad576196;18"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Blizzard;ColdSnap;21",
+        "CoreHounds;EternalBond;23",
+        "WitchDoctor;Alchemist;21",
+        "Shaman;LightningMastery;21",
+        "MurlocTidehunters;CarefulAim;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "MurlocTidehunters;CarefulAim;21",
+        "Raptors;StrengthInNumbers;21",
+        "Quilboar;BrambleBurst;21",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "GoblinSapper;RocketBoots;19"
+      ],
+      [
+        "GrommashLeader;Bladestorm;21",
+        "StonehoofTauren;Momentum;18",
+        "OgreMage;Avarice;21",
+        "WhelpEggs;FlameBurst;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "GryphonRider;MightyThrow;21",
+        "Execute;Bloodthirsty;20"
+      ],
+      [
+        "RendLeader;FlamingSoul;21",
+        "DarkIronMiner;GoldMine;19",
+        "WhelpEggs;FlameBurst;21",
+        "Chimaera;Leviathan;21",
+        "GryphonRider;OdynsFury;21",
+        "MurlocTidehunters;CarefulAim;21",
+        "Quilboar;BrambleBurst;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "SkeletonWarrior;QuestingBuddies;21",
+        "SkeletonParty;5Man;21",
+        "Blizzard;ColdSnap;21",
+        "Quilboar;BrambleBurst;21",
+        "Huntress;DarnassianSteel;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "Worgen;Premeditation;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Quilboar;BrambleBurst;21",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;21",
+        "GoblinSapper;RocketBoots;19"
+      ],
+      [
+        "HoggerLeader;FatalFrenzy;21",
+        "MurlocTidehunters;CarefulAim;21",
+        "Chimaera;Leviathan;21",
+        "GoblinSapper;RocketBoots;19",
+        "Prowler;OnTheProwl;19",
+        "Quilboar;BrambleBurst;21",
+        "Gargoyle;ObsidianStatue;18"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "Execute;;20",
+        "StonehoofTauren;Momentum;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Harpy;TrinketCollectors;18",
+        "Quilboar;BrambleBurst;21"
+      ],
+      [
+        "9793ad29bc7416f4396456af39009d38;70495b463c382d647901be5bcf97434a;21",
+        "269cab6b5161cb74ea62ae739010410e;2c07364b1cdf9f349843ad271b9f7238;21",
+        "8f4961fc47d4e1242abfe7a6d69331a0;5448e6c6f61fc734e9f4a2abe3df6be3;21",
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;21",
+        "38852e1895cd540b79b4b3d1bdd06d23;8d075c3ecaecf6543be7c1ffd4af9c4f;21",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;18",
+        "1cdeebe6970781b4089ccd136a4732b8;d1028d2eba65a874e8ce2de9ad576196;18"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;21",
+        "OgreMage;Avarice;21",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "GoblinSapper;RocketBoots;19",
+        "FaerieDragon;FaeBlessing;18",
+        "WitchDoctor;Alchemist;21",
+        "Quilboar;BrambleBurst;21"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;19",
+        "Chimaera;Leviathan;21",
+        "Harpy;TrinketCollectors;18",
+        "Huntress;DarnassianSteel;21",
+        "Pyromancer;Pyroblast;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Quilboar;BrambleBurst;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "CoreHounds;EternalBond;23",
+        "Pyromancer;Conflagrate;21",
+        "WhelpEggs;FlameBurst;21",
+        "Drake;EngulfingFlames;20",
+        "Quilboar;BrambleBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;21",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;21",
+        "DarkIronMiner;GoldMine;19",
+        "Prowler;OnTheProwl;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "GoblinSapper;RocketBoots;19"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Abomination;NoxiousPresence;20",
+        "SkeletonParty;5Man;21",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Quilboar;BrambleBurst;21",
+        "Execute;Bloodthirsty;20",
+        "Huntress;DarnassianSteel;21"
+      ]
+    ],
+    "lastUpdate": 1719063110
+  },
+  "token": "d71ef80c-b065-4df9-b344-7d86ad9a1002"
+}

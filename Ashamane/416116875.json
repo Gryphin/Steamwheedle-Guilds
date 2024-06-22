@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 416116875,
+    "btag": "SMeister",
+    "name": "SMeister",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 130,
+    "level": 51,
+    "pvpWins": 10,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 4,
+    "leaderAHonor": 450,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 6,
+    "leaderBHonor": 649,
+    "leaderC": "",
+    "leaderCWins": 0,
+    "leaderCHonor": 0,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;25",
+        "Banshee;WillOfTheNecropolis;25",
+        "GryphonRider;OdynsFury;20",
+        "Blizzard;ColdSnap;23",
+        "WhelpEggs;FlameBurst;26",
+        "Execute;Bloodthirsty;22",
+        "Ghoul;BoneArmor;22"
+      ],
+      [
+        "TirionLeader;DivineShield;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Huntress;ElvenMight;25",
+        "Abomination;NoxiousPresence;26",
+        "WhelpEggs;FlameBurst;26",
+        "Blizzard;ColdSnap;23",
+        "Shaman;EarthShield;26"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;25",
+        "Shaman;EarthShield;26",
+        "Abomination;NoxiousPresence;26",
+        "WhelpEggs;FlameBurst;26",
+        "Huntress;ElvenMight;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Banshee;WillOfTheNecropolis;25"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;25",
+        "Drake;MotherDrake;24",
+        "Pyromancer;Pyroblast;24",
+        "Abomination;NoxiousPresence;26",
+        "WhelpEggs;FlameBurst;26",
+        "Shaman;EarthShield;26",
+        "Quilboar;Bristleback;24"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;23",
+        "Huntress;ElvenMight;25",
+        "Abomination;NoxiousPresence;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "WhelpEggs;FlameBurst;24",
+        "Banshee;WillOfTheNecropolis;25",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Huntress;ElvenMight;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Abomination;NoxiousPresence;26",
+        "Shaman;EarthShield;24",
+        "Banshee;WillOfTheNecropolis;25",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "CairneLeader;Plainsrunning;22",
+        "S.A.F.E.PilotFlyingMachine;;24",
+        "HolyNova;InnerFire;22",
+        "Abomination;Cannonball;25",
+        "Shaman;EarthShield;24",
+        "Banshee;UnholyFrenzy;24",
+        "Flamewaker;Backdraft;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;25",
+        "Abomination;NoxiousPresence;26",
+        "Shaman;EarthShield;26",
+        "WhelpEggs;FlameBurst;26",
+        "Huntress;ElvenMight;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Pyromancer;Pyroblast;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;25",
+        "Shaman;EarthwallTotem;26",
+        "Execute;Bloodthirsty;22",
+        "MeatWagon;FiletTrebuchet;24",
+        "OgreMage;FrostfireBolt;24",
+        "WhelpEggs;FlameBurst;26",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;1217400d396347e40a5ba4a180d3cebf;21",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;26",
+        "4d60f72627b7c36468f3107e40109845;fcc5c64ae7d56af4886c6cba42a594c6;24",
+        "4662e633273a0d149b61d23732a5ed53;7102bce3c17cea249b4a93c2865dcc36;26",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;26",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;25",
+        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;25"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;22",
+        "Chimaera;CorrosiveBreath;22",
+        "Harpy;InfectiousSwipes;22",
+        "Banshee;WillOfTheNecropolis;25",
+        "Pyromancer;Pyroblast;24",
+        "DarkIronMiner;DarkIronArmaments;24",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "Drake;MotherDrake;24",
+        "WhelpEggs;FlameBurst;26",
+        "Pyromancer;Conflagrate;24",
+        "DefiasBandits;PickLock;24",
+        "SkeletonParty;RitualOfRime;24",
+        "Shaman;EarthShield;26"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;25",
+        "WhelpEggs;FlameBurst;26",
+        "Pyromancer;Pyroblast;24",
+        "Abomination;NoxiousPresence;26",
+        "Shaman;EarthShield;26",
+        "DefiasBandits;PickLock;24",
+        "MeatWagon;FiletTrebuchet;24"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Huntress;ElvenMight;24",
+        "Abomination;Cannonball;25",
+        "Shaman;EarthShield;24",
+        "Banshee;WillOfTheNecropolis;25",
+        "WhelpEggs;FlameBurst;24"
+      ]
+    ],
+    "lastUpdate": 1719063080
+  },
+  "token": "db90ca11-d42c-4241-b667-e2d1dd1bb638"
+}

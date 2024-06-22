@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 71338627,
+    "btag": "Euphoria",
+    "name": "Euphoria",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_OldMurkEye_Pose",
+    "skulls": 138,
+    "level": 41,
+    "pvpWins": 268,
+    "leaderA": "RendLeader",
+    "leaderAWins": 69,
+    "leaderAHonor": 3429,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 66,
+    "leaderBHonor": 3605,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 59,
+    "leaderCHonor": 3380,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "MeatWagon;FiletTrebuchet;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Blizzard;ColdSnap;17",
+        "Quilboar;Bristleback;21",
+        "Prowler;OnTheProwl;21",
+        "DarkspearTroll;SerpentSting;24"
+      ],
+      [
+        "TirionLeader;ByTheLight;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GryphonRider;MightyThrow;19",
+        "Prowler;OnTheProwl;22",
+        "DarkIronMiner;GoldMine;20",
+        "DarkspearTroll;SerpentSting;24",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;23",
+        "Prowler;OnTheProwl;22",
+        "DarkspearTroll;SerpentSting;24",
+        "Quilboar;Bristleback;22",
+        "DarkIronMiner;GoldMine;20",
+        "BatRider;EnchantedVials;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;21",
+        "DarkspearTroll;SerpentSting;24",
+        "BatRider;EnchantedVials;20",
+        "Quilboar;Bristleback;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Prowler;OnTheProwl;21",
+        "DarkIronMiner;GoldMine;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;22",
+        "WhelpEggs;FlameBurst;20",
+        "DarkIronMiner;GoldMine;20",
+        "Drake;MotherDrake;19",
+        "Prowler;OnTheProwl;21",
+        "DarkspearTroll;SerpentSting;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "Necromancer;JeweledSkulls;20",
+        "Gargoyle;WingBuffet;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "Prowler;OnTheProwl;22",
+        "Quilboar;Bristleback;22",
+        "DarkspearTroll;SerpentSting;24"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;18",
+        "Worgen;;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Quilboar;Bristleback;21",
+        "Prowler;OnTheProwl;21",
+        "DarkIronMiner;GoldMine;20",
+        "DarkspearTroll;SerpentSting;24"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "Prowler;OnTheProwl;21",
+        "Quilboar;Bristleback;21",
+        "DarkIronMiner;GoldMine;20",
+        "DarkspearTroll;SerpentSting;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "BatRider;EnchantedVials;20"
+      ],
+      [
+        "CairneLeader;Plainsrunning;18",
+        "DarkspearTroll;SerpentSting;23",
+        "BatRider;EnchantedVials;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Prowler;OnTheProwl;21",
+        "Quilboar;Bristleback;21",
+        "DarkIronMiner;GoldMine;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Necromancer;JeweledSkulls;20",
+        "DarkspearTroll;SerpentSting;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "DarkIronMiner;GoldMine;20",
+        "Prowler;OnTheProwl;22",
+        "BatRider;EnchantedVials;20"
+      ],
+      [
+        "SneedLeader;;16",
+        "DarkspearTroll;SerpentSting;22",
+        "BatRider;EnchantedVials;19",
+        "WarsongRaider;;16",
+        "Quilboar;Bristleback;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Prowler;OnTheProwl;21"
+      ],
+      [
+        "CharlgaLeader;;11",
+        "Prowler;OnTheProwl;15",
+        "Harpy;TrinketCollectors;14",
+        "Footmen;;9",
+        "DarkspearTroll;SerpentSting;16",
+        "PlagueFarmer;;10",
+        "BatRider;EnchantedVials;14"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;18",
+        "Pyromancer;Pyroblast;18",
+        "DarkIronMiner;GoldMine;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Prowler;OnTheProwl;21",
+        "Quilboar;Bristleback;20",
+        "DarkspearTroll;SerpentSting;23"
+      ],
+      [
+        "ThaurissanLeader;;17",
+        "WhelpEggs;FlameBurst;19",
+        "DarkIronMiner;GoldMine;18",
+        "Prowler;OnTheProwl;21",
+        "Quilboar;Bristleback;20",
+        "DarkspearTroll;SerpentSting;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "MeatWagon;FiletTrebuchet;19",
+        "BatRider;EnchantedVials;20",
+        "DarkspearTroll;SerpentSting;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Prowler;OnTheProwl;21",
+        "Quilboar;Bristleback;21"
+      ]
+    ],
+    "lastUpdate": 1719063151
+  },
+  "token": "6394c397-f4a6-4997-bf7f-f06645faf310"
+}

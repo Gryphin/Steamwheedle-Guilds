@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1195719,
+    "btag": "thilyn",
+    "name": "thilyn",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 101,
+    "level": 36,
+    "pvpWins": 23,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 8,
+    "leaderAHonor": 757,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 6,
+    "leaderBHonor": 629,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 6,
+    "leaderCHonor": 629,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;13",
+        "GryphonRider;MightyThrow;16",
+        "Blizzard;ColdSnap;17",
+        "ChainLightning;StormsReach;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Pyromancer;Conflagrate;17",
+        "GnollBrute;Rabid;15"
+      ],
+      [
+        "TirionLeader;ByTheLight;18",
+        "GryphonRider;MightyThrow;16",
+        "Huntress;ElvenMight;17",
+        "EarthElemental;ObsidianShard;18",
+        "Drake;MotherDrake;17",
+        "WhelpEggs;FlameBurst;20",
+        "Pyromancer;Conflagrate;17"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+        "Harpy;InfectiousSwipes;17",
+        "MurlocTidehunters;Morelocs;17",
+        "EarthElemental;ObsidianShard;18",
+        "Pyromancer;Conflagrate;17",
+        "Quilboar;TunnelVision;17",
+        "GryphonRider;MightyThrow;16"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "StonehoofTauren;Momentum;17",
+        "DarkspearTroll;Headhunting;17",
+        "Harpy;InfectiousSwipes;18",
+        "ChainLightning;StormsReach;17",
+        "Quilboar;TunnelVision;17",
+        "Pyromancer;Conflagrate;17"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "SmokeBombSpell;;12",
+        "Drake;MotherDrake;17",
+        "Harpy;InfectiousSwipes;18",
+        "WhelpEggs;FlameBurst;20",
+        "Gargoyle;WingBuffet;17",
+        "Banshee;WillOfTheNecropolis;17"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;17",
+        "Ghoul;BoneArmor;16",
+        "Gargoyle;WingBuffet;17",
+        "PolymorphSpell;ExplodingSheep;17",
+        "ChainLightning;StormsReach;17",
+        "Pyromancer;Conflagrate;17",
+        "Quilboar;TunnelVision;17"
+      ],
+      [
+        "MaievLeader;Remorseless;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Blizzard;ColdSnap;17",
+        "WhelpEggs;FlameBurst;20",
+        "Harpy;InfectiousSwipes;18",
+        "EarthElemental;ObsidianShard;19",
+        "Quilboar;TunnelVision;17"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Harpy;InfectiousSwipes;18",
+        "PolymorphSpell;ExplodingSheep;17",
+        "WitchDoctor;SpiritWard;17",
+        "Gargoyle;WingBuffet;17",
+        "Pyromancer;Conflagrate;17",
+        "Huntress;ElvenMight;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "DarkspearTroll;Headhunting;17",
+        "ChainLightning;StormsReach;17",
+        "Shaman;EarthShield;16",
+        "Harpy;InfectiousSwipes;18",
+        "EarthElemental;ObsidianShard;18",
+        "Pyromancer;Conflagrate;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "SkeletonParty;5Man;17",
+        "SkeletonWarrior;Exhume;19",
+        "EarthElemental;ObsidianShard;19",
+        "Harpy;InfectiousSwipes;18",
+        "Huntress;ElvenMight;18",
+        "WhelpEggs;FlameBurst;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;17",
+        "DarkspearTroll;Headhunting;17",
+        "BatRider;EnchantedVials;16",
+        "WarsongRaider;RazingFocus;17",
+        "EarthElemental;ObsidianShard;20",
+        "Harpy;InfectiousSwipes;18",
+        "WitchDoctor;SpiritWard;17"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;16",
+        "Harpy;InfectiousSwipes;17",
+        "Quilboar;TunnelVision;17",
+        "EarthElemental;ObsidianShard;18",
+        "Pyromancer;Conflagrate;17",
+        "Blizzard;ColdSnap;17",
+        "StonehoofTauren;Momentum;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "Pyromancer;Conflagrate;17",
+        "Drake;MotherDrake;17",
+        "Necromancer;JeweledSkulls;17",
+        "ChainLightning;StormsReach;17",
+        "EarthElemental;ObsidianShard;20",
+        "Harpy;InfectiousSwipes;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "WhelpEggs;FlameBurst;20",
+        "EarthElemental;ObsidianShard;20",
+        "Quilboar;TunnelVision;17",
+        "Huntress;ElvenMight;18",
+        "Harpy;InfectiousSwipes;18",
+        "Gargoyle;WingBuffet;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;16",
+        "Gargoyle;WingBuffet;17",
+        "Ghoul;BoneArmor;16",
+        "StonehoofTauren;Momentum;17",
+        "Harpy;InfectiousSwipes;17",
+        "Quilboar;TunnelVision;17",
+        "Pyromancer;Conflagrate;17"
+      ]
+    ],
+    "lastUpdate": 1719063112
+  },
+  "token": "aff559ec-9af8-4dc0-8a42-ca248c453d87"
+}

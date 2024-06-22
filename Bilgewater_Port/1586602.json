@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1586602,
+    "btag": "WTFPWNED",
+    "name": "WTFPWNED",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 1132,
+    "leaderA": "ThaurissanLeader",
+    "leaderAWins": 122,
+    "leaderAHonor": 4728,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 161,
+    "leaderBHonor": 4355,
+    "leaderC": "GrommashLeader",
+    "leaderCWins": 148,
+    "leaderCHonor": 4528,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "GryphonRider;MightyThrow;25",
+        "Blizzard;ColdSnap;24",
+        "Execute;Bloodthirsty;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Banshee;WillOfTheNecropolis;24",
+        "Quilboar;BrambleBurst;26"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "Huntress;ElvenMight;26",
+        "GryphonRider;MightyThrow;25",
+        "Quilboar;BrambleBurst;26",
+        "WitchDoctor;SpiritWard;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "DarkspearTroll;BigBadVoodoo;24"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;21",
+        "MurlocTidehunters;SafetyBubble;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "Quilboar;BrambleBurst;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Huntress;DarnassianSteel;26",
+        "GoblinSapper;RocketBoots;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "WitchDoctor;SpiritWard;24",
+        "DefiasBandits;PickLock;24",
+        "GryphonRider;MightyThrow;25",
+        "Blizzard;ColdSnap;24",
+        "Quilboar;BrambleBurst;26"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "WhelpEggs;FlameBurst;24",
+        "DarkIronMiner;DwarvenAmbition;24",
+        "FaerieDragon;FaeBlessing;21",
+        "Quilboar;BrambleBurst;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Gargoyle;WingBuffet;22"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;23",
+        "MeatWagon;FiletTrebuchet;24",
+        "Ghoul;Ravenous;23",
+        "ArcaneBlast;Amplification;21",
+        "Quilboar;BrambleBurst;24",
+        "GryphonRider;MightyThrow;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "MaievLeader;Remorseless;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "GryphonRider;MightyThrow;25",
+        "DarkIronMiner;DwarvenAmbition;24",
+        "WhelpEggs;FlameBurst;24",
+        "DefiasBandits;PickLock;24",
+        "Quilboar;BrambleBurst;26"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "MurlocTidehunters;SafetyBubble;24",
+        "Quilboar;BrambleBurst;26",
+        "GoblinSapper;RocketBoots;21",
+        "Execute;Bloodthirsty;21",
+        "GryphonRider;MightyThrow;25",
+        "Huntress;DarnassianSteel;26"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;SpiritWard;24",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "DefiasBandits;PickLock;24",
+        "ChainLightning;BrilliantFlash;22",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Banshee;WillOfTheNecropolis;24",
+        "Ghoul;Ravenous;23",
+        "WhelpEggs;FlameBurst;24",
+        "Execute;Bloodthirsty;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Huntress;ElvenMight;26"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "WitchDoctor;SpiritWard;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Gargoyle;WingBuffet;22",
+        "GoblinSapper;RocketBoots;21",
+        "GryphonRider;MightyThrow;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;21",
+        "Quilboar;BrambleBurst;24",
+        "Chimaera;CorrosiveBreath;23",
+        "Huntress;ElvenMight;23",
+        "EarthElemental;ObsidianShard;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "MurlocTidehunters;SafetyBubble;23"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;25",
+        "DeepBreath;Attunement;22",
+        "DarkIronMiner;DwarvenAmbition;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "Pyromancer;Conflagrate;24",
+        "WitchDoctor;SpiritWard;24",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;23",
+        "DarkIronMiner;DwarvenAmbition;24",
+        "EarthElemental;ObsidianShard;24",
+        "Quilboar;BrambleBurst;26",
+        "Gargoyle;WingBuffet;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "DeepBreath;DoubleDragon;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Ghoul;BoneArmor;23",
+        "Banshee;WillOfTheNecropolis;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "MurlocTidehunters;SafetyBubble;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "DarkIronMiner;DwarvenAmbition;24"
+      ]
+    ],
+    "lastUpdate": 1719063089
+  },
+  "token": "87026cfe-ad7c-42f7-80d4-42a618be97ff"
+}

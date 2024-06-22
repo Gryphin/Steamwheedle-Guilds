@@ -1,0 +1,144 @@
+{
+  "data": {
+    "id": 51109446,
+    "btag": "DadPowers",
+    "name": "DadPowers",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 106,
+    "level": 33,
+    "pvpWins": 39,
+    "leaderA": "BloodmageThalnosLeader",
+    "leaderAWins": 19,
+    "leaderAHonor": 1020,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 13,
+    "leaderBHonor": 886,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 7,
+    "leaderCHonor": 887,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;16",
+        "Footmen;ShieldBash;17",
+        "GryphonRider;AirDrop;17",
+        "Blizzard;;12",
+        "Harpy;TrinketCollectors;18",
+        "Firehammer;MoultinMetal;17",
+        "DefiasBandits;DeadlyPoison;18"
+      ],
+      [
+        "TirionLeader;ByTheLight;20",
+        "S.A.F.E.PilotFlyingMachine;;15",
+        "DefiasBandits;DeadlyPoison;18",
+        "StonehoofTauren;Pummel;17",
+        "WhelpEggs;FlameBurst;17",
+        "GryphonRider;AirDrop;19",
+        "Banshee;;14"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;20",
+        "Quilboar;Bristleback;16",
+        "MurlocTidehunters;CarefulAim;17",
+        "GnollBrute;ThickHide;17",
+        "Vultures;TendonRip;17",
+        "GryphonRider;AirDrop;19",
+        "DefiasBandits;DeadlyPoison;18"
+      ],
+      [
+        "GrommashLeader;;7",
+        "WarsongGrunts;;7",
+        "OgreMage;;6",
+        "StonehoofTauren;;8",
+        "ChainLightning;;6",
+        "DarkspearTroll;;6",
+        "Shaman;;7"
+      ],
+      [
+        "RendLeader;Legionnaire;17",
+        "Flamewaker;Backdraft;17",
+        "WhelpEggs;FlameBurst;18",
+        "Drake;MotherDrake;17",
+        "Harpy;TrinketCollectors;18",
+        "Pyromancer;Pyroblast;17",
+        "WarsongGrunts;GuardDuty;15"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;19",
+        "Necromancer;CultOfTheDamned;20",
+        "SkeletonParty;5Man;20",
+        "CheatDeath;Apocalypse;17",
+        "DefiasBandits;DeadlyPoison;18",
+        "Abomination;Cannonball;20",
+        "Harpy;TrinketCollectors;18"
+      ],
+      [
+        "MaievLeader;;12",
+        "Huntress;ElvenMight;17",
+        "Footmen;ShieldBash;17",
+        "S.A.F.E.PilotFlyingMachine;;15",
+        "Gargoyle;ObsidianStatue;17",
+        "FaerieDragon;Invisibility;14",
+        "Chimaera;CorrosiveBreath;18"
+      ],
+      [
+        "CairneLeader;Aftershock;17",
+        "Shaman;;15",
+        "StonehoofTauren;Pummel;17",
+        "S.A.F.E.PilotFlyingMachine;;15",
+        "WitchDoctor;SpiritWard;19",
+        "DefiasBandits;DeadlyPoison;18",
+        "Harpy;TrinketCollectors;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "SkeletonWarrior;QuestingBuddies;16",
+        "Necromancer;CultOfTheDamned;20",
+        "SkeletonParty;5Man;20",
+        "DefiasBandits;DeadlyPoison;18",
+        "Harpy;TrinketCollectors;18",
+        "CheatDeath;Apocalypse;17"
+      ],
+      [
+        "SneedLeader;;11",
+        "BatRider;;12",
+        "Shaman;;11",
+        "MoltenGiant;;12",
+        "Harpy;TrinketCollectors;15",
+        "Drake;MotherDrake;14",
+        "DefiasBandits;DeadlyPoison;15"
+      ],
+      [
+        "DrakkisathLeader;;12",
+        "Drake;MotherDrake;15",
+        "Flamewaker;Backdraft;14",
+        "Pyromancer;;13",
+        "EarthElemental;;9",
+        "WhelpEggs;FlameBurst;15",
+        "LivingBomb;;11"
+      ],
+      [
+        "ThaurissanLeader;Hubris;15",
+        "Drake;MotherDrake;16",
+        "Firehammer;MoultinMetal;16",
+        "DefiasBandits;DeadlyPoison;17",
+        "MoltenGiant;BloodOfTheMountain;16",
+        "Pyromancer;Pyroblast;17",
+        "Harpy;TrinketCollectors;17"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;18",
+        "Necromancer;CultOfTheDamned;20",
+        "Gargoyle;ObsidianStatue;17",
+        "WitchDoctor;SpiritWard;17",
+        "Abomination;Cannonball;20",
+        "Harpy;TrinketCollectors;18",
+        "SkeletonParty;5Man;20"
+      ]
+    ],
+    "lastUpdate": 1719063153
+  },
+  "token": "71eb9176-3cb4-48fd-9228-f178384249f9"
+}

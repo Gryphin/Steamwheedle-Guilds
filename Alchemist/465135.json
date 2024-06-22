@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 465135,
+    "btag": "Trif",
+    "name": "Trif",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Cairne_Pose",
+    "skulls": 140,
+    "level": 43,
+    "pvpWins": 218,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 95,
+    "leaderAHonor": 3790,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 32,
+    "leaderBHonor": 3020,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 26,
+    "leaderCHonor": 3077,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "GryphonRider;OdynsFury;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "ChainLightning;BrilliantFlash;24",
+        "WhelpEggs;FlameBurst;21",
+        "StonehoofTauren;Momentum;24",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "TirionLeader;DivineShield;19",
+        "GryphonRider;OdynsFury;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Footmen;Fortification;18",
+        "WarsongRaider;SunderArmor;21",
+        "ChainLightning;BrilliantFlash;24",
+        "Ghoul;;18"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;InfectiousSwipes;21",
+        "GnollBrute;Rabid;21",
+        "StonehoofTauren;Momentum;24",
+        "Quilboar;BrambleBurst;21",
+        "WhelpEggs;FlameBurst;21",
+        "GryphonRider;OdynsFury;21"
+      ],
+      [
+        "GrommashLeader;;19",
+        "StonehoofTauren;Provoke;24",
+        "OgreMage;FrostfireBolt;24",
+        "WhelpEggs;FlameBurst;21",
+        "DarkIronMiner;GoldMine;21",
+        "ChainLightning;BrilliantFlash;24",
+        "Shaman;EarthShield;22"
+      ],
+      [
+        "RendLeader;;19",
+        "FireElemental;ImmolationAura;21",
+        "Drake;MotherDrake;21",
+        "Harpy;InfectiousSwipes;21",
+        "GryphonRider;OdynsFury;21",
+        "WhelpEggs;FlameBurst;21",
+        "Chimaera;FrostShock;21"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "ArcaneBlast;;17",
+        "SmokeBombSpell;;17",
+        "ChainLightning;BrilliantFlash;24",
+        "StonehoofTauren;Momentum;24",
+        "Harpy;InfectiousSwipes;21",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;21",
+        "Worgen;Premeditation;21",
+        "DefiasBandits;PickLock;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "ChainLightning;BrilliantFlash;24",
+        "Quilboar;BrambleBurst;21",
+        "GryphonRider;OdynsFury;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;BrambleBurst;21",
+        "Vultures;;17",
+        "GryphonRider;OdynsFury;21",
+        "WhelpEggs;FlameBurst;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Execute;KillingSpree;19"
+      ],
+      [
+        "CairneLeader;Reincarnation;24",
+        "OgreMage;FrostfireBolt;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "WitchDoctor;SpiritWard;24",
+        "Shaman;EarthShield;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;SpiritWard;24",
+        "WhelpEggs;FlameBurst;21",
+        "ChainLightning;BrilliantFlash;24",
+        "OgreMage;FrostfireBolt;24",
+        "GryphonRider;OdynsFury;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "StonehoofTauren;Momentum;24",
+        "OgreMage;FrostfireBolt;24",
+        "WarsongRaider;SunderArmor;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "ChainLightning;BrilliantFlash;24"
+      ],
+      [
+        "CharlgaLeader;;17",
+        "StonehoofTauren;Momentum;24",
+        "DarkspearTroll;BigBadVoodoo;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "OgreMage;FrostfireBolt;23",
+        "WarsongRaider;SunderArmor;21",
+        "ChainLightning;BrilliantFlash;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "WhelpEggs;FlameBurst;21",
+        "FireElemental;ImmolationAura;21",
+        "Drake;MotherDrake;21",
+        "DefiasBandits;PickLock;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "OgreMage;FrostfireBolt;24"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;20",
+        "FireElemental;ImmolationAura;21",
+        "WhelpEggs;FlameBurst;21",
+        "StonehoofTauren;Momentum;24",
+        "EarthElemental;ObsidianShard;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "OgreMage;FrostfireBolt;24",
+        "ChainLightning;BrilliantFlash;24",
+        "StonehoofTauren;Momentum;24",
+        "WhelpEggs;FlameBurst;21"
+      ]
+    ],
+    "lastUpdate": 1719063129
+  },
+  "token": "baf1915b-6ea6-4c04-85e3-dc98a95da334"
+}

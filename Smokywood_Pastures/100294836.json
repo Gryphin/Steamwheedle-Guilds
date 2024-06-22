@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 100294836,
+    "btag": "Tarom",
+    "name": "Tarom",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 150,
+    "level": 46,
+    "pvpWins": 4224,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 919,
+    "leaderAHonor": 3421,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 522,
+    "leaderBHonor": 3349,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 430,
+    "leaderCHonor": 3332,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "GryphonRider;MightyThrow;22",
+        "HarvestGolem;UnstableCore;22",
+        "DeepBreath;Attunement;23",
+        "Quilboar;Bristleback;23",
+        "Execute;KillingSpree;25",
+        "DefiasBandits;PickLock;22"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Huntress;ElvenMight;25",
+        "Quilboar;Bristleback;23",
+        "PolymorphSpell;GoldenFleece;22",
+        "Banshee;WillOfTheNecropolis;19",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;Bristleback;23",
+        "Prowler;PackLeader;22",
+        "EarthElemental;ObsidianShard;22",
+        "Execute;Bloodthirsty;25",
+        "SkeletonParty;RitualOfRime;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "Shaman;EarthShield;23",
+        "ChainLightning;StormsReach;22",
+        "Harpy;InfectiousSwipes;25",
+        "Execute;KillingSpree;25",
+        "Huntress;ElvenMight;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;22",
+        "WhelpEggs;FlameBurst;25",
+        "DeepBreath;Attunement;23",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;Bristleback;23",
+        "MurlocTidehunters;SafetyBubble;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "CheatDeath;Vampirism;18",
+        "Ghoul;BoneArmor;22",
+        "Execute;Bloodthirsty;25",
+        "HolyNova;Renew;21",
+        "ArcaneBlast;Amplification;18",
+        "PolymorphSpell;GoldenFleece;22"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;18",
+        "Huntress;ElvenMight;24",
+        "GryphonRider;MightyThrow;22",
+        "WhelpEggs;FlameBurst;25",
+        "Quilboar;Bristleback;23",
+        "Harpy;InfectiousSwipes;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;Bristleback;23",
+        "WitchDoctor;SpiritWard;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Shaman;EarthShield;23",
+        "Huntress;ElvenMight;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Shaman;EarthShield;22",
+        "Execute;Bloodthirsty;25",
+        "Huntress;Shadowmeld;25",
+        "Harpy;InfectiousSwipes;23",
+        "WitchDoctor;SpiritWard;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "MeatWagon;FiletTrebuchet;22",
+        "Ghoul;BoneArmor;22",
+        "Quilboar;Bristleback;23",
+        "PolymorphSpell;GoldenFleece;22",
+        "Harpy;InfectiousSwipes;25",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "SneedLeader;LandGrab;18",
+        "Shaman;EarthShield;22",
+        "WitchDoctor;SpiritWard;22",
+        "EarthElemental;ObsidianShard;21",
+        "WhelpEggs;FlameBurst;25",
+        "DeepBreath;DoubleDragon;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;18",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;25",
+        "d6df87a31e7c2ae44aafe5d70fda7322;bbae4f098e1016846811a50a1e02cbb7;22",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;22",
+        "076113c80ce43e64b918d85410683849;d1d4a698eb1bef54ca683c1293adec8d;22",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;24",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;9a83af5b4c2bdbb4dbe7cdf82834cfbf;25"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;19",
+        "Quilboar;Bristleback;23",
+        "Harpy;InfectiousSwipes;25",
+        "Huntress;ElvenMight;25",
+        "PolymorphSpell;GoldenFleece;22",
+        "Shaman;EarthShield;23",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "Pyromancer;Conflagrate;22",
+        "WhelpEggs;FlameBurst;25",
+        "Huntress;ElvenMight;25",
+        "Shaman;EarthShield;23",
+        "Quilboar;Bristleback;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;22",
+        "EarthElemental;ObsidianShard;22",
+        "DeepBreath;Attunement;23",
+        "HarvestGolem;UnstableCore;22",
+        "PolymorphSpell;GoldenFleece;22",
+        "DefiasBandits;PickLock;22",
+        "Huntress;Shadowmeld;25"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "SkeletonWarrior;Exhume;21",
+        "Ghoul;BoneArmor;22",
+        "Shaman;EarthShield;23",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;Bristleback;23",
+        "WhelpEggs;FlameBurst;25"
+      ]
+    ],
+    "lastUpdate": 1719062211
+  },
+  "token": "850a18a0-590f-4741-8fcb-d7b05e7c9ed5"
+}

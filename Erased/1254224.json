@@ -1,0 +1,126 @@
+{
+  "data": {
+    "id": 1254224,
+    "btag": "Pewt",
+    "name": "Pewt",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Cairne_Pose",
+    "skulls": 78,
+    "level": 34,
+    "pvpWins": 33,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 12,
+    "leaderAHonor": 1530,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 12,
+    "leaderBHonor": 1997,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 9,
+    "leaderCHonor": 1492,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "Huntress;Shadowmeld;18",
+        "Blizzard;ColdSnap;16",
+        "Execute;Bloodthirsty;15",
+        "GryphonRider;MightyThrow;15",
+        "Footmen;;14"
+      ],
+      [
+        "TirionLeader;DivineShield;15",
+        "Prowler;PredatoryInstincts;17",
+        "Quilboar;TunnelVision;16",
+        "BatRider;EnchantedVials;16",
+        "MurlocTidehunters;SafetyBubble;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "Execute;Bloodthirsty;15"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;16",
+        "Prowler;PredatoryInstincts;17",
+        "MurlocTidehunters;SafetyBubble;16",
+        "Quilboar;TunnelVision;16",
+        "Gargoyle;AerialSuperiority;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "BatRider;EnchantedVials;16"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;16",
+        "WhelpEggs;FlameBurst;17",
+        "DarkIronMiner;GoldMine;15",
+        "BatRider;EnchantedVials;16",
+        "Prowler;PredatoryInstincts;17",
+        "Banshee;WillOfTheNecropolis;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16"
+      ],
+      [
+        "HoggerLeader;HamHock;16",
+        "MurlocTidehunters;SafetyBubble;16",
+        "Quilboar;TunnelVision;16",
+        "BatRider;EnchantedVials;16",
+        "Execute;Bloodthirsty;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "Banshee;WillOfTheNecropolis;16"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "StonehoofTauren;Momentum;16",
+        "BatRider;EnchantedVials;16",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Execute;Bloodthirsty;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "GryphonRider;MightyThrow;15"
+      ],
+      [
+        "BaronRivendareLeader;;10",
+        "SkeletonWarrior;;9",
+        "Ghoul;;8",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;12",
+        "Quilboar;;10",
+        "WhelpEggs;;10",
+        "Execute;;10"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;16",
+        "Quilboar;TunnelVision;16",
+        "MurlocTidehunters;SafetyBubble;16",
+        "Prowler;PredatoryInstincts;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "WhelpEggs;FlameBurst;17",
+        "BatRider;EnchantedVials;16"
+      ],
+      [
+        "DrakkisathLeader;;14",
+        "StonehoofTauren;Momentum;15",
+        "BatRider;EnchantedVials;16",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "ChainLightning;;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "WarsongGrunts;;15"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;14",
+        "Quilboar;TunnelVision;16",
+        "GnollBrute;Rabid;15",
+        "GryphonRider;MightyThrow;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "MurlocTidehunters;SafetyBubble;16",
+        "BatRider;EnchantedVials;16"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;15",
+        "Ghoul;BoneArmor;15",
+        "PlagueFarmer;SplashingPumpkins;15",
+        "BatRider;EnchantedVials;16",
+        "Banshee;WillOfTheNecropolis;16",
+        "WhelpEggs;FlameBurst;17",
+        "Execute;Bloodthirsty;15"
+      ]
+    ],
+    "lastUpdate": 1719063112
+  },
+  "token": "8b55e1e3-f5b1-472a-8bd3-50465de95ec1"
+}

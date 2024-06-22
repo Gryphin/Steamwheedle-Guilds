@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 51452049,
+    "btag": "Budget78",
+    "name": "Budget78",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 852,
+    "leaderA": "ThaurissanLeader",
+    "leaderAWins": 53,
+    "leaderAHonor": 4160,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 114,
+    "leaderBHonor": 4031,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 102,
+    "leaderCHonor": 4147,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;25",
+        "Blizzard;ColdSnap;25",
+        "HarvestGolem;BountifulHarvest;24",
+        "DeepBreath;DoubleDragon;27",
+        "DefiasBandits;PickLock;25",
+        "MeatWagon;FiletTrebuchet;25",
+        "Execute;KillingSpree;26"
+      ],
+      [
+        "TirionLeader;DivineShield;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "DefiasBandits;PickLock;25",
+        "StonehoofTauren;Momentum;25",
+        "GryphonRider;AirDrop;26",
+        "DeepBreath;DoubleDragon;27",
+        "Shaman;EarthShield;27"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;25",
+        "Quilboar;TunnelVision;25",
+        "MurlocTidehunters;SafetyBubble;24",
+        "GnollBrute;Rabid;22",
+        "WhelpEggs;Rookery;25",
+        "Harpy;InfectiousSwipes;25",
+        "Execute;Bloodthirsty;25"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;27",
+        "Shaman;EarthwallTotem;27",
+        "Execute;Bloodthirsty;26",
+        "MoltenGiant;Bolster;24",
+        "Necromancer;JeweledSkulls;27",
+        "DeepBreath;Attunement;27",
+        "GryphonRider;AirDrop;26"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;27",
+        "DeepBreath;MeltingPoint;27",
+        "EarthElemental;ObsidianShard;25",
+        "GryphonRider;AirDrop;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Quilboar;BrambleBurst;25",
+        "Gargoyle;AerialSuperiority;24"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;26",
+        "Ghoul;TasteForBlood;25",
+        "CheatDeath;Vampirism;25",
+        "Execute;KillingSpree;26",
+        "HolyNova;AmplifyMagic;25",
+        "SmokeBombSpell;BandOfThieves;24",
+        "ArcaneBlast;Torrent;25"
+      ],
+      [
+        "MaievLeader;Shadowstep;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Worgen;Premeditation;25",
+        "WhelpEggs;FlameBurst;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "SkeletonParty;5Man;25",
+        "DarkIronMiner;DwarvenAmbition;24"
+      ],
+      [
+        "HoggerLeader;HamHock;25",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;BrambleBurst;25",
+        "GryphonRider;AirDrop;26",
+        "WhelpEggs;Rookery;25",
+        "WitchDoctor;AmplifyCurse;25",
+        "DefiasBandits;PickLock;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;25",
+        "WarsongRaider;SunderArmor;24",
+        "Shaman;EarthwallTotem;27",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Quilboar;BrambleBurst;25",
+        "Execute;KillingSpree;26",
+        "DeepBreath;Attunement;27"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;27",
+        "Necromancer;JeweledSkulls;27",
+        "Abomination;Cannonball;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "GryphonRider;AirDrop;26",
+        "DeepBreath;MeltingPoint;27",
+        "Shaman;EarthShield;27"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;25",
+        "Execute;Overpower;26",
+        "StonehoofTauren;Momentum;25",
+        "FireElemental;ImmolationAura;24",
+        "Shaman;EarthwallTotem;27",
+        "DeepBreath;DoubleDragon;27",
+        "Necromancer;JeweledSkulls;27"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;25",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;25",
+        "4a587c88483e48d42869f766eb08123b;c9a2f90e4742cff47bd8ffa76ca8c19b;27",
+        "724ebbab65fd2477db54c91707f4a6d8;7b5cacdfa38f8874eb80a5583924aca4;26",
+        "4662e633273a0d149b61d23732a5ed53;832016daf97d7344f90db348e810b9f6;26",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;27",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;25"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;24",
+        "Quilboar;BrambleBurst;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "Prowler;OnTheProwl;24",
+        "WitchDoctor;AmplifyCurse;25",
+        "GryphonRider;AirDrop;26",
+        "HarvestGolem;UnstableCore;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;27",
+        "DeepBreath;Attunement;27",
+        "WhelpEggs;FlameBurst;25",
+        "Necromancer;JeweledSkulls;27",
+        "Pyromancer;Conflagrate;25",
+        "Harpy;InfectiousSwipes;25",
+        "Shaman;EarthShield;27"
+      ],
+      [
+        "ThaurissanLeader;Hubris;25",
+        "DeepBreath;Attunement;27",
+        "DarkIronMiner;GoldMine;24",
+        "Prowler;PredatoryInstincts;24",
+        "Huntress;DarnassianSteel;25",
+        "GryphonRider;MightyThrow;26",
+        "Execute;Bloodthirsty;26"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;25",
+        "Necromancer;JeweledSkulls;27",
+        "Abomination;Cannonball;26",
+        "Shaman;EarthShield;27",
+        "DeepBreath;MeltingPoint;27",
+        "GryphonRider;AirDrop;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+      ]
+    ],
+    "lastUpdate": 1719062206
+  },
+  "token": "d3c00ddc-a526-4fb5-add7-7228ff8245d0"
+}

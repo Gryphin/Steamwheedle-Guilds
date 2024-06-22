@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 101771772,
+    "btag": "Mantotohpa",
+    "name": "Mantotohpa",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Thaurissan_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 1130,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 88,
+    "leaderAHonor": 4074,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 84,
+    "leaderBHonor": 4060,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 100,
+    "leaderCHonor": 4056,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;25",
+        "FireElemental;FanTheFlames;22",
+        "ArcaneBlast;Torrent;24",
+        "GnollBrute;Rabid;22",
+        "PlagueFarmer;SplashingPumpkins;24",
+        "Gargoyle;WingBuffet;24",
+        "Necromancer;JeweledSkulls;24"
+      ],
+      [
+        "TirionLeader;DivineShield;25",
+        "Banshee;WillOfTheNecropolis;22",
+        "MeatWagon;FiletTrebuchet;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "ArcaneBlast;Torrent;24",
+        "Necromancer;JeweledSkulls;24",
+        "Execute;Bloodthirsty;25"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;25",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Quilboar;BrambleBurst;26",
+        "FireElemental;FanTheFlames;24",
+        "Execute;Bloodthirsty;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "GryphonRider;MightyThrow;26"
+      ],
+      [
+        "GrommashLeader;Bladestorm;22",
+        "Execute;Bloodthirsty;25",
+        "WitchDoctor;SpiritWard;25",
+        "WhelpEggs;FlameBurst;25",
+        "BatRider;EnchantedVials;25",
+        "Shaman;EarthShield;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;25",
+        "Huntress;Shadowmeld;25",
+        "ArcaneBlast;Torrent;24",
+        "MeatWagon;FiletTrebuchet;22",
+        "Necromancer;JeweledSkulls;24",
+        "Gargoyle;WingBuffet;24",
+        "Banshee;WillOfTheNecropolis;22"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;25",
+        "Ghoul;BoneArmor;25",
+        "PlagueFarmer;SplashingPumpkins;24",
+        "PolymorphSpell;GoldenFleece;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "GryphonRider;MightyThrow;26",
+        "Execute;Bloodthirsty;25"
+      ],
+      [
+        "MaievLeader;Remorseless;25",
+        "Worgen;LoneWolf;22",
+        "HarvestGolem;UnstableCore;25",
+        "Quilboar;BrambleBurst;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "GryphonRider;MightyThrow;26",
+        "Execute;Bloodthirsty;25"
+      ],
+      [
+        "HoggerLeader;HamHock;26",
+        "Quilboar;BrambleBurst;26",
+        "PolymorphSpell;GoldenFleece;25",
+        "FireElemental;FanTheFlames;24",
+        "GryphonRider;MightyThrow;26",
+        "MurlocTidehunters;SafetyBubble;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26"
+      ],
+      [
+        "CairneLeader;Reincarnation;25",
+        "StonehoofTauren;Momentum;26",
+        "WitchDoctor;SpiritWard;25",
+        "DarkspearTroll;BigBadVoodoo;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Harpy;TrinketCollectors;25",
+        "ChainLightning;BrilliantFlash;25"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;25",
+        "Necromancer;JeweledSkulls;24",
+        "Gargoyle;WingBuffet;24",
+        "MeatWagon;FiletTrebuchet;22",
+        "ArcaneBlast;Torrent;24",
+        "FireElemental;FanTheFlames;24",
+        "Banshee;WillOfTheNecropolis;22"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;24",
+        "WitchDoctor;SpiritWard;25",
+        "DarkspearTroll;BigBadVoodoo;26",
+        "Gargoyle;WingBuffet;24",
+        "Pyromancer;Pyroblast;25",
+        "Execute;Bloodthirsty;25",
+        "Ghoul;BoneArmor;25"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;1217400d396347e40a5ba4a180d3cebf;21",
+        "d6df87a31e7c2ae44aafe5d70fda7322;bbae4f098e1016846811a50a1e02cbb7;25",
+        "4d60f72627b7c36468f3107e40109845;fcc5c64ae7d56af4886c6cba42a594c6;25",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;24",
+        "724ebbab65fd2477db54c91707f4a6d8;8f9bd07f0178c1d46a071bcef041138b;26",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;26",
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;26"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;24",
+        "Quilboar;BrambleBurst;26",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Huntress;Shadowmeld;25",
+        "HarvestGolem;UnstableCore;25",
+        "Execute;Bloodthirsty;25",
+        "Shaman;EarthwallTotem;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;26",
+        "Pyromancer;Pyroblast;25",
+        "EarthElemental;ObsidianShard;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Shaman;EarthShield;25",
+        "DarkspearTroll;BigBadVoodoo;26",
+        "DarkIronMiner;DwarvenAmbition;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;25",
+        "EarthElemental;ObsidianShard;25",
+        "DarkIronMiner;DwarvenAmbition;25",
+        "FireElemental;FanTheFlames;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "GryphonRider;MightyThrow;26",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "Ghoul;BoneArmor;25",
+        "PlagueFarmer;SplashingPumpkins;25",
+        "DarkspearTroll;BigBadVoodoo;26",
+        "StonehoofTauren;Momentum;26",
+        "Quilboar;BrambleBurst;26",
+        "Harpy;TrinketCollectors;25"
+      ]
+    ],
+    "lastUpdate": 1719062208
+  },
+  "token": "15ae2d56-a622-48db-8119-538d465b4149"
+}

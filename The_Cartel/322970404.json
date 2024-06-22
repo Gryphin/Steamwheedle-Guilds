@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 322970404,
+    "btag": "OldGumbo",
+    "name": "OldGumbo",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMurloc_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 603,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 42,
+    "leaderAHonor": 3995,
+    "leaderB": "CharlgaLeader",
+    "leaderBWins": 36,
+    "leaderBHonor": 4077,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 62,
+    "leaderCHonor": 4005,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "GryphonRider;MightyThrow;24",
+        "Huntress;Shadowmeld;24",
+        "Blizzard;ColdSnap;22",
+        "Quilboar;BrambleBurst;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "Execute;Overpower;24"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "DefiasBandits;PickLock;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
+        "FireElemental;ImmolationAura;24",
+        "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;FlameBurst;26",
+        "MeatWagon;FiletTrebuchet;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
+        "Quilboar;BrambleBurst;25",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;21",
+        "AngryChickens;Snackrifice;21",
+        "WarsongRaider;RazingFocus;22",
+        "Chimaera;CorrosiveBreath;22"
+      ],
+      [
+        "GrommashLeader;MirrorImage;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Execute;KillingSpree;24",
+        "Prowler;OnTheProwl;24",
+        "WitchDoctor;SpiritWard;25",
+        "GoblinSapper;RocketBoots;22",
+        "Quilboar;BrambleBurst;25"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;22",
+        "WhelpEggs;FlameBurst;26",
+        "DarkIronMiner;GoldMine;24",
+        "Chimaera;CorrosiveBreath;22",
+        "GryphonRider;MightyThrow;24",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;BrambleBurst;25"
+      ],
+      [
+        "61df20ddc31aff04dbc5393d831fbba5;04858f250a124bd4b97d871656593429;22",
+        "aefd32eb6d8243047a104a9cf4f3204b;23e33cc75805bb849aaf74e58e90b5bb;22",
+        "8784b095b97819f42a7e7e8c388007ad;ad77481528767274f9b09234cb4c6e27;24",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;22",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;26",
+        "d8382e21b7209419192aa9de55d95a08;46f7b9e7fa69e0647952f2b7e5f13d1c;22",
+        "ee3f41404e84e49938a7b61acc42d304;e6a5fc391c3b1104a899b09a5170642d;22"
+      ],
+      [
+        "6e131d81c46039f4fae131f37fd5cb00;14583545e4f39fb4da4fb634fe6b6a90;22",
+        "31e3de7f91bd5b24c85f9a9297a6acbf;23a44036eedf7e245a318747d0cfae1b;22",
+        "a85ce4fda55994aa6ad89b2ecdb2f554;5c2479076d22c4142b11c04250fb21a8;22",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;22",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;26",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;22",
+        "af242a8c5fe2242dabfaab2a6e2174c2;ff2db354d9405374eb00c6bc91989553;22"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Prowler;PredatoryInstincts;24",
+        "PolymorphSpell;GoldenFleece;22",
+        "Quilboar;BrambleBurst;25",
+        "MurlocTidehunters;SafetyBubble;24",
+        "Vultures;TendonRip;22",
+        "DeepBreath;Attunement;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "OgreMage;FrostfireBolt;22",
+        "StonehoofTauren;Momentum;22",
+        "WitchDoctor;SpiritWard;24",
+        "Shaman;EarthShield;24",
+        "Prowler;OnTheProwl;22",
+        "ChainLightning;Reverberation;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Gargoyle;WingBuffet;22",
+        "Banshee;WillOfTheNecropolis;24",
+        "WhelpEggs;FlameBurst;26",
+        "Harpy;InfectiousSwipes;24",
+        "Chimaera;CorrosiveBreath;22",
+        "Execute;Overpower;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;22",
+        "Execute;Bloodthirsty;24",
+        "WitchDoctor;SpiritWard;24",
+        "Gargoyle;WingBuffet;22",
+        "Chimaera;CorrosiveBreath;22",
+        "Pyromancer;Conflagrate;24",
+        "Quilboar;BrambleBurst;25"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;22",
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;24",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;26",
+        "ee3f41404e84e49938a7b61acc42d304;e418dbe4cfd227d4c911770c6253e689;22",
+        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;24",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;9a83af5b4c2bdbb4dbe7cdf82834cfbf;24",
+        "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;22",
+        "PolymorphSpell;GoldenFleece;22",
+        "Prowler;OnTheProwl;24",
+        "GoblinSapper;RocketBoots;22",
+        "GryphonRider;MightyThrow;24",
+        "Quilboar;BrambleBurst;25",
+        "Abomination;NoxiousPresence;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "WhelpEggs;FlameBurst;26",
+        "Pyromancer;Conflagrate;24",
+        "WitchDoctor;SpiritWard;25",
+        "Shaman;EarthShield;24",
+        "Execute;Bloodthirsty;24",
+        "Huntress;Shadowmeld;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;23",
+        "WhelpEggs;FlameBurst;26",
+        "DeepBreath;Attunement;24",
+        "Quilboar;BrambleBurst;25",
+        "HarvestGolem;TrojanChickens;22",
+        "GryphonRider;MightyThrow;24",
+        "MurlocTidehunters;SafetyBubble;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "CheatDeath;Vampirism;22",
+        "Ghoul;BoneArmor;22",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "SmokeBombSpell;ThroughTheShadows;22",
+        "WitchDoctor;SpiritWard;25",
+        "GoblinSapper;RocketBoots;22"
+      ]
+    ],
+    "lastUpdate": 1719062213
+  },
+  "token": "ed363b10-a6d0-4b96-9c9f-274a73c9fd54"
+}

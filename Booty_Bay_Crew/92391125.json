@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 92391125,
+    "btag": "DuckFat",
+    "name": "DuckFat",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 95,
+    "level": 31,
+    "pvpWins": 250,
+    "leaderA": "RendLeader",
+    "leaderAWins": 18,
+    "leaderAHonor": 3386,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 43,
+    "leaderBHonor": 3365,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 32,
+    "leaderCHonor": 3411,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;17",
+        "GryphonRider;MightyThrow;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "HolyNova;;14",
+        "Huntress;Shadowmeld;17",
+        "Quilboar;Bristleback;18",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "TirionLeader;DivineShield;19",
+        "GryphonRider;MightyThrow;18",
+        "Huntress;Shadowmeld;17",
+        "Quilboar;Bristleback;18",
+        "WhelpEggs;FlameBurst;17",
+        "Harpy;InfectiousSwipes;17",
+        "HolyNova;;15"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;15",
+        "GnollBrute;Rabid;15",
+        "MurlocTidehunters;SafetyBubble;17",
+        "Abomination;NoxiousPresence;16",
+        "GryphonRider;MightyThrow;17",
+        "Quilboar;Bristleback;18",
+        "Ghoul;BoneArmor;17"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "Shaman;EarthShield;17",
+        "Harpy;InfectiousSwipes;17",
+        "GryphonRider;MightyThrow;18",
+        "Chimaera;Leviathan;15",
+        "Quilboar;Bristleback;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;17",
+        "WhelpEggs;FlameBurst;17",
+        "Pyromancer;Conflagrate;16",
+        "Gargoyle;WingBuffet;16",
+        "FaerieDragon;FaeBlessing;17",
+        "Quilboar;Bristleback;18",
+        "HolyNova;;15"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Gargoyle;WingBuffet;16",
+        "Necromancer;JeweledSkulls;17",
+        "ArcaneBlast;Amplification;15",
+        "WhelpEggs;FlameBurst;17",
+        "Quilboar;Bristleback;18",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Prowler;;15",
+        "MurlocTidehunters;SafetyBubble;17",
+        "GryphonRider;MightyThrow;18",
+        "Harpy;InfectiousSwipes;17",
+        "Quilboar;Bristleback;18",
+        "ChainLightning;Reverberation;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "Shaman;EarthShield;17",
+        "WitchDoctor;;14",
+        "GryphonRider;MightyThrow;18",
+        "MurlocTidehunters;SafetyBubble;17",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Necromancer;JeweledSkulls;17",
+        "Ghoul;BoneArmor;18",
+        "Quilboar;Bristleback;18",
+        "Harpy;InfectiousSwipes;17",
+        "GryphonRider;MightyThrow;18",
+        "Execute;Bloodthirsty;14"
+      ],
+      [
+        "SneedLeader;;9",
+        "BatRider;;8",
+        "GryphonRider;;10",
+        "Quilboar;;10",
+        "Harpy;InfectiousSwipes;13",
+        "Huntress;Shadowmeld;13",
+        "Blizzard;;10"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;16",
+        "Quilboar;Bristleback;17",
+        "Raptors;;11",
+        "Huntress;Shadowmeld;17",
+        "Chimaera;Leviathan;14",
+        "WhelpEggs;FlameBurst;16",
+        "MoltenGiant;;12"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;17",
+        "WhelpEggs;FlameBurst;17",
+        "Pyromancer;Conflagrate;16",
+        "Necromancer;JeweledSkulls;17",
+        "MurlocTidehunters;SafetyBubble;17",
+        "Quilboar;Bristleback;18",
+        "Execute;Bloodthirsty;14"
+      ],
+      [
+        "ThaurissanLeader;Hubris;15",
+        "WhelpEggs;FlameBurst;17",
+        "Pyromancer;Conflagrate;16",
+        "Quilboar;Bristleback;18",
+        "Ghoul;BoneArmor;17",
+        "Necromancer;JeweledSkulls;17",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;17",
+        "Ghoul;BoneArmor;17",
+        "Necromancer;JeweledSkulls;17",
+        "GryphonRider;MightyThrow;18",
+        "Quilboar;Bristleback;18",
+        "WhelpEggs;FlameBurst;17",
+        "Execute;Bloodthirsty;14"
+      ]
+    ],
+    "lastUpdate": 1719063117
+  },
+  "token": "ea00cd51-11b1-4530-bea6-6352158a9b85"
+}

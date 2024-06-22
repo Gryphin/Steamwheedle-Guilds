@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 349413804,
+    "btag": "Anomaly",
+    "name": "Anomaly",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 135,
+    "level": 40,
+    "pvpWins": 319,
+    "leaderA": "JainaLeader",
+    "leaderAWins": 30,
+    "leaderAHonor": 4057,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 24,
+    "leaderBHonor": 3977,
+    "leaderC": "ThaurissanLeader",
+    "leaderCWins": 25,
+    "leaderCHonor": 3984,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;20",
+        "DefiasBandits;PickLock;23",
+        "HarvestGolem;UnstableCore;18",
+        "Blizzard;ColdSnap;18",
+        "GryphonRider;MightyThrow;20",
+        "Quilboar;BrambleBurst;23",
+        "Execute;Bloodthirsty;19"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Footmen;Fortification;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;Bristleback;21",
+        "WitchDoctor;SpiritWard;21",
+        "GryphonRider;MightyThrow;20",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;InfectiousSwipes;19",
+        "Quilboar;BrambleBurst;23",
+        "Prowler;OnTheProwl;18",
+        "PolymorphSpell;GoldenFleece;19",
+        "DarkIronMiner;DwarvenAmbition;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "StonehoofTauren;Momentum;20",
+        "Shaman;EarthShield;21",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;BrambleBurst;23",
+        "BatRider;EnchantedVials;18",
+        "PlagueFarmer;SplashingPumpkins;17"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "WhelpEggs;FlameBurst;21",
+        "LivingBomb;ChainReaction;16",
+        "GryphonRider;MightyThrow;20",
+        "Banshee;WillOfTheNecropolis;17",
+        "DefiasBandits;DeadlyPoison;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;18",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "SkeletonWarrior;Exhume;17",
+        "Execute;Bloodthirsty;19",
+        "Quilboar;Bristleback;21",
+        "WhelpEggs;FlameBurst;21",
+        "FireElemental;ImmolationAura;19"
+      ],
+      [
+        "MaievLeader;Remorseless;17",
+        "Footmen;Fortification;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;Bristleback;21",
+        "LivingBomb;ChainReaction;16",
+        "BatRider;EnchantedVials;17",
+        "WitchDoctor;SpiritWard;18"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "PolymorphSpell;GoldenFleece;18",
+        "Chimaera;CorrosiveBreath;20",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;19",
+        "WitchDoctor;SpiritWard;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "Shaman;EarthShield;21",
+        "WitchDoctor;SpiritWard;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;Bristleback;23",
+        "Drake;MotherDrake;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "Ghoul;BoneArmor;20",
+        "Quilboar;Bristleback;23",
+        "Execute;Bloodthirsty;19",
+        "Harpy;InfectiousSwipes;19",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "SneedLeader;LandGrab;18",
+        "Shaman;EarthShield;21",
+        "OgreMage;FrostfireBolt;21",
+        "Gargoyle;ObsidianStatue;17",
+        "WitchDoctor;SpiritWard;21",
+        "Quilboar;Bristleback;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;17",
+        "Chimaera;CorrosiveBreath;20",
+        "PolymorphSpell;GoldenFleece;18",
+        "Harpy;InfectiousSwipes;19",
+        "DarkIronMiner;DwarvenAmbition;20",
+        "Execute;Bloodthirsty;18",
+        "HolyNova;Renew;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Drake;MotherDrake;21",
+        "Pyromancer;Conflagrate;21",
+        "Shaman;EarthShield;22",
+        "Quilboar;BrambleBurst;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "PolymorphSpell;GoldenFleece;19",
+        "Quilboar;BrambleBurst;23",
+        "HarvestGolem;UnstableCore;18",
+        "MurlocTidehunters;SafetyBubble;19",
+        "GryphonRider;MightyThrow;20",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;17",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "SkeletonWarrior;Exhume;17",
+        "Execute;Bloodthirsty;19",
+        "WhelpEggs;FlameBurst;21",
+        "FireElemental;ImmolationAura;19",
+        "Quilboar;Bristleback;23"
+      ]
+    ],
+    "lastUpdate": 1719063102
+  },
+  "token": "30d8c76f-642b-4fb0-a8de-4853ee448ad2"
+}

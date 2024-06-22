@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 21455,
+    "btag": "Shtmgn",
+    "name": "Shtmgn",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 149,
+    "level": 43,
+    "pvpWins": 871,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 116,
+    "leaderAHonor": 4023,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 107,
+    "leaderBHonor": 4069,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 58,
+    "leaderCHonor": 3908,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;19",
+        "GryphonRider;MightyThrow;21",
+        "HarvestGolem;UnstableCore;19",
+        "Blizzard;ColdSnap;21",
+        "Quilboar;BrambleBurst;21",
+        "Execute;KillingSpree;19",
+        "Shaman;EarthwallTotem;21"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "GryphonRider;MightyThrow;21",
+        "Huntress;Shadowmeld;21",
+        "FireElemental;ImmolationAura;24",
+        "Shaman;EarthwallTotem;21",
+        "Chimaera;CorrosiveBreath;23",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;23",
+        "PolymorphSpell;GoldenFleece;20",
+        "Quilboar;BrambleBurst;21",
+        "FireElemental;ImmolationAura;24",
+        "WitchDoctor;SpiritWard;21",
+        "Execute;KillingSpree;19",
+        "Shaman;EarthwallTotem;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;18",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "WarsongRaider;SunderArmor;21",
+        "FireElemental;ImmolationAura;23",
+        "Chimaera;FrostShock;23",
+        "Huntress;Shadowmeld;21",
+        "Flamewaker;Backdraft;21"
+      ],
+      [
+        "RendLeader;Legionnaire;19",
+        "FireElemental;ImmolationAura;23",
+        "WhelpEggs;FlameBurst;20",
+        "Chimaera;FrostShock;23",
+        "Huntress;Shadowmeld;21",
+        "Flamewaker;Backdraft;21",
+        "Gargoyle;WingBuffet;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "Ghoul;Ravenous;20",
+        "CheatDeath;;17",
+        "SmokeBombSpell;ThroughTheShadows;18",
+        "ArcaneBlast;Amplification;19",
+        "PolymorphSpell;GoldenFleece;20",
+        "HolyNova;InnerFire;19"
+      ],
+      [
+        "MaievLeader;Shadowstep;17",
+        "GryphonRider;MightyThrow;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "WhelpEggs;;17",
+        "Quilboar;Bristleback;18",
+        "Chimaera;FrostShock;19",
+        "FireElemental;ImmolationAura;20"
+      ],
+      [
+        "HoggerLeader;HamHock;23",
+        "Quilboar;BrambleBurst;21",
+        "PolymorphSpell;GoldenFleece;20",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Execute;KillingSpree;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "CairneLeader;Plainsrunning;23",
+        "Shaman;EarthwallTotem;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Flamewaker;Engulf;21",
+        "OgreMage;FrostfireBolt;21",
+        "FireElemental;ImmolationAura;24",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;21",
+        "Ghoul;Ravenous;20",
+        "Necromancer;JeweledSkulls;18",
+        "Flamewaker;Engulf;21",
+        "WitchDoctor;SpiritWard;21",
+        "Chimaera;CorrosiveBreath;23",
+        "FireElemental;ImmolationAura;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Shaman;EarthShield;19",
+        "WarsongRaider;SunderArmor;20",
+        "Flamewaker;Backdraft;21",
+        "Huntress;Shadowmeld;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;22",
+        "Quilboar;BrambleBurst;21",
+        "PolymorphSpell;GoldenFleece;20",
+        "Prowler;OnTheProwl;21",
+        "WitchDoctor;SpiritWard;21",
+        "Blizzard;ColdSnap;21",
+        "Execute;KillingSpree;19"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Drake;MotherDrake;21",
+        "Pyromancer;Conflagrate;19",
+        "Shaman;EarthShield;21",
+        "WitchDoctor;SpiritWard;21",
+        "OgreMage;FrostfireBolt;21",
+        "Chimaera;CorrosiveBreath;23"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;21",
+        "PolymorphSpell;GoldenFleece;20",
+        "Execute;KillingSpree;19",
+        "Prowler;OnTheProwl;21",
+        "ArcaneBlast;Amplification;19",
+        "Huntress;Shadowmeld;21",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "CheatDeath;;17",
+        "Ghoul;Ravenous;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "GoblinSapper;RocketBoots;18",
+        "WitchDoctor;SpiritWard;21",
+        "SmokeBombSpell;ThroughTheShadows;18"
+      ]
+    ],
+    "lastUpdate": 1719063145
+  },
+  "token": "a28b9dcd-27dd-4b26-87cf-04d0e731bfce"
+}

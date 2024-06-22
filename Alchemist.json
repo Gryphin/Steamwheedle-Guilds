@@ -12,7 +12,7 @@
         "skulls": 125,
         "honor": 4243,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719062147
+        "lastUpdate": 1719063129
       },
       {
         "id": 122270038,
@@ -21,7 +21,7 @@
         "skulls": 118,
         "honor": 4681,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062147
+        "lastUpdate": 1719063129
       },
       {
         "id": 55744095,
@@ -30,7 +30,7 @@
         "skulls": 117,
         "honor": 9224,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062147
+        "lastUpdate": 1719063129
       },
       {
         "id": 465135,
@@ -39,7 +39,7 @@
         "skulls": 140,
         "honor": 9887,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062148
+        "lastUpdate": 1719063129
       },
       {
         "id": 73505935,
@@ -48,7 +48,7 @@
         "skulls": 105,
         "honor": 4408,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062148
+        "lastUpdate": 1719063129
       },
       {
         "id": 1833355,
@@ -57,7 +57,7 @@
         "skulls": 136,
         "honor": 5369,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062148
+        "lastUpdate": 1719063129
       },
       {
         "id": 394447133,
@@ -66,16 +66,7 @@
         "skulls": 150,
         "honor": 12234,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062148
-      },
-      {
-        "id": 881911616,
-        "name": "SnarkyGoblin",
-        "btag": "SnarkyGoblin",
-        "skulls": 90,
-        "honor": 7996,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062148
+        "lastUpdate": 1719063130
       },
       {
         "id": 52454502,
@@ -84,16 +75,7 @@
         "skulls": 135,
         "honor": 8180,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062148
-      },
-      {
-        "id": 51037246,
-        "name": "AFKyle",
-        "btag": "AFKyle",
-        "skulls": 120,
-        "honor": 8701,
-        "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062149
+        "lastUpdate": 1719063130
       },
       {
         "id": 304680812,
@@ -102,7 +84,7 @@
         "skulls": 139,
         "honor": 10301,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062149
+        "lastUpdate": 1719063131
       },
       {
         "id": 937345,
@@ -111,7 +93,7 @@
         "skulls": 121,
         "honor": 6266,
         "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719062149
+        "lastUpdate": 1719063131
       },
       {
         "id": 10017390,
@@ -120,7 +102,7 @@
         "skulls": 134,
         "honor": 4273,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062150
+        "lastUpdate": 1719063131
       },
       {
         "id": 65321018,
@@ -129,7 +111,7 @@
         "skulls": 150,
         "honor": 11391,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062150
+        "lastUpdate": 1719063131
       },
       {
         "id": 50104215,
@@ -138,7 +120,7 @@
         "skulls": 139,
         "honor": 8304,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719062150
+        "lastUpdate": 1719063131
       },
       {
         "id": 80368787,
@@ -147,16 +129,7 @@
         "skulls": 105,
         "honor": 7772,
         "avatar": "CombatHUD_Tex_Player_Default",
-        "lastUpdate": 1719062149
-      },
-      {
-        "id": 2065635,
-        "name": "Raiden",
-        "btag": "Raiden",
-        "skulls": 129,
-        "honor": 5146,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062149
+        "lastUpdate": 1719063131
       },
       {
         "id": 1961457,
@@ -165,7 +138,7 @@
         "skulls": 140,
         "honor": 5556,
         "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719062149
+        "lastUpdate": 1719063132
       },
       {
         "id": 1547705,
@@ -174,11 +147,38 @@
         "skulls": 116,
         "honor": 11202,
         "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719062150
+        "lastUpdate": 1719063132
+      },
+      {
+        "id": 51037246,
+        "name": "AFKyle",
+        "btag": "AFKyle",
+        "skulls": 120,
+        "honor": 8701,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719063130
+      },
+      {
+        "id": 2065635,
+        "name": "Raiden",
+        "btag": "Raiden",
+        "skulls": 129,
+        "honor": 5146,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063132
+      },
+      {
+        "id": 881911616,
+        "name": "SnarkyGoblin",
+        "btag": "SnarkyGoblin",
+        "skulls": 90,
+        "honor": 7996,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063130
       }
     ],
-    "lastUpdate": 1719062147
+    "lastUpdate": 1719063128
   },
-  "token": "76742ce4-c40f-47b0-983b-a94d276f8788",
-  "link": "https://localhost:7080/guild/202672512?token=76742ce4-c40f-47b0-983b-a94d276f8788"
+  "token": "b660e3f0-9b09-4740-8aef-dbca781669d9",
+  "link": "https://localhost:7080/guild/202672512?token=b660e3f0-9b09-4740-8aef-dbca781669d9"
 }

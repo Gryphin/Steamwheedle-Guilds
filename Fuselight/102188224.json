@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 102188224,
+    "btag": "iniquity",
+    "name": "iniquity",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 131,
+    "level": 41,
+    "pvpWins": 108,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 46,
+    "leaderAHonor": 3240,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 35,
+    "leaderBHonor": 1493,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 11,
+    "leaderCHonor": 920,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;18",
+        "GryphonRider;MightyThrow;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Execute;;18",
+        "Harpy;InfectiousSwipes;22",
+        "DarkIronMiner;;17",
+        "Blizzard;ColdSnap;22"
+      ],
+      [
+        "TirionLeader;ByTheLight;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Huntress;Shadowmeld;22",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;23",
+        "Flamewaker;HeatStroke;24",
+        "Banshee;WillOfTheNecropolis;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;16",
+        "Blizzard;ColdSnap;22",
+        "Quilboar;TunnelVision;20",
+        "Prowler;OnTheProwl;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Pyromancer;Pyroblast;21",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "OgreMage;Avarice;20",
+        "Prowler;OnTheProwl;21",
+        "WhelpEggs;FlameBurst;21",
+        "Blizzard;ColdSnap;22",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Pyromancer;Pyroblast;22",
+        "Flamewaker;HeatStroke;24",
+        "Harpy;InfectiousSwipes;23",
+        "Prowler;OnTheProwl;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Blizzard;ColdSnap;22"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "Harpy;InfectiousSwipes;23",
+        "Banshee;WillOfTheNecropolis;20",
+        "Blizzard;ColdSnap;22",
+        "WhelpEggs;FlameBurst;21",
+        "Execute;;18",
+        "Flamewaker;HeatStroke;24"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;17",
+        "DefiasBandits;DeadlyPoison;21",
+        "GryphonRider;MightyThrow;20",
+        "WhelpEggs;FlameBurst;21",
+        "Prowler;OnTheProwl;21",
+        "Blizzard;ColdSnap;22",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "HoggerLeader;;15",
+        "Huntress;Shadowmeld;21",
+        "Harpy;InfectiousSwipes;22",
+        "DefiasBandits;DeadlyPoison;20",
+        "Blizzard;ColdSnap;22",
+        "GryphonRider;MightyThrow;20",
+        "Prowler;OnTheProwl;21"
+      ],
+      [
+        "CairneLeader;;19",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "OgreMage;Avarice;20",
+        "Banshee;WillOfTheNecropolis;20",
+        "WhelpEggs;FlameBurst;21",
+        "Blizzard;ColdSnap;22",
+        "Harpy;InfectiousSwipes;23"
+      ],
+      [
+        "BaronRivendareLeader;;17",
+        "Abomination;FreshMeat;20",
+        "SkeletonWarrior;Exhume;20",
+        "WhelpEggs;FlameBurst;21",
+        "Execute;;18",
+        "Flamewaker;HeatStroke;24",
+        "Harpy;InfectiousSwipes;23"
+      ],
+      [
+        "SneedLeader;;16",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "OgreMage;Avarice;20",
+        "EarthElemental;ObsidianShard;18",
+        "Harpy;InfectiousSwipes;22",
+        "Flamewaker;HeatStroke;22",
+        "Prowler;OnTheProwl;21"
+      ],
+      [
+        "CharlgaLeader;;18",
+        "Harpy;InfectiousSwipes;23",
+        "Quilboar;TunnelVision;21",
+        "Huntress;Shadowmeld;22",
+        "WhelpEggs;FlameBurst;21",
+        "Flamewaker;HeatStroke;24",
+        "Banshee;WillOfTheNecropolis;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Banshee;WillOfTheNecropolis;20",
+        "Pyromancer;Pyroblast;22",
+        "Flamewaker;HeatStroke;24",
+        "OgreMage;Avarice;20",
+        "Blizzard;ColdSnap;22",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;20",
+        "Flamewaker;HeatStroke;22",
+        "Pyromancer;Pyroblast;22",
+        "DefiasBandits;DeadlyPoison;21",
+        "Prowler;OnTheProwl;21",
+        "Harpy;InfectiousSwipes;23",
+        "Execute;;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Abomination;FreshMeat;21",
+        "SkeletonWarrior;Exhume;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Execute;;18",
+        "Huntress;Shadowmeld;22",
+        "WhelpEggs;FlameBurst;21"
+      ]
+    ],
+    "lastUpdate": 1719063157
+  },
+  "token": "abdfa039-e13e-47ac-a4ea-ab712e7e5ef0"
+}

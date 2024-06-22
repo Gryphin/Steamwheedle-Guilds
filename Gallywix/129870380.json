@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 129870380,
+    "btag": "Anagram",
+    "name": "Anagram",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Hogger_Pose",
+    "skulls": 150,
+    "level": 48,
+    "pvpWins": 231,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 43,
+    "leaderAHonor": 3249,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 29,
+    "leaderBHonor": 3457,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 36,
+    "leaderCHonor": 3688,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;21",
+        "DefiasBandits;PickLock;21",
+        "Shaman;EarthwallTotem;24",
+        "Execute;Bloodthirsty;21",
+        "Quilboar;Bristleback;24",
+        "WitchDoctor;SpiritWard;23",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Shaman;EarthwallTotem;24",
+        "Quilboar;Bristleback;24",
+        "WhelpEggs;FlameBurst;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Banshee;WillOfTheNecropolis;21"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;24",
+        "Shaman;EarthwallTotem;24",
+        "Chimaera;Leviathan;23",
+        "Quilboar;Bristleback;24",
+        "WhelpEggs;FlameBurst;24",
+        "WitchDoctor;SpiritWard;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Quilboar;Bristleback;24",
+        "WarsongGrunts;BloodPact;23",
+        "WhelpEggs;FlameBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Harpy;TrinketCollectors;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "WhelpEggs;FlameBurst;24",
+        "Shaman;EarthwallTotem;24",
+        "Harpy;TrinketCollectors;22",
+        "Quilboar;Bristleback;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;20",
+        "Shaman;EarthShield;23",
+        "PolymorphSpell;GoldenFleece;20",
+        "ArcaneBlast;Torrent;20",
+        "CheatDeath;Vampirism;20",
+        "HolyNova;Renew;20",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;TrinketCollectors;22",
+        "Quilboar;Bristleback;24",
+        "Shaman;EarthwallTotem;24"
+      ],
+      [
+        "HoggerLeader;HamHock;24",
+        "Quilboar;Bristleback;24",
+        "Harpy;TrinketCollectors;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;24",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "MeatWagon;FiletTrebuchet;23"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "DarkIronMiner;GoldMine;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Quilboar;Bristleback;24",
+        "WarsongGrunts;BloodPact;23",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Necromancer;JeweledSkulls;21",
+        "Shaman;EarthwallTotem;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;24",
+        "Footmen;ShieldBash;21",
+        "Firehammer;HeightenedRage;21"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;21",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Quilboar;Bristleback;24",
+        "Harpy;TrinketCollectors;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "WhelpEggs;FlameBurst;23",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;23",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;24",
+        "e63c9fb8027924c40a4dc3ea251ae368;1f1ab816cf486f04393815a11a853894;25",
+        "adb619f981176e444bd759d85e80cbfc;c45074a678f52da45a17368df02bfb66;24",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;25",
+        "076113c80ce43e64b918d85410683849;d1d4a698eb1bef54ca683c1293adec8d;23",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;377519909310fd54c8f7773047219250;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "DarkIronMiner;GoldMine;21",
+        "Quilboar;Bristleback;24",
+        "Drake;MotherDrake;21",
+        "Chimaera;Leviathan;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Firehammer;HeightenedRage;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "DarkIronMiner;GoldMine;21",
+        "WhelpEggs;FlameBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Shaman;EarthShield;24",
+        "Firehammer;HeightenedRage;21",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "WhelpEggs;FlameBurst;24",
+        "DarkIronMiner;GoldMine;21",
+        "Banshee;WillOfTheNecropolis;21",
+        "Chimaera;Leviathan;23",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "FaerieDragon;FaeBlessing;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "Shaman;EarthwallTotem;24",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;TrinketCollectors;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+      ]
+    ],
+    "lastUpdate": 1718170090
+  },
+  "token": "be8f978f-0fa4-47c7-b375-7e841758e8d9"
+}

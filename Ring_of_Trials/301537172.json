@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 301537172,
+    "btag": "Spacebob",
+    "name": "Spacebob",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Cairne_Pose",
+    "skulls": 107,
+    "level": 40,
+    "pvpWins": 62,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 11,
+    "leaderAHonor": 1051,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 11,
+    "leaderBHonor": 1057,
+    "leaderC": "CharlgaLeader",
+    "leaderCWins": 7,
+    "leaderCHonor": 1079,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Blizzard;ColdSnap;20",
+        "Execute;KillingSpree;18",
+        "Quilboar;TunnelVision;20",
+        "Harpy;InfectiousSwipes;20",
+        "DefiasBandits;PickLock;22"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "GryphonRider;MightyThrow;20",
+        "DefiasBandits;DeadlyPoison;22",
+        "StonehoofTauren;Momentum;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WitchDoctor;SpiritWard;17",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;TunnelVision;20",
+        "WarsongGrunts;GuardDuty;17",
+        "GryphonRider;MightyThrow;20",
+        "ArcaneBlast;Amplification;17",
+        "EarthElemental;ObsidianShard;17"
+      ],
+      [
+        "GrommashLeader;MirrorImage;19",
+        "Shaman;EarthShield;20",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Harpy;InfectiousSwipes;20",
+        "StonehoofTauren;Momentum;18",
+        "Quilboar;TunnelVision;20",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "EarthElemental;ObsidianShard;18",
+        "Pyromancer;Pyroblast;20",
+        "Harpy;InfectiousSwipes;20",
+        "DefiasBandits;PickLock;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;20"
+      ],
+      [
+        "61df20ddc31aff04dbc5393d831fbba5;aa625aeb4c49fce4184ab17aeca6f6e8;16",
+        "8e4de308ad10b4b4d8774653a0243691;bb3ae2d8c12d8df418a1ac9c2f98d695;18",
+        "aefd32eb6d8243047a104a9cf4f3204b;23e33cc75805bb849aaf74e58e90b5bb;17",
+        "3b01f7017ded1ec409460bc09346d431;614eee447ee11b44b85ce91163f32b74;17",
+        "ef683be6878582a46943728b337d1bd5;4d9a13e98ef3e7d4ba70f0a38799d1c9;17",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;16",
+        "f6379dec39f4447b483eb7b6a672597e;a7562a08ec021cb4eb8367c83a3b885a;20"
+      ],
+      [
+        "MaievLeader;Remorseless;17",
+        "Worgen;Premeditation;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "DarkIronMiner;GoldMine;19",
+        "WhelpEggs;FlameBurst;19",
+        "Harpy;InfectiousSwipes;20",
+        "DefiasBandits;PickLock;22"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Prowler;OnTheProwl;20",
+        "AngryChickens;Snackrifice;17",
+        "MurlocTidehunters;SafetyBubble;17",
+        "DefiasBandits;DeadlyPoison;22",
+        "Pyromancer;Pyroblast;20",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Shaman;EarthShield;20",
+        "OgreMage;FrostfireBolt;18",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "DefiasBandits;DeadlyPoison;22",
+        "Huntress;Shadowmeld;20",
+        "Gargoyle;WingBuffet;20"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Ghoul;BoneArmor;18",
+        "Gargoyle;WingBuffet;20",
+        "SkeletonParty;5Man;18",
+        "Huntress;Shadowmeld;20",
+        "ChainLightning;BrilliantFlash;18",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WarsongRaider;Saboteur;18",
+        "EarthElemental;ObsidianShard;18",
+        "GryphonRider;AirDrop;20",
+        "DefiasBandits;DeadlyPoison;22",
+        "DarkIronMiner;GoldMine;20"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;16",
+        "Prowler;OnTheProwl;20",
+        "Harpy;InfectiousSwipes;20",
+        "Huntress;Shadowmeld;20",
+        "Quilboar;TunnelVision;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "Drake;MotherDrake;22",
+        "Pyromancer;Pyroblast;20",
+        "Shaman;EarthShield;20",
+        "Harpy;InfectiousSwipes;20",
+        "WitchDoctor;SpiritWard;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;17",
+        "EarthElemental;ObsidianShard;18",
+        "DarkIronMiner;GoldMine;20",
+        "DefiasBandits;DeadlyPoison;22",
+        "Harpy;InfectiousSwipes;20",
+        "WhelpEggs;FlameBurst;20",
+        "Huntress;Shadowmeld;20"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;19",
+        "Necromancer;JeweledSkulls;18",
+        "Ghoul;BoneArmor;18",
+        "StonehoofTauren;Momentum;18",
+        "SmokeBombSpell;StrangersInTheNight;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Harpy;InfectiousSwipes;20"
+      ]
+    ],
+    "lastUpdate": 1719063155
+  },
+  "token": "6de94cff-5e3a-48b7-ad63-0933f502edd4"
+}

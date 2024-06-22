@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 871894106,
+    "btag": "Snorkle",
+    "name": "Snorkle",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 421,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 68,
+    "leaderAHonor": 3320,
+    "leaderB": "RendLeader",
+    "leaderBWins": 70,
+    "leaderBHonor": 3504,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 67,
+    "leaderCHonor": 3268,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;27",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Blizzard;ColdSnap;25",
+        "Execute;Bloodthirsty;26",
+        "Harpy;TalonDive;26",
+        "WhelpEggs;FlameBurst;26",
+        "Gargoyle;WingBuffet;27"
+      ],
+      [
+        "TirionLeader;DivineShield;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "GryphonRider;MightyThrow;27",
+        "Quilboar;BrambleBurst;27",
+        "DefiasBandits;LastResort;26",
+        "DeepBreath;DoubleDragon;26",
+        "Huntress;ElvenMight;26"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;26",
+        "Harpy;TalonDive;26",
+        "MurlocTidehunters;SafetyBubble;26",
+        "HarvestGolem;UnstableCore;25",
+        "WitchDoctor;AmplifyCurse;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Shaman;EarthShield;26"
+      ],
+      [
+        "GrommashLeader;Bladestorm;25",
+        "DarkspearTroll;BigBadVoodoo;26",
+        "Execute;Bloodthirsty;26",
+        "SkeletonWarrior;Exhume;25",
+        "Pyromancer;Pyroblast;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Quilboar;TunnelVision;27"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;27",
+        "EarthElemental;ObsidianShard;27",
+        "WhelpEggs;FlameBurst;26",
+        "Execute;Bloodthirsty;26",
+        "Pyromancer;Pyroblast;25",
+        "Harpy;TalonDive;26",
+        "WitchDoctor;AmplifyCurse;25"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;26",
+        "Ghoul;BoneArmor;25",
+        "Abomination;NoxiousPresence;25",
+        "HolyNova;Renew;25",
+        "ChainLightning;Reverberation;25",
+        "SkeletonWarrior;Exhume;25",
+        "Blizzard;ColdSnap;25"
+      ],
+      [
+        "MaievLeader;Remorseless;26",
+        "Worgen;Frenzy;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Quilboar;TunnelVision;27",
+        "Chimaera;CorrosiveBreath;25",
+        "Gargoyle;WingBuffet;26",
+        "CheatDeath;Vampirism;24"
+      ],
+      [
+        "HoggerLeader;HamHock;26",
+        "Quilboar;BrambleBurst;26",
+        "Prowler;PredatoryInstincts;25",
+        "DefiasBandits;DeadlyPoison;26",
+        "WhelpEggs;FlameBurst;26",
+        "Huntress;ElvenMight;25",
+        "Execute;Bloodthirsty;25"
+      ],
+      [
+        "CairneLeader;Aftershock;26",
+        "Execute;Bloodthirsty;26",
+        "Shaman;EarthShield;26",
+        "Abomination;NoxiousPresence;25",
+        "Harpy;TalonDive;26",
+        "Necromancer;JeweledSkulls;25",
+        "Quilboar;TunnelVision;27"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;26",
+        "Ghoul;BoneArmor;26",
+        "Necromancer;JeweledSkulls;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;26",
+        "Abomination;NoxiousPresence;26",
+        "Harpy;TalonDive;26",
+        "Gargoyle;WingBuffet;27"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;26",
+        "ChainLightning;Reverberation;24",
+        "DarkspearTroll;BigBadVoodoo;26",
+        "WarsongRaider;SunderArmor;25",
+        "Harpy;TalonDive;26",
+        "Quilboar;TunnelVision;26",
+        "WhelpEggs;FlameBurst;26"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;3ce3e4ee5d77655428b6d18148040d9a;24",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;26",
+        "4a587c88483e48d42869f766eb08123b;6d0d3d468494956429b5929a7add8183;26",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;26",
+        "d6df87a31e7c2ae44aafe5d70fda7322;bbae4f098e1016846811a50a1e02cbb7;26",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;c6f85c634bfe79145935dc033ba955b3;26",
+        "4d60f72627b7c36468f3107e40109845;fcc5c64ae7d56af4886c6cba42a594c6;25"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;25",
+        "Quilboar;Bristleback;27",
+        "Prowler;PredatoryInstincts;25",
+        "MurlocTidehunters;SafetyBubble;26",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;26",
+        "GryphonRider;MightyThrow;26",
+        "WhelpEggs;FlameBurst;26"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;27",
+        "WhelpEggs;FlameBurst;26",
+        "Pyromancer;Pyroblast;25",
+        "DeepBreath;DoubleDragon;26",
+        "SkeletonParty;RitualOfRime;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
+        "Execute;Bloodthirsty;26"
+      ],
+      [
+        "ThaurissanLeader;Hubris;26",
+        "EarthElemental;ObsidianShard;26",
+        "WhelpEggs;FlameBurst;26",
+        "DefiasBandits;DeadlyPoison;26",
+        "Prowler;PredatoryInstincts;25",
+        "GryphonRider;MightyThrow;26",
+        "MurlocTidehunters;SafetyBubble;26"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;26",
+        "Banshee;WillOfTheNecropolis;25",
+        "SkeletonParty;5Man;25",
+        "Execute;Bloodthirsty;26",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;26",
+        "Harpy;TalonDive;26",
+        "Quilboar;TunnelVision;27"
+      ]
+    ],
+    "lastUpdate": 1719062207
+  },
+  "token": "41e5d688-5530-4d38-b0e8-7cfeddc5b85e"
+}

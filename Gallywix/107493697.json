@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 107493697,
+    "btag": "Dgal",
+    "name": "Dgal",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 108,
+    "level": 42,
+    "pvpWins": 95,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 17,
+    "leaderAHonor": 1201,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 16,
+    "leaderBHonor": 1233,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 16,
+    "leaderCHonor": 1202,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;19",
+        "Huntress;Shadowmeld;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Blizzard;ColdSnap;18",
+        "Quilboar;TunnelVision;20",
+        "EarthElemental;ObsidianShard;21",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "GryphonRider;MightyThrow;20",
+        "FireElemental;ImmolationAura;18",
+        "Huntress;Shadowmeld;20",
+        "Execute;Bloodthirsty;18",
+        "Quilboar;TunnelVision;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;TalonDive;18",
+        "Quilboar;TunnelVision;20",
+        "EarthElemental;ObsidianShard;21",
+        "Huntress;Shadowmeld;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "StonehoofTauren;Provoke;20",
+        "GoblinSapper;RocketBoots;20",
+        "Harpy;TalonDive;18",
+        "EarthElemental;ObsidianShard;21",
+        "Blizzard;ColdSnap;18",
+        "Necromancer;JeweledSkulls;20"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "WhelpEggs;FlameBurst;20",
+        "EarthElemental;ObsidianShard;21",
+        "Drake;MotherDrake;20",
+        "Quilboar;TunnelVision;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Firehammer;BlazingSpeed;18"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "SkeletonWarrior;Exhume;20",
+        "Banshee;UnholyFrenzy;20",
+        "ArcaneBlast;Torrent;21",
+        "Blizzard;ColdSnap;18",
+        "Quilboar;TunnelVision;20",
+        "EarthElemental;ObsidianShard;21"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "Blizzard;ColdSnap;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "EarthElemental;ObsidianShard;21",
+        "GryphonRider;MightyThrow;20",
+        "Harpy;TalonDive;18",
+        "Quilboar;Bristleback;20"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Quilboar;TunnelVision;20",
+        "Harpy;TalonDive;18",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Blizzard;ColdSnap;18",
+        "EarthElemental;ObsidianShard;21",
+        "Huntress;Shadowmeld;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "StonehoofTauren;Provoke;20",
+        "DarkspearTroll;Headhunting;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Blizzard;ColdSnap;18",
+        "Harpy;TalonDive;18",
+        "EarthElemental;ObsidianShard;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;19",
+        "Necromancer;JeweledSkulls;20",
+        "SkeletonWarrior;Exhume;20",
+        "EarthElemental;ObsidianShard;21",
+        "BatRider;EnchantedVials;18",
+        "Quilboar;Bristleback;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "SneedLeader;LandGrab;22",
+        "DarkspearTroll;Headhunting;18",
+        "Shaman;LightningMastery;18",
+        "Quilboar;TunnelVision;20",
+        "Execute;Bloodthirsty;18",
+        "Harpy;TalonDive;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Harpy;TalonDive;18",
+        "Quilboar;TunnelVision;20",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Huntress;Shadowmeld;20",
+        "EarthElemental;ObsidianShard;21",
+        "Blizzard;ColdSnap;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "WhelpEggs;FlameBurst;20",
+        "DarkIronMiner;DwarvenAmbition;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "EarthElemental;ObsidianShard;21",
+        "Quilboar;TunnelVision;20",
+        "Banshee;WillOfTheNecropolis;20"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;20",
+        "WhelpEggs;FlameBurst;20",
+        "EarthElemental;ObsidianShard;21",
+        "Quilboar;TunnelVision;20",
+        "GryphonRider;MightyThrow;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Huntress;Shadowmeld;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Gargoyle;WingBuffet;19",
+        "SkeletonWarrior;Exhume;20",
+        "DarkspearTroll;Headhunting;18",
+        "EarthElemental;ObsidianShard;21",
+        "Blizzard;ColdSnap;18",
+        "Quilboar;TunnelVision;20"
+      ]
+    ],
+    "lastUpdate": 1719062204
+  },
+  "token": "56563f29-739e-44dc-b301-782fc390f018"
+}

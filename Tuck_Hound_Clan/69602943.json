@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 69602943,
+    "btag": "Omnicide",
+    "name": "Omnicide",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 85,
+    "level": 36,
+    "pvpWins": 171,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 46,
+    "leaderAHonor": 2675,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 17,
+    "leaderBHonor": 2474,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 34,
+    "leaderCHonor": 3016,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;16",
+        "Blizzard;BrittleIce;15",
+        "ArcaneBlast;Amplification;17",
+        "ChainLightning;BrilliantFlash;16",
+        "GryphonRider;MightyThrow;18",
+        "DarkIronMiner;DwarvenAmbition;17",
+        "DefiasBandits;DeadlyPoison;19"
+      ],
+      [
+        "TirionLeader;ByTheLight;19",
+        "GryphonRider;MightyThrow;18",
+        "DefiasBandits;DeadlyPoison;19",
+        "Quilboar;TunnelVision;17",
+        "WitchDoctor;SpiritWard;17",
+        "FaerieDragon;FaeBlessing;16",
+        "Huntress;Shadowmeld;16"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Raptors;StrengthInNumbers;18",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Prowler;PackLeader;17",
+        "Quilboar;TunnelVision;17",
+        "Harpy;InfectiousSwipes;19",
+        "GnollBrute;Rabid;17"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "WitchDoctor;SpiritWard;17",
+        "BatRider;EnchantedVials;15",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Raptors;StrengthInNumbers;18",
+        "GryphonRider;MightyThrow;18",
+        "DefiasBandits;DeadlyPoison;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;16",
+        "Drake;MotherDrake;15",
+        "WhelpEggs;FlameBurst;16",
+        "GryphonRider;MightyThrow;18",
+        "DefiasBandits;DeadlyPoison;19",
+        "FaerieDragon;FaeBlessing;16",
+        "Gargoyle;WingBuffet;17"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Ghoul;TasteForBlood;17",
+        "MeatWagon;FiletTrebuchet;16",
+        "ChainLightning;BrilliantFlash;16",
+        "Gargoyle;WingBuffet;17",
+        "ArcaneBlast;Amplification;17",
+        "GryphonRider;MightyThrow;17"
+      ],
+      [
+        "MaievLeader;Shadowstep;17",
+        "DefiasBandits;DeadlyPoison;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;14",
+        "Quilboar;TunnelVision;17",
+        "EarthElemental;ObsidianShard;18",
+        "DarkIronMiner;DwarvenAmbition;16",
+        "WhelpEggs;FlameBurst;15"
+      ],
+      [
+        "HoggerLeader;HamHock;20",
+        "Raptors;StrengthInNumbers;18",
+        "GnollBrute;Rabid;17",
+        "GryphonRider;MightyThrow;18",
+        "Prowler;PackLeader;17",
+        "Harpy;InfectiousSwipes;19",
+        "MurlocTidehunters;SafetyBubble;18"
+      ],
+      [
+        "CairneLeader;;8",
+        "StonehoofTauren;;7",
+        "WarsongGrunts;;7",
+        "Shaman;;9",
+        "BatRider;;8",
+        "GoblinSapper;;7",
+        "DarkspearTroll;;8"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Ghoul;TasteForBlood;17",
+        "Necromancer;JeweledSkulls;16",
+        "SkeletonWarrior;QuestingBuddies;16",
+        "GryphonRider;MightyThrow;18",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Gargoyle;WingBuffet;17"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "WarsongRaider;RazingFocus;17",
+        "StonehoofTauren;Pummel;19",
+        "Gargoyle;WingBuffet;17",
+        "EarthElemental;ObsidianShard;19",
+        "MurlocTidehunters;SafetyBubble;18",
+        "GryphonRider;MightyThrow;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;17",
+        "FireElemental;ImmolationAura;15",
+        "Drake;MotherDrake;14",
+        "WhelpEggs;FlameBurst;15",
+        "WitchDoctor;SpiritWard;16",
+        "Spiderlings;Envenom;15",
+        "Firehammer;BlazingSpeed;14"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "DarkIronMiner;DwarvenAmbition;17",
+        "GoblinSapper;RocketBoots;15",
+        "GnollBrute;Rabid;17",
+        "Harpy;InfectiousSwipes;18",
+        "Quilboar;TunnelVision;17",
+        "MurlocTidehunters;SafetyBubble;18"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;15",
+        "Gargoyle;WingBuffet;17",
+        "Ghoul;TasteForBlood;17",
+        "WitchDoctor;SpiritWard;17",
+        "WarsongRaider;RazingFocus;16",
+        "Shaman;EarthShield;16",
+        "StonehoofTauren;Pummel;19"
+      ]
+    ],
+    "lastUpdate": 1719063141
+  },
+  "token": "f7326e1c-5ee0-4cee-a7c7-745d0dec29cd"
+}

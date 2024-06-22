@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1301816,
+    "btag": "Meowmixer",
+    "name": "Meowmixer",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 125,
+    "level": 41,
+    "pvpWins": 93,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 28,
+    "leaderAHonor": 1791,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 10,
+    "leaderBHonor": 1350,
+    "leaderC": "GrommashLeader",
+    "leaderCWins": 7,
+    "leaderCHonor": 1274,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "DefiasBandits;DeadlyPoison;21",
+        "Execute;Bloodthirsty;20",
+        "Harpy;TrinketCollectors;24",
+        "Blizzard;ColdSnap;23",
+        "Pyromancer;Conflagrate;22"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Harpy;TrinketCollectors;24",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Gargoyle;WingBuffet;22",
+        "WhelpEggs;FlameBurst;24",
+        "Pyromancer;Conflagrate;22",
+        "Blizzard;ColdSnap;23"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Harpy;TrinketCollectors;24",
+        "Pyromancer;Conflagrate;21",
+        "Gargoyle;WingBuffet;22",
+        "Blizzard;ColdSnap;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "Pyromancer;Conflagrate;21",
+        "Gargoyle;WingBuffet;22",
+        "Harpy;TrinketCollectors;24",
+        "WhelpEggs;FlameBurst;24",
+        "Blizzard;ColdSnap;23",
+        "Chimaera;CorrosiveBreath;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "WhelpEggs;FlameBurst;24",
+        "Pyromancer;Conflagrate;21",
+        "Harpy;TrinketCollectors;24",
+        "Gargoyle;WingBuffet;22",
+        "Blizzard;ColdSnap;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23"
+      ],
+      [
+        "BloodmageThalnosLeader;;18",
+        "Gargoyle;WingBuffet;22",
+        "Harpy;TrinketCollectors;24",
+        "Blizzard;ColdSnap;23",
+        "Execute;Bloodthirsty;20",
+        "Pyromancer;Conflagrate;22",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Harpy;TrinketCollectors;24",
+        "Blizzard;ColdSnap;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "Gargoyle;WingBuffet;22",
+        "Abomination;Cannonball;23",
+        "WhelpEggs;ChromaticPlating;24"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Harpy;TrinketCollectors;24",
+        "Chimaera;CorrosiveBreath;21",
+        "Pyromancer;Conflagrate;21",
+        "WhelpEggs;FlameBurst;24",
+        "Blizzard;ColdSnap;23",
+        "Gargoyle;WingBuffet;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "WhelpEggs;FlameBurst;24",
+        "Gargoyle;WingBuffet;22",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;23",
+        "Harpy;TrinketCollectors;24",
+        "Blizzard;ColdSnap;23",
+        "DefiasBandits;DeadlyPoison;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;23",
+        "Gargoyle;WingBuffet;22",
+        "Pyromancer;Pyroblast;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "WhelpEggs;FlameBurst;24",
+        "Blizzard;ColdSnap;23",
+        "Harpy;TrinketCollectors;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "Huntress;Shadowmeld;20",
+        "Chimaera;CorrosiveBreath;21",
+        "Harpy;TrinketCollectors;24",
+        "Blizzard;ColdSnap;23",
+        "WhelpEggs;FlameBurst;22",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;23"
+      ],
+      [
+        "CharlgaLeader;;15",
+        "EarthElemental;;14",
+        "Quilboar;TunnelVision;20",
+        "Worgen;;17",
+        "WhelpEggs;FlameBurst;21",
+        "Gargoyle;WingBuffet;20",
+        "Blizzard;ColdSnap;23"
+      ],
+      [
+        "DrakkisathLeader;;18",
+        "WhelpEggs;FlameBurst;21",
+        "Abomination;Cannonball;23",
+        "Pyromancer;Conflagrate;21",
+        "Blizzard;ColdSnap;23",
+        "Harpy;TrinketCollectors;23",
+        "Gargoyle;WingBuffet;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;17",
+        "WhelpEggs;FlameBurst;21",
+        "Pyromancer;Pyroblast;21",
+        "Abomination;Cannonball;23",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23",
+        "Blizzard;ColdSnap;23",
+        "Harpy;TrinketCollectors;22"
+      ],
+      [
+        "SylvanasLeader;;17",
+        "WhelpEggs;FlameBurst;24",
+        "Gargoyle;WingBuffet;22",
+        "Pyromancer;Conflagrate;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "Blizzard;ColdSnap;23",
+        "Harpy;TrinketCollectors;24"
+      ]
+    ],
+    "lastUpdate": 1719063094
+  },
+  "token": "d1d5a36d-646f-423f-8e17-da742f131278"
+}

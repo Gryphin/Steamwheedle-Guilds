@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 364123324,
+    "btag": "Jollyboy2226",
+    "name": "Jollyboy2226",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 48,
+    "level": 22,
+    "pvpWins": 9,
+    "leaderA": "GrommashLeader",
+    "leaderAWins": 6,
+    "leaderAHonor": 652,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 2,
+    "leaderBHonor": 371,
+    "leaderC": "",
+    "leaderCWins": 0,
+    "leaderCHonor": 0,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;;13",
+        "GryphonRider;MightyThrow;16",
+        "Footmen;ShieldBash;16",
+        "Blizzard;ColdSnap;14",
+        "Pyromancer;;12",
+        "Harpy;;13",
+        "Gargoyle;;12"
+      ],
+      [
+        "TirionLeader;;9",
+        "GryphonRider;MightyThrow;14",
+        "Blizzard;;12",
+        "Footmen;ShieldBash;13",
+        "Harpy;;11",
+        "MurlocTidehunters;;12",
+        "GnollBrute;Rabid;14"
+      ],
+      [
+        "OldMurkEyeLeader;;9",
+        "GnollBrute;Rabid;14",
+        "AngryChickens;;8",
+        "EarthElemental;;9",
+        "Harpy;;11",
+        "MurlocTidehunters;;12",
+        "GryphonRider;MightyThrow;14"
+      ],
+      [
+        "GrommashLeader;Bladestorm;14",
+        "GryphonRider;MightyThrow;16",
+        "DarkspearTroll;BigBadVoodoo;15",
+        "Footmen;ShieldBash;16",
+        "Blizzard;ColdSnap;14",
+        "MurlocTidehunters;;14",
+        "GnollBrute;Rabid;16"
+      ],
+      [
+        "RendLeader;;13",
+        "GryphonRider;MightyThrow;16",
+        "DarkspearTroll;BigBadVoodoo;15",
+        "Footmen;ShieldBash;16",
+        "Blizzard;ColdSnap;14",
+        "MurlocTidehunters;;14",
+        "GnollBrute;Rabid;16"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;14",
+        "GnollBrute;Rabid;17",
+        "DarkspearTroll;BigBadVoodoo;16",
+        "Blizzard;ColdSnap;14",
+        "GryphonRider;MightyThrow;16",
+        "Harpy;;14",
+        "Footmen;ShieldBash;16"
+      ],
+      [
+        "MaievLeader;;10",
+        "GryphonRider;MightyThrow;14",
+        "Footmen;ShieldBash;13",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;11",
+        "GnollBrute;Rabid;14",
+        "Harpy;;11",
+        "Blizzard;;12"
+      ],
+      [
+        "HoggerLeader;;8",
+        "GryphonRider;MightyThrow;13",
+        "DarkspearTroll;;12",
+        "Footmen;ShieldBash;13",
+        "Blizzard;;11",
+        "MurlocTidehunters;;11",
+        "GnollBrute;;12"
+      ],
+      [
+        "CairneLeader;;10",
+        "GryphonRider;MightyThrow;15",
+        "DarkspearTroll;BigBadVoodoo;14",
+        "Footmen;ShieldBash;14",
+        "Blizzard;ColdSnap;13",
+        "MurlocTidehunters;;13",
+        "GnollBrute;Rabid;15"
+      ],
+      [
+        "BaronRivendareLeader;;14",
+        "MurlocTidehunters;;14",
+        "Necromancer;JeweledSkulls;16",
+        "GnollBrute;Rabid;16",
+        "GryphonRider;MightyThrow;16",
+        "Blizzard;ColdSnap;14",
+        "Harpy;;14"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;14",
+        "GryphonRider;MightyThrow;16",
+        "DarkspearTroll;BigBadVoodoo;15",
+        "Footmen;ShieldBash;16",
+        "MurlocTidehunters;;14",
+        "Blizzard;ColdSnap;14",
+        "GnollBrute;Rabid;16"
+      ],
+      [
+        "CharlgaLeader;;11",
+        "GnollBrute;Rabid;16",
+        "MurlocTidehunters;;14",
+        "Harpy;;13",
+        "GryphonRider;MightyThrow;16",
+        "DarkspearTroll;BigBadVoodoo;15",
+        "GoblinSapper;;8"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;14",
+        "GnollBrute;Rabid;16",
+        "Footmen;ShieldBash;16",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;12",
+        "GryphonRider;MightyThrow;16",
+        "Blizzard;ColdSnap;14",
+        "DarkspearTroll;BigBadVoodoo;15"
+      ],
+      [
+        "ThaurissanLeader;;13",
+        "Pyromancer;;12",
+        "Harpy;;13",
+        "GnollBrute;Rabid;16",
+        "Blizzard;ColdSnap;14",
+        "DarkspearTroll;BigBadVoodoo;15",
+        "GryphonRider;MightyThrow;16"
+      ],
+      [
+        "SylvanasLeader;;12",
+        "Blizzard;ColdSnap;14",
+        "Footmen;ShieldBash;16",
+        "DarkspearTroll;BigBadVoodoo;15",
+        "Harpy;;14",
+        "GryphonRider;MightyThrow;16",
+        "GnollBrute;Rabid;16"
+      ]
+    ],
+    "lastUpdate": 1719063105
+  },
+  "token": "ad5919a0-0444-4038-a299-4063472ebfbd"
+}

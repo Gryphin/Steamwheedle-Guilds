@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 83847822,
+    "btag": "Bradinator",
+    "name": "Bradinator",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sneed_Pose",
+    "skulls": 150,
+    "level": 40,
+    "pvpWins": 1000,
+    "leaderA": "CharlgaLeader",
+    "leaderAWins": 207,
+    "leaderAHonor": 3783,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 118,
+    "leaderBHonor": 4129,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 80,
+    "leaderCHonor": 3950,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "DefiasBandits;PickLock;21",
+        "Blizzard;ColdSnap;18",
+        "Quilboar;Bristleback;22",
+        "WitchDoctor;SpiritWard;22",
+        "WhelpEggs;FlameBurst;22"
+      ],
+      [
+        "TirionLeader;Consecrate;19",
+        "DefiasBandits;PickLock;21",
+        "GryphonRider;OdynsFury;24",
+        "Quilboar;BrambleBurst;22",
+        "Harpy;InfectiousSwipes;22",
+        "WhelpEggs;FlameBurst;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "PolymorphSpell;GoldenFleece;19",
+        "Harpy;InfectiousSwipes;22",
+        "Ghoul;BoneArmor;21",
+        "WhelpEggs;FlameBurst;22",
+        "WitchDoctor;SpiritWard;22",
+        "Quilboar;BrambleBurst;22"
+      ],
+      [
+        "GrommashLeader;MirrorImage;21",
+        "ChainLightning;BrilliantFlash;21",
+        "WitchDoctor;SpiritWard;22",
+        "Harpy;InfectiousSwipes;22",
+        "WhelpEggs;FlameBurst;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;19",
+        "Pyromancer;Pyroblast;20",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "WitchDoctor;SpiritWard;22",
+        "Quilboar;BrambleBurst;22"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Ghoul;BoneArmor;21",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "Quilboar;Bristleback;22",
+        "WhelpEggs;FlameBurst;22",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "DefiasBandits;PickLock;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;Bristleback;22",
+        "Harpy;InfectiousSwipes;22",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Harpy;InfectiousSwipes;22",
+        "MurlocTidehunters;SafetyBubble;19",
+        "Quilboar;Bristleback;22",
+        "WitchDoctor;SpiritWard;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "Shaman;EarthShield;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Shaman;EarthShield;22",
+        "WitchDoctor;SpiritWard;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;Bristleback;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "PolymorphSpell;GoldenFleece;19",
+        "Ghoul;BoneArmor;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "WitchDoctor;SpiritWard;22",
+        "Quilboar;BrambleBurst;22",
+        "MurlocTidehunters;SafetyBubble;19"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "ChainLightning;BrilliantFlash;21",
+        "WitchDoctor;SpiritWard;22",
+        "GryphonRider;OdynsFury;24",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;Bristleback;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "PolymorphSpell;GoldenFleece;19",
+        "Quilboar;BrambleBurst;22",
+        "MurlocTidehunters;SafetyBubble;19",
+        "WitchDoctor;SpiritWard;22",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;22",
+        "Ghoul;BoneArmor;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "Pyromancer;Pyroblast;21",
+        "Drake;MotherDrake;21",
+        "Shaman;EarthShield;22",
+        "WitchDoctor;SpiritWard;22",
+        "SkeletonParty;RitualOfRime;18",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;Bristleback;22",
+        "DefiasBandits;PickLock;21",
+        "WitchDoctor;SpiritWard;22",
+        "PolymorphSpell;GoldenFleece;19"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Ghoul;BoneArmor;21",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "WitchDoctor;SpiritWard;22",
+        "Quilboar;BrambleBurst;22",
+        "WhelpEggs;FlameBurst;22",
+        "DefiasBandits;PickLock;21"
+      ]
+    ],
+    "lastUpdate": 1719063082
+  },
+  "token": "86b8d0f1-bd80-4895-aa4b-c47a65b2c28c"
+}

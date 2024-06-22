@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 60963238,
+    "btag": "Shibolt",
+    "name": "Shibolt",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 313,
+    "leaderA": "CharlgaLeader",
+    "leaderAWins": 31,
+    "leaderAHonor": 2974,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 20,
+    "leaderBHonor": 2995,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 25,
+    "leaderCHonor": 3053,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "SmokeBombSpell;BandOfThieves;21",
+        "LivingBomb;ChainReaction;24",
+        "HolyNova;InnerFire;22",
+        "EarthElemental;ReadyToRumble;23",
+        "CheatDeath;Vampirism;22"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "Gargoyle;WingBuffet;21",
+        "EarthElemental;ObsidianShard;23",
+        "WitchDoctor;SpiritWard;24",
+        "Worgen;Premeditation;21",
+        "GnollBrute;ThickHide;21",
+        "PlagueFarmer;SplashingPumpkins;21"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "GnollBrute;ThickHide;21",
+        "HarvestGolem;UnstableCore;23",
+        "AngryChickens;Snackrifice;21",
+        "Chimaera;CorrosiveBreath;24",
+        "Prowler;PackLeader;24"
+      ],
+      [
+        "GrommashLeader;MirrorImage;24",
+        "HarvestGolem;UnstableCore;23",
+        "EarthElemental;ReadyToRumble;23",
+        "AngryChickens;Snackrifice;21",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Gargoyle;WingBuffet;21",
+        "SkeletonParty;CorpseRun;24"
+      ],
+      [
+        "RendLeader;FlamingSoul;24",
+        "EarthElemental;ReadyToRumble;23",
+        "DarkIronMiner;DarkIronArmaments;23",
+        "Chimaera;CorrosiveBreath;24",
+        "Worgen;LoneWolf;21",
+        "Gargoyle;WingBuffet;21",
+        "WitchDoctor;SpiritWard;24"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;24",
+        "SkeletonParty;CorpseRun;24",
+        "Ghoul;BoneArmor;22",
+        "ArcaneBlast;Amplification;22",
+        "SmokeBombSpell;BandOfThieves;21",
+        "Blizzard;ColdSnap;24",
+        "Prowler;OnTheProwl;24"
+      ],
+      [
+        "MaievLeader;Remorseless;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "HarvestGolem;UnstableCore;23",
+        "SkeletonParty;RitualOfRime;24",
+        "EarthElemental;ObsidianShard;23",
+        "Chimaera;CorrosiveBreath;23",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "HoggerLeader;HamHock;24",
+        "Spiderlings;Envenom;21",
+        "AngryChickens;Snackrifice;21",
+        "GnollBrute;Rabid;21",
+        "WitchDoctor;SpiritWard;24",
+        "EarthElemental;ReadyToRumble;23",
+        "Worgen;Premeditation;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;24",
+        "WarsongRaider;Saboteur;21",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;SpiritWard;24",
+        "Spiderlings;Envenom;21",
+        "AngryChickens;Snackrifice;21",
+        "MurlocTidehunters;SafetyBubble;22"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;24",
+        "PlagueFarmer;SplashingPumpkins;22",
+        "SkeletonParty;CorpseRun;24",
+        "Worgen;Premeditation;21",
+        "Spiderlings;Envenom;21",
+        "GnollBrute;Rabid;21",
+        "GryphonRider;MightyThrow;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;24",
+        "Footmen;ShieldBash;21",
+        "Worgen;LoneWolf;21",
+        "EarthElemental;ReadyToRumble;23",
+        "ChainLightning;Reverberation;21",
+        "StonehoofTauren;Momentum;23",
+        "Gargoyle;WingBuffet;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;24",
+        "AngryChickens;Snackrifice;21",
+        "Spiderlings;Envenom;21",
+        "WarsongRaider;Saboteur;21",
+        "EarthElemental;ReadyToRumble;23",
+        "WitchDoctor;SpiritWard;24",
+        "PlagueFarmer;SplashingPumpkins;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "CoreHounds;EternalBond;21",
+        "DarkIronMiner;DarkIronArmaments;23",
+        "Shaman;EarthShield;24",
+        "Pyromancer;Conflagrate;24",
+        "WitchDoctor;SpiritWard;24",
+        "Spiderlings;Envenom;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;24",
+        "MoltenGiant;BloodOfTheMountain;21",
+        "DarkIronMiner;DarkIronArmaments;23",
+        "HarvestGolem;UnstableCore;23",
+        "EarthElemental;ReadyToRumble;24",
+        "GryphonRider;MightyThrow;24",
+        "AngryChickens;Snackrifice;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;24",
+        "GryphonRider;MightyThrow;24",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "WitchDoctor;SpiritWard;24",
+        "EarthElemental;ReadyToRumble;23",
+        "Gargoyle;WingBuffet;21",
+        "AngryChickens;Snackrifice;21"
+      ]
+    ],
+    "lastUpdate": 1716307763
+  },
+  "token": "95434234-314b-470d-b491-7d7fa71d0d2c"
+}

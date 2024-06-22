@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 250258840,
+    "btag": "Dudmuster",
+    "name": "Dudmuster",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 150,
+    "level": 49,
+    "pvpWins": 315,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 74,
+    "leaderAHonor": 3012,
+    "leaderB": "MaievLeader",
+    "leaderBWins": 80,
+    "leaderBHonor": 2842,
+    "leaderC": "GrommashLeader",
+    "leaderCWins": 54,
+    "leaderCHonor": 3001,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "DefiasBandits;PickLock;24",
+        "DeepBreath;MeltingPoint;24",
+        "Execute;Bloodthirsty;21",
+        "Harpy;InfectiousSwipes;25",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "TirionLeader;DivineShield;23",
+        "DefiasBandits;LastResort;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Quilboar;Bristleback;25",
+        "Execute;Bloodthirsty;21",
+        "Banshee;WillOfTheNecropolis;21",
+        "Harpy;InfectiousSwipes;25"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
+        "Harpy;InfectiousSwipes;25",
+        "Chimaera;Leviathan;23",
+        "Quilboar;BrambleBurst;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "WhelpEggs;FlameBurst;24",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;22",
+        "Execute;Bloodthirsty;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;Bristleback;25",
+        "Drake;EngulfingFlames;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "Drake;EngulfingFlames;25",
+        "DarkIronMiner;GoldMine;21",
+        "Harpy;InfectiousSwipes;25",
+        "WhelpEggs;ChromaticPlating;24",
+        "Chimaera;CorrosiveBreath;23",
+        "Quilboar;TunnelVision;25"
+      ],
+      [
+        "BloodmageThalnosLeader;Dominance;21",
+        "CheatDeath;Apocalypse;20",
+        "Necromancer;JeweledSkulls;22",
+        "DeepBreath;Attunement;22",
+        "DefiasBandits;PickLock;23",
+        "WhelpEggs;FlameBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "MaievLeader;Shadowstep;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Worgen;Premeditation;21",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;BrambleBurst;25",
+        "Gargoyle;WingBuffet;21"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;BrambleBurst;25",
+        "Harpy;InfectiousSwipes;25",
+        "DefiasBandits;PickLock;23",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;24",
+        "MeatWagon;FiletTrebuchet;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "Shaman;EarthShield;24",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;BrambleBurst;25",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Necromancer;JeweledSkulls;22",
+        "MeatWagon;FiletTrebuchet;24",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;BrambleBurst;25",
+        "Blizzard;BrittleIce;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;23",
+        "Execute;Bloodthirsty;21",
+        "Shaman;EarthwallTotem;24",
+        "MeatWagon;FiletTrebuchet;24",
+        "Chimaera;CorrosiveBreath;23",
+        "SkeletonParty;RitualOfRime;21",
+        "DarkspearTroll;BigBadVoodoo;22"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;19",
+        "4a587c88483e48d42869f766eb08123b;c9a2f90e4742cff47bd8ffa76ca8c19b;24",
+        "94935a651322443599aadc0ae5300e9b;aa7c23fcb65707943962bcd12baafeef;21",
+        "ee3f41404e84e49938a7b61acc42d304;e418dbe4cfd227d4c911770c6253e689;21",
+        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;21",
+        "9085cfafc6ced4d97b590458dc179c62;501d9776b6dca7e40a82dd6b531d698f;21",
+        "724ebbab65fd2477db54c91707f4a6d8;7b5cacdfa38f8874eb80a5583924aca4;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;21",
+        "Quilboar;BrambleBurst;25",
+        "Chimaera;Leviathan;23",
+        "Harpy;InfectiousSwipes;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "WhelpEggs;FlameBurst;24",
+        "Drake;EngulfingFlames;25",
+        "Shaman;EarthShield;24",
+        "Firehammer;HeightenedRage;24",
+        "Blizzard;ColdSnap;24",
+        "Quilboar;Bristleback;25"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;20",
+        "WhelpEggs;FlameBurst;24",
+        "Drake;MotherDrake;25",
+        "Quilboar;BrambleBurst;25",
+        "Firehammer;HeightenedRage;24",
+        "DefiasBandits;DeadlyPoison;24",
+        "Blizzard;BrittleIce;24"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;21",
+        "Necromancer;JeweledSkulls;22",
+        "SkeletonParty;5Man;21",
+        "Shaman;EarthShield;23",
+        "Quilboar;Bristleback;25",
+        "Drake;MotherDrake;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ]
+    ],
+    "lastUpdate": 1718263714
+  },
+  "token": "7f4fdaaa-b3a9-4968-81a9-91ade9695045"
+}

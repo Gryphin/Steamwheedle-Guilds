@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 78802528,
+    "btag": "Leaizel",
+    "name": "Leaizel",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 121,
+    "level": 39,
+    "pvpWins": 313,
+    "leaderA": "SylvanasLeader",
+    "leaderAWins": 18,
+    "leaderAHonor": 3116,
+    "leaderB": "BloodmageThalnosLeader",
+    "leaderBWins": 31,
+    "leaderBHonor": 3112,
+    "leaderC": "MaievLeader",
+    "leaderCWins": 34,
+    "leaderCHonor": 3150,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "Huntress;Shadowmeld;20",
+        "DefiasBandits;PickLock;21",
+        "CheatDeath;Vampirism;18",
+        "Quilboar;BrambleBurst;21",
+        "Harpy;InfectiousSwipes;20",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "TirionLeader;ByTheLight;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Huntress;Shadowmeld;20",
+        "Prowler;OnTheProwl;18",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;BrambleBurst;21",
+        "CheatDeath;Vampirism;18"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;18",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;BrambleBurst;21",
+        "StonehoofTauren;Pummel;20",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Pyromancer;Conflagrate;21",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "WitchDoctor;AmplifyCurse;21",
+        "BatRider;EnchantedVials;18",
+        "Harpy;InfectiousSwipes;20",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Chimaera;FrostShock;20",
+        "DarkIronMiner;GoldMine;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "EarthElemental;ObsidianShard;18",
+        "Pyromancer;Pyroblast;21",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;BrambleBurst;21",
+        "SkeletonParty;5Man;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Ghoul;TasteForBlood;18",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Execute;Bloodthirsty;18",
+        "Quilboar;BrambleBurst;21",
+        "Harpy;InfectiousSwipes;20",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Huntress;Shadowmeld;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "Quilboar;BrambleBurst;21",
+        "CheatDeath;Vampirism;18",
+        "Prowler;OnTheProwl;18",
+        "EarthElemental;ObsidianShard;18"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Prowler;OnTheProwl;18",
+        "Chimaera;FrostShock;20",
+        "Quilboar;BrambleBurst;21",
+        "Harpy;InfectiousSwipes;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "CheatDeath;Vampirism;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "BatRider;EnchantedVials;17",
+        "WitchDoctor;AmplifyCurse;20",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Chimaera;Leviathan;20",
+        "Quilboar;BrambleBurst;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Ghoul;TasteForBlood;18",
+        "Quilboar;BrambleBurst;21",
+        "Pyromancer;Pyroblast;21",
+        "Execute;Bloodthirsty;18",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "WitchDoctor;AmplifyCurse;21",
+        "BatRider;EnchantedVials;18",
+        "GoblinSapper;RocketBoots;18",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Quilboar;BrambleBurst;21",
+        "Chimaera;FrostShock;20"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;20",
+        "Quilboar;BrambleBurst;21",
+        "Prowler;OnTheProwl;18",
+        "Harpy;InfectiousSwipes;20",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Execute;Bloodthirsty;18",
+        "Pyromancer;Conflagrate;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Conflagrate;21",
+        "Drake;MotherDrake;18",
+        "SkeletonParty;5Man;18",
+        "Harpy;InfectiousSwipes;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;20",
+        "EarthElemental;ObsidianShard;18",
+        "Pyromancer;Pyroblast;21",
+        "SkeletonParty;5Man;18",
+        "Quilboar;BrambleBurst;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "Harpy;InfectiousSwipes;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "CheatDeath;Vampirism;18",
+        "Ghoul;TasteForBlood;18",
+        "StonehoofTauren;Pummel;20",
+        "Huntress;Shadowmeld;20",
+        "Quilboar;BrambleBurst;21",
+        "EarthElemental;ObsidianShard;18"
+      ]
+    ],
+    "lastUpdate": 1719063154
+  },
+  "token": "7d9bd627-a59e-4685-a0c2-b3c052bc609b"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 100467067,
+    "btag": "Anathayn",
+    "name": "Anathayn",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 85,
+    "level": 33,
+    "pvpWins": 0,
+    "leaderA": "",
+    "leaderAWins": 0,
+    "leaderAHonor": 0,
+    "leaderB": "",
+    "leaderBWins": 0,
+    "leaderBHonor": 0,
+    "leaderC": "",
+    "leaderCWins": 0,
+    "leaderCHonor": 0,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;16",
+        "MurlocTidehunters;;14",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "MoltenGiant;;14",
+        "Blizzard;BrittleIce;17",
+        "Huntress;ElvenMight;15",
+        "WhelpEggs;;14"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "DefiasBandits;DeadlyPoison;18",
+        "FireElemental;ImmolationAura;20",
+        "Footmen;Fortification;20",
+        "GryphonRider;AirDrop;18",
+        "Blizzard;BrittleIce;18"
+      ],
+      [
+        "OldMurkEyeLeader;;15",
+        "Chimaera;FrostShock;19",
+        "GnollBrute;;16",
+        "FireElemental;ImmolationAura;20",
+        "Vultures;FeedingFrenzy;16",
+        "Blizzard;BrittleIce;18",
+        "Harpy;TalonDive;17"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;17",
+        "Gargoyle;;14",
+        "DarkspearTroll;SerpentSting;18",
+        "Harpy;TalonDive;17",
+        "Pyromancer;Pyroblast;16",
+        "WhelpEggs;;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "RendLeader;Legionnaire;17",
+        "Drake;;16",
+        "WhelpEggs;;14",
+        "Harpy;TalonDive;16",
+        "DarkIronMiner;;14",
+        "Pyromancer;Pyroblast;16",
+        "FireElemental;ImmolationAura;17"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "DefiasBandits;DeadlyPoison;17",
+        "FireElemental;;14",
+        "Footmen;Fortification;19",
+        "GryphonRider;;14",
+        "Blizzard;;14"
+      ],
+      [
+        "MaievLeader;;14",
+        "GryphonRider;;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Worgen;;14",
+        "Blizzard;BrittleIce;17",
+        "Huntress;ElvenMight;15",
+        "EarthElemental;;13"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;17",
+        "Chimaera;FrostShock;18",
+        "GnollBrute;;14",
+        "MurlocTidehunters;;14",
+        "Harpy;TalonDive;16",
+        "Blizzard;BrittleIce;17",
+        "Raptors;;14"
+      ],
+      [
+        "CairneLeader;;15",
+        "BatRider;;16",
+        "StonehoofTauren;Momentum;16",
+        "DarkspearTroll;;15",
+        "Execute;Bloodthirsty;15",
+        "WarsongRaider;;14",
+        "OgreMage;;15"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;14",
+        "Ghoul;;13",
+        "Necromancer;;13",
+        "WhelpEggs;;13",
+        "PlagueFarmer;;13",
+        "Blizzard;;14",
+        "Footmen;Fortification;19"
+      ],
+      [
+        "SneedLeader;LandGrab;17",
+        "OgreMage;;15",
+        "StonehoofTauren;Momentum;16",
+        "GoblinSapper;;14",
+        "BatRider;;16",
+        "Execute;Bloodthirsty;15",
+        "DarkspearTroll;;15"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "GryphonRider;;14",
+        "Blizzard;;15",
+        "DefiasBandits;DeadlyPoison;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "FireElemental;;15",
+        "Footmen;Fortification;19"
+      ],
+      [
+        "DrakkisathLeader;;14",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "DefiasBandits;DeadlyPoison;18",
+        "FireElemental;ImmolationAura;20",
+        "Footmen;Fortification;20",
+        "GryphonRider;AirDrop;18",
+        "Blizzard;BrittleIce;18"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;14",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "DefiasBandits;DeadlyPoison;16",
+        "FireElemental;;14",
+        "Footmen;Fortification;19",
+        "GryphonRider;;14",
+        "Blizzard;;14"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;17",
+        "PlagueFarmer;;15",
+        "MeatWagon;;14",
+        "BatRider;;16",
+        "Abomination;;15",
+        "Gargoyle;;14",
+        "SkeletonWarrior;Cackle;16"
+      ]
+    ],
+    "lastUpdate": 1719063116
+  },
+  "token": "d3f91d98-a2e1-4eec-8189-0ac13aa4fc20"
+}

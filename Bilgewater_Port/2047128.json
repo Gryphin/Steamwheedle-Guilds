@@ -1,0 +1,171 @@
+{
+  "data": {
+    "id": 2047128,
+    "btag": "Sumsarg",
+    "name": "Sumsarg",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 150,
+    "level": 47,
+    "pvpWins": 80,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 19,
+    "leaderAHonor": 1899,
+    "leaderB": "CairneLeader",
+    "leaderBWins": 13,
+    "leaderBHonor": 1948,
+    "leaderC": "GrommashLeader",
+    "leaderCWins": 10,
+    "leaderCHonor": 1929,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "Blizzard;ColdSnap;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Banshee;WillOfTheNecropolis;22",
+        "Quilboar;BrambleBurst;24",
+        "Execute;Bloodthirsty;22",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "TirionLeader;DivineShield;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Shaman;EarthShield;24",
+        "Abomination;NoxiousPresence;24",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;22",
+        "Pyromancer;Conflagrate;26"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;22",
+        "Abomination;NoxiousPresence;24",
+        "WhelpEggs;FlameBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "AngryChickens;FuriousFowl;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;AmplifyCurse;21",
+        "WhelpEggs;FlameBurst;24",
+        "Pyromancer;Conflagrate;25",
+        "Quilboar;TunnelVision;24",
+        "Abomination;NoxiousPresence;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "Pyromancer;Conflagrate;26",
+        "WhelpEggs;FlameBurst;24",
+        "Shaman;EarthShield;24",
+        "Quilboar;TunnelVision;24",
+        "Abomination;NoxiousPresence;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Abomination;NoxiousPresence;24",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Shaman;EarthShield;24",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;TunnelVision;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Huntress;ElvenMight;24",
+        "Quilboar;TunnelVision;24",
+        "Abomination;NoxiousPresence;24",
+        "WhelpEggs;FlameBurst;24",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;22",
+        "BatRider;EnchantedVials;24",
+        "AngryChickens;FuriousFowl;21",
+        "WhelpEggs;FlameBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;AmplifyCurse;21",
+        "Abomination;NoxiousPresence;24",
+        "Quilboar;TunnelVision;24",
+        "Pyromancer;Conflagrate;26",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Abomination;NoxiousPresence;24",
+        "Shaman;EarthShield;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Pyromancer;Conflagrate;26",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;18",
+        "Shaman;EarthShield;24",
+        "WitchDoctor;AmplifyCurse;21",
+        "Abomination;NoxiousPresence;24",
+        "Pyromancer;Conflagrate;26",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;TunnelVision;24"
+      ],
+      [
+        "c706fbc7111351c429bbc679022a91b1;1217400d396347e40a5ba4a180d3cebf;18",
+        "4d60f72627b7c36468f3107e40109845;fcc5c64ae7d56af4886c6cba42a594c6;26",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;24",
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;24",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;24",
+        "4662e633273a0d149b61d23732a5ed53;7102bce3c17cea249b4a93c2865dcc36;24",
+        "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Quilboar;TunnelVision;24",
+        "Harpy;InfectiousSwipes;22",
+        "AngryChickens;FuriousFowl;21",
+        "Abomination;NoxiousPresence;24",
+        "WhelpEggs;FlameBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;24",
+        "Pyromancer;Conflagrate;26",
+        "WhelpEggs;FlameBurst;24",
+        "Shaman;EarthShield;24",
+        "BatRider;EnchantedVials;24",
+        "Quilboar;BrambleBurst;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;21",
+        "Pyromancer;Pyroblast;26",
+        "Quilboar;TunnelVision;24",
+        "Abomination;NoxiousPresence;24",
+        "WhelpEggs;FlameBurst;24",
+        "Shaman;EarthShield;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Pyromancer;Pyroblast;26",
+        "Abomination;NoxiousPresence;24",
+        "Shaman;EarthShield;24",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;TunnelVision;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+      ]
+    ],
+    "lastUpdate": 1719063088
+  },
+  "token": "53b00bdb-668f-40cb-98ee-f6adcf789b55"
+}

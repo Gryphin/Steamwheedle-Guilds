@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 126911410,
+    "btag": "Bicas",
+    "name": "Bicas",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BloodmageThalnos_Pose",
+    "skulls": 133,
+    "level": 39,
+    "pvpWins": 299,
+    "leaderA": "RendLeader",
+    "leaderAWins": 37,
+    "leaderAHonor": 3010,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 36,
+    "leaderBHonor": 3037,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 22,
+    "leaderCHonor": 2919,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Execute;Bloodthirsty;18",
+        "ChainLightning;BrilliantFlash;18",
+        "Harpy;InfectiousSwipes;18",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Abomination;NoxiousPresence;22",
+        "Shaman;EarthShield;18",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Raptors;StrengthInNumbers;18",
+        "GnollBrute;Rabid;18",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;18",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;18",
+        "Execute;Bloodthirsty;18",
+        "StonehoofTauren;Momentum;18",
+        "WhelpEggs;FlameBurst;19",
+        "WitchDoctor;SpiritWard;20",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Pyromancer;Pyroblast;18",
+        "WhelpEggs;FlameBurst;19",
+        "Abomination;NoxiousPresence;22",
+        "Chimaera;Leviathan;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;19",
+        "Necromancer;JeweledSkulls;21",
+        "Abomination;NoxiousPresence;22",
+        "Execute;Bloodthirsty;18",
+        "CheatDeath;Vampirism;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Prowler;OnTheProwl;18"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Worgen;Premeditation;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;18",
+        "Chimaera;Leviathan;20",
+        "DarkIronMiner;GoldMine;18",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Quilboar;TunnelVision;21",
+        "Prowler;OnTheProwl;18",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Necromancer;JeweledSkulls;21",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "BatRider;EnchantedVials;18",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Banshee;WillOfTheNecropolis;18",
+        "Necromancer;JeweledSkulls;21",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Necromancer;JeweledSkulls;21",
+        "Abomination;NoxiousPresence;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GryphonRider;MightyThrow;18",
+        "WhelpEggs;FlameBurst;19",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "WitchDoctor;SpiritWard;20",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "MeatWagon;FiletTrebuchet;18",
+        "Prowler;OnTheProwl;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Quilboar;TunnelVision;21",
+        "Prowler;OnTheProwl;18",
+        "MurlocTidehunters;SafetyBubble;18",
+        "WhelpEggs;FlameBurst;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WitchDoctor;SpiritWard;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;19",
+        "WhelpEggs;FlameBurst;19",
+        "Pyromancer;Pyroblast;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Prowler;OnTheProwl;18",
+        "Quilboar;TunnelVision;21",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "WhelpEggs;FlameBurst;18",
+        "Pyromancer;Pyroblast;18",
+        "Prowler;OnTheProwl;18",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Necromancer;JeweledSkulls;20",
+        "Abomination;NoxiousPresence;22",
+        "WitchDoctor;SpiritWard;20",
+        "GryphonRider;MightyThrow;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;18"
+      ]
+    ],
+    "lastUpdate": 1719063160
+  },
+  "token": "4739a29b-c029-426c-9959-c99348f73d93"
+}

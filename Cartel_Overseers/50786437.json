@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 50786437,
+    "btag": "Desz",
+    "name": "Desz",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 257,
+    "leaderA": "RendLeader",
+    "leaderAWins": 50,
+    "leaderAHonor": 3298,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 32,
+    "leaderBHonor": 3405,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 47,
+    "leaderCHonor": 3648,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "ArcaneBlast;Amplification;21",
+        "DefiasBandits;PickLock;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "HarvestGolem;TrojanChickens;23",
+        "WhelpEggs;FlameBurst;25",
+        "Execute;Bloodthirsty;24"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "ArcaneBlast;Amplification;21",
+        "GryphonRider;MightyThrow;22",
+        "Footmen;Fortification;21",
+        "Pyromancer;Conflagrate;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "Quilboar;BrambleBurst;24",
+        "Ghoul;BoneArmor;22",
+        "MurlocTidehunters;SafetyBubble;23",
+        "WitchDoctor;SpiritWard;21",
+        "Blizzard;ColdSnap;22"
+      ],
+      [
+        "GrommashLeader;MirrorImage;24",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "StonehoofTauren;Momentum;22",
+        "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;FlameBurst;25",
+        "Quilboar;Bristleback;24",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "DeepBreath;Attunement;24",
+        "WhelpEggs;FlameBurst;25",
+        "PolymorphSpell;GoldenFleece;21",
+        "Chimaera;Leviathan;22",
+        "Quilboar;BrambleBurst;24",
+        "Harpy;InfectiousSwipes;24"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;22",
+        "Abomination;NoxiousPresence;22",
+        "Ghoul;BoneArmor;22",
+        "HolyNova;AmplifyMagic;21",
+        "MurlocTidehunters;SafetyBubble;23",
+        "ArcaneBlast;Amplification;21",
+        "Shaman;EarthShield;24"
+      ],
+      [
+        "MaievLeader;Remorseless;21",
+        "Blizzard;ColdSnap;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "WhelpEggs;FlameBurst;25",
+        "EarthElemental;ObsidianShard;23",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;22"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "PolymorphSpell;GoldenFleece;21",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;BrambleBurst;24",
+        "Pyromancer;Conflagrate;24",
+        "EarthElemental;ObsidianShard;23",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "StonehoofTauren;Momentum;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "Huntress;ElvenMight;24",
+        "FireElemental;ImmolationAura;22",
+        "Harpy;InfectiousSwipes;24",
+        "Quilboar;BrambleBurst;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;24",
+        "Ghoul;BoneArmor;22",
+        "MurlocTidehunters;SafetyBubble;23",
+        "Quilboar;BrambleBurst;24",
+        "DeepBreath;DoubleDragon;22",
+        "PolymorphSpell;GoldenFleece;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;20",
+        "StonehoofTauren;Pummel;21",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "EarthElemental;ObsidianShard;23",
+        "Shaman;EarthShield;22",
+        "Harpy;InfectiousSwipes;23",
+        "PlagueFarmer;SplashingPumpkins;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;24",
+        "Quilboar;BrambleBurst;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "MurlocTidehunters;SafetyBubble;23",
+        "WitchDoctor;SpiritWard;21",
+        "HarvestGolem;UnstableCore;23",
+        "DeepBreath;DoubleDragon;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;22",
+        "Flamewaker;Backdraft;22",
+        "Pyromancer;Conflagrate;24",
+        "FireElemental;ImmolationAura;22",
+        "DefiasBandits;PickLock;24",
+        "WhelpEggs;FlameBurst;25",
+        "Necromancer;JeweledSkulls;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Pyroblast;24",
+        "EarthElemental;ObsidianShard;23",
+        "HarvestGolem;TrojanChickens;23",
+        "Prowler;PackLeader;21",
+        "MurlocTidehunters;SafetyBubble;23",
+        "GryphonRider;MightyThrow;22"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;24",
+        "Ghoul;BoneArmor;22",
+        "Necromancer;JeweledSkulls;21",
+        "WitchDoctor;SpiritWard;21",
+        "Quilboar;BrambleBurst;24",
+        "PolymorphSpell;GoldenFleece;21",
+        "MurlocTidehunters;SafetyBubble;23"
+      ]
+    ],
+    "lastUpdate": 1717406912
+  },
+  "token": "22d4c092-9e68-44ab-8106-0dcb71d122bf"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 53251395,
+    "btag": "Masonelevn",
+    "name": "Masonelevn",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Grommash_Pose",
+    "skulls": 145,
+    "level": 51,
+    "pvpWins": 161,
+    "leaderA": "CharlgaLeader",
+    "leaderAWins": 94,
+    "leaderAHonor": 3626,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 30,
+    "leaderBHonor": 2545,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 4,
+    "leaderCHonor": 782,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;25",
+        "HarvestGolem;TrojanChickens;23",
+        "Banshee;WillOfTheNecropolis;22",
+        "Execute;Bloodthirsty;26",
+        "Quilboar;TunnelVision;25",
+        "ArcaneBlast;Amplification;25",
+        "StonehoofTauren;Momentum;27"
+      ],
+      [
+        "TirionLeader;DivineShield;23",
+        "HarvestGolem;TrojanChickens;21",
+        "DefiasBandits;PickLock;21",
+        "GnollBrute;Rabid;24",
+        "Quilboar;TunnelVision;24",
+        "Chimaera;CorrosiveBreath;23",
+        "Pyromancer;Pyroblast;24"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;23",
+        "GnollBrute;Rabid;25",
+        "Vultures;TendonRip;24",
+        "Quilboar;TunnelVision;25",
+        "GoblinSapper;RocketBoots;23",
+        "Execute;Bloodthirsty;25",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "GrommashLeader;Bladestorm;26",
+        "DarkspearTroll;Headhunting;27",
+        "StonehoofTauren;Momentum;27",
+        "WhelpEggs;FlameBurst;25",
+        "WitchDoctor;AmplifyCurse;25",
+        "Execute;Bloodthirsty;26",
+        "Pyromancer;Pyroblast;27"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;25",
+        "Drake;EngulfingFlames;25",
+        "Pyromancer;Conflagrate;27",
+        "Harpy;InfectiousSwipes;25",
+        "MeatWagon;FiletTrebuchet;25",
+        "DefiasBandits;PickLock;25",
+        "Quilboar;TunnelVision;25"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;25",
+        "Ghoul;BoneArmor;22",
+        "DarkspearTroll;SerpentSting;27",
+        "Execute;Bloodthirsty;25",
+        "StonehoofTauren;Momentum;27",
+        "ArcaneBlast;Amplification;25",
+        "Quilboar;TunnelVision;25"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;24",
+        "DefiasBandits;LastResort;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "WhelpEggs;FlameBurst;25",
+        "EarthElemental;ObsidianShard;22",
+        "Harpy;InfectiousSwipes;25",
+        "Quilboar;TunnelVision;25"
+      ],
+      [
+        "HoggerLeader;HamHock;25",
+        "MurlocTidehunters;SafetyBubble;25",
+        "AngryChickens;FuriousFowl;25",
+        "GnollBrute;Rabid;25",
+        "Quilboar;TunnelVision;25",
+        "DarkspearTroll;SerpentSting;27",
+        "Execute;Bloodthirsty;26"
+      ],
+      [
+        "CairneLeader;Reincarnation;25",
+        "StonehoofTauren;Momentum;27",
+        "DarkspearTroll;SerpentSting;27",
+        "Pyromancer;Pyroblast;26",
+        "BatRider;FierySurplus;23",
+        "Harpy;InfectiousSwipes;25",
+        "Execute;Bloodthirsty;25"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;25",
+        "MeatWagon;FiletTrebuchet;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "Quilboar;TunnelVision;25",
+        "Harpy;InfectiousSwipes;25",
+        "Execute;Bloodthirsty;25",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;25",
+        "StonehoofTauren;Momentum;27",
+        "DarkspearTroll;Headhunting;27",
+        "MeatWagon;FiletTrebuchet;25",
+        "Pyromancer;Conflagrate;27",
+        "Drake;MotherDrake;25",
+        "DefiasBandits;PickLock;25"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;25",
+        "GnollBrute;Rabid;25",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Pyromancer;Pyroblast;26",
+        "StonehoofTauren;Momentum;27",
+        "Execute;Bloodthirsty;25",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;23",
+        "StonehoofTauren;Momentum;27",
+        "Pyromancer;Pyroblast;26",
+        "DarkspearTroll;SerpentSting;27",
+        "FireElemental;ImmolationAura;23",
+        "WhelpEggs;FlameBurst;25",
+        "AngryChickens;FuriousFowl;25"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;25",
+        "Pyromancer;Pyroblast;27",
+        "DarkIronMiner;DwarvenAmbition;25",
+        "StonehoofTauren;Momentum;27",
+        "Quilboar;TunnelVision;25",
+        "Execute;Bloodthirsty;26",
+        "DarkspearTroll;Headhunting;27"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;22",
+        "Banshee;WillOfTheNecropolis;22",
+        "SkeletonWarrior;QuestingBuddies;22",
+        "DarkspearTroll;SerpentSting;27",
+        "StonehoofTauren;Momentum;27",
+        "Execute;Bloodthirsty;25",
+        "Harpy;InfectiousSwipes;25"
+      ]
+    ],
+    "lastUpdate": 1717304752
+  },
+  "token": "44d0c80b-9b90-40f0-a553-3098a7c884e7"
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 74249533,
+    "btag": "dneighbo",
+    "name": "dneighbo",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 139,
+    "level": 48,
+    "pvpWins": 57,
+    "leaderA": "BloodmageThalnosLeader",
+    "leaderAWins": 6,
+    "leaderAHonor": 976,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 9,
+    "leaderBHonor": 818,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 6,
+    "leaderCHonor": 863,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;22",
+        "Blizzard;BrittleIce;21",
+        "Execute;Bloodthirsty;21",
+        "LivingBomb;ChainReaction;20",
+        "Banshee;WillOfTheNecropolis;21",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;23"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "DefiasBandits;PickLock;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;23",
+        "HarvestGolem;UnstableCore;20",
+        "WhelpEggs;FlameBurst;23",
+        "Pyromancer;Pyroblast;21",
+        "AngryChickens;FuriousFowl;20"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Quilboar;Bristleback;23",
+        "MurlocTidehunters;Morelocs;21",
+        "EarthElemental;ReadyToRumble;20",
+        "DarkspearTroll;BigBadVoodoo;23",
+        "WitchDoctor;AmplifyCurse;21",
+        "Huntress;DarnassianSteel;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;21",
+        "Shaman;EarthShield;23",
+        "WitchDoctor;AmplifyCurse;21",
+        "WhelpEggs;FlameBurst;23",
+        "Chimaera;FrostShock;21",
+        "BatRider;EnchantedVials;23",
+        "Pyromancer;Pyroblast;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "MoltenGiant;ThreateningPresence;20",
+        "WhelpEggs;FlameBurst;23",
+        "Harpy;InfectiousSwipes;23",
+        "AngryChickens;;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "Quilboar;Bristleback;23"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;22",
+        "Abomination;NoxiousPresence;21",
+        "MeatWagon;FiletTrebuchet;21",
+        "Execute;Bloodthirsty;21",
+        "Harpy;InfectiousSwipes;23",
+        "Quilboar;Bristleback;23",
+        "Shaman;EarthShield;23"
+      ],
+      [
+        "MaievLeader;Shadowstep;21",
+        "Footmen;LastStand;21",
+        "DefiasBandits;PickLock;24",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;21",
+        "WitchDoctor;AmplifyCurse;21",
+        "BatRider;FlamingPitch;21",
+        "Quilboar;BrambleBurst;23"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "AngryChickens;FuriousFowl;20",
+        "Harpy;InfectiousSwipes;23",
+        "DefiasBandits;DeadlyPoison;24",
+        "EarthElemental;ReadyToRumble;20",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "SkeletonParty;;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "Shaman;EarthShield;23",
+        "WitchDoctor;AmplifyCurse;21",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;23",
+        "BatRider;EnchantedVials;23",
+        "Quilboar;Bristleback;23"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Ghoul;BoneArmor;21",
+        "WhelpEggs;FlameBurst;24",
+        "Pyromancer;Pyroblast;21",
+        "Harpy;InfectiousSwipes;23",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "SneedLeader;LandGrab;21",
+        "DarkspearTroll;BigBadVoodoo;23",
+        "WitchDoctor;AmplifyCurse;21",
+        "EarthElemental;ReadyToRumble;20",
+        "Pyromancer;Pyroblast;21",
+        "DefiasBandits;PickLock;24",
+        "Quilboar;Bristleback;23"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;21",
+        "Chimaera;CorrosiveBreath;21",
+        "Prowler;OnTheProwl;21",
+        "WhelpEggs;FlameBurst;23",
+        "BatRider;EnchantedVials;23",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "DefiasBandits;DeadlyPoison;24"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;23",
+        "Drake;MotherDrake;21",
+        "WhelpEggs;FlameBurst;23",
+        "SkeletonParty;RitualOfRime;20",
+        "Shaman;EarthShield;23",
+        "Pyromancer;Conflagrate;21",
+        "DefiasBandits;PickLock;24"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "FireElemental;MoltenCore;22",
+        "WhelpEggs;FlameBurst;23",
+        "DefiasBandits;DeadlyPoison;24",
+        "Chimaera;CorrosiveBreath;21",
+        "Pyromancer;Pyroblast;21",
+        "BatRider;EnchantedVials;23"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;21",
+        "Ghoul;BoneArmor;21",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "StonehoofTauren;Momentum;21",
+        "BatRider;EnchantedVials;23",
+        "WhelpEggs;FlameBurst;24",
+        "Pyromancer;Pyroblast;21"
+      ]
+    ],
+    "lastUpdate": 1719063114
+  },
+  "token": "21f908de-66e8-4014-b675-b3929e66b1ce"
+}

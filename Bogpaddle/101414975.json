@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 101414975,
+    "btag": "Jezi",
+    "name": "Jezi",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Hogger_Pose",
+    "skulls": 131,
+    "level": 37,
+    "pvpWins": 95,
+    "leaderA": "RendLeader",
+    "leaderAWins": 21,
+    "leaderAHonor": 3274,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 28,
+    "leaderBHonor": 3690,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 18,
+    "leaderCHonor": 3058,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;17",
+        "DefiasBandits;PickLock;17",
+        "Blizzard;ColdSnap;16",
+        "Execute;Bloodthirsty;18",
+        "Harpy;InfectiousSwipes;20",
+        "HarvestGolem;TrojanChickens;18",
+        "Quilboar;Bristleback;18"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "GryphonRider;MightyThrow;18",
+        "Huntress;Shadowmeld;20",
+        "Quilboar;Bristleback;18",
+        "Chimaera;CorrosiveBreath;17",
+        "Pyromancer;Conflagrate;21",
+        "AngryChickens;FuriousFowl;17"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;InfectiousSwipes;20",
+        "Prowler;OnTheProwl;17",
+        "Quilboar;Bristleback;18",
+        "Execute;Bloodthirsty;18",
+        "Huntress;Shadowmeld;20",
+        "Pyromancer;Conflagrate;21"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "WitchDoctor;SpiritWard;18",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;Bristleback;18",
+        "Chimaera;CorrosiveBreath;17",
+        "Pyromancer;Conflagrate;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Pyromancer;Conflagrate;21",
+        "FireElemental;ImmolationAura;18",
+        "Harpy;InfectiousSwipes;20",
+        "Chimaera;CorrosiveBreath;17",
+        "Quilboar;Bristleback;18",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;17",
+        "Ghoul;BoneArmor;18",
+        "CheatDeath;;16",
+        "ArcaneBlast;;18",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;Bristleback;18",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "MaievLeader;;15",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "DefiasBandits;PickLock;17",
+        "WhelpEggs;FlameBurst;17",
+        "Execute;Bloodthirsty;18",
+        "EarthElemental;ObsidianShard;19",
+        "Quilboar;Bristleback;18"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "MurlocTidehunters;SafetyBubble;17",
+        "Quilboar;Bristleback;18",
+        "WitchDoctor;SpiritWard;18",
+        "Banshee;WillOfTheNecropolis;17",
+        "Harpy;InfectiousSwipes;20",
+        "Huntress;Shadowmeld;20"
+      ],
+      [
+        "CairneLeader;;16",
+        "WitchDoctor;SpiritWard;18",
+        "Execute;Bloodthirsty;18",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Gargoyle;WingBuffet;19",
+        "Quilboar;Bristleback;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Ghoul;BoneArmor;18",
+        "Pyromancer;Conflagrate;21",
+        "Quilboar;Bristleback;18",
+        "Chimaera;CorrosiveBreath;17",
+        "Harpy;InfectiousSwipes;20",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "SneedLeader;;14",
+        "Execute;Bloodthirsty;17",
+        "WitchDoctor;SpiritWard;17",
+        "Gargoyle;WingBuffet;17",
+        "EarthElemental;ObsidianShard;19",
+        "MurlocTidehunters;SafetyBubble;16",
+        "Huntress;Shadowmeld;17"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "Quilboar;Bristleback;15",
+        "Harpy;InfectiousSwipes;15",
+        "Huntress;Shadowmeld;15",
+        "Vultures;;11",
+        "Raptors;;12",
+        "DefiasBandits;;13"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "WhelpEggs;FlameBurst;18",
+        "Pyromancer;Conflagrate;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Harpy;InfectiousSwipes;20",
+        "Huntress;Shadowmeld;20",
+        "Execute;Bloodthirsty;18"
+      ],
+      [
+        "ThaurissanLeader;Hubris;17",
+        "Pyromancer;Conflagrate;19",
+        "WhelpEggs;FlameBurst;17",
+        "DefiasBandits;PickLock;16",
+        "Harpy;InfectiousSwipes;20",
+        "Huntress;Shadowmeld;20",
+        "Quilboar;Bristleback;18"
+      ],
+      [
+        "SylvanasLeader;;15",
+        "Ghoul;BoneArmor;18",
+        "DefiasBandits;PickLock;17",
+        "Execute;Bloodthirsty;18",
+        "Quilboar;Bristleback;18",
+        "Harpy;InfectiousSwipes;20",
+        "Huntress;Shadowmeld;20"
+      ]
+    ],
+    "lastUpdate": 1719063091
+  },
+  "token": "7c8bcb31-7a2c-4b4c-ab01-64267095b13c"
+}

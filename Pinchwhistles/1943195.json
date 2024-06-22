@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1943195,
+    "btag": "Taz",
+    "name": "Taz",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Tirion_Pose",
+    "skulls": 125,
+    "level": 40,
+    "pvpWins": 48,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 24,
+    "leaderAHonor": 1016,
+    "leaderB": "SneedLeader",
+    "leaderBWins": 10,
+    "leaderBHonor": 945,
+    "leaderC": "BloodmageThalnosLeader",
+    "leaderCWins": 11,
+    "leaderCHonor": 1537,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "Footmen;Fortification;21",
+        "GryphonRider;MightyThrow;19",
+        "Blizzard;ColdSnap;17",
+        "Drake;MotherDrake;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "HolyNova;InnerFire;18"
+      ],
+      [
+        "TirionLeader;DivineShield;24",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GryphonRider;MightyThrow;21",
+        "Footmen;Fortification;21",
+        "Harpy;InfectiousSwipes;21",
+        "Drake;MotherDrake;21",
+        "ChainLightning;BrilliantFlash;18"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;23",
+        "Raptors;StrengthInNumbers;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "CheatDeath;Vampirism;19",
+        "GoblinSapper;RocketBoots;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "Shaman;EarthShield;19",
+        "WitchDoctor;AmplifyCurse;20",
+        "Footmen;Fortification;21",
+        "Harpy;InfectiousSwipes;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Drake;MotherDrake;21",
+        "DarkIronMiner;GoldMine;18",
+        "Harpy;InfectiousSwipes;21",
+        "GryphonRider;MightyThrow;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Shaman;EarthShield;19"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;21",
+        "Abomination;NoxiousPresence;18",
+        "Ghoul;BoneArmor;18",
+        "HolyNova;InnerFire;18",
+        "ChainLightning;BrilliantFlash;18",
+        "ArcaneBlast;Amplification;18",
+        "Shaman;EarthShield;19"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "DefiasBandits;PickLock;17",
+        "Quilboar;TunnelVision;21",
+        "EarthElemental;ObsidianShard;17",
+        "DarkIronMiner;GoldMine;18",
+        "WhelpEggs;FlameBurst;17"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "MurlocTidehunters;SafetyBubble;18",
+        "Quilboar;TunnelVision;21",
+        "GryphonRider;MightyThrow;19",
+        "Shaman;EarthShield;19",
+        "Gargoyle;WingBuffet;18",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Shaman;EarthShield;19",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "GryphonRider;MightyThrow;20",
+        "Footmen;Fortification;21",
+        "Drake;MotherDrake;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "Necromancer;JeweledSkulls;17",
+        "Abomination;NoxiousPresence;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "EarthElemental;ObsidianShard;17",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;21",
+        "Shaman;EarthShield;19",
+        "WitchDoctor;AmplifyCurse;20",
+        "Gargoyle;WingBuffet;19",
+        "GoblinSapper;RocketBoots;20",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "GryphonRider;MightyThrow;21"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Chimaera;Leviathan;20",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;21",
+        "Drake;MotherDrake;21",
+        "Abomination;NoxiousPresence;18",
+        "Shaman;EarthShield;19"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "FireElemental;ImmolationAura;17",
+        "Drake;MotherDrake;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Gargoyle;WingBuffet;19",
+        "Shaman;EarthShield;19",
+        "WitchDoctor;AmplifyCurse;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "Pyromancer;Conflagrate;18",
+        "Drake;MotherDrake;21",
+        "DarkIronMiner;GoldMine;18",
+        "FireElemental;ImmolationAura;17",
+        "Harpy;InfectiousSwipes;21",
+        "Shaman;EarthShield;19"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;20",
+        "Gargoyle;WingBuffet;19",
+        "Ghoul;BoneArmor;18",
+        "Shaman;EarthShield;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Harpy;InfectiousSwipes;21",
+        "WitchDoctor;AmplifyCurse;20"
+      ]
+    ],
+    "lastUpdate": 1719063101
+  },
+  "token": "81037985-90c6-4230-8527-bfce5bd17f8d"
+}

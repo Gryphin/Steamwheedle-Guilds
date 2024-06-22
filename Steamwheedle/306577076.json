@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 306577076,
+    "btag": "Lobo25",
+    "name": "Lobo25",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 116,
+    "level": 36,
+    "pvpWins": 95,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 19,
+    "leaderAHonor": 3353,
+    "leaderB": "SneedLeader",
+    "leaderBWins": 9,
+    "leaderBHonor": 1800,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 44,
+    "leaderCHonor": 3550,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;16",
+        "GryphonRider;AirDrop;20",
+        "Huntress;DarnassianSteel;17",
+        "Execute;Overpower;21",
+        "Flamewaker;Engulf;20",
+        "MeatWagon;FiletTrebuchet;20",
+        "StonehoofTauren;Pummel;20"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "Huntress;DarnassianSteel;18",
+        "GryphonRider;AirDrop;21",
+        "StonehoofTauren;Pummel;20",
+        "Flamewaker;Engulf;20",
+        "MeatWagon;FiletTrebuchet;21",
+        "Execute;Overpower;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+        "Chimaera;CorrosiveBreath;23",
+        "Harpy;InfectiousSwipes;19",
+        "StonehoofTauren;Pummel;20",
+        "Execute;Overpower;22",
+        "GryphonRider;AirDrop;21",
+        "MeatWagon;FiletTrebuchet;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;18",
+        "StonehoofTauren;Pummel;20",
+        "Execute;Overpower;21",
+        "WarsongGrunts;;15",
+        "Huntress;DarnassianSteel;17",
+        "GryphonRider;MightyThrow;20",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;17"
+      ],
+      [
+        "RendLeader;FlamingSoul;22",
+        "Drake;MotherDrake;20",
+        "Firehammer;MoultinMetal;17",
+        "GryphonRider;AirDrop;21",
+        "Flamewaker;Engulf;20",
+        "Blizzard;ColdSnap;18",
+        "StonehoofTauren;Pummel;20"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Necromancer;JeweledSkulls;20",
+        "MeatWagon;FiletTrebuchet;21",
+        "Execute;Overpower;22",
+        "GryphonRider;AirDrop;21",
+        "Flamewaker;Engulf;20",
+        "StonehoofTauren;Pummel;20"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "GryphonRider;AirDrop;20",
+        "Huntress;DarnassianSteel;17",
+        "Chimaera;CorrosiveBreath;20",
+        "Execute;Overpower;21",
+        "MeatWagon;FiletTrebuchet;20",
+        "StonehoofTauren;Pummel;20"
+      ],
+      [
+        "HoggerLeader;;9",
+        "Necromancer;;10",
+        "MeatWagon;;11",
+        "GryphonRider;;10",
+        "StonehoofTauren;;11",
+        "Execute;;10",
+        "Flamewaker;;11"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;23",
+        "Necromancer;JeweledSkulls;21",
+        "SkeletonParty;CorpseRun;17",
+        "StonehoofTauren;Pummel;20",
+        "Execute;Overpower;22",
+        "GryphonRider;AirDrop;21",
+        "Flamewaker;HeatStroke;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;18",
+        "StonehoofTauren;Pummel;20",
+        "Execute;Overpower;22",
+        "MeatWagon;FiletTrebuchet;21",
+        "GryphonRider;AirDrop;21",
+        "Flamewaker;Engulf;20",
+        "Harpy;InfectiousSwipes;19"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "Necromancer;JeweledSkulls;20",
+        "MeatWagon;FiletTrebuchet;20",
+        "GryphonRider;AirDrop;20",
+        "StonehoofTauren;Pummel;20",
+        "Execute;Overpower;20",
+        "Flamewaker;Engulf;20"
+      ],
+      [
+        "DrakkisathLeader;;15",
+        "Necromancer;JeweledSkulls;20",
+        "MeatWagon;FiletTrebuchet;20",
+        "GryphonRider;AirDrop;20",
+        "Execute;Overpower;20",
+        "Flamewaker;Engulf;20",
+        "StonehoofTauren;Pummel;20"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;16",
+        "Necromancer;JeweledSkulls;20",
+        "MeatWagon;FiletTrebuchet;20",
+        "StonehoofTauren;Pummel;20",
+        "Execute;Overpower;20",
+        "GryphonRider;AirDrop;20",
+        "Flamewaker;HeatStroke;20"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;16",
+        "Necromancer;JeweledSkulls;20",
+        "MeatWagon;FiletTrebuchet;21",
+        "StonehoofTauren;Pummel;20",
+        "Flamewaker;HeatStroke;20",
+        "GryphonRider;AirDrop;20",
+        "Execute;Overpower;21"
+      ]
+    ],
+    "lastUpdate": 1719063125
+  },
+  "token": "74fb491f-ae59-43c1-9dd4-a70c5d5ebba7"
+}

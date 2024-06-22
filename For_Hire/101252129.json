@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 101252129,
+    "btag": "Zoor",
+    "name": "Zoor",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 143,
+    "level": 45,
+    "pvpWins": 253,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 79,
+    "leaderAHonor": 2690,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 69,
+    "leaderBHonor": 3448,
+    "leaderC": "SylvanasLeader",
+    "leaderCWins": 49,
+    "leaderCHonor": 3478,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;18",
+        "GryphonRider;MightyThrow;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Blizzard;ColdSnap;18",
+        "WhelpEggs;FlameBurst;24",
+        "Execute;KillingSpree;20",
+        "Prowler;PackLeader;24"
+      ],
+      [
+        "TirionLeader;DivineShield;23",
+        "Huntress;Shadowmeld;24",
+        "GryphonRider;MightyThrow;25",
+        "Abomination;Cannonball;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Harpy;TrinketCollectors;25",
+        "EarthElemental;ObsidianShard;26"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;23",
+        "Harpy;TrinketCollectors;25",
+        "Prowler;PackLeader;24",
+        "Abomination;Cannonball;25",
+        "MurlocTidehunters;CarefulAim;23",
+        "Huntress;Shadowmeld;24",
+        "EarthElemental;ObsidianShard;26"
+      ],
+      [
+        "GrommashLeader;MirrorImage;20",
+        "WarsongGrunts;BloodPact;24",
+        "DarkspearTroll;Headhunting;24",
+        "Harpy;TrinketCollectors;25",
+        "Drake;MotherDrake;24",
+        "GryphonRider;MightyThrow;25",
+        "OgreMage;Avarice;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "Drake;MotherDrake;24",
+        "WhelpEggs;FlameBurst;24",
+        "Harpy;TrinketCollectors;25",
+        "Shaman;LightningMastery;24",
+        "WarsongGrunts;BloodPact;24",
+        "GryphonRider;MightyThrow;25"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;18",
+        "Abomination;Cannonball;25",
+        "Necromancer;JeweledSkulls;24",
+        "ArcaneBlast;Torrent;18",
+        "ChainLightning;StormsReach;17",
+        "SmokeBombSpell;ThroughTheShadows;17",
+        "Execute;KillingSpree;20"
+      ],
+      [
+        "MaievLeader;Shadowstep;18",
+        "Huntress;Shadowmeld;24",
+        "Mountaineer;FrenziedSpirit;21",
+        "DarkIronMiner;GoldMine;18",
+        "EarthElemental;ObsidianShard;26",
+        "SkeletonParty;5Man;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "HoggerLeader;FatalFrenzy;21",
+        "GnollBrute;Rabid;18",
+        "Prowler;PackLeader;24",
+        "Ghoul;Ravenous;20",
+        "MurlocTidehunters;CarefulAim;21",
+        "GryphonRider;MightyThrow;25",
+        "Harpy;TrinketCollectors;25"
+      ],
+      [
+        "CairneLeader;Aftershock;24",
+        "WarsongGrunts;BloodPact;24",
+        "Shaman;LightningMastery;24",
+        "DarkspearTroll;Headhunting;24",
+        "WarsongRaider;Saboteur;23",
+        "Harpy;TrinketCollectors;25",
+        "OgreMage;Avarice;24"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Abomination;Cannonball;25",
+        "Necromancer;JeweledSkulls;24",
+        "SkeletonParty;5Man;21",
+        "SkeletonWarrior;Cackle;20",
+        "Harpy;TrinketCollectors;25",
+        "Gargoyle;AerialSuperiority;20"
+      ],
+      [
+        "SneedLeader;LandGrab;20",
+        "WarsongRaider;Saboteur;23",
+        "DarkspearTroll;Headhunting;24",
+        "EarthElemental;ObsidianShard;25",
+        "Flamewaker;Engulf;20",
+        "GryphonRider;MightyThrow;25",
+        "Prowler;PackLeader;24"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;17",
+        "Prowler;PackLeader;24",
+        "GnollBrute;Rabid;18",
+        "Huntress;Shadowmeld;24",
+        "Quilboar;TunnelVision;20",
+        "Harpy;TrinketCollectors;25",
+        "MurlocTidehunters;CarefulAim;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;18",
+        "Flamewaker;Engulf;21",
+        "Drake;MotherDrake;23",
+        "WhelpEggs;FlameBurst;23",
+        "Harpy;TrinketCollectors;25",
+        "Ghoul;Ravenous;20",
+        "Pyromancer;Conflagrate;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "Huntress;Shadowmeld;24",
+        "EarthElemental;ObsidianShard;25",
+        "Abomination;Cannonball;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Harpy;TrinketCollectors;25",
+        "GryphonRider;MightyThrow;25"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;24",
+        "Abomination;Cannonball;25",
+        "Necromancer;JeweledSkulls;24",
+        "DarkspearTroll;Headhunting;24",
+        "EarthElemental;ObsidianShard;26",
+        "GryphonRider;MightyThrow;25",
+        "Harpy;TrinketCollectors;25"
+      ]
+    ],
+    "lastUpdate": 1719063135
+  },
+  "token": "539f6e57-aea0-4cd9-b79b-13b7c37fd8a3"
+}

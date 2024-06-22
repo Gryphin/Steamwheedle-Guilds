@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 55383526,
+    "btag": "Trazman711",
+    "name": "Trazman711",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Thaurissan_Pose",
+    "skulls": 109,
+    "level": 35,
+    "pvpWins": 118,
+    "leaderA": "OldMurkEyeLeader",
+    "leaderAWins": 20,
+    "leaderAHonor": 1339,
+    "leaderB": "GrommashLeader",
+    "leaderBWins": 32,
+    "leaderBHonor": 2577,
+    "leaderC": "TirionLeader",
+    "leaderCWins": 30,
+    "leaderCHonor": 2288,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;15",
+        "BatRider;FierySurplus;17",
+        "Pyromancer;BlazeOfGlory;17",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;19",
+        "Ghoul;;14",
+        "StonehoofTauren;Provoke;17",
+        "Footmen;Fortification;16"
+      ],
+      [
+        "TirionLeader;DivineShield;19",
+        "Huntress;ElvenMight;17",
+        "GryphonRider;AirDrop;19",
+        "Footmen;Fortification;17",
+        "EarthElemental;ObsidianShard;18",
+        "Flamewaker;Backdraft;22",
+        "SkeletonParty;CorpseRun;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;16",
+        "Prowler;;15",
+        "Quilboar;TunnelVision;17",
+        "Footmen;Fortification;17",
+        "Flamewaker;HeatStroke;21",
+        "Pyromancer;BlazeOfGlory;17",
+        "Shaman;LightningMastery;19"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "StonehoofTauren;Provoke;17",
+        "Shaman;LightningMastery;19",
+        "Footmen;Fortification;17",
+        "Flamewaker;Backdraft;22",
+        "DefiasBandits;;15",
+        "WhelpEggs;FlameBurst;19"
+      ],
+      [
+        "RendLeader;FlamingSoul;16",
+        "EarthElemental;ObsidianShard;18",
+        "Flamewaker;HeatStroke;22",
+        "BatRider;FierySurplus;17",
+        "Shaman;LightningMastery;19",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "StonehoofTauren;Provoke;17"
+      ],
+      [
+        "BloodmageThalnosLeader;;14",
+        "Ghoul;;15",
+        "BatRider;FierySurplus;17",
+        "Shaman;LightningMastery;19",
+        "Pyromancer;BlazeOfGlory;17",
+        "Chimaera;Leviathan;17",
+        "Drake;MotherDrake;19"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;18",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+        "Worgen;LoneWolf;17",
+        "WhelpEggs;FlameBurst;19",
+        "Prowler;PackLeader;17",
+        "Flamewaker;HeatStroke;22",
+        "GryphonRider;AirDrop;19"
+      ],
+      [
+        "HoggerLeader;FatalFrenzy;16",
+        "Quilboar;TunnelVision;17",
+        "Prowler;;15",
+        "DefiasBandits;;15",
+        "Harpy;TalonDive;18",
+        "Drake;MotherDrake;19",
+        "Chimaera;Leviathan;16"
+      ],
+      [
+        "CairneLeader;Aftershock;16",
+        "BatRider;FierySurplus;17",
+        "StonehoofTauren;Provoke;17",
+        "Flamewaker;HeatStroke;20",
+        "Pyromancer;BlazeOfGlory;16",
+        "Prowler;;14",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;16",
+        "Pyromancer;BlazeOfGlory;17",
+        "Shaman;EarthwallTotem;19",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Drake;Roost;19",
+        "Flamewaker;HeatStroke;22",
+        "Abomination;Cannonball;17"
+      ],
+      [
+        "SneedLeader;;13",
+        "Flamewaker;Backdraft;21",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;19",
+        "Harpy;TalonDive;18",
+        "ArcaneBlast;Torrent;15",
+        "Drake;MotherDrake;19",
+        "DarkIronMiner;DwarvenAmbition;18"
+      ],
+      [
+        "CharlgaLeader;SpiritPassage;17",
+        "Harpy;TalonDive;18",
+        "Prowler;PackLeader;17",
+        "Huntress;ElvenMight;17",
+        "SkeletonParty;CorpseRun;19",
+        "Flamewaker;HeatStroke;22",
+        "Footmen;Fortification;17"
+      ],
+      [
+        "DrakkisathLeader;;13",
+        "Pyromancer;BlazeOfGlory;17",
+        "Harpy;TalonDive;18",
+        "BatRider;FierySurplus;17",
+        "Flamewaker;HeatStroke;20",
+        "StonehoofTauren;Provoke;17",
+        "DefiasBandits;;13"
+      ],
+      [
+        "ThaurissanLeader;;14",
+        "EarthElemental;ObsidianShard;18",
+        "WhelpEggs;FlameBurst;19",
+        "Footmen;Fortification;17",
+        "Flamewaker;Backdraft;21",
+        "Pyromancer;BlazeOfGlory;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;17",
+        "Abomination;Cannonball;17",
+        "PlagueFarmer;PartingGift;16",
+        "Shaman;LightningMastery;19",
+        "Harpy;TalonDive;18",
+        "GryphonRider;AirDrop;19",
+        "StonehoofTauren;Provoke;17"
+      ]
+    ],
+    "lastUpdate": 1719063113
+  },
+  "token": "2633385e-d788-4de9-b51f-915462b04e6a"
+}

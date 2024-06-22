@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1376416,
+    "btag": "Itachi",
+    "name": "Itachi",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Drakkisath_Pose",
+    "skulls": 150,
+    "level": 51,
+    "pvpWins": 1914,
+    "leaderA": "RendLeader",
+    "leaderAWins": 130,
+    "leaderAHonor": 4139,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 113,
+    "leaderBHonor": 4143,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 189,
+    "leaderCHonor": 4111,
+    "socials": null,
+    "armies": [
+      [
+        "04320a384d8cbf648b5fd5eb2f061208;6783d455b088edb4c9f86e293698922f;25",
+        "ddd9c76766fce4940afe7512cf2d8ced;34e8a9f430edc3f469eca905f4a4788b;25",
+        "d8382e21b7209419192aa9de55d95a08;46f7b9e7fa69e0647952f2b7e5f13d1c;25",
+        "010159552421635498f7b2a538788b09;cd664c866d8c69f4883a645464f91eec;25",
+        "a2e0890e71d27864a91788f7d64972dd;7ef032e1bd73dfe40a8889f3d9629a05;25",
+        "4c0efa74c3c3f6a499f7002f921b8ec3;9a83af5b4c2bdbb4dbe7cdf82834cfbf;26",
+        "5b893c52c1e623541bececb01409caf3;4409adb7ffddc3c4eba2e70746399464;16"
+      ],
+      [
+        "2dd18b5452eba554db7594cd2b7e074d;05ccc12b0861631418f1e0a95ed8bc99;25",
+        "ddd9c76766fce4940afe7512cf2d8ced;e6daaee1092311e46aa247d90095a9bf;25",
+        "724ebbab65fd2477db54c91707f4a6d8;8f9bd07f0178c1d46a071bcef041138b;25",
+        "003e94d581e55c64b9a32c62de5646bc;970afc9d7608ac848b8fab8b66c913ba;25",
+        "7b8e2425177bf46efb482030fc693d76;068d55e468df929479a63ccbec9a72cc;25",
+        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;25",
+        "5b893c52c1e623541bececb01409caf3;4409adb7ffddc3c4eba2e70746399464;19"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;25",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Quilboar;BrambleBurst;25",
+        "Gargoyle;ObsidianStatue;25",
+        "Blizzard;ColdSnap;25",
+        "DefiasBandits;PickLock;25",
+        "PolymorphSpell;GoldenFleece;25"
+      ],
+      [
+        "GrommashLeader;MirrorImage;25",
+        "WitchDoctor;SpiritWard;25",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "WhelpEggs;FlameBurst;25",
+        "Gargoyle;WingBuffet;25",
+        "Flamewaker;HeatStroke;25",
+        "MurlocTidehunters;SafetyBubble;25"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;25",
+        "DarkIronMiner;DwarvenAmbition;25",
+        "WhelpEggs;FlameBurst;25",
+        "Chimaera;FrostShock;25",
+        "Gargoyle;WingBuffet;25",
+        "Quilboar;BrambleBurst;25",
+        "MurlocTidehunters;SafetyBubble;25"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;25",
+        "CheatDeath;Vampirism;25",
+        "Ghoul;BoneArmor;25",
+        "ArcaneBlast;Torrent;25",
+        "PolymorphSpell;GoldenFleece;25",
+        "MurlocTidehunters;SafetyBubble;25",
+        "HolyNova;InnerFire;25"
+      ],
+      [
+        "MaievLeader;Remorseless;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Blizzard;ColdSnap;25",
+        "EarthElemental;ObsidianShard;25",
+        "SkeletonParty;CorpseRun;25",
+        "Quilboar;BrambleBurst;25",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "HoggerLeader;HamHock;25",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Harpy;InfectiousSwipes;26",
+        "Quilboar;BrambleBurst;25",
+        "Prowler;OnTheProwl;26",
+        "WhelpEggs;FlameBurst;25",
+        "DarkspearTroll;BigBadVoodoo;25"
+      ],
+      [
+        "CairneLeader;Reincarnation;25",
+        "Shaman;EarthShield;25",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "WitchDoctor;SpiritWard;25",
+        "GryphonRider;MightyThrow;25",
+        "Execute;Bloodthirsty;25",
+        "DefiasBandits;PickLock;25"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;26",
+        "Gargoyle;WingBuffet;25",
+        "Ghoul;BoneArmor;25",
+        "SkeletonParty;CorpseRun;25",
+        "WitchDoctor;SpiritWard;25",
+        "Blizzard;ColdSnap;25",
+        "MurlocTidehunters;SafetyBubble;25"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;23",
+        "DarkspearTroll;BigBadVoodoo;25",
+        "Shaman;EarthShield;25",
+        "Gargoyle;WingBuffet;25",
+        "WitchDoctor;SpiritWard;25",
+        "Flamewaker;HeatStroke;25",
+        "Harpy;InfectiousSwipes;26"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;25",
+        "Quilboar;BrambleBurst;25",
+        "Harpy;InfectiousSwipes;26",
+        "Prowler;OnTheProwl;26",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Execute;Bloodthirsty;25",
+        "WhelpEggs;FlameBurst;25"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;26",
+        "DeepBreath;Attunement;25",
+        "Pyromancer;Pyroblast;25",
+        "DarkIronMiner;DwarvenAmbition;25",
+        "Shaman;EarthShield;25",
+        "WitchDoctor;SpiritWard;25",
+        "HolyNova;AmplifyMagic;25"
+      ],
+      [
+        "ThaurissanLeader;Hubris;25",
+        "MoltenGiant;BloodOfTheMountain;25",
+        "DarkIronMiner;DwarvenAmbition;25",
+        "Prowler;OnTheProwl;26",
+        "PolymorphSpell;GoldenFleece;25",
+        "Pyromancer;Pyroblast;25",
+        "Harpy;InfectiousSwipes;26"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;25",
+        "Gargoyle;ObsidianStatue;25",
+        "Necromancer;JeweledSkulls;25",
+        "Shaman;EarthShield;25",
+        "SkeletonParty;CorpseRun;25",
+        "CheatDeath;Vampirism;25",
+        "Ghoul;BoneArmor;25"
+      ]
+    ],
+    "lastUpdate": 1717412414
+  },
+  "token": "e0085c11-3dcf-420c-a7d9-82009aec07de"
+}

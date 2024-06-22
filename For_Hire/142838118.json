@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 142838118,
+    "btag": "Gimbler",
+    "name": "Gimbler",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 100,
+    "level": 36,
+    "pvpWins": 50,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 8,
+    "leaderAHonor": 1374,
+    "leaderB": "TirionLeader",
+    "leaderBWins": 8,
+    "leaderBHonor": 1567,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 17,
+    "leaderCHonor": 1319,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;15",
+        "DefiasBandits;DeadlyPoison;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "LivingBomb;ChainReaction;16",
+        "Shaman;EarthShield;16",
+        "WhelpEggs;FlameBurst;16",
+        "Abomination;NoxiousPresence;16"
+      ],
+      [
+        "TirionLeader;DivineShield;17",
+        "GryphonRider;MightyThrow;17",
+        "DefiasBandits;DeadlyPoison;17",
+        "Abomination;NoxiousPresence;17",
+        "Shaman;EarthShield;17",
+        "DarkIronMiner;GoldMine;17",
+        "WitchDoctor;SpiritWard;16"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;16",
+        "Raptors;;14",
+        "Spiderlings;Envenom;16",
+        "DefiasBandits;DeadlyPoison;17",
+        "Vultures;Migration;16",
+        "MurlocTidehunters;SafetyBubble;17",
+        "AngryChickens;;14"
+      ],
+      [
+        "GrommashLeader;MirrorImage;17",
+        "StonehoofTauren;Momentum;17",
+        "OgreMage;Ignite;20",
+        "WhelpEggs;FlameBurst;16",
+        "Huntress;ElvenMight;16",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Pyromancer;Pyroblast;17"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;19",
+        "FireElemental;;15",
+        "Pyromancer;Pyroblast;17",
+        "Gargoyle;WingBuffet;17",
+        "WhelpEggs;FlameBurst;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "GryphonRider;MightyThrow;17"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Abomination;NoxiousPresence;17",
+        "Necromancer;;14",
+        "Execute;Bloodthirsty;16",
+        "ArcaneBlast;;15",
+        "Huntress;ElvenMight;16",
+        "Worgen;Premeditation;16"
+      ],
+      [
+        "MaievLeader;Shadowstep;16",
+        "DefiasBandits;DeadlyPoison;17",
+        "Vultures;Migration;16",
+        "WhelpEggs;FlameBurst;16",
+        "Quilboar;TunnelVision;16",
+        "GoblinSapper;;14",
+        "Harpy;InfectiousSwipes;17"
+      ],
+      [
+        "HoggerLeader;HamHock;17",
+        "Harpy;InfectiousSwipes;17",
+        "Vultures;Migration;16",
+        "GoblinSapper;;14",
+        "DefiasBandits;DeadlyPoison;17",
+        "WhelpEggs;FlameBurst;16",
+        "Quilboar;TunnelVision;16"
+      ],
+      [
+        "CairneLeader;Reincarnation;16",
+        "StonehoofTauren;Momentum;16",
+        "WitchDoctor;SpiritWard;16",
+        "Pyromancer;Pyroblast;16",
+        "Shaman;EarthShield;16",
+        "Harpy;InfectiousSwipes;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "PlagueFarmer;;17",
+        "Gargoyle;WingBuffet;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "FaerieDragon;FaeBlessing;16",
+        "DefiasBandits;DeadlyPoison;17",
+        "DarkIronMiner;GoldMine;17"
+      ],
+      [
+        "SneedLeader;;15",
+        "StonehoofTauren;Momentum;16",
+        "DarkspearTroll;BigBadVoodoo;16",
+        "FireElemental;;15",
+        "Footmen;;15",
+        "BatRider;EnchantedVials;17",
+        "Pyromancer;Pyroblast;16"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "Quilboar;TunnelVision;16",
+        "Prowler;OnTheProwl;15",
+        "Harpy;InfectiousSwipes;16",
+        "DefiasBandits;DeadlyPoison;15",
+        "DarkspearTroll;;13",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;16",
+        "DarkspearTroll;BigBadVoodoo;16",
+        "DarkIronMiner;GoldMine;17",
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Harpy;InfectiousSwipes;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Shaman;EarthShield;17"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;16",
+        "Pyromancer;Pyroblast;16",
+        "Flamewaker;Engulf;16",
+        "Prowler;OnTheProwl;16",
+        "BatRider;EnchantedVials;16",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+        "StonehoofTauren;Momentum;16"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;16",
+        "Abomination;NoxiousPresence;17",
+        "Necromancer;;14",
+        "Execute;Bloodthirsty;16",
+        "GryphonRider;MightyThrow;17",
+        "Quilboar;TunnelVision;16",
+        "Prowler;OnTheProwl;16"
+      ]
+    ],
+    "lastUpdate": 1719063133
+  },
+  "token": "62c412f1-e774-4da2-9e3a-ffb0e9a62a48"
+}

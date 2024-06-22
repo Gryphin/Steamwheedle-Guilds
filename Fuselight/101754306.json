@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 101754306,
+    "btag": "Thorki",
+    "name": "Thorki",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "",
+    "skulls": 134,
+    "level": 36,
+    "pvpWins": 46,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 20,
+    "leaderAHonor": 2686,
+    "leaderB": "RendLeader",
+    "leaderBWins": 11,
+    "leaderBHonor": 1828,
+    "leaderC": "CairneLeader",
+    "leaderCWins": 11,
+    "leaderCHonor": 1992,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;17",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;21",
+        "DefiasBandits;DeadlyPoison;20",
+        "Blizzard;ColdSnap;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "TirionLeader;;21",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;21",
+        "DefiasBandits;DeadlyPoison;20",
+        "Gargoyle;WingBuffet;21",
+        "WhelpEggs;FlameBurst;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "Gargoyle;WingBuffet;21",
+        "WhelpEggs;FlameBurst;21",
+        "Blizzard;ColdSnap;21",
+        "DefiasBandits;DeadlyPoison;20"
+      ],
+      [
+        "GrommashLeader;;15",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "DefiasBandits;DeadlyPoison;20",
+        "Harpy;InfectiousSwipes;21",
+        "Blizzard;ColdSnap;21",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;21",
+        "WhelpEggs;FlameBurst;21",
+        "EarthElemental;ObsidianShard;20",
+        "Harpy;InfectiousSwipes;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Quilboar;TunnelVision;21",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "BloodmageThalnosLeader;;16",
+        "SkeletonParty;5Man;17",
+        "MeatWagon;;15",
+        "Blizzard;ColdSnap;20",
+        "WhelpEggs;FlameBurst;21",
+        "Pyromancer;Conflagrate;17",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;21",
+        "Blizzard;ColdSnap;21",
+        "EarthElemental;ObsidianShard;20",
+        "Quilboar;TunnelVision;21",
+        "SkeletonParty;5Man;18",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "HoggerLeader;;15",
+        "DefiasBandits;DeadlyPoison;20",
+        "Blizzard;ColdSnap;20",
+        "Footmen;ShieldBash;18",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Shaman;LightningMastery;20",
+        "BatRider;EnchantedVials;17"
+      ],
+      [
+        "CairneLeader;Reincarnation;23",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Shaman;EarthShield;22",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;TunnelVision;21",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "Banshee;SoulEruption;18",
+        "Gargoyle;WingBuffet;21",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;InfectiousSwipes;21",
+        "Blizzard;ColdSnap;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "SneedLeader;;15",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "BatRider;EnchantedVials;17",
+        "Gargoyle;WingBuffet;20",
+        "ChainLightning;;15",
+        "Shaman;LightningMastery;22",
+        "Footmen;ShieldBash;18"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "EarthElemental;ObsidianShard;20",
+        "WhelpEggs;FlameBurst;21",
+        "Blizzard;ColdSnap;21",
+        "Harpy;InfectiousSwipes;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "Quilboar;TunnelVision;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;16",
+        "WhelpEggs;FlameBurst;21",
+        "EarthElemental;ObsidianShard;20",
+        "Quilboar;TunnelVision;21",
+        "SkeletonParty;5Man;17",
+        "Harpy;InfectiousSwipes;21",
+        "Blizzard;ColdSnap;21"
+      ],
+      [
+        "SylvanasLeader;;12",
+        "DarkspearTroll;BigBadVoodoo;16",
+        "BatRider;EnchantedVials;15",
+        "Gargoyle;WingBuffet;16",
+        "ChainLightning;;13",
+        "Shaman;LightningMastery;16",
+        "Footmen;ShieldBash;15"
+      ]
+    ],
+    "lastUpdate": 1719063157
+  },
+  "token": "a126d82d-ef2b-415e-b4dd-141e54110d32"
+}

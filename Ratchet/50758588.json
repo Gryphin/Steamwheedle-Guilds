@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 50758588,
+    "btag": "Frost",
+    "name": "Frost",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 131,
+    "level": 46,
+    "pvpWins": 167,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 28,
+    "leaderAHonor": 3440,
+    "leaderB": "RendLeader",
+    "leaderBWins": 28,
+    "leaderBHonor": 1534,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 39,
+    "leaderCHonor": 2221,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;19",
+        "HarvestGolem;BountifulHarvest;21",
+        "Huntress;ElvenMight;21",
+        "Execute;Bloodthirsty;19",
+        "Pyromancer;Conflagrate;23",
+        "Ghoul;BoneArmor;21",
+        "Blizzard;ColdSnap;20"
+      ],
+      [
+        "TirionLeader;ByTheLight;22",
+        "Chimaera;FrostShock;22",
+        "DefiasBandits;PickLock;21",
+        "EarthElemental;ObsidianShard;21",
+        "Quilboar;TunnelVision;21",
+        "Pyromancer;Conflagrate;23",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Quilboar;TunnelVision;21",
+        "Chimaera;Leviathan;22",
+        "HarvestGolem;BountifulHarvest;20",
+        "Harpy;InfectiousSwipes;21",
+        "MurlocTidehunters;SafetyBubble;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;21",
+        "WitchDoctor;SpiritWard;21",
+        "Execute;Bloodthirsty;19",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;TunnelVision;21",
+        "BatRider;EnchantedVials;19",
+        "Flamewaker;Engulf;23"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "Drake;MotherDrake;21",
+        "Pyromancer;Conflagrate;23",
+        "Harpy;InfectiousSwipes;22",
+        "Quilboar;Bristleback;21",
+        "DefiasBandits;PickLock;21",
+        "Flamewaker;Engulf;23"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;19",
+        "Ghoul;BoneArmor;20",
+        "Abomination;Cannonball;21",
+        "Blizzard;ColdSnap;20",
+        "HarvestGolem;BountifulHarvest;21",
+        "ChainLightning;StormsReach;20",
+        "ArcaneBlast;Amplification;19"
+      ],
+      [
+        "MaievLeader;Remorseless;20",
+        "Worgen;Premeditation;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "SkeletonParty;5Man;20",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;22",
+        "Abomination;NoxiousPresence;21"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;21",
+        "Quilboar;TunnelVision;21",
+        "Prowler;OnTheProwl;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "Harpy;InfectiousSwipes;22",
+        "Flamewaker;Engulf;23",
+        "Execute;Bloodthirsty;19"
+      ],
+      [
+        "CairneLeader;Plainsrunning;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "WitchDoctor;SpiritWard;21",
+        "Pyromancer;Conflagrate;23",
+        "DefiasBandits;PickLock;21",
+        "Harpy;InfectiousSwipes;21",
+        "EarthElemental;ObsidianShard;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Abomination;NoxiousPresence;21",
+        "Necromancer;JeweledSkulls;21",
+        "Quilboar;Bristleback;21",
+        "Harpy;InfectiousSwipes;22",
+        "WhelpEggs;FlameBurst;21",
+        "Ghoul;BoneArmor;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;19",
+        "OgreMage;FrostfireBolt;20",
+        "Execute;Bloodthirsty;19",
+        "HarvestGolem;BountifulHarvest;21",
+        "Harpy;InfectiousSwipes;22",
+        "Shaman;EarthwallTotem;21",
+        "Pyromancer;Conflagrate;23"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;16",
+        "GnollBrute;Rabid;16",
+        "MurlocTidehunters;SafetyBubble;16",
+        "Harpy;InfectiousSwipes;18",
+        "PolymorphSpell;GoldenFleece;16",
+        "WarsongGrunts;Command;16",
+        "Raptors;StrengthInNumbers;16"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "Pyromancer;Conflagrate;23",
+        "Flamewaker;Engulf;23",
+        "EarthElemental;ObsidianShard;21",
+        "DefiasBandits;PickLock;21",
+        "Execute;Bloodthirsty;19",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;21",
+        "Pyromancer;Conflagrate;23",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;21",
+        "Ghoul;BoneArmor;21",
+        "Execute;Bloodthirsty;19",
+        "Harpy;InfectiousSwipes;22"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;23",
+        "PlagueFarmer;SplashingPumpkins;20",
+        "Necromancer;JeweledSkulls;21",
+        "WitchDoctor;SpiritWard;21",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;22",
+        "Abomination;NoxiousPresence;21"
+      ]
+    ],
+    "lastUpdate": 1719063175
+  },
+  "token": "6fc640e7-ad03-4480-81e7-256ee73474ce"
+}

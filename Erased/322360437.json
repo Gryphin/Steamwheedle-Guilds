@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 322360437,
+    "btag": "Grukk",
+    "name": "Grukk",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 125,
+    "level": 38,
+    "pvpWins": 88,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 16,
+    "leaderAHonor": 1006,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 15,
+    "leaderBHonor": 1908,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 12,
+    "leaderCHonor": 1109,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;17",
+        "DefiasBandits;DeadlyPoison;18",
+        "Worgen;Premeditation;18",
+        "Execute;Overpower;18",
+        "Quilboar;BrambleBurst;18",
+        "Harpy;TrinketCollectors;19",
+        "Pyromancer;BlazeOfGlory;18"
+      ],
+      [
+        "TirionLeader;DivineShield;20",
+        "Blizzard;BrittleIce;18",
+        "Shaman;EarthShield;18",
+        "Footmen;Fortification;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "WhelpEggs;Rookery;18"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "Harpy;TrinketCollectors;19",
+        "BatRider;FlamingPitch;18",
+        "Quilboar;BrambleBurst;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "WhelpEggs;Rookery;18",
+        "Worgen;Premeditation;18"
+      ],
+      [
+        "GrommashLeader;MirrorImage;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "Quilboar;BrambleBurst;18",
+        "Harpy;TrinketCollectors;19",
+        "Worgen;Premeditation;18",
+        "EarthElemental;ObsidianShard;18",
+        "Chimaera;FrostShock;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "WhelpEggs;Rookery;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "Harpy;TrinketCollectors;19",
+        "EarthElemental;ObsidianShard;18",
+        "Blizzard;BrittleIce;18",
+        "DefiasBandits;DeadlyPoison;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Gargoyle;AerialSuperiority;18",
+        "Huntress;Shadowmeld;20",
+        "Execute;Overpower;18",
+        "WhelpEggs;Rookery;18",
+        "Harpy;TrinketCollectors;19",
+        "Quilboar;BrambleBurst;18"
+      ],
+      [
+        "MaievLeader;Shadowstep;18",
+        "Worgen;Premeditation;18",
+        "Harpy;TrinketCollectors;19",
+        "Quilboar;BrambleBurst;18",
+        "AngryChickens;WalkingCrate;18",
+        "Chimaera;FrostShock;19",
+        "EarthElemental;ObsidianShard;18"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;20",
+        "EarthElemental;ObsidianShard;18",
+        "DefiasBandits;DeadlyPoison;18",
+        "DarkIronMiner;DwarvenAmbition;17",
+        "WhelpEggs;Rookery;18",
+        "Quilboar;BrambleBurst;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;20",
+        "Shaman;EarthShield;18",
+        "BatRider;FlamingPitch;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "WhelpEggs;Rookery;18",
+        "Quilboar;BrambleBurst;18",
+        "Harpy;TrinketCollectors;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "SkeletonParty;RitualOfRime;18",
+        "MeatWagon;MeatAndBones;17",
+        "WhelpEggs;Rookery;18",
+        "Chimaera;FrostShock;20",
+        "Execute;Overpower;18",
+        "Pyromancer;BlazeOfGlory;18"
+      ],
+      [
+        "SneedLeader;;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "BatRider;FlamingPitch;18",
+        "WarsongRaider;Saboteur;19",
+        "Worgen;Premeditation;18",
+        "Huntress;Shadowmeld;18",
+        "DefiasBandits;DeadlyPoison;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;18",
+        "Chimaera;FrostShock;19",
+        "Quilboar;BrambleBurst;18",
+        "Harpy;TrinketCollectors;19",
+        "Pyromancer;BlazeOfGlory;18",
+        "Worgen;Premeditation;18",
+        "EarthElemental;ObsidianShard;18"
+      ],
+      [
+        "DrakkisathLeader;LastingLegacy;18",
+        "EarthElemental;ObsidianShard;18",
+        "WhelpEggs;Rookery;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "Worgen;Premeditation;18",
+        "Execute;Overpower;18",
+        "Huntress;Shadowmeld;20"
+      ],
+      [
+        "ThaurissanLeader;Hubris;19",
+        "EarthElemental;ObsidianShard;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "Worgen;Premeditation;18",
+        "Quilboar;BrambleBurst;18",
+        "Chimaera;FrostShock;20",
+        "Harpy;TrinketCollectors;19"
+      ],
+      [
+        "SylvanasLeader;BansheesWail;20",
+        "Gargoyle;AerialSuperiority;18",
+        "Huntress;Shadowmeld;20",
+        "Execute;Overpower;18",
+        "WhelpEggs;Rookery;19",
+        "Quilboar;BrambleBurst;18",
+        "DefiasBandits;DeadlyPoison;18"
+      ]
+    ],
+    "lastUpdate": 1719063113
+  },
+  "token": "e747d666-e8f3-4434-9a0f-e1c950157080"
+}

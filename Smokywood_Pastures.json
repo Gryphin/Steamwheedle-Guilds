@@ -1,0 +1,193 @@
+{
+  "data": {
+    "id": 467715881,
+    "name": "Smokywood P",
+    "member_count": 20,
+    "description": "Affiliated with the Steamwheedle Cartel community.",
+    "members": [
+      {
+        "id": 1810238,
+        "name": "Keychain",
+        "btag": "Keychain",
+        "skulls": 150,
+        "honor": 12372,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717414112
+      },
+      {
+        "id": 139550408,
+        "name": "Catflix",
+        "btag": "Catflix",
+        "skulls": 150,
+        "honor": 8993,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1717414112
+      },
+      {
+        "id": 429182870,
+        "name": "Danko",
+        "btag": "Danko",
+        "skulls": 150,
+        "honor": 12137,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1717414112
+      },
+      {
+        "id": 1156449109,
+        "name": "Sharapatak21",
+        "btag": "Sharapatak21",
+        "skulls": 150,
+        "honor": 12412,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717853318
+      },
+      {
+        "id": 250258840,
+        "name": "Dudmuster",
+        "btag": "Dudmuster",
+        "skulls": 150,
+        "honor": 8855,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1718263714
+      },
+      {
+        "id": 51139718,
+        "name": "JackBurton",
+        "btag": "JackBurton",
+        "skulls": 150,
+        "honor": 8052,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717911159
+      },
+      {
+        "id": 94933259,
+        "name": "ThievingSix",
+        "btag": "ThievingSix",
+        "skulls": 150,
+        "honor": 11249,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717824516
+      },
+      {
+        "id": 50384888,
+        "name": "tdang",
+        "btag": "tdang",
+        "skulls": 150,
+        "honor": 11786,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717414113
+      },
+      {
+        "id": 52811804,
+        "name": "dexvt1",
+        "btag": "dexvt1",
+        "skulls": 151,
+        "honor": 13018,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1717414113
+      },
+      {
+        "id": 101862851,
+        "name": "Veikka",
+        "btag": "Veikka",
+        "skulls": 150,
+        "honor": 12374,
+        "avatar": "Indicator_Sneed_Pose",
+        "lastUpdate": 1719062210
+      },
+      {
+        "id": 1146773,
+        "name": "ButtOfCows",
+        "btag": "ButtOfCows",
+        "skulls": 150,
+        "honor": 10276,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1717414113
+      },
+      {
+        "id": 1995876,
+        "name": "Barritus",
+        "btag": "Barritus",
+        "skulls": 150,
+        "honor": 12657,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1717872218
+      },
+      {
+        "id": 101369380,
+        "name": "Bryng",
+        "btag": "Bryng",
+        "skulls": 150,
+        "honor": 11986,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719062210
+      },
+      {
+        "id": 386555975,
+        "name": "Zaharian",
+        "btag": "Zaharian",
+        "skulls": 150,
+        "honor": 13214,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1718112609
+      },
+      {
+        "id": 107460858,
+        "name": "Zephiro",
+        "btag": "Zephiro",
+        "skulls": 150,
+        "honor": 10732,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717824517
+      },
+      {
+        "id": 100294836,
+        "name": "Tarom",
+        "btag": "Tarom",
+        "skulls": 150,
+        "honor": 10102,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719062211
+      },
+      {
+        "id": 52285134,
+        "name": "Blaizin",
+        "btag": "Blaizin",
+        "skulls": 150,
+        "honor": 12368,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719062211
+      },
+      {
+        "id": 117630651,
+        "name": "MaggiLord",
+        "btag": "MaggiLord",
+        "skulls": 150,
+        "honor": 12061,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719062211
+      },
+      {
+        "id": 102663021,
+        "name": "Suzaku",
+        "btag": "Suzaku",
+        "skulls": 150,
+        "honor": 11729,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719062211
+      },
+      {
+        "id": 56638545,
+        "name": "JollyMonkey",
+        "btag": "JollyMonkey",
+        "skulls": 150,
+        "honor": 14842,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719062212
+      }
+    ],
+    "lastUpdate": 1719063002
+  },
+  "token": "b9c2704b-5190-4341-9a4a-cca5819a0403",
+  "link": "https://localhost:7080/guild/467715881?token=b9c2704b-5190-4341-9a4a-cca5819a0403"
+}

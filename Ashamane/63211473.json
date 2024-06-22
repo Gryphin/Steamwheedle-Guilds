@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 63211473,
+    "btag": "Avonici",
+    "name": "Avonici",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Jaina_Pose",
+    "skulls": 122,
+    "level": 36,
+    "pvpWins": 8,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 4,
+    "leaderAHonor": 500,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 4,
+    "leaderBHonor": 500,
+    "leaderC": "",
+    "leaderCWins": 0,
+    "leaderCHonor": 0,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;18",
+        "GryphonRider;MightyThrow;19",
+        "DefiasBandits;DeadlyPoison;21",
+        "Execute;Bloodthirsty;21",
+        "WhelpEggs;FlameBurst;18",
+        "FireElemental;ImmolationAura;18",
+        "HolyNova;InnerFire;20"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "GryphonRider;MightyThrow;19",
+        "DefiasBandits;DeadlyPoison;21",
+        "FireElemental;ImmolationAura;18",
+        "WhelpEggs;FlameBurst;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;18",
+        "PolymorphSpell;GoldenFleece;17",
+        "Quilboar;Bristleback;18",
+        "FireElemental;ImmolationAura;18",
+        "GryphonRider;MightyThrow;19",
+        "WitchDoctor;SpiritWard;21",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "Execute;KillingSpree;21",
+        "WitchDoctor;SpiritWard;21",
+        "FireElemental;ImmolationAura;18",
+        "EarthElemental;ObsidianShard;18",
+        "GryphonRider;MightyThrow;19",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;18",
+        "EarthElemental;ObsidianShard;17",
+        "Drake;MotherDrake;17",
+        "Harpy;InfectiousSwipes;18",
+        "DefiasBandits;DeadlyPoison;21",
+        "WhelpEggs;FlameBurst;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;17",
+        "Ghoul;BoneArmor;17",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "ArcaneBlast;;17",
+        "FireElemental;ImmolationAura;18",
+        "Execute;Bloodthirsty;21",
+        "DefiasBandits;PickLock;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+        "GryphonRider;MightyThrow;19",
+        "Quilboar;Bristleback;18",
+        "FireElemental;ImmolationAura;18",
+        "WhelpEggs;FlameBurst;18",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Quilboar;Bristleback;18",
+        "MurlocTidehunters;SafetyBubble;18",
+        "GryphonRider;MightyThrow;19",
+        "GoblinSapper;RocketBoots;18",
+        "WhelpEggs;FlameBurst;18",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "StonehoofTauren;Momentum;18",
+        "Execute;Bloodthirsty;21",
+        "WitchDoctor;SpiritWard;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "WhelpEggs;FlameBurst;18",
+        "GryphonRider;MightyThrow;19"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;18",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "DefiasBandits;DeadlyPoison;21",
+        "Quilboar;Bristleback;18",
+        "Execute;Bloodthirsty;21",
+        "WitchDoctor;SpiritWard;21",
+        "GryphonRider;MightyThrow;19"
+      ],
+      [
+        "SneedLeader;;16",
+        "Execute;Bloodthirsty;18",
+        "Shaman;EarthShield;18",
+        "GoblinSapper;RocketBoots;18",
+        "GryphonRider;MightyThrow;18",
+        "SkeletonWarrior;Exhume;17",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;17",
+        "Quilboar;Bristleback;18",
+        "DefiasBandits;DeadlyPoison;21",
+        "Harpy;InfectiousSwipes;18",
+        "WitchDoctor;SpiritWard;21",
+        "FireElemental;ImmolationAura;18",
+        "Execute;Bloodthirsty;21"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "EarthElemental;ObsidianShard;18",
+        "WhelpEggs;FlameBurst;18",
+        "Shaman;EarthShield;18",
+        "Execute;Bloodthirsty;21",
+        "DefiasBandits;DeadlyPoison;21",
+        "DarkIronMiner;DwarvenAmbition;17"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "FireElemental;ImmolationAura;18",
+        "WhelpEggs;FlameBurst;18",
+        "Quilboar;Bristleback;18",
+        "Harpy;InfectiousSwipes;18",
+        "Execute;Bloodthirsty;20",
+        "DefiasBandits;DeadlyPoison;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;18",
+        "Ghoul;BoneArmor;17",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "Execute;Bloodthirsty;20",
+        "WitchDoctor;SpiritWard;21",
+        "WhelpEggs;FlameBurst;18",
+        "FireElemental;ImmolationAura;18"
+      ]
+    ],
+    "lastUpdate": 1719063080
+  },
+  "token": "f5dbc36d-19b8-4da6-8358-c6bd05321a5d"
+}
