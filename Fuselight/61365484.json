@@ -6,9 +6,9 @@
     "guildId": null,
     "guildName": null,
     "avatar": "Indicator_DarkmoonFaire_Eyes",
-    "skulls": 121,
+    "skulls": 122,
     "level": 38,
-    "pvpWins": 285,
+    "pvpWins": 286,
     "leaderA": "BaronRivendareLeader",
     "leaderAWins": 48,
     "leaderAHonor": 3046,
@@ -16,8 +16,8 @@
     "leaderBWins": 32,
     "leaderBHonor": 3434,
     "leaderC": "TirionLeader",
-    "leaderCWins": 67,
-    "leaderCHonor": 3193,
+    "leaderCWins": 68,
+    "leaderCHonor": 3272,
     "socials": null,
     "armies": [
       [
@@ -43,7 +43,7 @@
         "Harpy;InfectiousSwipes;19",
         "Prowler;OnTheProwl;18",
         "FireElemental;ImmolationAura;19",
-        "MurlocTidehunters;CarefulAim;18",
+        "Pyromancer;BlazeOfGlory;20",
         "Chimaera;Leviathan;20",
         "Blizzard;ColdSnap;20"
       ],
@@ -59,8 +59,8 @@
       [
         "RendLeader;FlamingSoul;20",
         "WhelpEggs;FlameBurst;18",
-        "FireElemental;ImmolationAura;18",
-        "Drake;EngulfingFlames;18",
+        "FireElemental;ImmolationAura;19",
+        "Drake;EngulfingFlames;20",
         "Blizzard;BrittleIce;20",
         "Gargoyle;WingBuffet;21",
         "Harpy;InfectiousSwipes;19"
@@ -86,8 +86,8 @@
       [
         "HoggerLeader;HamHock;19",
         "Quilboar;BrambleBurst;18",
-        "Vultures;;15",
-        "MurlocTidehunters;CarefulAim;18",
+        "Chimaera;Leviathan;20",
+        "GryphonRider;OdynsFury;20",
         "Harpy;InfectiousSwipes;19",
         "GoblinSapper;RocketBoots;20",
         "Execute;Bloodthirsty;18"
@@ -140,14 +140,14 @@
       [
         "SylvanasLeader;BlackArrow;20",
         "Abomination;NoxiousPresence;20",
-        "Banshee;WillOfTheNecropolis;18",
+        "Gargoyle;WingBuffet;21",
         "Shaman;LightningMastery;20",
         "GoblinSapper;RocketBoots;20",
         "Execute;Bloodthirsty;18",
         "Harpy;InfectiousSwipes;19"
       ]
     ],
-    "lastUpdate": 1719063156
+    "lastUpdate": 1719193319
   },
-  "token": "a592369d-5fc8-4019-b346-7b1ee5fedda9"
+  "token": "4241b2fa-e80a-48b4-a1a6-afeb8f25c9ed"
 }

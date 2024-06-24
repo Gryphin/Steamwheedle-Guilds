@@ -8,16 +8,16 @@
     "avatar": "Indicator_OldMurkEye_Pose",
     "skulls": 150,
     "level": 50,
-    "pvpWins": 2430,
-    "leaderA": "BaronRivendareLeader",
-    "leaderAWins": 370,
-    "leaderAHonor": 4934,
+    "pvpWins": 2441,
+    "leaderA": "RendLeader",
+    "leaderAWins": 328,
+    "leaderAHonor": 5072,
     "leaderB": "ThaurissanLeader",
-    "leaderBWins": 174,
-    "leaderBHonor": 4973,
-    "leaderC": "CairneLeader",
-    "leaderCWins": 150,
-    "leaderCHonor": 4935,
+    "leaderBWins": 175,
+    "leaderBHonor": 5069,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 371,
+    "leaderCHonor": 4985,
     "socials": null,
     "armies": [
       [
@@ -58,12 +58,12 @@
       ],
       [
         "RendLeader;ScaleAndSteel;25",
-        "WhelpEggs;FlameBurst;25",
-        "DeepBreath;MeltingPoint;25",
-        "Execute;Bloodthirsty;23",
+        "DarkIronMiner;DwarvenAmbition;21",
+        "DeepBreath;Attunement;25",
+        "Harpy;InfectiousSwipes;24",
         "MurlocTidehunters;SafetyBubble;25",
-        "Quilboar;BrambleBurst;26",
-        "GryphonRider;MightyThrow;25"
+        "HarvestGolem;UnstableCore;25",
+        "Quilboar;BrambleBurst;26"
       ],
       [
         "BloodmageThalnosLeader;Bane;22",
@@ -94,21 +94,21 @@
       ],
       [
         "CairneLeader;Reincarnation;22",
-        "DarkspearTroll;BigBadVoodoo;25",
+        "Execute;Bloodthirsty;23",
         "StonehoofTauren;Momentum;21",
         "Shaman;EarthwallTotem;25",
-        "DeepBreath;MeltingPoint;25",
+        "DeepBreath;Attunement;25",
         "Quilboar;BrambleBurst;26",
         "GryphonRider;MightyThrow;25"
       ],
       [
         "BaronRivendareLeader;ChillOfTheGrave;25",
         "Ghoul;BoneArmor;25",
-        "PolymorphSpell;GoldenFleece;22",
+        "SkeletonWarrior;Exhume;21",
         "Quilboar;BrambleBurst;26",
-        "Shaman;EarthwallTotem;25",
-        "DeepBreath;MeltingPoint;25",
-        "WitchDoctor;SpiritWard;25"
+        "DeepBreath;Attunement;25",
+        "Execute;Bloodthirsty;23",
+        "MurlocTidehunters;SafetyBubble;25"
       ],
       [
         "SneedLeader;LeadWithGreed;23",
@@ -130,12 +130,12 @@
       ],
       [
         "CharlgaLeader;CavernousMists;21",
-        "PolymorphSpell;GoldenFleece;21",
-        "Prowler;OnTheProwl;22",
         "MurlocTidehunters;SafetyBubble;25",
-        "Ghoul;BoneArmor;22",
-        "WitchDoctor;SpiritWard;24",
-        "DeepBreath;DoubleDragon;23"
+        "PolymorphSpell;GoldenFleece;22",
+        "Execute;Bloodthirsty;23",
+        "Gargoyle;WingBuffet;25",
+        "HarvestGolem;UnstableCore;25",
+        "DeepBreath;DoubleDragon;25"
       ],
       [
         "DrakkisathLeader;ChromaticScales;25",
@@ -148,10 +148,10 @@
       ],
       [
         "ThaurissanLeader;Hubris;24",
-        "PolymorphSpell;GoldenFleece;22",
-        "DeepBreath;MeltingPoint;25",
-        "HarvestGolem;UnstableCore;25",
-        "Shaman;EarthwallTotem;25",
+        "DarkIronMiner;DwarvenAmbition;21",
+        "DeepBreath;Attunement;25",
+        "Prowler;OnTheProwl;22",
+        "Quilboar;BrambleBurst;26",
         "MurlocTidehunters;SafetyBubble;25",
         "GryphonRider;MightyThrow;25"
       ],
@@ -165,7 +165,7 @@
         "Quilboar;BrambleBurst;26"
       ]
     ],
-    "lastUpdate": 1719062212
+    "lastUpdate": 1719250120
   },
-  "token": "9250b845-5b9b-4969-87f7-44b86759a5f8"
+  "token": "9ba6b6a3-b717-4abf-800e-387617d4054b"
 }

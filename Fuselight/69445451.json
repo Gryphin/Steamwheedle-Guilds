@@ -6,8 +6,8 @@
     "guildId": null,
     "guildName": null,
     "avatar": "Indicator_DarkmoonFaire_Eyes",
-    "skulls": 129,
-    "level": 41,
+    "skulls": 130,
+    "level": 42,
     "pvpWins": 57,
     "leaderA": "BloodmageThalnosLeader",
     "leaderAWins": 17,
@@ -22,7 +22,7 @@
     "armies": [
       [
         "JainaLeader;Clearcasting;19",
-        "GryphonRider;MightyThrow;20",
+        "GryphonRider;MightyThrow;21",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
         "Execute;Bloodthirsty;19",
         "WhelpEggs;FlameBurst;21",
@@ -32,29 +32,29 @@
       [
         "TirionLeader;DivineShield;21",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
-        "Footmen;Fortification;19",
-        "Prowler;OnTheProwl;21",
+        "Worgen;Premeditation;18",
+        "Chimaera;CorrosiveBreath;21",
         "Quilboar;TunnelVision;21",
-        "Harpy;InfectiousSwipes;21",
-        "Pyromancer;Conflagrate;21"
+        "AngryChickens;Snackrifice;18",
+        "Banshee;WillOfTheNecropolis;18"
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
-        "Chimaera;CorrosiveBreath;20",
+        "Chimaera;CorrosiveBreath;21",
         "Harpy;InfectiousSwipes;21",
         "Quilboar;TunnelVision;21",
-        "Prowler;OnTheProwl;19",
+        "Prowler;OnTheProwl;21",
         "Pyromancer;Conflagrate;21",
         "WhelpEggs;FlameBurst;21"
       ],
       [
         "GrommashLeader;SavageStrikes;20",
-        "StonehoofTauren;Momentum;21",
-        "BatRider;EnchantedVials;18",
-        "WhelpEggs;FlameBurst;21",
-        "Quilboar;TunnelVision;21",
-        "Harpy;InfectiousSwipes;21",
-        "GryphonRider;MightyThrow;20"
+        "WitchDoctor;SpiritWard;21",
+        "DarkspearTroll;BigBadVoodoo;20",
+        "Banshee;WillOfTheNecropolis;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Chimaera;CorrosiveBreath;21",
+        "Quilboar;TunnelVision;21"
       ],
       [
         "RendLeader;ScaleAndSteel;21",
@@ -85,12 +85,12 @@
       ],
       [
         "HoggerLeader;HamHock;18",
-        "Prowler;OnTheProwl;21",
-        "Harpy;InfectiousSwipes;21",
+        "AngryChickens;Snackrifice;18",
+        "Chimaera;CorrosiveBreath;21",
         "Quilboar;TunnelVision;21",
-        "Pyromancer;Pyroblast;21",
+        "Banshee;WillOfTheNecropolis;18",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
-        "WhelpEggs;FlameBurst;21"
+        "SkeletonWarrior;Exhume;18"
       ],
       [
         "CairneLeader;Reincarnation;20",
@@ -139,24 +139,24 @@
       ],
       [
         "ThaurissanLeader;Hubris;21",
-        "DarkIronMiner;GoldMine;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
         "Pyromancer;Conflagrate;21",
-        "StonehoofTauren;Momentum;21",
+        "Quilboar;TunnelVision;21",
         "Worgen;Premeditation;18",
-        "Harpy;InfectiousSwipes;21",
-        "WhelpEggs;FlameBurst;21"
+        "Chimaera;CorrosiveBreath;21",
+        "Banshee;WillOfTheNecropolis;18"
       ],
       [
         "SylvanasLeader;BlackArrow;20",
-        "Necromancer;JeweledSkulls;18",
-        "Ghoul;BoneArmor;18",
+        "Banshee;WillOfTheNecropolis;18",
+        "Quilboar;TunnelVision;21",
         "DarkspearTroll;BigBadVoodoo;20",
-        "Harpy;InfectiousSwipes;21",
-        "WhelpEggs;FlameBurst;21",
-        "GryphonRider;MightyThrow;20"
+        "SkeletonWarrior;Exhume;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Chimaera;CorrosiveBreath;21"
       ]
     ],
-    "lastUpdate": 1719063157
+    "lastUpdate": 1719193228
   },
-  "token": "fac508b3-2119-4ed6-bfed-fac7e4a11f34"
+  "token": "da797217-bb48-4786-8485-f360fd6bdca3"
 }

@@ -2,17 +2,26 @@
   "data": {
     "id": 204596792,
     "name": "Kaboom Krew",
-    "member_count": 1,
+    "member_count": 4,
     "description": "Steamwheedle Cartel applicant guild (former guild Bingohallen)",
     "members": [
       {
-        "id": 450926,
-        "name": "Ztranger",
-        "btag": "Ztranger",
-        "skulls": 139,
-        "honor": 8799,
-        "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719063120
+        "id": 880706794,
+        "name": "Spudzy85",
+        "btag": "Spudzy85",
+        "skulls": 116,
+        "honor": 7338,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1718884344
+      },
+      {
+        "id": 51309669,
+        "name": "Wyrmslayer",
+        "btag": "Wyrmslayer",
+        "skulls": 104,
+        "honor": 3363,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1718884516
       },
       {
         "id": 464867844,
@@ -21,7 +30,7 @@
         "skulls": 110,
         "honor": 8642,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719063120
+        "lastUpdate": 1719063275
       },
       {
         "id": 105602596,
@@ -30,11 +39,20 @@
         "skulls": 125,
         "honor": 5962,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063120
+        "lastUpdate": 1719063275
+      },
+      {
+        "id": 450926,
+        "name": "Ztranger",
+        "btag": "Ztranger",
+        "skulls": 139,
+        "honor": 8799,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719063275
       }
     ],
-    "lastUpdate": 1719063119
+    "lastUpdate": 1719243231
   },
-  "token": "51ca5c13-6c2d-420b-afd2-9c74be7de1ec",
-  "link": "https://localhost:7080/guild/204596792?token=51ca5c13-6c2d-420b-afd2-9c74be7de1ec"
+  "token": "56654bbf-7793-401c-8ecd-dbcaba7afc4e",
+  "link": "https://localhost:7080/guild/204596792?token=56654bbf-7793-401c-8ecd-dbcaba7afc4e"
 }

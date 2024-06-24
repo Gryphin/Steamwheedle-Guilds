@@ -7,27 +7,27 @@
     "guildName": null,
     "avatar": "Indicator_Sylvanas_Pose",
     "skulls": 150,
-    "level": 43,
-    "pvpWins": 1445,
-    "leaderA": "JainaLeader",
-    "leaderAWins": 96,
-    "leaderAHonor": 3894,
+    "level": 44,
+    "pvpWins": 1542,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 98,
+    "leaderAHonor": 4221,
     "leaderB": "BaronRivendareLeader",
-    "leaderBWins": 158,
-    "leaderBHonor": 3645,
+    "leaderBWins": 174,
+    "leaderBHonor": 4308,
     "leaderC": "CharlgaLeader",
-    "leaderCWins": 175,
-    "leaderCHonor": 4190,
+    "leaderCWins": 194,
+    "leaderCHonor": 4446,
     "socials": null,
     "armies": [
       [
-        "JainaLeader;Clearcasting;20",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
-        "HarvestGolem;TrojanChickens;19",
-        "Blizzard;ColdSnap;20",
+        "JainaLeader;Clearcasting;21",
+        "DefiasBandits;PickLock;21",
+        "HarvestGolem;TrojanChickens;21",
+        "Shaman;EarthwallTotem;23",
         "GryphonRider;MightyThrow;23",
-        "Quilboar;BrambleBurst;23",
-        "Execute;Bloodthirsty;21"
+        "Execute;Bloodthirsty;21",
+        "DeepBreath;DoubleDragon;18"
       ],
       [
         "TirionLeader;DivineShield;20",
@@ -40,12 +40,12 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
-        "AngryChickens;Snackrifice;17",
-        "Banshee;WillOfTheNecropolis;20",
-        "Quilboar;TunnelVision;23",
-        "MeatWagon;FiletTrebuchet;20",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
-        "GryphonRider;OdynsFury;23"
+        "MurlocTidehunters;SafetyBubble;21",
+        "Prowler;PackLeader;21",
+        "Quilboar;TunnelVision;24",
+        "PolymorphSpell;GoldenFleece;20",
+        "Execute;Bloodthirsty;21",
+        "GryphonRider;MightyThrow;23"
       ],
       [
         "GrommashLeader;MirrorImage;20",
@@ -58,12 +58,12 @@
       ],
       [
         "RendLeader;ScaleAndSteel;22",
-        "Banshee;WillOfTheNecropolis;20",
-        "Quilboar;TunnelVision;23",
-        "MeatWagon;FiletTrebuchet;20",
-        "AngryChickens;Snackrifice;17",
-        "GryphonRider;OdynsFury;23",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23"
+        "WhelpEggs;FlameBurst;21",
+        "DeepBreath;DoubleDragon;18",
+        "Gargoyle;;20",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;BrambleBurst;24"
       ],
       [
         "BloodmageThalnosLeader;DrainLife;23",
@@ -84,13 +84,13 @@
         "WhelpEggs;FlameBurst;20"
       ],
       [
-        "HoggerLeader;HamHock;20",
-        "Harpy;InfectiousSwipes;20",
-        "Execute;Bloodthirsty;20",
-        "Quilboar;TunnelVision;23",
-        "Banshee;WillOfTheNecropolis;20",
-        "WhelpEggs;FlameBurst;21",
-        "CheatDeath;Vampirism;17"
+        "HoggerLeader;HamHock;21",
+        "Prowler;OnTheProwl;21",
+        "MurlocTidehunters;SafetyBubble;21",
+        "DarkIronMiner;GoldMine;20",
+        "Shaman;EarthShield;23",
+        "DeepBreath;DoubleDragon;18",
+        "GryphonRider;MightyThrow;23"
       ],
       [
         "CairneLeader;Reincarnation;17",
@@ -102,13 +102,13 @@
         "Harpy;InfectiousSwipes;20"
       ],
       [
-        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "BaronRivendareLeader;ChillOfTheGrave;23",
         "Banshee;WillOfTheNecropolis;20",
-        "Ghoul;BoneArmor;20",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "Ghoul;BoneArmor;21",
+        "Quilboar;TunnelVision;24",
         "GryphonRider;MightyThrow;23",
-        "MurlocTidehunters;SafetyBubble;20",
-        "Blizzard;ColdSnap;20"
+        "DeepBreath;DoubleDragon;18",
+        "Blizzard;ColdSnap;21"
       ],
       [
         "SneedLeader;LeadWithGreed;18",
@@ -120,31 +120,31 @@
         "Quilboar;TunnelVision;23"
       ],
       [
-        "CharlgaLeader;SpiritPassage;20",
-        "Quilboar;BrambleBurst;23",
-        "Prowler;OnTheProwl;20",
+        "CharlgaLeader;SpiritPassage;23",
+        "Prowler;OnTheProwl;21",
+        "Quilboar;BrambleBurst;24",
         "GoblinSapper;RocketBoots;21",
         "GryphonRider;MightyThrow;23",
-        "Huntress;Shadowmeld;21",
-        "Ghoul;BoneArmor;20"
+        "Huntress;Shadowmeld;23",
+        "Ghoul;BoneArmor;21"
       ],
       [
         "DrakkisathLeader;ChromaticScales;22",
-        "Pyromancer;Pyroblast;21",
-        "WhelpEggs;FlameBurst;21",
-        "Shaman;EarthShield;21",
+        "DeepBreath;DoubleDragon;18",
         "DefiasBandits;PickLock;21",
-        "SkeletonParty;RitualOfRime;21",
-        "WitchDoctor;SpiritWard;21"
+        "Blizzard;ColdSnap;21",
+        "WitchDoctor;SpiritWard;21",
+        "Quilboar;TunnelVision;24",
+        "DarkspearTroll;BigBadVoodoo;20"
       ],
       [
         "ThaurissanLeader;Hubris;20",
+        "DeepBreath;DoubleDragon;18",
         "WhelpEggs;FlameBurst;21",
-        "Pyromancer;Conflagrate;20",
-        "Quilboar;TunnelVision;23",
-        "Huntress;Shadowmeld;20",
-        "Execute;Bloodthirsty;19",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23"
+        "Quilboar;BrambleBurst;24",
+        "GryphonRider;MightyThrow;23",
+        "HarvestGolem;UnstableCore;21",
+        "WitchDoctor;SpiritWard;21"
       ],
       [
         "SylvanasLeader;BlackArrow;20",
@@ -156,7 +156,7 @@
         "Execute;Bloodthirsty;21"
       ]
     ],
-    "lastUpdate": 1719062211
+    "lastUpdate": 1719250120
   },
-  "token": "906ea00d-dd09-499a-9377-f2c45b6e783e"
+  "token": "781b33af-798f-4ea8-9363-4cad42cef934"
 }

@@ -41,10 +41,10 @@
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
         "Quilboar;TunnelVision;22",
-        "Chimaera;CorrosiveBreath;19",
-        "Abomination;NoxiousPresence;21",
         "Harpy;InfectiousSwipes;22",
-        "Shaman;EarthShield;18",
+        "Abomination;NoxiousPresence;21",
+        "LivingBomb;;14",
+        "Shaman;EarthShield;19",
         "WhelpEggs;FlameBurst;21"
       ],
       [
@@ -71,7 +71,7 @@
         "Ghoul;BoneArmor;18",
         "ArcaneBlast;Amplification;17",
         "HolyNova;InnerFire;17",
-        "Shaman;EarthShield;18",
+        "Shaman;EarthShield;19",
         "ChainLightning;BrilliantFlash;18"
       ],
       [
@@ -86,10 +86,10 @@
       [
         "HoggerLeader;HamHock;17",
         "Harpy;InfectiousSwipes;22",
-        "Prowler;OnTheProwl;18",
-        "DefiasBandits;PickLock;20",
-        "WitchDoctor;SpiritWard;17",
-        "Banshee;WillOfTheNecropolis;17",
+        "GnollBrute;Rabid;16",
+        "Quilboar;TunnelVision;22",
+        "LivingBomb;;14",
+        "PlagueFarmer;SplashingPumpkins;17",
         "WhelpEggs;FlameBurst;21"
       ],
       [
@@ -156,7 +156,7 @@
         "Harpy;InfectiousSwipes;22"
       ]
     ],
-    "lastUpdate": 1719063147
+    "lastUpdate": 1719191888
   },
-  "token": "a1e52ad0-d8ea-4127-868d-0ab0b0389bd3"
+  "token": "3f7e41f9-d66a-47f3-ad23-529246041180"
 }

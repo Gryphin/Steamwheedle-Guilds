@@ -58,12 +58,12 @@
       ],
       [
         "RendLeader;ScaleAndSteel;21",
-        "Drake;MotherDrake;19",
-        "WhelpEggs;FlameBurst;19",
+        "Drake;MotherDrake;21",
+        "WhelpEggs;FlameBurst;21",
         "Harpy;InfectiousSwipes;19",
-        "Quilboar;TunnelVision;21",
+        "Quilboar;TunnelVision;22",
         "Pyromancer;Conflagrate;21",
-        "EarthElemental;ObsidianShard;19"
+        "EarthElemental;ObsidianShard;20"
       ],
       [
         "BloodmageThalnosLeader;DrainLife;18",
@@ -156,7 +156,7 @@
         "GryphonRider;MightyThrow;21"
       ]
     ],
-    "lastUpdate": 1719063108
+    "lastUpdate": 1719192324
   },
-  "token": "98ea1569-81f8-4c00-9342-3ebc4aa4f3d8"
+  "token": "e97fffef-da14-4b90-8bda-9db4db30eccb"
 }

@@ -8,10 +8,10 @@
     "avatar": "Indicator_Thaurissan_Pose",
     "skulls": 150,
     "level": 50,
-    "pvpWins": 1218,
-    "leaderA": "CairneLeader",
-    "leaderAWins": 88,
-    "leaderAHonor": 4977,
+    "pvpWins": 1231,
+    "leaderA": "DrakkisathLeader",
+    "leaderAWins": 47,
+    "leaderAHonor": 5105,
     "leaderB": "JainaLeader",
     "leaderBWins": 129,
     "leaderBHonor": 5173,
@@ -78,8 +78,8 @@
         "MaievLeader;Remorseless;21",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
         "GryphonRider;MightyThrow;24",
-        "Quilboar;BrambleBurst;24",
-        "HarvestGolem;UnstableCore;22",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;BrambleBurst;25",
         "SkeletonWarrior;Exhume;20",
         "Execute;Bloodthirsty;23"
       ],
@@ -97,9 +97,9 @@
         "Shaman;EarthwallTotem;24",
         "WitchDoctor;SpiritWard;23",
         "DarkspearTroll;BigBadVoodoo;22",
-        "Execute;Bloodthirsty;23",
-        "ArcaneBlast;ArcanePower;21",
-        "PolymorphSpell;GoldenFleece;21"
+        "PolymorphSpell;GoldenFleece;21",
+        "DeepBreath;Attunement;21",
+        "GryphonRider;MightyThrow;24"
       ],
       [
         "BaronRivendareLeader;ChillOfTheGrave;22",
@@ -143,8 +143,8 @@
         "DarkIronMiner;GoldMine;21",
         "Shaman;EarthwallTotem;24",
         "GryphonRider;MightyThrow;24",
-        "DarkspearTroll;BigBadVoodoo;22",
-        "HolyNova;Renew;21"
+        "PolymorphSpell;GoldenFleece;21",
+        "DarkspearTroll;BigBadVoodoo;22"
       ],
       [
         "ThaurissanLeader;Hubris;21",
@@ -165,7 +165,7 @@
         "ChainLightning;BrilliantFlash;21"
       ]
     ],
-    "lastUpdate": 1719063082
+    "lastUpdate": 1719239149
   },
-  "token": "e106b67e-1ff0-4b08-889e-28229f2c81cd"
+  "token": "3161e467-e919-4239-91b2-081a1fe5fe3c"
 }

@@ -132,10 +132,10 @@
         "DrakkisathLeader;ChromaticScales;25",
         "WhelpEggs;FlameBurst;25",
         "Pyromancer;Conflagrate;22",
-        "Shaman;EarthShield;24",
+        "PlagueFarmer;SplashingPumpkins;24",
         "Quilboar;TunnelVision;25",
         "WitchDoctor;SpiritWard;22",
-        "Banshee;WillOfTheNecropolis;21"
+        "MeatWagon;FiletTrebuchet;21"
       ],
       [
         "ThaurissanLeader;Hubris;21",
@@ -156,7 +156,7 @@
         "WitchDoctor;SpiritWard;22"
       ]
     ],
-    "lastUpdate": 1719063106
+    "lastUpdate": 1719192146
   },
-  "token": "694f6719-2e54-4fbd-bea9-531836509f89"
+  "token": "be1be25b-11d5-4c23-b025-8ad01c2d589e"
 }

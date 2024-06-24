@@ -8,16 +8,16 @@
     "avatar": "Indicator_Tirion_Pose",
     "skulls": 144,
     "level": 42,
-    "pvpWins": 246,
-    "leaderA": "JainaLeader",
-    "leaderAWins": 56,
-    "leaderAHonor": 3219,
+    "pvpWins": 274,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 72,
+    "leaderAHonor": 3924,
     "leaderB": "BaronRivendareLeader",
     "leaderBWins": 54,
     "leaderBHonor": 3812,
-    "leaderC": "HoggerLeader",
-    "leaderCWins": 53,
-    "leaderCHonor": 3254,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 18,
+    "leaderCHonor": 3410,
     "socials": null,
     "armies": [
       [
@@ -33,9 +33,9 @@
         "TirionLeader;DivineShield;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
         "DefiasBandits;PickLock;19",
-        "Pyromancer;Conflagrate;21",
-        "Quilboar;TunnelVision;21",
-        "Chimaera;FrostShock;21",
+        "Ghoul;BoneArmor;21",
+        "WitchDoctor;SpiritWard;24",
+        "Harpy;InfectiousSwipes;21",
         "PlagueFarmer;SplashingPumpkins;23"
       ],
       [
@@ -58,21 +58,21 @@
       ],
       [
         "RendLeader;ScaleAndSteel;21",
-        "Pyromancer;Pyroblast;19",
-        "LivingBomb;ChainReaction;21",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;21",
         "Chimaera;FrostShock;21",
         "PlagueFarmer;SplashingPumpkins;23",
-        "EarthElemental;ObsidianShard;19",
-        "WitchDoctor;AmplifyCurse;21"
+        "EarthElemental;ObsidianShard;20",
+        "WitchDoctor;AmplifyCurse;24"
       ],
       [
-        "BloodmageThalnosLeader;DrainLife;17",
-        "Ghoul;BoneArmor;20",
+        "BloodmageThalnosLeader;Bane;20",
+        "Ghoul;BoneArmor;21",
         "PlagueFarmer;SplashingPumpkins;23",
-        "Execute;Bloodthirsty;21",
-        "Abomination;NoxiousPresence;21",
-        "Harpy;InfectiousSwipes;21",
-        "Pyromancer;Pyroblast;19"
+        "ArcaneBlast;Amplification;16",
+        "SmokeBombSpell;ThroughTheShadows;16",
+        "GryphonRider;MightyThrow;21",
+        "Shaman;EarthShield;21"
       ],
       [
         "MaievLeader;Remorseless;20",
@@ -120,22 +120,22 @@
         "Harpy;InfectiousSwipes;21"
       ],
       [
-        "CharlgaLeader;;15",
+        "CharlgaLeader;CavernousMists;16",
         "Harpy;InfectiousSwipes;21",
         "Prowler;OnTheProwl;17",
         "Huntress;ElvenMight;21",
         "SkeletonParty;5Man;18",
-        "Chimaera;FrostShock;20",
+        "Chimaera;FrostShock;21",
         "Abomination;NoxiousPresence;21"
       ],
       [
         "DrakkisathLeader;ChromaticScales;21",
-        "Pyromancer;Pyroblast;19",
+        "Pyromancer;Pyroblast;21",
         "WhelpEggs;FlameBurst;21",
-        "Shaman;EarthShield;21",
-        "DefiasBandits;PickLock;19",
-        "SkeletonParty;5Man;18",
-        "WitchDoctor;SpiritWard;21"
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Quilboar;TunnelVision;21",
+        "WitchDoctor;SpiritWard;24",
+        "Shaman;EarthShield;21"
       ],
       [
         "ThaurissanLeader;Hubris;21",
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;21"
       ]
     ],
-    "lastUpdate": 1719063078
+    "lastUpdate": 1719191089
   },
-  "token": "bae289a3-60ce-46f3-a9e7-91297e910286"
+  "token": "16efd6ef-2ec9-4c72-aba5-82eb81ba9175"
 }

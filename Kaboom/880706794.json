@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 880706794,
+    "btag": "Spudzy85",
+    "name": "Spudzy85",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Sylvanas_Pose",
+    "skulls": 116,
+    "level": 36,
+    "pvpWins": 95,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 20,
+    "leaderAHonor": 2214,
+    "leaderB": "HoggerLeader",
+    "leaderBWins": 26,
+    "leaderBHonor": 3029,
+    "leaderC": "RendLeader",
+    "leaderCWins": 16,
+    "leaderCHonor": 2095,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;17",
+        "HarvestGolem;UnstableCore;17",
+        "GryphonRider;MightyThrow;18",
+        "ArcaneBlast;Torrent;16",
+        "SkeletonWarrior;;15",
+        "Drake;MotherDrake;17",
+        "FireElemental;ImmolationAura;17"
+      ],
+      [
+        "TirionLeader;DivineShield;17",
+        "GryphonRider;MightyThrow;18",
+        "Huntress;Shadowmeld;18",
+        "Prowler;PredatoryInstincts;18",
+        "PlagueFarmer;SplashingPumpkins;17",
+        "Harpy;TalonDive;17",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "OldMurkEyeLeader;TipOfTheSpear;17",
+        "Prowler;PredatoryInstincts;18",
+        "Chimaera;FrostShock;17",
+        "Abomination;FreshMeat;17",
+        "Blizzard;ColdSnap;17",
+        "GryphonRider;MightyThrow;18",
+        "Pyromancer;BlazeOfGlory;17"
+      ],
+      [
+        "GrommashLeader;Bladestorm;17",
+        "DarkspearTroll;Headhunting;18",
+        "StonehoofTauren;Provoke;18",
+        "GoblinSapper;RocketBoots;17",
+        "OgreMage;FrostfireBolt;17",
+        "Blizzard;ColdSnap;17",
+        "Worgen;Premeditation;17"
+      ],
+      [
+        "RendLeader;Legionnaire;18",
+        "FireElemental;ImmolationAura;17",
+        "Pyromancer;BlazeOfGlory;18",
+        "Chimaera;FrostShock;17",
+        "Harpy;TalonDive;17",
+        "DarkspearTroll;Headhunting;18",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Necromancer;JeweledSkulls;17",
+        "Abomination;FreshMeat;20",
+        "ArcaneBlast;Torrent;16",
+        "Prowler;PredatoryInstincts;18",
+        "ChainLightning;StormsReach;16",
+        "PlagueFarmer;SplashingPumpkins;17"
+      ],
+      [
+        "MaievLeader;Shadowstep;17",
+        "HarvestGolem;UnstableCore;17",
+        "Huntress;Shadowmeld;18",
+        "Worgen;Premeditation;17",
+        "Blizzard;ColdSnap;17",
+        "FireElemental;ImmolationAura;17",
+        "SkeletonWarrior;;15"
+      ],
+      [
+        "HoggerLeader;HamHock;19",
+        "Prowler;PredatoryInstincts;18",
+        "Harpy;TalonDive;17",
+        "GryphonRider;MightyThrow;18",
+        "DarkspearTroll;Headhunting;18",
+        "EarthElemental;ObsidianShard;17",
+        "WhelpEggs;FlameBurst;18"
+      ],
+      [
+        "CairneLeader;Reincarnation;17",
+        "WarsongRaider;SunderArmor;17",
+        "StonehoofTauren;Provoke;18",
+        "Pyromancer;BlazeOfGlory;18",
+        "Blizzard;ColdSnap;17",
+        "WhelpEggs;FlameBurst;18",
+        "Harpy;TalonDive;17"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;17",
+        "Abomination;FreshMeat;20",
+        "Necromancer;JeweledSkulls;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Blizzard;ColdSnap;17",
+        "WhelpEggs;FlameBurst;18",
+        "FireElemental;ImmolationAura;17"
+      ],
+      [
+        "SneedLeader;;15",
+        "StonehoofTauren;Provoke;17",
+        "DarkspearTroll;Headhunting;18",
+        "WarsongRaider;SunderArmor;16",
+        "Gargoyle;WingBuffet;17",
+        "Blizzard;ColdSnap;17",
+        "Huntress;Shadowmeld;18"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;16",
+        "Chimaera;FrostShock;17",
+        "Quilboar;BrambleBurst;17",
+        "Huntress;Shadowmeld;18",
+        "StonehoofTauren;Provoke;17",
+        "EarthElemental;ObsidianShard;17",
+        "Blizzard;ColdSnap;17"
+      ],
+      [
+        "DrakkisathLeader;PiercingBlows;17",
+        "Drake;MotherDrake;17",
+        "FireElemental;ImmolationAura;16",
+        "Pyromancer;BlazeOfGlory;17",
+        "MoltenGiant;Bolster;17",
+        "Blizzard;ColdSnap;17",
+        "Necromancer;JeweledSkulls;17"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;16",
+        "Pyromancer;BlazeOfGlory;16",
+        "WhelpEggs;FlameBurst;16",
+        "Abomination;FreshMeat;17",
+        "Drake;MotherDrake;16",
+        "Necromancer;JeweledSkulls;16",
+        "Blizzard;ColdSnap;16"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;18",
+        "Necromancer;JeweledSkulls;17",
+        "Abomination;FreshMeat;20",
+        "DarkspearTroll;Headhunting;18",
+        "Blizzard;ColdSnap;17",
+        "Ghoul;TasteForBlood;17",
+        "WhelpEggs;FlameBurst;18"
+      ]
+    ],
+    "lastUpdate": 1718884344
+  },
+  "token": "05407b50-27db-4080-896f-64b68498cc40"
+}

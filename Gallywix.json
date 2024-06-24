@@ -21,7 +21,7 @@
         "skulls": 66,
         "honor": 2363,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062201
+        "lastUpdate": 1719242919
       },
       {
         "id": 1155476058,
@@ -30,7 +30,7 @@
         "skulls": 133,
         "honor": 9258,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062202
+        "lastUpdate": 1719242919
       },
       {
         "id": 1765148,
@@ -39,7 +39,7 @@
         "skulls": 135,
         "honor": 9389,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062202
+        "lastUpdate": 1719242920
       },
       {
         "id": 100803936,
@@ -48,7 +48,7 @@
         "skulls": 122,
         "honor": 2484,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062202
+        "lastUpdate": 1719242920
       },
       {
         "id": 1852958,
@@ -57,7 +57,7 @@
         "skulls": 129,
         "honor": 8685,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062202
+        "lastUpdate": 1719242920
       },
       {
         "id": 53295627,
@@ -76,15 +76,6 @@
         "honor": 13020,
         "avatar": "Indicator_KoboldMurloc_Pose",
         "lastUpdate": 1717406895
-      },
-      {
-        "id": 51023641,
-        "name": "Nokt",
-        "btag": "Nokt",
-        "skulls": 126,
-        "honor": 3492,
-        "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719062203
       },
       {
         "id": 2195281,
@@ -114,31 +105,13 @@
         "lastUpdate": 1718270889
       },
       {
-        "id": 51678542,
-        "name": "jdotb",
-        "btag": "jdotb",
-        "skulls": 140,
-        "honor": 5797,
-        "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062204
-      },
-      {
         "id": 881733927,
         "name": "Kosac",
         "btag": "Kosac",
         "skulls": 102,
         "honor": 7172,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062203
-      },
-      {
-        "id": 52243435,
-        "name": "eddie6974",
-        "btag": "eddie6974",
-        "skulls": 137,
-        "honor": 10701,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062203
+        "lastUpdate": 1719242920
       },
       {
         "id": 100714407,
@@ -147,7 +120,7 @@
         "skulls": 130,
         "honor": 10107,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062204
+        "lastUpdate": 1719242920
       },
       {
         "id": 400657908,
@@ -156,7 +129,7 @@
         "skulls": 134,
         "honor": 10661,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062204
+        "lastUpdate": 1719242920
       },
       {
         "id": 101223821,
@@ -165,7 +138,16 @@
         "skulls": 145,
         "honor": 9547,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062204
+        "lastUpdate": 1719242920
+      },
+      {
+        "id": 51023641,
+        "name": "Nokt",
+        "btag": "Nokt",
+        "skulls": 126,
+        "honor": 3492,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719242920
       },
       {
         "id": 107493697,
@@ -174,7 +156,7 @@
         "skulls": 108,
         "honor": 3636,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719062204
+        "lastUpdate": 1719242920
       },
       {
         "id": 2266592,
@@ -183,11 +165,29 @@
         "skulls": 141,
         "honor": 9585,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062204
+        "lastUpdate": 1719242921
+      },
+      {
+        "id": 51678542,
+        "name": "jdotb",
+        "btag": "jdotb",
+        "skulls": 140,
+        "honor": 5797,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719242920
+      },
+      {
+        "id": 52243435,
+        "name": "eddie6974",
+        "btag": "eddie6974",
+        "skulls": 137,
+        "honor": 10659,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719242921
       }
     ],
-    "lastUpdate": 1719062979
+    "lastUpdate": 1719254931
   },
-  "token": "6d49f806-5c06-44a2-964b-5ca697b85b0c",
-  "link": "https://localhost:7080/guild/439021421?token=6d49f806-5c06-44a2-964b-5ca697b85b0c"
+  "token": "fdeb3e40-7bf9-47b9-8786-27a80091d067",
+  "link": "https://localhost:7080/guild/439021421?token=fdeb3e40-7bf9-47b9-8786-27a80091d067"
 }

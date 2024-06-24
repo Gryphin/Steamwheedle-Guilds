@@ -8,7 +8,7 @@
     "avatar": "Indicator_Drakkisath_Pose",
     "skulls": 150,
     "level": 48,
-    "pvpWins": 73,
+    "pvpWins": 81,
     "leaderA": "BloodmageThalnosLeader",
     "leaderAWins": 10,
     "leaderAHonor": 1118,
@@ -16,8 +16,8 @@
     "leaderBWins": 16,
     "leaderBHonor": 1421,
     "leaderC": "DrakkisathLeader",
-    "leaderCWins": 9,
-    "leaderCHonor": 1524,
+    "leaderCWins": 17,
+    "leaderCHonor": 2534,
     "socials": null,
     "armies": [
       [
@@ -129,22 +129,22 @@
         "5709c8989210cdd41943f35f5ffd8b6b;14113462a25ecea479d66e9675d3f895;22"
       ],
       [
-        "CharlgaLeader;CavernousMists;19",
-        "GnollBrute;Rabid;21",
-        "Quilboar;TunnelVision;25",
+        "CharlgaLeader;CavernousMists;21",
         "Harpy;InfectiousSwipes;24",
+        "Quilboar;BrambleBurst;25",
+        "Prowler;OnTheProwl;21",
         "WhelpEggs;FlameBurst;24",
         "Pyromancer;Pyroblast;24",
         "GryphonRider;MightyThrow;22"
       ],
       [
-        "DrakkisathLeader;ChromaticScales;24",
-        "Pyromancer;Pyroblast;24",
-        "DarkIronMiner;DarkIronArmaments;22",
-        "Shaman;EarthShield;24",
-        "WhelpEggs;FlameBurst;24",
-        "Quilboar;BrambleBurst;25",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+        "d7879bad32a57449fb1b3265bc12f821;2a426f3146175bf40ace7b3660f44f23;24",
+        "4d60f72627b7c36468f3107e40109845;fcc5c64ae7d56af4886c6cba42a594c6;24",
+        "5709c8989210cdd41943f35f5ffd8b6b;14113462a25ecea479d66e9675d3f895;22",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;24",
+        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;24",
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;25",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;16"
       ],
       [
         "ThaurissanLeader;Hubris;21",
@@ -165,7 +165,7 @@
         "WhelpEggs;FlameBurst;24"
       ]
     ],
-    "lastUpdate": 1719063083
+    "lastUpdate": 1719239151
   },
-  "token": "e366fd04-7b7a-48ce-b2d6-98756078c2a7"
+  "token": "df38b30c-6b7d-4565-b78c-04137f2405a8"
 }

@@ -8,7 +8,7 @@
     "avatar": "Indicator_KoboldMurloc_Pose",
     "skulls": 150,
     "level": 51,
-    "pvpWins": 603,
+    "pvpWins": 604,
     "leaderA": "HoggerLeader",
     "leaderAWins": 42,
     "leaderAHonor": 3995,
@@ -39,13 +39,13 @@
         "MeatWagon;FiletTrebuchet;22"
       ],
       [
-        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
-        "Quilboar;BrambleBurst;25",
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;24",
+        "Chimaera;CorrosiveBreath;22",
         "Harpy;InfectiousSwipes;24",
-        "FireElemental;ImmolationAura;21",
-        "AngryChickens;Snackrifice;21",
-        "WarsongRaider;RazingFocus;22",
-        "Chimaera;CorrosiveBreath;22"
+        "FireElemental;ImmolationAura;24",
+        "Quilboar;BrambleBurst;25",
+        "MoltenGiant;BloodOfTheMountain;22",
+        "WhelpEggs;FlameBurst;26"
       ],
       [
         "GrommashLeader;MirrorImage;24",
@@ -66,13 +66,13 @@
         "Quilboar;BrambleBurst;25"
       ],
       [
-        "61df20ddc31aff04dbc5393d831fbba5;04858f250a124bd4b97d871656593429;22",
+        "61df20ddc31aff04dbc5393d831fbba5;aa625aeb4c49fce4184ab17aeca6f6e8;22",
         "aefd32eb6d8243047a104a9cf4f3204b;23e33cc75805bb849aaf74e58e90b5bb;22",
         "8784b095b97819f42a7e7e8c388007ad;ad77481528767274f9b09234cb4c6e27;24",
         "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;22",
         "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;26",
         "d8382e21b7209419192aa9de55d95a08;46f7b9e7fa69e0647952f2b7e5f13d1c;22",
-        "ee3f41404e84e49938a7b61acc42d304;e6a5fc391c3b1104a899b09a5170642d;22"
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;24"
       ],
       [
         "6e131d81c46039f4fae131f37fd5cb00;14583545e4f39fb4da4fb634fe6b6a90;22",
@@ -86,19 +86,19 @@
       [
         "HoggerLeader;HamHock;22",
         "Prowler;PredatoryInstincts;24",
-        "PolymorphSpell;GoldenFleece;22",
+        "Chimaera;CorrosiveBreath;22",
         "Quilboar;BrambleBurst;25",
-        "MurlocTidehunters;SafetyBubble;24",
-        "Vultures;TendonRip;22",
+        "DarkspearTroll;BigBadVoodoo;24",
+        "WhelpEggs;FlameBurst;26",
         "DeepBreath;Attunement;24"
       ],
       [
         "CairneLeader;Reincarnation;22",
         "OgreMage;FrostfireBolt;22",
         "StonehoofTauren;Momentum;22",
-        "WitchDoctor;SpiritWard;24",
+        "WitchDoctor;SpiritWard;25",
         "Shaman;EarthShield;24",
-        "Prowler;OnTheProwl;22",
+        "Prowler;OnTheProwl;24",
         "ChainLightning;Reverberation;22"
       ],
       [
@@ -124,7 +124,7 @@
         "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;24",
         "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;26",
         "ee3f41404e84e49938a7b61acc42d304;e418dbe4cfd227d4c911770c6253e689;22",
-        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;24",
+        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;25",
         "4c0efa74c3c3f6a499f7002f921b8ec3;9a83af5b4c2bdbb4dbe7cdf82834cfbf;24",
         "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;24"
       ],
@@ -165,7 +165,7 @@
         "GoblinSapper;RocketBoots;22"
       ]
     ],
-    "lastUpdate": 1719062213
+    "lastUpdate": 1719242925
   },
-  "token": "ed363b10-a6d0-4b96-9c9f-274a73c9fd54"
+  "token": "236e46c6-2652-4338-85d3-5d250d0eea87"
 }

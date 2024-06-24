@@ -1,1 +1,162 @@
-error code: 502
+{
+  "data": {
+    "id": 70114831,
+    "btag": "alinox",
+    "name": "alinox",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_Maiev_Pose",
+    "skulls": 150,
+    "level": 47,
+    "pvpWins": 215,
+    "leaderA": "RendLeader",
+    "leaderAWins": 31,
+    "leaderAHonor": 3194,
+    "leaderB": "ThaurissanLeader",
+    "leaderBWins": 26,
+    "leaderBHonor": 3520,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 35,
+    "leaderCHonor": 3335,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Huntress;ElvenMight;21",
+        "Execute;Bloodthirsty;23",
+        "Harpy;TalonDive;21",
+        "WhelpEggs;FlameBurst;24",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "TirionLeader;DivineShield;19",
+        "GryphonRider;MightyThrow;21",
+        "Worgen;Premeditation;21",
+        "WarsongRaider;SunderArmor;21",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;PredatoryInstincts;23",
+        "Execute;Bloodthirsty;23",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "GrommashLeader;Bladestorm;19",
+        "Execute;Bloodthirsty;23",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;TalonDive;21",
+        "Banshee;WillOfTheNecropolis;21",
+        "Quilboar;Bristleback;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;23",
+        "WhelpEggs;FlameBurst;24",
+        "Blizzard;ColdSnap;21",
+        "Harpy;InfectiousSwipes;21",
+        "ArcaneBlast;ArcanePower;19",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Gargoyle;AerialSuperiority;20"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;21",
+        "Necromancer;JeweledSkulls;22",
+        "Ghoul;TasteForBlood;21",
+        "HolyNova;Renew;20",
+        "WhelpEggs;FlameBurst;24",
+        "SmokeBombSpell;BandOfThieves;20",
+        "Execute;Bloodthirsty;23"
+      ],
+      [
+        "MaievLeader;Remorseless;19",
+        "Huntress;Shadowmeld;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "DarkIronMiner;DarkIronArmaments;18",
+        "Worgen;Premeditation;21",
+        "WhelpEggs;FlameBurst;24",
+        "Prowler;PredatoryInstincts;23"
+      ],
+      [
+        "HoggerLeader;HamHock;21",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;PredatoryInstincts;23",
+        "Quilboar;BrambleBurst;21",
+        "Execute;Bloodthirsty;23",
+        "DefiasBandits;PickLock;20",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "CairneLeader;Reincarnation;21",
+        "Execute;Bloodthirsty;23",
+        "DarkspearTroll;SerpentSting;21",
+        "HarvestGolem;TrojanChickens;20",
+        "WhelpEggs;FlameBurst;24",
+        "Prowler;PredatoryInstincts;23",
+        "FireElemental;ImmolationAura;23"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Necromancer;CultOfTheDamned;22",
+        "Banshee;WillOfTheNecropolis;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "Execute;Bloodthirsty;23",
+        "Harpy;TalonDive;21",
+        "WhelpEggs;FlameBurst;24"
+      ],
+      [
+        "SneedLeader;MineIsMoneyFriend;21",
+        "Execute;Bloodthirsty;23",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "GoblinSapper;RocketBoots;21",
+        "WhelpEggs;FlameBurst;24",
+        "Banshee;WillOfTheNecropolis;21",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "Harpy;InfectiousSwipes;21",
+        "Spiderlings;BloatedCarapace;23",
+        "MurlocTidehunters;SafetyBubble;21",
+        "WhelpEggs;FlameBurst;24",
+        "Prowler;PredatoryInstincts;23",
+        "Execute;Bloodthirsty;23"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;21",
+        "WhelpEggs;FlameBurst;24",
+        "Pyromancer;Pyroblast;20",
+        "Shaman;EarthShield;21",
+        "Harpy;InfectiousSwipes;21",
+        "WitchDoctor;SpiritWard;21",
+        "Quilboar;Bristleback;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;21",
+        "FireElemental;ImmolationAura;23",
+        "WhelpEggs;FlameBurst;24",
+        "Prowler;PredatoryInstincts;23",
+        "Harpy;InfectiousSwipes;21",
+        "Drake;MotherDrake;21",
+        "Execute;Bloodthirsty;23"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;21",
+        "Necromancer;CultOfTheDamned;22",
+        "Banshee;WillOfTheNecropolis;21",
+        "DarkspearTroll;SerpentSting;21",
+        "WhelpEggs;FlameBurst;24",
+        "Execute;Bloodthirsty;23",
+        "DarkIronMiner;DarkIronArmaments;18"
+      ]
+    ],
+    "lastUpdate": 1717414084
+  },
+  "token": "1a950f81-3ed6-4826-85d8-1e92236de21e"
+}

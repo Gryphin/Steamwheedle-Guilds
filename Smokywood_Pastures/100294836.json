@@ -8,10 +8,10 @@
     "avatar": "Indicator_Tirion_Pose",
     "skulls": 150,
     "level": 46,
-    "pvpWins": 4224,
+    "pvpWins": 4297,
     "leaderA": "DrakkisathLeader",
-    "leaderAWins": 919,
-    "leaderAHonor": 3421,
+    "leaderAWins": 973,
+    "leaderAHonor": 3623,
     "leaderB": "ThaurissanLeader",
     "leaderBWins": 522,
     "leaderBHonor": 3349,
@@ -41,11 +41,11 @@
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
         "Harpy;InfectiousSwipes;25",
-        "Quilboar;Bristleback;23",
         "Prowler;PackLeader;22",
         "EarthElemental;ObsidianShard;22",
+        "WhelpEggs;FlameBurst;25",
         "Execute;Bloodthirsty;25",
-        "SkeletonParty;RitualOfRime;21"
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
       ],
       [
         "GrommashLeader;MirrorImage;21",
@@ -60,9 +60,9 @@
         "RendLeader;ScaleAndSteel;22",
         "WhelpEggs;FlameBurst;25",
         "DeepBreath;Attunement;23",
-        "Harpy;InfectiousSwipes;25",
+        "PolymorphSpell;GoldenFleece;22",
         "Quilboar;Bristleback;23",
-        "MurlocTidehunters;SafetyBubble;22",
+        "Harpy;InfectiousSwipes;25",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
       ],
       [
@@ -85,7 +85,7 @@
       ],
       [
         "HoggerLeader;HamHock;21",
-        "Harpy;InfectiousSwipes;24",
+        "Harpy;InfectiousSwipes;25",
         "Quilboar;Bristleback;23",
         "WitchDoctor;SpiritWard;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
@@ -94,10 +94,10 @@
       ],
       [
         "CairneLeader;Reincarnation;18",
-        "Shaman;EarthShield;22",
+        "Shaman;EarthShield;23",
         "Execute;Bloodthirsty;25",
         "Huntress;Shadowmeld;25",
-        "Harpy;InfectiousSwipes;23",
+        "Harpy;InfectiousSwipes;25",
         "WitchDoctor;SpiritWard;22",
         "S.A.F.E.PilotFlyingMachine;CominInHot;24"
       ],
@@ -133,18 +133,18 @@
         "Quilboar;Bristleback;23",
         "Harpy;InfectiousSwipes;25",
         "Huntress;ElvenMight;25",
-        "PolymorphSpell;GoldenFleece;22",
-        "Shaman;EarthShield;23",
+        "Execute;Bloodthirsty;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
         "WitchDoctor;SpiritWard;22"
       ],
       [
         "DrakkisathLeader;ChromaticScales;24",
-        "Pyromancer;Conflagrate;22",
+        "DeepBreath;Attunement;23",
         "WhelpEggs;FlameBurst;25",
-        "Huntress;ElvenMight;25",
-        "Shaman;EarthShield;23",
+        "PolymorphSpell;GoldenFleece;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
         "Quilboar;Bristleback;23",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+        "Shaman;EarthShield;23"
       ],
       [
         "ThaurissanLeader;Hubris;22",
@@ -165,7 +165,7 @@
         "WhelpEggs;FlameBurst;25"
       ]
     ],
-    "lastUpdate": 1719062211
+    "lastUpdate": 1719250120
   },
-  "token": "850a18a0-590f-4741-8fcb-d7b05e7c9ed5"
+  "token": "5de12ac0-ff00-4bf7-b037-60ff7349cfb1"
 }

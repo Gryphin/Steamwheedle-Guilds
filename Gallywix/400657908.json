@@ -31,12 +31,12 @@
       ],
       [
         "TirionLeader;DivineShield;20",
-        "HolyNova;InnerFire;18",
+        "HolyNova;InnerFire;19",
         "DefiasBandits;PickLock;21",
-        "GnollBrute;Rabid;20",
+        "GnollBrute;Rabid;21",
         "Harpy;InfectiousSwipes;19",
         "Execute;Bloodthirsty;21",
-        "Pyromancer;Conflagrate;20"
+        "Pyromancer;Conflagrate;21"
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
@@ -139,7 +139,7 @@
       ],
       [
         "ThaurissanLeader;Hubris;21",
-        "Pyromancer;Conflagrate;20",
+        "Pyromancer;Conflagrate;21",
         "WhelpEggs;FlameBurst;21",
         "Gargoyle;WingBuffet;19",
         "Huntress;Shadowmeld;24",
@@ -156,7 +156,7 @@
         "Quilboar;Bristleback;19"
       ]
     ],
-    "lastUpdate": 1719062204
+    "lastUpdate": 1719242920
   },
-  "token": "0d29b86b-401e-4834-bcfe-4ef6b5e19f28"
+  "token": "9bbc4778-d846-478e-8f41-ff35f9b2d332"
 }

@@ -24,7 +24,7 @@
         "JainaLeader;Flurry;18",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
         "DefiasBandits;DeadlyPoison;21",
-        "Blizzard;ColdSnap;18",
+        "LivingBomb;BlastRadius;18",
         "MurlocTidehunters;CarefulAim;19",
         "FireElemental;ImmolationAura;19",
         "Shaman;EarthShield;21"
@@ -67,12 +67,12 @@
       ],
       [
         "BloodmageThalnosLeader;Bane;20",
-        "CheatDeath;Apocalypse;18",
+        "SkeletonParty;5Man;21",
         "PlagueFarmer;SplashingPumpkins;21",
-        "Execute;Bloodthirsty;20",
+        "Blizzard;ColdSnap;18",
         "FireElemental;ImmolationAura;19",
         "Shaman;EarthShield;21",
-        "Quilboar;Bristleback;21"
+        "WhelpEggs;FlameBurst;21"
       ],
       [
         "MaievLeader;Remorseless;19",
@@ -103,29 +103,29 @@
       ],
       [
         "BaronRivendareLeader;ChillOfTheGrave;21",
-        "PlagueFarmer;SplashingPumpkins;21",
-        "SkeletonParty;5Man;21",
-        "Quilboar;Bristleback;21",
-        "Harpy;InfectiousSwipes;21",
+        "MeatWagon;FiletTrebuchet;18",
+        "Abomination;NoxiousPresence;21",
+        "WhelpEggs;FlameBurst;21",
+        "Chimaera;FrostShock;21",
         "Execute;Bloodthirsty;20",
-        "Prowler;OnTheProwl;21"
+        "Pyromancer;Pyroblast;21"
       ],
       [
-        "SneedLeader;MineIsMoneyFriend;18",
-        "BatRider;EnchantedVials;18",
-        "DarkspearTroll;BigBadVoodoo;20",
-        "EarthElemental;ObsidianShard;18",
-        "WhelpEggs;FlameBurst;20",
-        "Pyromancer;Pyroblast;19",
-        "AngryChickens;FuriousFowl;20"
+        "SneedLeader;MineIsMoneyFriend;19",
+        "BatRider;EnchantedVials;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "EarthElemental;ObsidianShard;19",
+        "WhelpEggs;FlameBurst;21",
+        "Pyromancer;Pyroblast;21",
+        "AngryChickens;FuriousFowl;21"
       ],
       [
         "CharlgaLeader;SpiritPassage;18",
         "Quilboar;Bristleback;21",
-        "Prowler;OnTheProwl;19",
+        "Prowler;OnTheProwl;21",
         "DefiasBandits;DeadlyPoison;21",
         "Shaman;EarthShield;21",
-        "FireElemental;ImmolationAura;18",
+        "FireElemental;ImmolationAura;19",
         "Execute;Bloodthirsty;20"
       ],
       [
@@ -148,15 +148,15 @@
       ],
       [
         "SylvanasLeader;BlackArrow;18",
-        "CheatDeath;Apocalypse;18",
+        "Ghoul;TasteForBlood;20",
         "PlagueFarmer;SplashingPumpkins;21",
-        "Shaman;EarthShield;21",
+        "BatRider;EnchantedVials;21",
         "Quilboar;Bristleback;21",
         "FireElemental;ImmolationAura;19",
         "Execute;Bloodthirsty;20"
       ]
     ],
-    "lastUpdate": 1719063139
+    "lastUpdate": 1719157033
   },
-  "token": "566ac3db-c677-4132-92ba-0aafe938ef40"
+  "token": "d9b67638-e8f7-4080-a84a-9f3a3166abc6"
 }

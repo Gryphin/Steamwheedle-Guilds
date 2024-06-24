@@ -12,7 +12,7 @@
         "skulls": 108,
         "honor": 3143,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063144
+        "lastUpdate": 1719192010
       },
       {
         "id": 395744,
@@ -21,7 +21,7 @@
         "skulls": 125,
         "honor": 3462,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063144
+        "lastUpdate": 1719191857
       },
       {
         "id": 467854009,
@@ -36,19 +36,19 @@
         "id": 872524188,
         "name": "Snarfsnarf",
         "btag": "Snarfsnarf",
-        "skulls": 126,
+        "skulls": 129,
         "honor": 11276,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719063144
+        "lastUpdate": 1719191827
       },
       {
         "id": 431430930,
         "name": "Moha",
         "btag": "Moha",
         "skulls": 132,
-        "honor": 10023,
+        "honor": 10187,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063145
+        "lastUpdate": 1719191734
       },
       {
         "id": 53442308,
@@ -66,61 +66,25 @@
         "skulls": 122,
         "honor": 1787,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719063145
+        "lastUpdate": 1719191949
       },
       {
         "id": 52381491,
         "name": "Rezputin",
         "btag": "Rezputin",
         "skulls": 120,
-        "honor": 8527,
+        "honor": 8831,
         "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719063145
-      },
-      {
-        "id": 21455,
-        "name": "Shtmgn",
-        "btag": "Shtmgn",
-        "skulls": 149,
-        "honor": 12000,
-        "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063145
-      },
-      {
-        "id": 51088610,
-        "name": "Nubbykins",
-        "btag": "Nubbykins",
-        "skulls": 138,
-        "honor": 5127,
-        "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063145
+        "lastUpdate": 1719191980
       },
       {
         "id": 124797534,
         "name": "Cinis",
         "btag": "Cinis",
-        "skulls": 142,
+        "skulls": 143,
         "honor": 10208,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063146
-      },
-      {
-        "id": 302412336,
-        "name": "Lunith",
-        "btag": "Lunith",
-        "skulls": 136,
-        "honor": 6598,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063146
-      },
-      {
-        "id": 884037,
-        "name": "TheBigBanana",
-        "btag": "TheBigBanana",
-        "skulls": 124,
-        "honor": 10866,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063147
+        "lastUpdate": 1719191612
       },
       {
         "id": 1158611274,
@@ -129,7 +93,25 @@
         "skulls": 125,
         "honor": 7040,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719063147
+        "lastUpdate": 1719191888
+      },
+      {
+        "id": 884037,
+        "name": "TheBigBanana",
+        "btag": "TheBigBanana",
+        "skulls": 124,
+        "honor": 10866,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719191919
+      },
+      {
+        "id": 50678295,
+        "name": "Zapp",
+        "btag": "Zapp",
+        "skulls": 150,
+        "honor": 12113,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719191489
       },
       {
         "id": 313695231,
@@ -138,7 +120,7 @@
         "skulls": 144,
         "honor": 9812,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719063146
+        "lastUpdate": 1719191582
       },
       {
         "id": 250696306,
@@ -147,34 +129,16 @@
         "skulls": 150,
         "honor": 10859,
         "avatar": "",
-        "lastUpdate": 1719063147
+        "lastUpdate": 1719191428
       },
       {
-        "id": 94764993,
-        "name": "StreetHose",
-        "btag": "StreetHose",
-        "skulls": 131,
-        "honor": 8908,
-        "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063146
-      },
-      {
-        "id": 64069311,
-        "name": "zubs",
-        "btag": "zubs",
-        "skulls": 130,
-        "honor": 5135,
-        "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719063146
-      },
-      {
-        "id": 50678295,
-        "name": "Zapp",
-        "btag": "Zapp",
-        "skulls": 150,
-        "honor": 12094,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063147
+        "id": 21455,
+        "name": "Shtmgn",
+        "btag": "Shtmgn",
+        "skulls": 149,
+        "honor": 12000,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719191520
       },
       {
         "id": 82363935,
@@ -183,11 +147,47 @@
         "skulls": 148,
         "honor": 11252,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063147
+        "lastUpdate": 1719191551
+      },
+      {
+        "id": 51088610,
+        "name": "Nubbykins",
+        "btag": "Nubbykins",
+        "skulls": 138,
+        "honor": 5127,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719191642
+      },
+      {
+        "id": 302412336,
+        "name": "Lunith",
+        "btag": "Lunith",
+        "skulls": 136,
+        "honor": 6598,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719191673
+      },
+      {
+        "id": 94764993,
+        "name": "StreetHose",
+        "btag": "StreetHose",
+        "skulls": 131,
+        "honor": 8908,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719191765
+      },
+      {
+        "id": 64069311,
+        "name": "zubs",
+        "btag": "zubs",
+        "skulls": 130,
+        "honor": 5135,
+        "avatar": "Indicator_Sneed_Pose",
+        "lastUpdate": 1719191797
       }
     ],
-    "lastUpdate": 1719063144
+    "lastUpdate": 1719191426
   },
-  "token": "15eeda5d-a7bc-4b71-b9f2-8c2b3d9ea6d4",
-  "link": "https://localhost:7080/guild/438015331?token=15eeda5d-a7bc-4b71-b9f2-8c2b3d9ea6d4"
+  "token": "56c66a7d-4378-4933-badf-fe08c70755c9",
+  "link": "https://localhost:7080/guild/438015331?token=56c66a7d-4378-4933-badf-fe08c70755c9"
 }

@@ -99,7 +99,7 @@
         "Pyromancer;Conflagrate;22",
         "GryphonRider;OdynsFury;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
-        "Quilboar;Bristleback;21"
+        "Quilboar;Bristleback;22"
       ],
       [
         "BaronRivendareLeader;ChillOfTheGrave;23",
@@ -107,7 +107,7 @@
         "Ghoul;BoneArmor;21",
         "S.A.F.E.PilotFlyingMachine;CominInHot;22",
         "GryphonRider;OdynsFury;22",
-        "Quilboar;Bristleback;21",
+        "Quilboar;Bristleback;22",
         "Pyromancer;Conflagrate;22"
       ],
       [
@@ -156,7 +156,7 @@
         "Quilboar;TunnelVision;21"
       ]
     ],
-    "lastUpdate": 1719062202
+    "lastUpdate": 1719242920
   },
-  "token": "01d0b3e4-0f26-46e1-842a-42103c2c9d09"
+  "token": "420839bb-e063-43b5-8a57-7b10187aec5d"
 }

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1388321,
+    "btag": "DanOnly",
+    "name": "DanOnly",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 115,
+    "level": 36,
+    "pvpWins": 27,
+    "leaderA": "RendLeader",
+    "leaderAWins": 20,
+    "leaderAHonor": 1601,
+    "leaderB": "SylvanasLeader",
+    "leaderBWins": 3,
+    "leaderBHonor": 590,
+    "leaderC": "BaronRivendareLeader",
+    "leaderCWins": 4,
+    "leaderCHonor": 800,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "DefiasBandits;PickLock;17",
+        "HolyNova;Renew;16",
+        "WhelpEggs;FlameBurst;20",
+        "FireElemental;ImmolationAura;18",
+        "Harpy;TrinketCollectors;18"
+      ],
+      [
+        "TirionLeader;DivineShield;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "GryphonRider;AirDrop;17",
+        "Footmen;ShieldBash;17",
+        "WhelpEggs;FlameBurst;20",
+        "Harpy;TrinketCollectors;18",
+        "Quilboar;BrambleBurst;18"
+      ],
+      [
+        "OldMurkEyeLeader;ElectricEels;17",
+        "AngryChickens;;15",
+        "Harpy;TrinketCollectors;18",
+        "FireElemental;ImmolationAura;18",
+        "Quilboar;BrambleBurst;18",
+        "Raptors;;15",
+        "WhelpEggs;FlameBurst;20"
+      ],
+      [
+        "GrommashLeader;SavageStrikes;18",
+        "StonehoofTauren;Momentum;20",
+        "Shaman;EarthShield;17",
+        "Harpy;TrinketCollectors;18",
+        "Quilboar;BrambleBurst;18",
+        "WhelpEggs;FlameBurst;20",
+        "DarkspearTroll;BigBadVoodoo;18"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "WhelpEggs;FlameBurst;20",
+        "Drake;MotherDrake;17",
+        "Harpy;TrinketCollectors;18",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Quilboar;BrambleBurst;18",
+        "FireElemental;ImmolationAura;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "Gargoyle;WingBuffet;20",
+        "Necromancer;JeweledSkulls;18",
+        "ArcaneBlast;Amplification;16",
+        "Quilboar;BrambleBurst;18",
+        "FireElemental;ImmolationAura;18",
+        "Harpy;TrinketCollectors;18"
+      ],
+      [
+        "MaievLeader;EnvelopingShadows;18",
+        "DefiasBandits;PickLock;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18",
+        "Quilboar;BrambleBurst;18",
+        "FireElemental;ImmolationAura;18",
+        "Harpy;TrinketCollectors;18",
+        "WhelpEggs;FlameBurst;20"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;18",
+        "FireElemental;ImmolationAura;18",
+        "Harpy;TrinketCollectors;18",
+        "WitchDoctor;AmplifyCurse;20",
+        "WhelpEggs;FlameBurst;20",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "S.A.F.E.PilotFlyingMachine;Muttonizer;18"
+      ],
+      [
+        "CairneLeader;Plainsrunning;18",
+        "Shaman;EarthShield;17",
+        "DarkspearTroll;BigBadVoodoo;17",
+        "WitchDoctor;SpiritWard;17",
+        "FireElemental;ImmolationAura;17",
+        "WhelpEggs;FlameBurst;19",
+        "Quilboar;BrambleBurst;17"
+      ],
+      [
+        "BaronRivendareLeader;SkeletalFrenzy;21",
+        "Gargoyle;WingBuffet;20",
+        "Necromancer;JeweledSkulls;18",
+        "SkeletonWarrior;Exhume;19",
+        "WhelpEggs;FlameBurst;20",
+        "FireElemental;ImmolationAura;18",
+        "WitchDoctor;AmplifyCurse;20"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;20",
+        "StonehoofTauren;Momentum;20",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "FireElemental;ImmolationAura;18",
+        "Prowler;PredatoryInstincts;17",
+        "Quilboar;BrambleBurst;18",
+        "Harpy;TrinketCollectors;18"
+      ],
+      [
+        "CharlgaLeader;;14",
+        "Chimaera;Leviathan;17",
+        "Quilboar;BrambleBurst;17",
+        "Harpy;TrinketCollectors;17",
+        "DarkspearTroll;BigBadVoodoo;16",
+        "WhelpEggs;FlameBurst;19",
+        "FireElemental;ImmolationAura;17"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "FireElemental;ImmolationAura;18",
+        "Pyromancer;BlazeOfGlory;16",
+        "WhelpEggs;FlameBurst;20",
+        "Harpy;TrinketCollectors;18",
+        "Quilboar;BrambleBurst;18",
+        "DarkspearTroll;BigBadVoodoo;18"
+      ],
+      [
+        "ThaurissanLeader;Incinerate;17",
+        "FireElemental;ImmolationAura;18",
+        "EarthElemental;ObsidianShard;18",
+        "Quilboar;BrambleBurst;17",
+        "LivingBomb;;14",
+        "WhelpEggs;FlameBurst;20",
+        "Harpy;TrinketCollectors;18"
+      ],
+      [
+        "SylvanasLeader;ForsakenFury;18",
+        "Necromancer;JeweledSkulls;18",
+        "Gargoyle;WingBuffet;19",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "Harpy;TrinketCollectors;18",
+        "FireElemental;ImmolationAura;18",
+        "WhelpEggs;FlameBurst;20"
+      ]
+    ],
+    "lastUpdate": 1719182176
+  },
+  "token": "d675a688-07c9-4b96-9866-c889d56699f9"
+}

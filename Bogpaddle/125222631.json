@@ -8,16 +8,16 @@
     "avatar": "Indicator_Tirion_Pose",
     "skulls": 150,
     "level": 47,
-    "pvpWins": 1615,
-    "leaderA": "DrakkisathLeader",
-    "leaderAWins": 90,
-    "leaderAHonor": 4831,
-    "leaderB": "JainaLeader",
-    "leaderBWins": 145,
-    "leaderBHonor": 4587,
-    "leaderC": "BaronRivendareLeader",
-    "leaderCWins": 385,
-    "leaderCHonor": 5064,
+    "pvpWins": 1659,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 385,
+    "leaderAHonor": 5064,
+    "leaderB": "CharlgaLeader",
+    "leaderBWins": 78,
+    "leaderBHonor": 5014,
+    "leaderC": "DrakkisathLeader",
+    "leaderCWins": 90,
+    "leaderCHonor": 4807,
     "socials": null,
     "armies": [
       [
@@ -40,12 +40,12 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
-        "Harpy;InfectiousSwipes;24",
+        "MurlocTidehunters;SafetyBubble;25",
         "Quilboar;BrambleBurst;25",
-        "Prowler;OnTheProwl;22",
-        "WitchDoctor;SpiritWard;22",
+        "Prowler;OnTheProwl;23",
+        "GryphonRider;MightyThrow;25",
         "Execute;Bloodthirsty;22",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
       ],
       [
         "GrommashLeader;MirrorImage;21",
@@ -57,13 +57,13 @@
         "Ghoul;BoneArmor;22"
       ],
       [
-        "RendLeader;;22",
-        "FireElemental;ImmolationAura;21",
+        "RendLeader;ScaleAndSteel;22",
+        "DeepBreath;MeltingPoint;23",
         "WhelpEggs;FlameBurst;25",
-        "Harpy;InfectiousSwipes;24",
-        "Gargoyle;WingBuffet;22",
+        "GryphonRider;MightyThrow;25",
+        "Prowler;OnTheProwl;23",
         "Quilboar;BrambleBurst;25",
-        "Chimaera;CorrosiveBreath;20"
+        "Gargoyle;WingBuffet;22"
       ],
       [
         "BloodmageThalnosLeader;Bane;21",
@@ -86,11 +86,11 @@
       [
         "HoggerLeader;HamHock;22",
         "Harpy;InfectiousSwipes;24",
-        "MurlocTidehunters;SafetyBubble;23",
-        "GryphonRider;MightyThrow;24",
-        "OgreMage;FrostfireBolt;24",
+        "AngryChickens;FuriousFowl;19",
+        "GryphonRider;MightyThrow;25",
+        "WitchDoctor;SpiritWard;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
-        "Quilboar;BrambleBurst;25"
+        "Execute;Bloodthirsty;22"
       ],
       [
         "CairneLeader;Reincarnation;21",
@@ -130,12 +130,12 @@
       ],
       [
         "CharlgaLeader;CavernousMists;21",
-        "PolymorphSpell;GoldenFleece;21",
+        "MurlocTidehunters;SafetyBubble;25",
         "Quilboar;BrambleBurst;25",
-        "MurlocTidehunters;SafetyBubble;22",
-        "WitchDoctor;SpiritWard;22",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
-        "HarvestGolem;UnstableCore;20"
+        "Prowler;OnTheProwl;23",
+        "GryphonRider;MightyThrow;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "Execute;Bloodthirsty;22"
       ],
       [
         "DrakkisathLeader;ChromaticScales;24",
@@ -165,7 +165,7 @@
         "Quilboar;BrambleBurst;25"
       ]
     ],
-    "lastUpdate": 1719063091
+    "lastUpdate": 1719250121
   },
-  "token": "f3bc9ff7-ed18-4c89-b0ad-3c03a164cf7c"
+  "token": "ec0ed6cf-7ede-4848-b4ca-0df61605c00e"
 }

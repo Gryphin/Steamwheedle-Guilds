@@ -6,7 +6,7 @@
     "guildId": null,
     "guildName": null,
     "avatar": "Indicator_Tirion_Pose",
-    "skulls": 131,
+    "skulls": 135,
     "level": 41,
     "pvpWins": 108,
     "leaderA": "TirionLeader",
@@ -30,22 +30,22 @@
         "Blizzard;ColdSnap;22"
       ],
       [
-        "TirionLeader;ByTheLight;21",
-        "DefiasBandits;DeadlyPoison;21",
+        "TirionLeader;ByTheLight;22",
+        "DefiasBandits;DeadlyPoison;23",
         "Huntress;Shadowmeld;22",
-        "Quilboar;TunnelVision;21",
-        "Harpy;InfectiousSwipes;23",
+        "Prowler;OnTheProwl;24",
+        "Harpy;InfectiousSwipes;24",
         "Flamewaker;HeatStroke;24",
-        "Banshee;WillOfTheNecropolis;20"
+        "Blizzard;ColdSnap;23"
       ],
       [
-        "OldMurkEyeLeader;MarathonOfTheMurlocs;16",
-        "Blizzard;ColdSnap;22",
-        "Quilboar;TunnelVision;20",
-        "Prowler;OnTheProwl;21",
-        "DefiasBandits;DeadlyPoison;21",
-        "Pyromancer;Pyroblast;21",
-        "Harpy;InfectiousSwipes;22"
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+        "Blizzard;ColdSnap;23",
+        "Quilboar;TunnelVision;21",
+        "Prowler;OnTheProwl;23",
+        "Raptors;StrengthInNumbers;18",
+        "Pyromancer;Pyroblast;22",
+        "Harpy;InfectiousSwipes;24"
       ],
       [
         "GrommashLeader;SavageStrikes;18",
@@ -61,16 +61,16 @@
         "Pyromancer;Pyroblast;22",
         "Flamewaker;HeatStroke;24",
         "Harpy;InfectiousSwipes;23",
-        "Prowler;OnTheProwl;21",
-        "DefiasBandits;DeadlyPoison;21",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;21",
         "Blizzard;ColdSnap;22"
       ],
       [
         "BloodmageThalnosLeader;Bane;21",
-        "Harpy;InfectiousSwipes;23",
-        "Banshee;WillOfTheNecropolis;20",
-        "Blizzard;ColdSnap;22",
-        "WhelpEggs;FlameBurst;21",
+        "SkeletonWarrior;Exhume;20",
+        "Banshee;WillOfTheNecropolis;21",
+        "Blizzard;ColdSnap;23",
+        "Huntress;Shadowmeld;22",
         "Execute;;18",
         "Flamewaker;HeatStroke;24"
       ],
@@ -84,22 +84,22 @@
         "Harpy;InfectiousSwipes;22"
       ],
       [
-        "HoggerLeader;;15",
-        "Huntress;Shadowmeld;21",
-        "Harpy;InfectiousSwipes;22",
-        "DefiasBandits;DeadlyPoison;20",
-        "Blizzard;ColdSnap;22",
-        "GryphonRider;MightyThrow;20",
-        "Prowler;OnTheProwl;21"
+        "HoggerLeader;;17",
+        "Quilboar;TunnelVision;21",
+        "Harpy;InfectiousSwipes;24",
+        "BatRider;EnchantedVials;19",
+        "Blizzard;ColdSnap;23",
+        "WhelpEggs;FlameBurst;22",
+        "Abomination;FreshMeat;21"
       ],
       [
         "CairneLeader;;19",
-        "DarkspearTroll;BigBadVoodoo;20",
-        "OgreMage;Avarice;20",
-        "Banshee;WillOfTheNecropolis;20",
-        "WhelpEggs;FlameBurst;21",
-        "Blizzard;ColdSnap;22",
-        "Harpy;InfectiousSwipes;23"
+        "Abomination;FreshMeat;21",
+        "OgreMage;Avarice;21",
+        "Flamewaker;HeatStroke;24",
+        "WhelpEggs;FlameBurst;22",
+        "Execute;;18",
+        "Harpy;InfectiousSwipes;24"
       ],
       [
         "BaronRivendareLeader;;17",
@@ -120,22 +120,22 @@
         "Prowler;OnTheProwl;21"
       ],
       [
-        "CharlgaLeader;;18",
-        "Harpy;InfectiousSwipes;23",
-        "Quilboar;TunnelVision;21",
+        "CharlgaLeader;NaturesGrasp;20",
+        "Harpy;InfectiousSwipes;24",
+        "Prowler;OnTheProwl;23",
         "Huntress;Shadowmeld;22",
-        "WhelpEggs;FlameBurst;21",
+        "GryphonRider;MightyThrow;22",
         "Flamewaker;HeatStroke;24",
-        "Banshee;WillOfTheNecropolis;20"
+        "Execute;;18"
       ],
       [
         "DrakkisathLeader;ChromaticScales;21",
-        "Banshee;WillOfTheNecropolis;20",
+        "MoltenGiant;BloodOfTheMountain;18",
         "Pyromancer;Pyroblast;22",
         "Flamewaker;HeatStroke;24",
-        "OgreMage;Avarice;20",
-        "Blizzard;ColdSnap;22",
-        "WhelpEggs;FlameBurst;21"
+        "OgreMage;Avarice;21",
+        "Execute;;18",
+        "GryphonRider;MightyThrow;22"
       ],
       [
         "ThaurissanLeader;MoirasWit;20",
@@ -148,15 +148,15 @@
       ],
       [
         "SylvanasLeader;BlackArrow;21",
-        "Abomination;FreshMeat;21",
+        "Flamewaker;HeatStroke;24",
         "SkeletonWarrior;Exhume;20",
-        "DarkspearTroll;BigBadVoodoo;21",
-        "Execute;;18",
+        "BatRider;EnchantedVials;19",
+        "Blizzard;ColdSnap;23",
         "Huntress;Shadowmeld;22",
-        "WhelpEggs;FlameBurst;21"
+        "GryphonRider;MightyThrow;22"
       ]
     ],
-    "lastUpdate": 1719063157
+    "lastUpdate": 1719193197
   },
-  "token": "abdfa039-e13e-47ac-a4ea-ab712e7e5ef0"
+  "token": "6e085dc6-081f-4709-a8aa-13889f3fe438"
 }

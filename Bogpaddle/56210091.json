@@ -88,8 +88,8 @@
         "Quilboar;TunnelVision;24",
         "Harpy;InfectiousSwipes;24",
         "DarkIronMiner;DarkIronArmaments;22",
-        "Gargoyle;WingBuffet;21",
-        "WitchDoctor;SpiritWard;21",
+        "Vultures;Migration;18",
+        "WitchDoctor;SpiritWard;22",
         "S.A.F.E.PilotFlyingMachine;CominInHot;24"
       ],
       [
@@ -102,13 +102,13 @@
         "Pyromancer;Conflagrate;22"
       ],
       [
-        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "BaronRivendareLeader;ChillOfTheGrave;22",
         "Necromancer;JeweledSkulls;21",
         "Ghoul;BoneArmor;21",
         "DarkIronMiner;DarkIronArmaments;22",
         "Quilboar;TunnelVision;24",
         "Harpy;InfectiousSwipes;24",
-        "ChainLightning;BrilliantFlash;20"
+        "Execute;KillingSpree;18"
       ],
       [
         "SneedLeader;LeadWithGreed;20",
@@ -156,7 +156,7 @@
         "Harpy;TalonDive;24"
       ]
     ],
-    "lastUpdate": 1719063090
+    "lastUpdate": 1719250121
   },
-  "token": "8c4cc644-f7dc-43f8-ac6f-bd658f4736e1"
+  "token": "9631f28a-2cb6-49ed-b579-a47d0f404454"
 }

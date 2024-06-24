@@ -42,7 +42,7 @@
         "OldMurkEyeLeader;MarathonOfTheMurlocs;24",
         "Quilboar;BrambleBurst;25",
         "Harpy;InfectiousSwipes;24",
-        "Shaman;EarthShield;20",
+        "EarthElemental;ObsidianShard;24",
         "DefiasBandits;DeadlyPoison;22",
         "WhelpEggs;FlameBurst;24",
         "Huntress;ElvenMight;24"
@@ -140,9 +140,9 @@
       [
         "DrakkisathLeader;ChromaticScales;21",
         "DarkIronMiner;GoldMine;21",
-        "DeepBreath;Attunement;20",
+        "DeepBreath;Attunement;21",
         "Shaman;EarthShield;20",
-        "WitchDoctor;SpiritWard;20",
+        "WitchDoctor;SpiritWard;21",
         "Huntress;DarnassianSteel;24",
         "Harpy;InfectiousSwipes;24"
       ],
@@ -165,7 +165,7 @@
         "WhelpEggs;FlameBurst;24"
       ]
     ],
-    "lastUpdate": 1719063084
+    "lastUpdate": 1719239151
   },
-  "token": "306857ec-ce9c-4d81-b80b-438ac66985b4"
+  "token": "c666ac68-84c5-4449-b508-26b273af4ac8"
 }

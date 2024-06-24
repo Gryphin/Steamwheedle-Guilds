@@ -8,10 +8,10 @@
     "avatar": "Indicator_OldMurkEye_Pose",
     "skulls": 150,
     "level": 51,
-    "pvpWins": 2059,
+    "pvpWins": 2060,
     "leaderA": "CharlgaLeader",
-    "leaderAWins": 240,
-    "leaderAHonor": 4987,
+    "leaderAWins": 241,
+    "leaderAHonor": 5003,
     "leaderB": "JainaLeader",
     "leaderBWins": 273,
     "leaderBHonor": 4986,
@@ -57,12 +57,12 @@
         "BatRider;EnchantedVials;22"
       ],
       [
-        "RendLeader;ScaleAndSteel;25",
-        "DarkIronMiner;DwarvenAmbition;25",
-        "PolymorphSpell;GoldenFleece;25",
+        "RendLeader;ScaleAndSteel;26",
+        "DeepBreath;Attunement;26",
+        "Drake;MotherDrake;25",
         "Gargoyle;WingBuffet;25",
         "Harpy;InfectiousSwipes;25",
-        "ArcaneBlast;ArcanePower;25",
+        "WhelpEggs;FlameBurst;25",
         "Quilboar;BrambleBurst;26"
       ],
       [
@@ -89,7 +89,7 @@
         "PolymorphSpell;GoldenFleece;25",
         "Quilboar;BrambleBurst;26",
         "Shaman;EarthwallTotem;25",
-        "DeepBreath;DoubleDragon;25",
+        "DeepBreath;DoubleDragon;26",
         "WitchDoctor;SpiritWard;25"
       ],
       [
@@ -130,9 +130,9 @@
       ],
       [
         "CharlgaLeader;CavernousMists;25",
-        "Quilboar;BrambleBurst;26",
+        "PolymorphSpell;GoldenFleece;25",
         "MurlocTidehunters;SafetyBubble;25",
-        "DefiasBandits;PickLock;25",
+        "Gargoyle;WingBuffet;25",
         "DeepBreath;Attunement;26",
         "HarvestGolem;UnstableCore;25",
         "Execute;Bloodthirsty;26"
@@ -165,7 +165,7 @@
         "Execute;Bloodthirsty;26"
       ]
     ],
-    "lastUpdate": 1719062206
+    "lastUpdate": 1719250118
   },
-  "token": "38b316b9-5f1d-4e34-abad-6caaa00532ba"
+  "token": "3a5669e3-b989-4280-b697-619f5077bdf1"
 }

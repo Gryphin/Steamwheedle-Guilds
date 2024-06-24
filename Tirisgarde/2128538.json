@@ -8,13 +8,13 @@
     "avatar": "Indicator_Tirion_Pose",
     "skulls": 150,
     "level": 51,
-    "pvpWins": 3663,
+    "pvpWins": 3724,
     "leaderA": "BaronRivendareLeader",
     "leaderAWins": 419,
     "leaderAHonor": 6803,
     "leaderB": "TirionLeader",
-    "leaderBWins": 864,
-    "leaderBHonor": 6453,
+    "leaderBWins": 871,
+    "leaderBHonor": 6463,
     "leaderC": "ThaurissanLeader",
     "leaderCWins": 423,
     "leaderCHonor": 6808,
@@ -31,21 +31,21 @@
       ],
       [
         "TirionLeader;DivineShield;25",
-        "GryphonRider;MightyThrow;26",
+        "Quilboar;BrambleBurst;26",
         "S.A.F.E.PilotFlyingMachine;CominInHot;27",
         "CoreHounds;EternalBond;27",
-        "MeatWagon;FiletTrebuchet;25",
-        "DeepBreath;Attunement;26",
-        "Shaman;EarthwallTotem;26"
+        "MurlocTidehunters;SafetyBubble;25",
+        "DeepBreath;Attunement;27",
+        "Shaman;EarthwallTotem;27"
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;25",
         "MurlocTidehunters;SafetyBubble;25",
-        "Quilboar;BrambleBurst;25",
-        "PolymorphSpell;GoldenFleece;25",
-        "Shaman;EarthwallTotem;26",
+        "Quilboar;BrambleBurst;26",
+        "CoreHounds;EternalBond;27",
+        "Shaman;EarthwallTotem;27",
         "WitchDoctor;SpiritWard;26",
-        "S.A.F.E.PilotFlyingMachine;CominInHot;26"
+        "S.A.F.E.PilotFlyingMachine;CominInHot;27"
       ],
       [
         "GrommashLeader;MirrorImage;22",
@@ -76,21 +76,21 @@
       ],
       [
         "MaievLeader;Remorseless;25",
-        "Quilboar;BrambleBurst;25",
+        "Quilboar;BrambleBurst;26",
         "S.A.F.E.PilotFlyingMachine;CominInHot;27",
-        "Shaman;EarthwallTotem;26",
+        "Shaman;EarthwallTotem;27",
         "WhelpEggs;FlameBurst;25",
         "CoreHounds;EternalBond;27",
-        "DeepBreath;Attunement;26"
+        "DeepBreath;Attunement;27"
       ],
       [
         "HoggerLeader;HamHock;22",
-        "Quilboar;BrambleBurst;25",
-        "PolymorphSpell;GoldenFleece;21",
+        "Quilboar;BrambleBurst;26",
+        "PolymorphSpell;GoldenFleece;25",
         "WitchDoctor;SpiritWard;26",
-        "CoreHounds;EternalBond;27",
-        "Shaman;EarthwallTotem;26",
-        "S.A.F.E.PilotFlyingMachine;CominInHot;26"
+        "MeatWagon;FiletTrebuchet;25",
+        "Shaman;EarthwallTotem;27",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;27"
       ],
       [
         "CairneLeader;Plainsrunning;20",
@@ -122,19 +122,19 @@
       [
         "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;25",
         "dd2745483ee0845cb88f7827619c7cca;39360e02fc393424397520805f2b224a;27",
-        "4a587c88483e48d42869f766eb08123b;c9a2f90e4742cff47bd8ffa76ca8c19b;26",
-        "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;27",
+        "4a587c88483e48d42869f766eb08123b;c9a2f90e4742cff47bd8ffa76ca8c19b;27",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;27",
         "724ebbab65fd2477db54c91707f4a6d8;7b5cacdfa38f8874eb80a5583924aca4;26",
-        "9085cfafc6ced4d97b590458dc179c62;d32cf11d8579e5a429e3c12f2d37b2fb;25",
-        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;27"
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;26",
+        "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;27"
       ],
       [
-        "CharlgaLeader;CavernousMists;21",
-        "Quilboar;BrambleBurst;25",
-        "PolymorphSpell;GoldenFleece;22",
+        "CharlgaLeader;CavernousMists;22",
+        "Quilboar;BrambleBurst;26",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Prowler;PredatoryInstincts;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;27",
         "WitchDoctor;SpiritWard;26",
-        "S.A.F.E.PilotFlyingMachine;CominInHot;26",
-        "Shaman;EarthwallTotem;26",
         "CoreHounds;EternalBond;27"
       ],
       [
@@ -165,7 +165,7 @@
         "DeepBreath;Attunement;26"
       ]
     ],
-    "lastUpdate": 1718916238
+    "lastUpdate": 1719255617
   },
-  "token": "5670aa19-c3ca-4986-a919-a351a678f345"
+  "token": "2f6188d8-75e4-4e72-bc99-b36f81dfb674"
 }

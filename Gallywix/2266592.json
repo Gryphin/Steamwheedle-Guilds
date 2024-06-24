@@ -75,13 +75,13 @@
         "Quilboar;BrambleBurst;22"
       ],
       [
-        "MaievLeader;Remorseless;18",
+        "MaievLeader;Remorseless;19",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
         "Worgen;Premeditation;20",
-        "SkeletonParty;CorpseRun;18",
+        "SkeletonParty;CorpseRun;19",
         "Blizzard;ColdSnap;21",
         "Harpy;InfectiousSwipes;21",
-        "Quilboar;BrambleBurst;21"
+        "Quilboar;BrambleBurst;22"
       ],
       [
         "HoggerLeader;HamHock;20",
@@ -156,7 +156,7 @@
         "Harpy;InfectiousSwipes;21"
       ]
     ],
-    "lastUpdate": 1719062204
+    "lastUpdate": 1719242921
   },
-  "token": "e6f33d06-31c7-4d6d-8d0b-5668e8b6a4a5"
+  "token": "6825e100-4376-4602-ad60-16d23d2aaf4d"
 }

@@ -8,39 +8,39 @@
     "avatar": "Indicator_KoboldMech_Pose",
     "skulls": 150,
     "level": 51,
-    "pvpWins": 871,
-    "leaderA": "BaronRivendareLeader",
-    "leaderAWins": 157,
-    "leaderAHonor": 4337,
-    "leaderB": "TirionLeader",
-    "leaderBWins": 95,
-    "leaderBHonor": 4295,
+    "pvpWins": 906,
+    "leaderA": "TirionLeader",
+    "leaderAWins": 96,
+    "leaderAHonor": 4392,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 158,
+    "leaderBHonor": 4433,
     "leaderC": "HoggerLeader",
-    "leaderCWins": 89,
-    "leaderCHonor": 4257,
+    "leaderCWins": 95,
+    "leaderCHonor": 4441,
     "socials": null,
     "armies": [
       [
         "JainaLeader;Clearcasting;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
-        "DefiasBandits;DeadlyPoison;24",
-        "Execute;Bloodthirsty;21",
-        "Prowler;PredatoryInstincts;24",
-        "SkeletonParty;RitualOfRime;24",
-        "Shaman;EarthwallTotem;24"
+        "DefiasBandits;PickLock;24",
+        "Execute;Bloodthirsty;24",
+        "Prowler;PredatoryInstincts;25",
+        "Quilboar;BrambleBurst;24",
+        "DeepBreath;Attunement;21"
       ],
       [
         "TirionLeader;ByTheLight;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
         "GryphonRider;AirDrop;24",
         "HarvestGolem;UnstableCore;24",
-        "DefiasBandits;LastResort;24",
-        "Quilboar;BrambleBurst;24",
+        "DefiasBandits;PickLock;24",
+        "DeepBreath;Attunement;21",
         "Shaman;EarthwallTotem;25"
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;24",
-        "Prowler;PredatoryInstincts;24",
+        "Prowler;PredatoryInstincts;25",
         "Quilboar;BrambleBurst;24",
         "FireElemental;ImmolationAura;26",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
@@ -66,13 +66,13 @@
         "Huntress;ElvenMight;26"
       ],
       [
-        "BloodmageThalnosLeader;Dominance;22",
+        "BloodmageThalnosLeader;DrainLife;22",
         "Necromancer;CultOfTheDamned;25",
-        "Abomination;FreshMeat;24",
-        "Blizzard;ColdSnap;24",
-        "MeatWagon;FiletTrebuchet;25",
+        "Ghoul;BoneArmor;24",
+        "HolyNova;Renew;24",
+        "Gargoyle;WingBuffet;24",
         "ArcaneBlast;Torrent;22",
-        "Huntress;ElvenMight;26"
+        "ChainLightning;Reverberation;21"
       ],
       [
         "MaievLeader;EnvelopingShadows;22",
@@ -87,19 +87,19 @@
         "HoggerLeader;HamHock;22",
         "Quilboar;BrambleBurst;24",
         "Prowler;PredatoryInstincts;25",
-        "DefiasBandits;LastResort;24",
+        "DefiasBandits;PickLock;24",
         "GryphonRider;AirDrop;24",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
-        "Huntress;Shadowmeld;26"
+        "DeepBreath;Attunement;21"
       ],
       [
-        "CairneLeader;Reincarnation;24",
+        "CairneLeader;Reincarnation;25",
         "Shaman;EarthShield;25",
         "WitchDoctor;SpiritWard;21",
-        "Huntress;Shadowmeld;26",
+        "DeepBreath;Attunement;21",
         "MeatWagon;FiletTrebuchet;25",
         "FireElemental;ImmolationAura;26",
-        "DefiasBandits;LastResort;24"
+        "DefiasBandits;PickLock;24"
       ],
       [
         "BaronRivendareLeader;ChillOfTheGrave;25",
@@ -120,9 +120,9 @@
         "GryphonRider;AirDrop;24"
       ],
       [
-        "CharlgaLeader;SpiritPassage;19",
-        "Harpy;InfectiousSwipes;24",
-        "Prowler;PredatoryInstincts;24",
+        "CharlgaLeader;SpiritPassage;20",
+        "Harpy;InfectiousSwipes;25",
+        "Prowler;PredatoryInstincts;25",
         "Huntress;ElvenMight;26",
         "GryphonRider;MightyThrow;24",
         "FireElemental;ImmolationAura;26",
@@ -156,7 +156,7 @@
         "Prowler;PredatoryInstincts;24"
       ]
     ],
-    "lastUpdate": 1719062216
+    "lastUpdate": 1719242927
   },
-  "token": "83c7ccaa-35b1-4daf-b11f-47736815791f"
+  "token": "7986fd25-0c37-4418-8df6-c4f8128b088a"
 }

@@ -39,13 +39,13 @@
         "Execute;Bloodthirsty;21"
       ],
       [
-        "OldMurkEyeLeader;ElectricEels;18",
-        "PolymorphSpell;GoldenFleece;17",
+        "OldMurkEyeLeader;ElectricEels;19",
         "Quilboar;Bristleback;18",
+        "MurlocTidehunters;SafetyBubble;18",
         "FireElemental;ImmolationAura;18",
-        "GryphonRider;MightyThrow;19",
-        "WitchDoctor;SpiritWard;21",
-        "WhelpEggs;FlameBurst;18"
+        "WhelpEggs;FlameBurst;18",
+        "Execute;Bloodthirsty;21",
+        "EarthElemental;ObsidianShard;18"
       ],
       [
         "GrommashLeader;SavageStrikes;18",
@@ -123,7 +123,7 @@
         "CharlgaLeader;CavernousMists;17",
         "Quilboar;Bristleback;18",
         "DefiasBandits;DeadlyPoison;21",
-        "Harpy;InfectiousSwipes;18",
+        "WhelpEggs;FlameBurst;18",
         "WitchDoctor;SpiritWard;21",
         "FireElemental;ImmolationAura;18",
         "Execute;Bloodthirsty;21"
@@ -156,7 +156,7 @@
         "FireElemental;ImmolationAura;18"
       ]
     ],
-    "lastUpdate": 1719063080
+    "lastUpdate": 1719191334
   },
-  "token": "f5dbc36d-19b8-4da6-8358-c6bd05321a5d"
+  "token": "bd9c6fe4-85f5-4278-8981-9cd09e49a8ea"
 }

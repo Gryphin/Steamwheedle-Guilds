@@ -33,19 +33,19 @@
         "TirionLeader;ByTheLight;22",
         "Footmen;ShieldBash;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
-        "Execute;Overpower;20",
-        "GryphonRider;MightyThrow;21",
-        "DarkspearTroll;BigBadVoodoo;24",
-        "BatRider;EnchantedVials;21"
+        "WhelpEggs;FlameBurst;21",
+        "BatRider;EnchantedVials;21",
+        "Pyromancer;Pyroblast;21",
+        "Chimaera;CorrosiveBreath;22"
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
-        "AngryChickens;FuriousFowl;19",
+        "AngryChickens;Snackrifice;21",
+        "GnollBrute;Rabid;21",
+        "WarsongGrunts;Command;20",
+        "Raptors;StrengthInNumbers;20",
         "Harpy;InfectiousSwipes;21",
-        "Prowler;PredatoryInstincts;21",
-        "WitchDoctor;SpiritWard;23",
-        "Vultures;TendonRip;19",
-        "MurlocTidehunters;Morelocs;19"
+        "MurlocTidehunters;SafetyBubble;21"
       ],
       [
         "GrommashLeader;MirrorImage;21",
@@ -69,10 +69,10 @@
         "BloodmageThalnosLeader;DrainLife;21",
         "PlagueFarmer;SplashingPumpkins;21",
         "Ghoul;BoneArmor;21",
-        "SmokeBombSpell;ThroughTheShadows;18",
+        "Quilboar;Bristleback;21",
         "Huntress;ElvenMight;21",
-        "Pyromancer;Conflagrate;21",
-        "FireElemental;ImmolationAura;21"
+        "Pyromancer;Pyroblast;21",
+        "Harpy;InfectiousSwipes;21"
       ],
       [
         "MaievLeader;Remorseless;18",
@@ -111,13 +111,13 @@
         "Quilboar;Bristleback;21"
       ],
       [
-        "SneedLeader;LeadWithGreed;19",
+        "SneedLeader;MineIsMoneyFriend;21",
         "WitchDoctor;SpiritWard;23",
-        "StonehoofTauren;Momentum;21",
-        "WarsongRaider;SunderArmor;21",
-        "Harpy;TrinketCollectors;21",
-        "GryphonRider;MightyThrow;21",
-        "DarkspearTroll;BigBadVoodoo;24"
+        "DarkspearTroll;BigBadVoodoo;24",
+        "Gargoyle;WingBuffet;21",
+        "Harpy;InfectiousSwipes;21",
+        "WarsongGrunts;Command;20",
+        "Pyromancer;Pyroblast;21"
       ],
       [
         "cd2137bffb5084548a4b1a81f47c725f;c9cfdd95e0f921248bf58e653d4b7dcc;21",
@@ -129,12 +129,12 @@
         "5b893c52c1e623541bececb01409caf3;4409adb7ffddc3c4eba2e70746399464;16"
       ],
       [
-        "DrakkisathLeader;PiercingBlows;21",
+        "DrakkisathLeader;ChromaticScales;21",
         "WhelpEggs;FlameBurst;21",
         "Pyromancer;Pyroblast;21",
-        "Shaman;EarthShield;21",
+        "Flamewaker;HeatStroke;21",
         "DarkspearTroll;BigBadVoodoo;24",
-        "BatRider;FlamingPitch;21",
+        "BatRider;EnchantedVials;21",
         "Chimaera;CorrosiveBreath;22"
       ],
       [
@@ -151,12 +151,12 @@
         "Ghoul;BoneArmor;21",
         "PlagueFarmer;SplashingPumpkins;21",
         "DarkspearTroll;BigBadVoodoo;24",
-        "Harpy;InfectiousSwipes;21",
+        "Chimaera;CorrosiveBreath;22",
         "Quilboar;Bristleback;21",
-        "Huntress;ElvenMight;21"
+        "Harpy;InfectiousSwipes;21"
       ]
     ],
-    "lastUpdate": 1719063157
+    "lastUpdate": 1719193002
   },
-  "token": "2e1e518c-5042-43ca-8558-85426b586604"
+  "token": "04f1365b-b0d8-40bc-961c-cc7d3f09746c"
 }

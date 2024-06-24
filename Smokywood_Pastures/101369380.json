@@ -8,13 +8,13 @@
     "avatar": "Indicator_KoboldMech_Pose",
     "skulls": 150,
     "level": 51,
-    "pvpWins": 278,
+    "pvpWins": 284,
     "leaderA": "OldMurkEyeLeader",
     "leaderAWins": 39,
     "leaderAHonor": 3459,
     "leaderB": "CairneLeader",
-    "leaderBWins": 65,
-    "leaderBHonor": 4202,
+    "leaderBWins": 71,
+    "leaderBHonor": 4465,
     "leaderC": "BaronRivendareLeader",
     "leaderCWins": 91,
     "leaderCHonor": 4325,
@@ -165,7 +165,7 @@
         "PlagueFarmer;SplashingPumpkins;22"
       ]
     ],
-    "lastUpdate": 1719062210
+    "lastUpdate": 1719250119
   },
-  "token": "3095eecf-466b-446e-9b6c-604ae399ed19"
+  "token": "2ea1be17-2c09-4c68-91ee-d17cf77a0e7e"
 }

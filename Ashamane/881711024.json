@@ -8,16 +8,16 @@
     "avatar": "Indicator_Grommash_Pose",
     "skulls": 149,
     "level": 49,
-    "pvpWins": 187,
+    "pvpWins": 195,
     "leaderA": "TirionLeader",
-    "leaderAWins": 42,
-    "leaderAHonor": 3863,
+    "leaderAWins": 43,
+    "leaderAHonor": 3837,
     "leaderB": "GrommashLeader",
     "leaderBWins": 49,
     "leaderBHonor": 3890,
     "leaderC": "CairneLeader",
-    "leaderCWins": 39,
-    "leaderCHonor": 3558,
+    "leaderCWins": 41,
+    "leaderCHonor": 3567,
     "socials": null,
     "armies": [
       [
@@ -32,8 +32,8 @@
       [
         "TirionLeader;DivineShield;26",
         "S.A.F.E.PilotFlyingMachine;Muttonizer;24",
-        "DefiasBandits;DeadlyPoison;22",
-        "Quilboar;Bristleback;24",
+        "DefiasBandits;PickLock;22",
+        "Prowler;OnTheProwl;24",
         "Harpy;InfectiousSwipes;26",
         "WhelpEggs;FlameBurst;25",
         "GoblinSapper;RocketBoots;25"
@@ -58,12 +58,12 @@
       ],
       [
         "RendLeader;ScaleAndSteel;24",
-        "DarkIronMiner;GoldMine;21",
-        "WhelpEggs;FlameBurst;25",
         "Drake;MotherDrake;22",
+        "WhelpEggs;FlameBurst;25",
+        "Harpy;TalonDive;26",
         "Quilboar;TunnelVision;24",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
-        "Harpy;InfectiousSwipes;26"
+        "MurlocTidehunters;SafetyBubble;24"
       ],
       [
         "BloodmageThalnosLeader;DrainLife;25",
@@ -90,15 +90,15 @@
         "Quilboar;Bristleback;24",
         "S.A.F.E.PilotFlyingMachine;Muttonizer;24",
         "WhelpEggs;FlameBurst;25",
-        "PolymorphSpell;GoldenFleece;20"
+        "Execute;Bloodthirsty;18"
       ],
       [
         "CairneLeader;Plainsrunning;22",
-        "Execute;Bloodthirsty;18",
+        "WitchDoctor;AmplifyCurse;24",
         "DarkspearTroll;BigBadVoodoo;24",
         "S.A.F.E.PilotFlyingMachine;Muttonizer;24",
         "Harpy;InfectiousSwipes;26",
-        "Prowler;OnTheProwl;24",
+        "GoblinSapper;RocketBoots;25",
         "WhelpEggs;FlameBurst;25"
       ],
       [
@@ -129,11 +129,11 @@
         "S.A.F.E.PilotFlyingMachine;Muttonizer;24"
       ],
       [
-        "DrakkisathLeader;PiercingBlows;24",
+        "DrakkisathLeader;ChromaticScales;24",
+        "DarkIronMiner;DwarvenAmbition;21",
         "Pyromancer;Pyroblast;22",
-        "Firehammer;MoultinMetal;22",
-        "Chimaera;CorrosiveBreath;23",
-        "Blizzard;BrittleIce;21",
+        "Shaman;EarthShield;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
         "WhelpEggs;FlameBurst;25",
         "Harpy;InfectiousSwipes;26"
       ],
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;25"
       ]
     ],
-    "lastUpdate": 1719063080
+    "lastUpdate": 1719190937
   },
-  "token": "50283baf-e7fb-47bd-a590-4b7b52795931"
+  "token": "be092d9d-6631-4463-90dd-06ed75785356"
 }

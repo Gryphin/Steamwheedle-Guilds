@@ -32,11 +32,11 @@
       [
         "TirionLeader;DivineShield;21",
         "GryphonRider;MightyThrow;21",
-        "Huntress;Shadowmeld;21",
-        "EarthElemental;ObsidianShard;20",
-        "WitchDoctor;SpiritWard;20",
-        "PlagueFarmer;SplashingPumpkins;19",
-        "Harpy;InfectiousSwipes;21"
+        "DefiasBandits;DeadlyPoison;21",
+        "Pyromancer;Pyroblast;21",
+        "WitchDoctor;SpiritWard;21",
+        "Quilboar;TunnelVision;21",
+        "WhelpEggs;FlameBurst;20"
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
@@ -49,12 +49,12 @@
       ],
       [
         "GrommashLeader;MirrorImage;21",
-        "WitchDoctor;SpiritWard;20",
-        "Shaman;EarthShield;21",
+        "WitchDoctor;SpiritWard;21",
+        "StonehoofTauren;Pummel;20",
+        "WhelpEggs;FlameBurst;20",
+        "Quilboar;TunnelVision;21",
         "Harpy;InfectiousSwipes;21",
-        "EarthElemental;ObsidianShard;20",
-        "DarkspearTroll;SerpentSting;21",
-        "Quilboar;TunnelVision;21"
+        "CheatDeath;Vampirism;19"
       ],
       [
         "RendLeader;ScaleAndSteel;20",
@@ -94,12 +94,12 @@
       ],
       [
         "CairneLeader;Reincarnation;20",
-        "OgreMage;FrostfireBolt;18",
-        "DarkspearTroll;SerpentSting;21",
-        "Firehammer;MoultinMetal;18",
+        "BatRider;EnchantedVials;20",
+        "WitchDoctor;SpiritWard;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
         "Harpy;InfectiousSwipes;21",
-        "DefiasBandits;DeadlyPoison;21",
-        "Spiderlings;Frostbite;19"
+        "CheatDeath;Vampirism;19",
+        "Quilboar;BrambleBurst;21"
       ],
       [
         "BaronRivendareLeader;ChillOfTheGrave;21",
@@ -139,24 +139,24 @@
       ],
       [
         "ThaurissanLeader;Hubris;21",
-        "Pyromancer;Conflagrate;21",
+        "WhelpEggs;FlameBurst;20",
         "EarthElemental;ObsidianShard;20",
         "Quilboar;TunnelVision;21",
         "Harpy;InfectiousSwipes;21",
-        "Execute;Bloodthirsty;19",
-        "DarkspearTroll;BigBadVoodoo;21"
+        "WitchDoctor;SpiritWard;21",
+        "CheatDeath;Vampirism;19"
       ],
       [
         "SylvanasLeader;BlackArrow;21",
         "Ghoul;BoneArmor;19",
         "CheatDeath;Vampirism;19",
-        "WitchDoctor;SpiritWard;20",
+        "WitchDoctor;SpiritWard;21",
         "Harpy;InfectiousSwipes;21",
-        "EarthElemental;ObsidianShard;20",
-        "Quilboar;TunnelVision;21"
+        "Quilboar;TunnelVision;21",
+        "BatRider;EnchantedVials;20"
       ]
     ],
-    "lastUpdate": 1719062204
+    "lastUpdate": 1719242920
   },
-  "token": "180c645d-6d4a-4032-9f40-1b738cb91c64"
+  "token": "386664ea-6187-456f-ae0e-5fb073a76a00"
 }

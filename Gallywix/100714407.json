@@ -40,7 +40,7 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
-        "MurlocTidehunters;CarefulAim;18",
+        "MurlocTidehunters;CarefulAim;19",
         "Quilboar;Bristleback;21",
         "Prowler;OnTheProwl;19",
         "Gargoyle;WingBuffet;18",
@@ -120,7 +120,7 @@
         "DarkspearTroll;BigBadVoodoo;19"
       ],
       [
-        "CharlgaLeader;CavernousMists;18",
+        "CharlgaLeader;CavernousMists;19",
         "Chimaera;Leviathan;21",
         "Prowler;OnTheProwl;19",
         "Harpy;InfectiousSwipes;19",
@@ -156,7 +156,7 @@
         "SkeletonParty;5Man;18"
       ]
     ],
-    "lastUpdate": 1719062204
+    "lastUpdate": 1719242920
   },
-  "token": "d5d43aa9-466f-4bd1-b7af-a007153be234"
+  "token": "ed06e5c9-edfa-4a05-9cf1-1ba27fcdbcc1"
 }

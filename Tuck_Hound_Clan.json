@@ -12,7 +12,7 @@
         "skulls": 145,
         "honor": 9235,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719063140
+        "lastUpdate": 1719063294
       },
       {
         "id": 305844736,
@@ -21,16 +21,7 @@
         "skulls": 125,
         "honor": 9550,
         "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719063140
-      },
-      {
-        "id": 2096912,
-        "name": "Colgin",
-        "btag": "Colgin",
-        "skulls": 140,
-        "honor": 12023,
-        "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063140
+        "lastUpdate": 1719063294
       },
       {
         "id": 76293931,
@@ -39,7 +30,7 @@
         "skulls": 125,
         "honor": 2920,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719063141
+        "lastUpdate": 1719063295
       },
       {
         "id": 51071675,
@@ -48,7 +39,7 @@
         "skulls": 150,
         "honor": 12065,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063141
+        "lastUpdate": 1719063295
       },
       {
         "id": 304176763,
@@ -57,7 +48,7 @@
         "skulls": 113,
         "honor": 4684,
         "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719063141
+        "lastUpdate": 1719063295
       },
       {
         "id": 69602943,
@@ -66,34 +57,7 @@
         "skulls": 85,
         "honor": 8165,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063141
-      },
-      {
-        "id": 53734139,
-        "name": "BansheeIt",
-        "btag": "BansheeIt",
-        "skulls": 143,
-        "honor": 9753,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063141
-      },
-      {
-        "id": 72677888,
-        "name": "BabyMage",
-        "btag": "BabyMage",
-        "skulls": 150,
-        "honor": 7090,
-        "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063142
-      },
-      {
-        "id": 307550336,
-        "name": "Ambrosiax3",
-        "btag": "Ambrosiax3",
-        "skulls": 73,
-        "honor": 2285,
-        "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719063142
+        "lastUpdate": 1719063295
       },
       {
         "id": 313227349,
@@ -102,7 +66,7 @@
         "skulls": 121,
         "honor": 8387,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063142
+        "lastUpdate": 1719063296
       },
       {
         "id": 70161930,
@@ -111,16 +75,7 @@
         "skulls": 139,
         "honor": 307,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063142
-      },
-      {
-        "id": 52594246,
-        "name": "Silverblaze",
-        "btag": "Silverblaze",
-        "skulls": 150,
-        "honor": 9382,
-        "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719063143
+        "lastUpdate": 1719063296
       },
       {
         "id": 52067295,
@@ -129,16 +84,7 @@
         "skulls": 135,
         "honor": 10547,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719063143
-      },
-      {
-        "id": 105611923,
-        "name": "adakran",
-        "btag": "adakran",
-        "skulls": 144,
-        "honor": 9647,
-        "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063144
+        "lastUpdate": 1719063296
       },
       {
         "id": 38502,
@@ -147,7 +93,7 @@
         "skulls": 123,
         "honor": 4032,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063142
+        "lastUpdate": 1719063297
       },
       {
         "id": 54114825,
@@ -156,7 +102,7 @@
         "skulls": 116,
         "honor": 2615,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063143
+        "lastUpdate": 1719063297
       },
       {
         "id": 490177,
@@ -165,16 +111,7 @@
         "skulls": 142,
         "honor": 12065,
         "avatar": "Indicator_Charlga_Pose",
-        "lastUpdate": 1719063143
-      },
-      {
-        "id": 107764904,
-        "name": "KyotoPROTCL",
-        "btag": "KyotoPROTCL",
-        "skulls": 150,
-        "honor": 12181,
-        "avatar": "Indicator_Maiev_Pose",
-        "lastUpdate": 1719063143
+        "lastUpdate": 1719063297
       },
       {
         "id": 79381921,
@@ -183,11 +120,74 @@
         "skulls": 143,
         "honor": 9058,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063143
+        "lastUpdate": 1719063297
+      },
+      {
+        "id": 307550336,
+        "name": "Ambrosiax3",
+        "btag": "Ambrosiax3",
+        "skulls": 73,
+        "honor": 2285,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719063296
+      },
+      {
+        "id": 53734139,
+        "name": "BansheeIt",
+        "btag": "BansheeIt",
+        "skulls": 143,
+        "honor": 9753,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063295
+      },
+      {
+        "id": 52594246,
+        "name": "Silverblaze",
+        "btag": "Silverblaze",
+        "skulls": 150,
+        "honor": 9382,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719063296
+      },
+      {
+        "id": 105611923,
+        "name": "adakran",
+        "btag": "adakran",
+        "skulls": 144,
+        "honor": 9647,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719063296
+      },
+      {
+        "id": 2096912,
+        "name": "Colgin",
+        "btag": "Colgin",
+        "skulls": 140,
+        "honor": 12023,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719063295
+      },
+      {
+        "id": 72677888,
+        "name": "BabyMage",
+        "btag": "BabyMage",
+        "skulls": 150,
+        "honor": 7090,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719063295
+      },
+      {
+        "id": 107764904,
+        "name": "KyotoPROTCL",
+        "btag": "KyotoPROTCL",
+        "skulls": 150,
+        "honor": 12181,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1719063297
       }
     ],
-    "lastUpdate": 1719063140
+    "lastUpdate": 1719063294
   },
-  "token": "ae16da8e-b9a6-4e3e-9840-a299801d9443",
-  "link": "https://localhost:7080/guild/466295671?token=ae16da8e-b9a6-4e3e-9840-a299801d9443"
+  "token": "b916e72a-17d8-4445-91e5-db540c83077b",
+  "link": "https://localhost:7080/guild/466295671?token=b916e72a-17d8-4445-91e5-db540c83077b"
 }

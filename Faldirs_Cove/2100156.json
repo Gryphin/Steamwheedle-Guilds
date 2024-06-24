@@ -6,9 +6,9 @@
     "guildId": null,
     "guildName": null,
     "avatar": "Indicator_Jaina_Pose",
-    "skulls": 100,
+    "skulls": 105,
     "level": 35,
-    "pvpWins": 101,
+    "pvpWins": 104,
     "leaderA": "MaievLeader",
     "leaderAWins": 16,
     "leaderAHonor": 2332,
@@ -40,7 +40,7 @@
       ],
       [
         "OldMurkEyeLeader;TipOfTheSpear;17",
-        "Execute;Bloodthirsty;17",
+        "Execute;Bloodthirsty;18",
         "Prowler;PredatoryInstincts;20",
         "Gargoyle;WingBuffet;18",
         "Chimaera;FrostShock;20",
@@ -52,7 +52,7 @@
         "WarsongRaider;RazingFocus;18",
         "DarkspearTroll;SerpentSting;17",
         "Harpy;TrinketCollectors;18",
-        "Execute;Bloodthirsty;17",
+        "Execute;Bloodthirsty;18",
         "Gargoyle;WingBuffet;18",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
       ],
@@ -107,7 +107,7 @@
         "Necromancer;JeweledSkulls;17",
         "SkeletonParty;RitualOfRime;17",
         "Chimaera;FrostShock;20",
-        "GryphonRider;MightyThrow;17",
+        "GryphonRider;MightyThrow;18",
         "Harpy;TrinketCollectors;18"
       ],
       [
@@ -121,7 +121,7 @@
       ],
       [
         "DrakkisathLeader;LastingLegacy;17",
-        "LivingBomb;;14",
+        "Drake;EngulfingFlames;17",
         "FireElemental;ImmolationAura;17",
         "Chimaera;CorrosiveBreath;20",
         "Blizzard;ColdSnap;17",
@@ -138,16 +138,16 @@
         "FireElemental;ImmolationAura;17"
       ],
       [
-        "SylvanasLeader;BlackArrow;17",
+        "SylvanasLeader;BlackArrow;18",
         "Blizzard;ColdSnap;17",
-        "Chimaera;FrostShock;19",
-        "Harpy;TrinketCollectors;17",
-        "GnollBrute;ThickHide;17",
+        "Chimaera;FrostShock;20",
+        "Harpy;TrinketCollectors;18",
+        "GnollBrute;ThickHide;18",
         "Gargoyle;WingBuffet;18",
-        "Prowler;PredatoryInstincts;19"
+        "Prowler;PredatoryInstincts;20"
       ]
     ],
-    "lastUpdate": 1719063106
+    "lastUpdate": 1719192644
   },
-  "token": "4bffce8f-0c1c-4298-a8bb-0dd33cf9aa17"
+  "token": "3ece06a4-b7b0-4b89-a058-2e03b5e879a5"
 }

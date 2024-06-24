@@ -12,7 +12,7 @@
         "skulls": 97,
         "honor": 3347,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063121
+        "lastUpdate": 1719063276
       },
       {
         "id": 407542832,
@@ -21,7 +21,7 @@
         "skulls": 126,
         "honor": 6616,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063121
+        "lastUpdate": 1719063276
       },
       {
         "id": 112937975,
@@ -30,7 +30,7 @@
         "skulls": 150,
         "honor": 10085,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063121
+        "lastUpdate": 1719063276
       },
       {
         "id": 51998378,
@@ -39,7 +39,7 @@
         "skulls": 127,
         "honor": 9606,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063122
+        "lastUpdate": 1719063276
       },
       {
         "id": 76307246,
@@ -48,7 +48,7 @@
         "skulls": 45,
         "honor": 2735,
         "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719063122
+        "lastUpdate": 1719063277
       },
       {
         "id": 306726227,
@@ -66,7 +66,7 @@
         "skulls": 140,
         "honor": 11606,
         "avatar": "CombatHUD_Tex_Player_Default",
-        "lastUpdate": 1719063122
+        "lastUpdate": 1719063277
       },
       {
         "id": 101413673,
@@ -75,7 +75,7 @@
         "skulls": 133,
         "honor": 4385,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719063122
+        "lastUpdate": 1719063277
       },
       {
         "id": 1692372,
@@ -84,7 +84,7 @@
         "skulls": 144,
         "honor": 8308,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063122
+        "lastUpdate": 1719063277
       },
       {
         "id": 313146697,
@@ -93,7 +93,7 @@
         "skulls": 139,
         "honor": 10570,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719063123
+        "lastUpdate": 1719063277
       },
       {
         "id": 89439334,
@@ -102,7 +102,7 @@
         "skulls": 90,
         "honor": 3272,
         "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719063123
+        "lastUpdate": 1719063278
       },
       {
         "id": 408882618,
@@ -111,7 +111,7 @@
         "skulls": 132,
         "honor": 4032,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063123
+        "lastUpdate": 1719063278
       },
       {
         "id": 2043642,
@@ -120,16 +120,7 @@
         "skulls": 120,
         "honor": 10052,
         "avatar": "",
-        "lastUpdate": 1719063123
-      },
-      {
-        "id": 845833,
-        "name": "Jinkees",
-        "btag": "Jinkees",
-        "skulls": 125,
-        "honor": 5412,
-        "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719063123
+        "lastUpdate": 1719063278
       },
       {
         "id": 57657938,
@@ -138,16 +129,7 @@
         "skulls": 135,
         "honor": 10055,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063124
-      },
-      {
-        "id": 87228793,
-        "name": "Aglets",
-        "btag": "Aglets",
-        "skulls": 140,
-        "honor": 12065,
-        "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063124
+        "lastUpdate": 1719063278
       },
       {
         "id": 1913786,
@@ -156,7 +138,7 @@
         "skulls": 122,
         "honor": 10108,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063124
+        "lastUpdate": 1719063279
       },
       {
         "id": 132237282,
@@ -165,7 +147,7 @@
         "skulls": 146,
         "honor": 10017,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063124
+        "lastUpdate": 1719063279
       },
       {
         "id": 312807290,
@@ -174,7 +156,25 @@
         "skulls": 139,
         "honor": 3385,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063123
+        "lastUpdate": 1719063279
+      },
+      {
+        "id": 87228793,
+        "name": "Aglets",
+        "btag": "Aglets",
+        "skulls": 140,
+        "honor": 12065,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719063278
+      },
+      {
+        "id": 845833,
+        "name": "Jinkees",
+        "btag": "Jinkees",
+        "skulls": 125,
+        "honor": 5412,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719063278
       },
       {
         "id": 1992406,
@@ -183,11 +183,11 @@
         "skulls": 135,
         "honor": 9030,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063124
+        "lastUpdate": 1719063279
       }
     ],
-    "lastUpdate": 1719063120
+    "lastUpdate": 1719063275
   },
-  "token": "4f539ae0-0f4c-4b2b-ace0-e9db60c0ef5f",
-  "link": "https://localhost:7080/guild/199002432?token=4f539ae0-0f4c-4b2b-ace0-e9db60c0ef5f"
+  "token": "668090f5-e847-4e01-a246-d05830f59c30",
+  "link": "https://localhost:7080/guild/199002432?token=668090f5-e847-4e01-a246-d05830f59c30"
 }

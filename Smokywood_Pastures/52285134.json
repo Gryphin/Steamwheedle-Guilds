@@ -111,7 +111,7 @@
         "GryphonRider;MightyThrow;26"
       ],
       [
-        "SneedLeader;LandGrab;26",
+        "SneedLeader;LeadWithGreed;26",
         "WitchDoctor;AmplifyCurse;26",
         "Shaman;EarthShield;27",
         "GoblinSapper;CrudeGunpowder;25",
@@ -165,7 +165,7 @@
         "S.A.F.E.PilotFlyingMachine;CominInHot;27"
       ]
     ],
-    "lastUpdate": 1719062211
+    "lastUpdate": 1719250120
   },
-  "token": "601c5360-4384-4241-9d45-232b3385b6e8"
+  "token": "770905d2-beca-4900-89bf-2616afdafee5"
 }

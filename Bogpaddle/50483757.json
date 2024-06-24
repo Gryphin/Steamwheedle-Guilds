@@ -66,11 +66,11 @@
         "DarkIronMiner;GoldMine;21"
       ],
       [
-        "BloodmageThalnosLeader;DrainLife;18",
+        "BloodmageThalnosLeader;DrainLife;19",
         "CheatDeath;Vampirism;18",
         "Ghoul;BoneArmor;21",
         "Execute;Bloodthirsty;21",
-        "Quilboar;TunnelVision;24",
+        "AngryChickens;FuriousFowl;18",
         "HolyNova;Renew;21",
         "WhelpEggs;FlameBurst;24"
       ],
@@ -85,11 +85,11 @@
       ],
       [
         "HoggerLeader;HamHock;21",
-        "Ghoul;BoneArmor;21",
+        "MurlocTidehunters;SafetyBubble;21",
         "Quilboar;BrambleBurst;24",
-        "Execute;KillingSpree;20",
+        "Execute;Bloodthirsty;21",
         "Harpy;InfectiousSwipes;24",
-        "S.A.F.E.PilotFlyingMachine;CominInHot;23",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;24",
         "WhelpEggs;FlameBurst;24"
       ],
       [
@@ -165,7 +165,7 @@
         "Quilboar;TunnelVision;24"
       ]
     ],
-    "lastUpdate": 1719063092
+    "lastUpdate": 1719250122
   },
-  "token": "ae16799f-0f83-422e-8fc2-aa67c60197fa"
+  "token": "98b9dd02-38db-4010-bb5d-e13faa6b4ca6"
 }

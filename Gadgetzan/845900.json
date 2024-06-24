@@ -39,13 +39,13 @@
         "Quilboar;BrambleBurst;21"
       ],
       [
-        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
-        "AngryChickens;FuriousFowl;20",
-        "Quilboar;BrambleBurst;21",
-        "FireElemental;ImmolationAura;18",
-        "EarthElemental;ObsidianShard;18",
-        "DefiasBandits;PickLock;19",
-        "WhelpEggs;FlameBurst;21"
+        "OldMurkEyeLeader;ElectricEels;20",
+        "Prowler;OnTheProwl;23",
+        "Harpy;InfectiousSwipes;21",
+        "Footmen;ShieldBash;20",
+        "WhelpEggs;FlameBurst;21",
+        "AngryChickens;FuriousFowl;21",
+        "LivingBomb;ChainReaction;20"
       ],
       [
         "GrommashLeader;SavageStrikes;18",
@@ -121,12 +121,12 @@
       ],
       [
         "CharlgaLeader;CavernousMists;21",
-        "Prowler;PredatoryInstincts;22",
+        "Prowler;OnTheProwl;23",
         "Quilboar;BrambleBurst;21",
-        "MurlocTidehunters;SafetyBubble;18",
-        "WhelpEggs;FlameBurst;21",
-        "MoltenGiant;BloodOfTheMountain;18",
-        "GryphonRider;MightyThrow;19"
+        "AngryChickens;FuriousFowl;21",
+        "LivingBomb;ChainReaction;20",
+        "Abomination;NoxiousPresence;18",
+        "Shaman;EarthShield;21"
       ],
       [
         "DrakkisathLeader;ChromaticScales;21",
@@ -147,7 +147,7 @@
         "ChainLightning;BrilliantFlash;21"
       ],
       [
-        "SylvanasLeader;BlackArrow;20",
+        "SylvanasLeader;BlackArrow;21",
         "Banshee;WillOfTheNecropolis;20",
         "SkeletonWarrior;Exhume;20",
         "WitchDoctor;SpiritWard;21",
@@ -156,7 +156,7 @@
         "Harpy;InfectiousSwipes;21"
       ]
     ],
-    "lastUpdate": 1719063111
+    "lastUpdate": 1719193976
   },
-  "token": "4115f4bb-d964-43ac-93fb-f9554f0e4bb1"
+  "token": "3105ed0a-85c3-44b7-a0a2-74c31277e1d4"
 }

@@ -85,12 +85,12 @@
       ],
       [
         "HoggerLeader;HamHock;18",
-        "GnollBrute;Rabid;18",
+        "AngryChickens;WalkingCrate;17",
         "Harpy;InfectiousSwipes;20",
+        "DarkIronMiner;GoldMine;19",
         "PlagueFarmer;SplashingPumpkins;20",
-        "Pyromancer;Pyroblast;20",
-        "Execute;Bloodthirsty;18",
-        "WarsongRaider;Saboteur;18"
+        "PolymorphSpell;GoldenFleece;18",
+        "Prowler;OnTheProwl;19"
       ],
       [
         "CairneLeader;Reincarnation;17",
@@ -120,13 +120,13 @@
         "Quilboar;TunnelVision;18"
       ],
       [
-        "CharlgaLeader;NaturesGrasp;17",
-        "Prowler;OnTheProwl;17",
-        "GnollBrute;Rabid;16",
-        "Harpy;InfectiousSwipes;19",
-        "Quilboar;TunnelVision;17",
-        "MurlocTidehunters;;15",
-        "PlagueFarmer;SplashingPumpkins;17"
+        "CharlgaLeader;NaturesGrasp;18",
+        "Prowler;OnTheProwl;19",
+        "PolymorphSpell;GoldenFleece;18",
+        "Harpy;InfectiousSwipes;20",
+        "Quilboar;TunnelVision;18",
+        "MurlocTidehunters;Morelocs;17",
+        "PlagueFarmer;SplashingPumpkins;20"
       ],
       [
         "DrakkisathLeader;ChromaticScales;19",
@@ -156,7 +156,7 @@
         "Quilboar;TunnelVision;18"
       ]
     ],
-    "lastUpdate": 1719063144
+    "lastUpdate": 1719192010
   },
-  "token": "ce0ada76-7a26-4dc6-835f-39dde78c4db6"
+  "token": "8dd6bfff-7bb0-4a81-ba8a-bb7a613be629"
 }

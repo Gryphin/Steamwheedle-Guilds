@@ -8,10 +8,10 @@
     "avatar": "Indicator_Sylvanas_Pose",
     "skulls": 150,
     "level": 48,
-    "pvpWins": 1167,
-    "leaderA": "CairneLeader",
-    "leaderAWins": 91,
-    "leaderAHonor": 3946,
+    "pvpWins": 1181,
+    "leaderA": "RendLeader",
+    "leaderAWins": 82,
+    "leaderAHonor": 4001,
     "leaderB": "GrommashLeader",
     "leaderBWins": 69,
     "leaderBHonor": 3991,
@@ -32,20 +32,20 @@
       [
         "TirionLeader;DivineShield;21",
         "DefiasBandits;PickLock;22",
-        "Blizzard;ColdSnap;22",
-        "Quilboar;BrambleBurst;25",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
-        "Shaman;EarthShield;24",
-        "Chimaera;CorrosiveBreath;21"
+        "Quilboar;BrambleBurst;25",
+        "WhelpEggs;FlameBurst;25",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Harpy;InfectiousSwipes;25"
       ],
       [
-        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
         "Harpy;InfectiousSwipes;25",
         "Quilboar;BrambleBurst;25",
         "HarvestGolem;UnstableCore;21",
-        "Shaman;EarthwallTotem;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
         "DefiasBandits;PickLock;22",
-        "Execute;Bloodthirsty;22"
+        "LivingBomb;BurdenOfFate;19"
       ],
       [
         "GrommashLeader;MirrorImage;23",
@@ -58,11 +58,11 @@
       ],
       [
         "RendLeader;ScaleAndSteel;26",
-        "WhelpEggs;FlameBurst;25",
+        "DeepBreath;;19",
         "DefiasBandits;PickLock;22",
-        "ChainLightning;BrilliantFlash;21",
+        "GryphonRider;MightyThrow;22",
         "Quilboar;BrambleBurst;25",
-        "Harpy;InfectiousSwipes;25",
+        "Gargoyle;WingBuffet;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
       ],
       [
@@ -85,12 +85,12 @@
       ],
       [
         "HoggerLeader;HamHock;19",
-        "Harpy;InfectiousSwipes;24",
+        "Harpy;InfectiousSwipes;25",
         "Quilboar;BrambleBurst;25",
         "DefiasBandits;PickLock;22",
         "Prowler;OnTheProwl;21",
-        "WhelpEggs;FlameBurst;24",
-        "MeatWagon;FiletTrebuchet;24"
+        "WhelpEggs;FlameBurst;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
       ],
       [
         "CairneLeader;Reincarnation;21",
@@ -102,13 +102,13 @@
         "DefiasBandits;PickLock;22"
       ],
       [
-        "BaronRivendareLeader;DeathPact;21",
-        "DefiasBandits;PickLock;22",
-        "MeatWagon;FiletTrebuchet;24",
-        "Quilboar;BrambleBurst;25",
-        "WhelpEggs;FlameBurst;25",
-        "Harpy;InfectiousSwipes;25",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+        "BaronRivendareLeader;ChillOfTheGrave;23",
+        "Gargoyle;WingBuffet;22",
+        "Ghoul;BoneArmor;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+        "GryphonRider;MightyThrow;22",
+        "PolymorphSpell;GoldenFleece;21",
+        "DeepBreath;;19"
       ],
       [
         "SneedLeader;LeadWithGreed;21",
@@ -132,10 +132,10 @@
         "CharlgaLeader;CavernousMists;19",
         "Quilboar;BrambleBurst;25",
         "DefiasBandits;PickLock;22",
-        "GoblinSapper;RocketBoots;21",
+        "Harpy;InfectiousSwipes;25",
         "GryphonRider;MightyThrow;22",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
-        "DarkspearTroll;BigBadVoodoo;21"
+        "WhelpEggs;FlameBurst;25",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
       ],
       [
         "DrakkisathLeader;ChromaticScales;22",
@@ -148,12 +148,12 @@
       ],
       [
         "ThaurissanLeader;Hubris;20",
+        "DeepBreath;;19",
         "WhelpEggs;FlameBurst;25",
-        "DarkIronMiner;DwarvenAmbition;21",
         "DefiasBandits;PickLock;22",
-        "Harpy;InfectiousSwipes;25",
+        "Gargoyle;WingBuffet;22",
         "Quilboar;BrambleBurst;25",
-        "Execute;Bloodthirsty;22"
+        "MurlocTidehunters;SafetyBubble;21"
       ],
       [
         "SylvanasLeader;BlackArrow;21",
@@ -165,7 +165,7 @@
         "SmokeBombSpell;ThroughTheShadows;19"
       ]
     ],
-    "lastUpdate": 1719063089
+    "lastUpdate": 1719250120
   },
-  "token": "48d2083f-ef18-4c8a-8762-00c9347d00fc"
+  "token": "25285b81-166d-4fb7-9fcf-e55deea024b3"
 }

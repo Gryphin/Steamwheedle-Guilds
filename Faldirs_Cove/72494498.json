@@ -90,7 +90,7 @@
         "Quilboar;TunnelVision;18",
         "WitchDoctor;SpiritWard;20",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
-        "Gargoyle;WingBuffet;18"
+        "FaerieDragon;Invisibility;20"
       ],
       [
         "CairneLeader;;14",
@@ -135,7 +135,7 @@
         "WitchDoctor;SpiritWard;20",
         "Quilboar;TunnelVision;18",
         "Harpy;InfectiousSwipes;19",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
       ],
       [
         "ThaurissanLeader;Hubris;19",
@@ -156,7 +156,7 @@
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
       ]
     ],
-    "lastUpdate": 1719063107
+    "lastUpdate": 1719192537
   },
-  "token": "eb11d2de-cf5c-49c8-8181-f474457df9a8"
+  "token": "b37cf4ef-cfe1-42a8-9196-1ed7825e6aff"
 }

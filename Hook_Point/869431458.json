@@ -8,7 +8,7 @@
     "avatar": "Indicator_Jaina_Pose",
     "skulls": 150,
     "level": 46,
-    "pvpWins": 738,
+    "pvpWins": 739,
     "leaderA": "DrakkisathLeader",
     "leaderAWins": 48,
     "leaderAHonor": 3527,
@@ -16,8 +16,8 @@
     "leaderBWins": 180,
     "leaderBHonor": 3514,
     "leaderC": "JainaLeader",
-    "leaderCWins": 110,
-    "leaderCHonor": 3777,
+    "leaderCWins": 111,
+    "leaderCHonor": 3786,
     "socials": null,
     "armies": [
       [
@@ -44,7 +44,7 @@
         "Harpy;InfectiousSwipes;24",
         "Quilboar;Bristleback;24",
         "WitchDoctor;SpiritWard;22",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "WhelpEggs;FlameBurst;25",
         "Execute;Bloodthirsty;24"
       ],
       [
@@ -84,9 +84,9 @@
         "Quilboar;Bristleback;24"
       ],
       [
-        "HoggerLeader;HamHock;24",
+        "HoggerLeader;SpoiledMeat;24",
         "Quilboar;BrambleBurst;24",
-        "Harpy;InfectiousSwipes;24",
+        "Harpy;TrinketCollectors;24",
         "DefiasBandits;DeadlyPoison;22",
         "Execute;Bloodthirsty;24",
         "WhelpEggs;FlameBurst;25",
@@ -165,7 +165,7 @@
         "Quilboar;BrambleBurst;24"
       ]
     ],
-    "lastUpdate": 1719063084
+    "lastUpdate": 1719239150
   },
-  "token": "7441414e-b524-40f4-9022-e4fa1a6dda69"
+  "token": "1487a91b-05ff-489c-950f-2d0e3de08636"
 }

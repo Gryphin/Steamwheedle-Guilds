@@ -21,22 +21,22 @@
     "socials": null,
     "armies": [
       [
-        "JainaLeader;Clearcasting;18",
+        "JainaLeader;Clearcasting;19",
         "GryphonRider;OdynsFury;22",
         "DarkspearTroll;BigBadVoodoo;22",
         "Execute;KillingSpree;18",
-        "Shaman;LightningMastery;21",
-        "Drake;MotherDrake;24",
+        "WitchDoctor;SpiritWard;21",
+        "Drake;EngulfingFlames;25",
         "StonehoofTauren;Momentum;24"
       ],
       [
         "TirionLeader;Consecrate;19",
-        "WhelpEggs;;15",
-        "Drake;EngulfingFlames;24",
-        "EarthElemental;ObsidianShard;17",
-        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
-        "Harpy;TrinketCollectors;19",
-        "Banshee;;14"
+        "GryphonRider;OdynsFury;22",
+        "StonehoofTauren;Momentum;24",
+        "EarthElemental;ObsidianShard;18",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;21",
+        "DarkspearTroll;BigBadVoodoo;22"
       ],
       [
         "OldMurkEyeLeader;TipOfTheSpear;18",
@@ -58,12 +58,12 @@
       ],
       [
         "RendLeader;ScaleAndSteel;21",
-        "DarkspearTroll;BigBadVoodoo;22",
+        "Flamewaker;HeatStroke;22",
         "Drake;EngulfingFlames;24",
         "Harpy;InfectiousSwipes;21",
-        "Flamewaker;HeatStroke;22",
+        "WitchDoctor;SpiritWard;21",
         "StonehoofTauren;Pummel;24",
-        "Banshee;;15"
+        "DarkspearTroll;BigBadVoodoo;22"
       ],
       [
         "BloodmageThalnosLeader;DrainLife;18",
@@ -121,12 +121,12 @@
       ],
       [
         "CharlgaLeader;CavernousMists;18",
-        "Blizzard;BrittleIce;18",
-        "WhelpEggs;;15",
-        "Banshee;;14",
-        "Harpy;TrinketCollectors;19",
-        "S.A.F.E.PilotFlyingMachine;Muttonizer;17",
-        "EarthElemental;ObsidianShard;17"
+        "Harpy;TrinketCollectors;21",
+        "WitchDoctor;SpiritWard;21",
+        "WarsongRaider;SunderArmor;22",
+        "Drake;EngulfingFlames;25",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "StonehoofTauren;Pummel;24"
       ],
       [
         "DrakkisathLeader;PiercingBlows;21",
@@ -156,7 +156,7 @@
         "WitchDoctor;SpiritWard;21"
       ]
     ],
-    "lastUpdate": 1719063080
+    "lastUpdate": 1719191028
   },
-  "token": "0646ad8c-d037-440d-859b-45856f739768"
+  "token": "2b0737f3-b395-475c-ade8-4688ab11e001"
 }

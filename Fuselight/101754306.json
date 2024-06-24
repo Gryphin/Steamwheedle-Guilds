@@ -95,19 +95,19 @@
       [
         "CairneLeader;Reincarnation;23",
         "DarkspearTroll;BigBadVoodoo;21",
-        "Shaman;EarthShield;22",
+        "Shaman;EarthShield;23",
         "S.A.F.E.PilotFlyingMachine;Muttonizer;21",
         "Harpy;InfectiousSwipes;21",
         "Quilboar;TunnelVision;21",
         "Blizzard;ColdSnap;21"
       ],
       [
-        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "BaronRivendareLeader;ChillOfTheGrave;21",
         "Banshee;SoulEruption;18",
         "Gargoyle;WingBuffet;21",
-        "WhelpEggs;FlameBurst;21",
+        "Huntress;ElvenMight;20",
         "Harpy;InfectiousSwipes;21",
-        "Blizzard;ColdSnap;21",
+        "Pyromancer;Conflagrate;20",
         "Quilboar;TunnelVision;21"
       ],
       [
@@ -147,7 +147,7 @@
         "Footmen;ShieldBash;15"
       ]
     ],
-    "lastUpdate": 1719063157
+    "lastUpdate": 1719193074
   },
-  "token": "a126d82d-ef2b-415e-b4dd-141e54110d32"
+  "token": "9bebafd0-1f01-40da-b7a1-45d5a77c0357"
 }

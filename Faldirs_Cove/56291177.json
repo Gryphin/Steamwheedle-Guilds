@@ -85,9 +85,9 @@
       ],
       [
         "HoggerLeader;HamHock;21",
-        "Prowler;PredatoryInstincts;18",
+        "GnollBrute;Rabid;20",
         "Quilboar;TunnelVision;21",
-        "GryphonRider;MightyThrow;21",
+        "GryphonRider;AirDrop;21",
         "Huntress;ElvenMight;21",
         "Blizzard;ColdSnap;18",
         "WhelpEggs;FlameBurst;19"
@@ -120,13 +120,13 @@
         "GryphonRider;MightyThrow;19"
       ],
       [
-        "CharlgaLeader;NaturesGrasp;18",
-        "Quilboar;BrambleBurst;21",
-        "MurlocTidehunters;CarefulAim;18",
-        "Huntress;DarnassianSteel;21",
-        "Harpy;InfectiousSwipes;19",
-        "GnollBrute;Rabid;19",
-        "Chimaera;FrostShock;20"
+        "CharlgaLeader;NaturesGrasp;19",
+        "Quilboar;TunnelVision;21",
+        "MurlocTidehunters;SafetyBubble;20",
+        "Huntress;ElvenMight;21",
+        "Blizzard;ColdSnap;18",
+        "FireElemental;MoltenCore;18",
+        "Harpy;InfectiousSwipes;19"
       ],
       [
         "DrakkisathLeader;ChromaticScales;18",
@@ -156,7 +156,7 @@
         "Quilboar;TunnelVision;21"
       ]
     ],
-    "lastUpdate": 1719063107
+    "lastUpdate": 1719192359
   },
-  "token": "b22f6a72-461a-4e42-9f26-0d772d2130b0"
+  "token": "aeddb83e-499d-4dbb-a68f-565138973869"
 }

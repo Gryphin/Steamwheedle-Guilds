@@ -8,7 +8,7 @@
     "avatar": "Indicator_Grommash_Pose",
     "skulls": 150,
     "level": 51,
-    "pvpWins": 8260,
+    "pvpWins": 8363,
     "leaderA": "BaronRivendareLeader",
     "leaderAWins": 744,
     "leaderAHonor": 6636,
@@ -32,20 +32,20 @@
       [
         "TirionLeader;ByTheLight;25",
         "GryphonRider;MightyThrow;26",
-        "DefiasBandits;PickLock;25",
+        "ArcaneBlast;ArcanePower;27",
         "FireElemental;ImmolationAura;26",
-        "Gargoyle;WingBuffet;26",
+        "Gargoyle;WingBuffet;27",
         "MurlocTidehunters;SafetyBubble;26",
         "PolymorphSpell;GoldenFleece;25"
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;25",
-        "Quilboar;BrambleBurst;26",
-        "PolymorphSpell;GoldenFleece;25",
+        "StonehoofTauren;Momentum;25",
+        "Prowler;OnTheProwl;25",
+        "Abomination;NoxiousPresence;25",
         "CoreHounds;EternalBond;25",
-        "DeepBreath;MeltingPoint;27",
-        "MurlocTidehunters;SafetyBubble;25",
-        "DefiasBandits;PickLock;25"
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+        "WitchDoctor;SpiritWard;26"
       ],
       [
         "GrommashLeader;MirrorImage;26",
@@ -54,7 +54,7 @@
         "Prowler;OnTheProwl;25",
         "MurlocTidehunters;SafetyBubble;26",
         "ArcaneBlast;ArcanePower;27",
-        "Vultures;TendonRip;25"
+        "Quilboar;BrambleBurst;26"
       ],
       [
         "RendLeader;ScaleAndSteel;26",
@@ -67,10 +67,10 @@
       ],
       [
         "BloodmageThalnosLeader;Bane;27",
-        "SmokeBombSpell;ThroughTheShadows;25",
+        "DefiasBandits;PickLock;25",
         "CheatDeath;Vampirism;25",
         "ArcaneBlast;Amplification;27",
-        "DefiasBandits;PickLock;25",
+        "SmokeBombSpell;ThroughTheShadows;25",
         "PolymorphSpell;GoldenFleece;25",
         "HolyNova;AmplifyMagic;25"
       ],
@@ -121,12 +121,12 @@
       ],
       [
         "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;25",
-        "dd2745483ee0845cb88f7827619c7cca;39360e02fc393424397520805f2b224a;25",
-        "37ffb76b1af1c49eca1b33dd5d36698d;76ee2464ddd137348869d0eb0c17a7eb;25",
-        "f6379dec39f4447b483eb7b6a672597e;a7562a08ec021cb4eb8367c83a3b885a;25",
-        "4662e633273a0d149b61d23732a5ed53;7102bce3c17cea249b4a93c2865dcc36;25",
-        "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;25",
-        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;26"
+        "9085cfafc6ced4d97b590458dc179c62;d32cf11d8579e5a429e3c12f2d37b2fb;25",
+        "5709c8989210cdd41943f35f5ffd8b6b;bbaa119635e291d43996f67e97c6273a;25",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;27",
+        "003e94d581e55c64b9a32c62de5646bc;244a95dc00038a442a20a337b39f3d5a;27",
+        "7b8e2425177bf46efb482030fc693d76;068d55e468df929479a63ccbec9a72cc;26",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;25"
       ],
       [
         "CharlgaLeader;NaturesGrasp;25",
@@ -142,8 +142,8 @@
         "DeepBreath;MeltingPoint;27",
         "DarkIronMiner;GoldMine;25",
         "WitchDoctor;SpiritWard;26",
-        "PolymorphSpell;GoldenFleece;25",
         "HolyNova;AmplifyMagic;25",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
         "Prowler;OnTheProwl;25"
       ],
       [
@@ -165,7 +165,7 @@
         "ArcaneBlast;ArcanePower;27"
       ]
     ],
-    "lastUpdate": 1719062207
+    "lastUpdate": 1719160437
   },
-  "token": "82c6ceca-ac11-4f59-b29c-0603a1442a62"
+  "token": "23e84293-7212-4ae2-90d9-63c5c0a01e82"
 }

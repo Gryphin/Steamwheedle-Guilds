@@ -40,12 +40,12 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
-        "Prowler;OnTheProwl;21",
         "Harpy;InfectiousSwipes;22",
+        "Prowler;PackLeader;21",
         "Quilboar;BrambleBurst;24",
         "WitchDoctor;SpiritWard;22",
         "WhelpEggs;FlameBurst;24",
-        "Execute;Bloodthirsty;22"
+        "CheatDeath;Vampirism;21"
       ],
       [
         "GrommashLeader;MirrorImage;21",
@@ -122,11 +122,11 @@
       [
         "CharlgaLeader;CavernousMists;21",
         "Quilboar;BrambleBurst;24",
-        "PolymorphSpell;GoldenFleece;18",
-        "HarvestGolem;TrojanChickens;18",
+        "Prowler;OnTheProwl;21",
+        "Huntress;Shadowmeld;22",
         "WitchDoctor;SpiritWard;22",
-        "GryphonRider;MightyThrow;21",
-        "Blizzard;ColdSnap;20"
+        "WhelpEggs;FlameBurst;24",
+        "Execute;Bloodthirsty;22"
       ],
       [
         "DrakkisathLeader;ChromaticScales;22",
@@ -156,7 +156,7 @@
         "Quilboar;BrambleBurst;24"
       ]
     ],
-    "lastUpdate": 1719063155
+    "lastUpdate": 1719192941
   },
-  "token": "0e4d559d-a52d-4092-9e00-778a887b620e"
+  "token": "8b84aa9e-3f9a-48fe-a74e-6c75c7b1080f"
 }

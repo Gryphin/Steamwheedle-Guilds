@@ -8,13 +8,13 @@
     "avatar": "Indicator_BloodmageThalnos_Pose",
     "skulls": 150,
     "level": 51,
-    "pvpWins": 62,
+    "pvpWins": 68,
     "leaderA": "CharlgaLeader",
     "leaderAWins": 22,
     "leaderAHonor": 2904,
     "leaderB": "ThaurissanLeader",
-    "leaderBWins": 12,
-    "leaderBHonor": 1080,
+    "leaderBWins": 18,
+    "leaderBHonor": 2073,
     "leaderC": "HoggerLeader",
     "leaderCWins": 12,
     "leaderCHonor": 2121,
@@ -139,10 +139,10 @@
       ],
       [
         "ThaurissanLeader;Hubris;26",
-        "MoltenGiant;Bolster;22",
-        "DeepBreath;Attunement;21",
+        "SmokeBombSpell;ThroughTheShadows;25",
+        "DarkIronMiner;GoldMine;25",
         "HarvestGolem;UnstableCore;25",
-        "Quilboar;Bristleback;27",
+        "Blizzard;ColdSnap;27",
         "DarkspearTroll;BigBadVoodoo;25",
         "Harpy;InfectiousSwipes;27"
       ],
@@ -156,7 +156,7 @@
         "Harpy;InfectiousSwipes;27"
       ]
     ],
-    "lastUpdate": 1719063156
+    "lastUpdate": 1719192849
   },
-  "token": "7251d883-755d-48f4-ab94-76195c281aca"
+  "token": "b555ce4a-0eb5-4195-b982-f490e8dfcb34"
 }

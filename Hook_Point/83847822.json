@@ -7,8 +7,8 @@
     "guildName": null,
     "avatar": "Indicator_Sneed_Pose",
     "skulls": 150,
-    "level": 40,
-    "pvpWins": 1000,
+    "level": 41,
+    "pvpWins": 1001,
     "leaderA": "CharlgaLeader",
     "leaderAWins": 207,
     "leaderAHonor": 3783,
@@ -16,8 +16,8 @@
     "leaderBWins": 118,
     "leaderBHonor": 4129,
     "leaderC": "DrakkisathLeader",
-    "leaderCWins": 80,
-    "leaderCHonor": 3950,
+    "leaderCWins": 81,
+    "leaderCHonor": 4002,
     "socials": null,
     "armies": [
       [
@@ -40,12 +40,12 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
-        "PolymorphSpell;GoldenFleece;19",
+        "Quilboar;BrambleBurst;22",
         "Harpy;InfectiousSwipes;22",
         "Ghoul;BoneArmor;21",
         "WhelpEggs;FlameBurst;22",
         "WitchDoctor;SpiritWard;22",
-        "Quilboar;BrambleBurst;22"
+        "DefiasBandits;PickLock;21"
       ],
       [
         "GrommashLeader;MirrorImage;21",
@@ -84,13 +84,13 @@
         "WitchDoctor;SpiritWard;22"
       ],
       [
-        "HoggerLeader;HamHock;21",
+        "HoggerLeader;SpoiledMeat;21",
         "Harpy;InfectiousSwipes;22",
-        "MurlocTidehunters;SafetyBubble;19",
-        "Quilboar;Bristleback;22",
+        "Quilboar;BrambleBurst;22",
         "WitchDoctor;SpiritWard;22",
         "S.A.F.E.PilotFlyingMachine;CominInHot;22",
-        "Shaman;EarthShield;18"
+        "WhelpEggs;FlameBurst;22",
+        "DefiasBandits;PickLock;21"
       ],
       [
         "CairneLeader;Reincarnation;18",
@@ -121,9 +121,9 @@
       ],
       [
         "CharlgaLeader;CavernousMists;21",
-        "PolymorphSpell;GoldenFleece;19",
+        "AngryChickens;FuriousFowl;18",
         "Quilboar;BrambleBurst;22",
-        "MurlocTidehunters;SafetyBubble;19",
+        "WhelpEggs;FlameBurst;22",
         "WitchDoctor;SpiritWard;22",
         "S.A.F.E.PilotFlyingMachine;CominInHot;22",
         "Ghoul;BoneArmor;21"
@@ -156,7 +156,7 @@
         "DefiasBandits;PickLock;21"
       ]
     ],
-    "lastUpdate": 1719063082
+    "lastUpdate": 1719239151
   },
-  "token": "86b8d0f1-bd80-4895-aa4b-c47a65b2c28c"
+  "token": "80be5735-6e7e-4be0-a3f7-c3bd28e68b6b"
 }

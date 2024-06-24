@@ -8,10 +8,10 @@
     "avatar": "Indicator_DarkmoonFaire_Eyes",
     "skulls": 137,
     "level": 50,
-    "pvpWins": 409,
+    "pvpWins": 412,
     "leaderA": "CharlgaLeader",
     "leaderAWins": 33,
-    "leaderAHonor": 3674,
+    "leaderAHonor": 3632,
     "leaderB": "HoggerLeader",
     "leaderBWins": 58,
     "leaderBHonor": 3697,
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;24"
       ]
     ],
-    "lastUpdate": 1719062203
+    "lastUpdate": 1719242921
   },
-  "token": "90794030-2e7d-49c8-a3e4-5c1a35b959a4"
+  "token": "bf7477b1-c160-454c-9d65-312f2d2408d3"
 }

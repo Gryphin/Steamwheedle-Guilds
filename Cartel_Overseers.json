@@ -6,13 +6,22 @@
     "description": "Hardcore Competitive guild in search of the top! Please have onyxia defeated!",
     "members": [
       {
+        "id": 1810238,
+        "name": "Keychain",
+        "btag": "Keychain",
+        "skulls": 150,
+        "honor": 12372,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1717414112
+      },
+      {
         "id": 51720472,
         "name": "isd",
         "btag": "isd",
         "skulls": 150,
-        "honor": 11350,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1717406912
+        "honor": 12638,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719250117
       },
       {
         "id": 52623266,
@@ -28,9 +37,9 @@
         "name": "Phoenix",
         "btag": "Phoenix",
         "skulls": 150,
-        "honor": 11685,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1717406912
+        "honor": 16009,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719250118
       },
       {
         "id": 50786437,
@@ -46,18 +55,18 @@
         "name": "Chirality",
         "btag": "Chirality",
         "skulls": 150,
-        "honor": 14321,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1717406912
+        "honor": 20017,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719250118
       },
       {
         "id": 51452049,
         "name": "Budget78",
         "btag": "Budget78",
         "skulls": 150,
-        "honor": 12338,
+        "honor": 12264,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719062206
+        "lastUpdate": 1719135011
       },
       {
         "id": 819772791,
@@ -82,18 +91,18 @@
         "name": "Ramz420flaya",
         "btag": "Ramz420flaya",
         "skulls": 150,
-        "honor": 13982,
+        "honor": 14065,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062206
+        "lastUpdate": 1719250118
       },
       {
         "id": 872607105,
         "name": "Drphil",
         "btag": "Drphil",
         "skulls": 150,
-        "honor": 15163,
+        "honor": 15179,
         "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719062206
+        "lastUpdate": 1719250118
       },
       {
         "id": 384508012,
@@ -114,22 +123,13 @@
         "lastUpdate": 1717960583
       },
       {
-        "id": 52624334,
-        "name": "Thirtyshotz",
-        "btag": "Thirtyshotz",
-        "skulls": 150,
-        "honor": 10501,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1717988571
-      },
-      {
         "id": 871894106,
         "name": "Snorkle",
         "btag": "Snorkle",
         "skulls": 150,
         "honor": 10092,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062207
+        "lastUpdate": 1719250118
       },
       {
         "id": 52309676,
@@ -147,7 +147,7 @@
         "skulls": 150,
         "honor": 20021,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719062207
+        "lastUpdate": 1719160437
       },
       {
         "id": 101771772,
@@ -156,16 +156,16 @@
         "skulls": 150,
         "honor": 12190,
         "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719062208
+        "lastUpdate": 1719250118
       },
       {
         "id": 408568179,
         "name": "Naladra",
         "btag": "Naladra",
         "skulls": 150,
-        "honor": 20274,
+        "honor": 20893,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719062208
+        "lastUpdate": 1719255593
       },
       {
         "id": 463196319,
@@ -174,11 +174,20 @@
         "skulls": 150,
         "honor": 14316,
         "avatar": "Indicator_Hogger_Pose",
-        "lastUpdate": 1719062208
+        "lastUpdate": 1719250118
+      },
+      {
+        "id": 52624334,
+        "name": "Thirtyshotz",
+        "btag": "Thirtyshotz",
+        "skulls": 150,
+        "honor": 11240,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719250118
       }
     ],
-    "lastUpdate": 1719063001
+    "lastUpdate": 1719254937
   },
-  "token": "16f97148-8b7f-4060-a136-3e77ca8c718c",
-  "link": "https://localhost:7080/guild/203585612?token=16f97148-8b7f-4060-a136-3e77ca8c718c"
+  "token": "7974eed4-1b8a-4a7a-9588-d0751c31baa6",
+  "link": "https://localhost:7080/guild/203585612?token=7974eed4-1b8a-4a7a-9588-d0751c31baa6"
 }

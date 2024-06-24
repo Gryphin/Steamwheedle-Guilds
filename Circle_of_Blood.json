@@ -12,7 +12,7 @@
         "skulls": 139,
         "honor": 9346,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062198
+        "lastUpdate": 1719063316
       },
       {
         "id": 401191412,
@@ -30,7 +30,7 @@
         "skulls": 127,
         "honor": 10670,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719062198
+        "lastUpdate": 1719063316
       },
       {
         "id": 881912013,
@@ -39,7 +39,7 @@
         "skulls": 142,
         "honor": 9464,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719062198
+        "lastUpdate": 1719063316
       },
       {
         "id": 1416735612,
@@ -57,7 +57,7 @@
         "skulls": 144,
         "honor": 7211,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062199
+        "lastUpdate": 1719063317
       },
       {
         "id": 1158876800,
@@ -66,7 +66,7 @@
         "skulls": 150,
         "honor": 11367,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062199
+        "lastUpdate": 1719063317
       },
       {
         "id": 439640939,
@@ -84,7 +84,7 @@
         "skulls": 134,
         "honor": 6656,
         "avatar": "Indicator_Maiev_Pose",
-        "lastUpdate": 1719062199
+        "lastUpdate": 1719063317
       },
       {
         "id": 51995396,
@@ -93,7 +93,7 @@
         "skulls": 141,
         "honor": 3930,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062199
+        "lastUpdate": 1719063317
       },
       {
         "id": 121188850,
@@ -103,15 +103,6 @@
         "honor": 10573,
         "avatar": "Indicator_KoboldMech_Pose",
         "lastUpdate": 1717293823
-      },
-      {
-        "id": 77112124,
-        "name": "Masquerade",
-        "btag": "Masquerade",
-        "skulls": 141,
-        "honor": 9288,
-        "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062200
       },
       {
         "id": 100523246,
@@ -129,7 +120,7 @@
         "skulls": 150,
         "honor": 10711,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062200
+        "lastUpdate": 1719063318
       },
       {
         "id": 128162836,
@@ -138,16 +129,7 @@
         "skulls": 142,
         "honor": 10454,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062200
-      },
-      {
-        "id": 50474165,
-        "name": "Karoo",
-        "btag": "Karoo",
-        "skulls": 139,
-        "honor": 9303,
-        "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719062201
+        "lastUpdate": 1719063318
       },
       {
         "id": 82045218,
@@ -156,7 +138,7 @@
         "skulls": 150,
         "honor": 10718,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062201
+        "lastUpdate": 1719063319
       },
       {
         "id": 50462551,
@@ -165,16 +147,7 @@
         "skulls": 142,
         "honor": 10460,
         "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719062197
-      },
-      {
-        "id": 634297,
-        "name": "Madmattyd",
-        "btag": "Madmattyd",
-        "skulls": 137,
-        "honor": 3594,
-        "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062198
+        "lastUpdate": 1719063319
       },
       {
         "id": 61381241,
@@ -183,11 +156,38 @@
         "skulls": 150,
         "honor": 5781,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062200
+        "lastUpdate": 1719063319
+      },
+      {
+        "id": 50474165,
+        "name": "Karoo",
+        "btag": "Karoo",
+        "skulls": 139,
+        "honor": 9303,
+        "avatar": "Indicator_OldMurkEye_Pose",
+        "lastUpdate": 1719063318
+      },
+      {
+        "id": 77112124,
+        "name": "Masquerade",
+        "btag": "Masquerade",
+        "skulls": 141,
+        "honor": 9288,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719063318
+      },
+      {
+        "id": 634297,
+        "name": "Madmattyd",
+        "btag": "Madmattyd",
+        "skulls": 137,
+        "honor": 3594,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719063319
       }
     ],
-    "lastUpdate": 1719063177
+    "lastUpdate": 1719063315
   },
-  "token": "51830fb8-1d3f-4bbd-a3e7-573e0331a818",
-  "link": "https://localhost:7080/guild/200875392?token=51830fb8-1d3f-4bbd-a3e7-573e0331a818"
+  "token": "adc857d5-f929-4c22-9202-0a9c6d765b78",
+  "link": "https://localhost:7080/guild/200875392?token=adc857d5-f929-4c22-9202-0a9c6d765b78"
 }

@@ -23,11 +23,11 @@
       [
         "JainaLeader;Clearcasting;21",
         "Blizzard;ColdSnap;20",
-        "HolyNova;Renew;20",
-        "Execute;Bloodthirsty;19",
+        "DefiasBandits;PickLock;22",
+        "Execute;Bloodthirsty;21",
         "Harpy;InfectiousSwipes;24",
         "WhelpEggs;FlameBurst;21",
-        "Banshee;SoulEruption;18"
+        "Quilboar;BrambleBurst;22"
       ],
       [
         "TirionLeader;ByTheLight;23",
@@ -39,13 +39,13 @@
         "Harpy;InfectiousSwipes;24"
       ],
       [
-        "OldMurkEyeLeader;ElectricEels;18",
-        "Prowler;OnTheProwl;18",
-        "MurlocTidehunters;CarefulAim;21",
-        "Quilboar;TunnelVision;21",
+        "OldMurkEyeLeader;ElectricEels;20",
+        "Prowler;OnTheProwl;21",
+        "MurlocTidehunters;CarefulAim;22",
+        "Quilboar;TunnelVision;22",
         "DarkIronMiner;GoldMine;18",
-        "Harpy;InfectiousSwipes;22",
-        "S.A.F.E.PilotFlyingMachine;CominInHot;21"
+        "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;FlameBurst;21"
       ],
       [
         "GrommashLeader;SavageStrikes;21",
@@ -61,7 +61,7 @@
         "Drake;MotherDrake;21",
         "WhelpEggs;FlameBurst;21",
         "Execute;Bloodthirsty;21",
-        "Banshee;WillOfTheNecropolis;20",
+        "Harpy;InfectiousSwipes;24",
         "S.A.F.E.PilotFlyingMachine;CominInHot;21",
         "Quilboar;BrambleBurst;22"
       ],
@@ -156,7 +156,7 @@
         "S.A.F.E.PilotFlyingMachine;CominInHot;21"
       ]
     ],
-    "lastUpdate": 1719063107
+    "lastUpdate": 1719192431
   },
-  "token": "a6184524-f67d-4f50-b18d-0011f8f19f4c"
+  "token": "7107fc08-866a-48c1-81a3-06c5343caac3"
 }

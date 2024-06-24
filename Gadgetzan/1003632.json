@@ -8,16 +8,16 @@
     "avatar": "Indicator_Jaina_Pose",
     "skulls": 150,
     "level": 51,
-    "pvpWins": 296,
+    "pvpWins": 304,
     "leaderA": "HoggerLeader",
-    "leaderAWins": 92,
-    "leaderAHonor": 4226,
+    "leaderAWins": 93,
+    "leaderAHonor": 4358,
     "leaderB": "ThaurissanLeader",
-    "leaderBWins": 29,
-    "leaderBHonor": 4173,
+    "leaderBWins": 33,
+    "leaderBHonor": 4453,
     "leaderC": "CairneLeader",
-    "leaderCWins": 57,
-    "leaderCHonor": 4205,
+    "leaderCWins": 58,
+    "leaderCHonor": 4319,
     "socials": null,
     "armies": [
       [
@@ -43,7 +43,7 @@
         "Quilboar;BrambleBurst;26",
         "Prowler;OnTheProwl;25",
         "Abomination;NoxiousPresence;25",
-        "Execute;Bloodthirsty;25",
+        "Execute;Bloodthirsty;26",
         "WhelpEggs;FlameBurst;26",
         "FireElemental;ImmolationAura;25"
       ],
@@ -150,22 +150,22 @@
         "ThaurissanLeader;Hubris;25",
         "Firehammer;HeightenedRage;25",
         "Pyromancer;Pyroblast;25",
-        "Prowler;OnTheProwl;25",
-        "Execute;Bloodthirsty;26",
+        "DefiasBandits;PickLock;25",
         "WitchDoctor;SpiritWard;26",
-        "HarvestGolem;TrojanChickens;25"
+        "Shaman;EarthwallTotem;26",
+        "HarvestGolem;UnstableCore;25"
       ],
       [
-        "SylvanasLeader;BlackArrow;25",
+        "SylvanasLeader;ForsakenFury;25",
+        "Abomination;NoxiousPresence;25",
         "PlagueFarmer;SplashingPumpkins;25",
-        "SkeletonWarrior;Exhume;24",
-        "Execute;Bloodthirsty;26",
-        "Quilboar;BrambleBurst;26",
-        "WitchDoctor;SpiritWard;25",
-        "Harpy;InfectiousSwipes;25"
+        "DarkspearTroll;BigBadVoodoo;26",
+        "Ghoul;BoneArmor;25",
+        "WitchDoctor;SpiritWard;26",
+        "Execute;Bloodthirsty;26"
       ]
     ],
-    "lastUpdate": 1719063111
+    "lastUpdate": 1719193628
   },
-  "token": "39cecb88-8d3e-4bf3-aaa5-58a64466a0ff"
+  "token": "0e1d737e-9b18-462c-857a-33ccf8a4b263"
 }

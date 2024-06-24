@@ -6,7 +6,7 @@
     "guildId": null,
     "guildName": null,
     "avatar": "Indicator_KoboldMech_Pose",
-    "skulls": 126,
+    "skulls": 129,
     "level": 42,
     "pvpWins": 423,
     "leaderA": "TirionLeader",
@@ -27,7 +27,7 @@
         "Execute;Bloodthirsty;19",
         "Gargoyle;WingBuffet;21",
         "Blizzard;ColdSnap;21",
-        "FaerieDragon;FaeBlessing;19"
+        "FaerieDragon;FaeBlessing;20"
       ],
       [
         "TirionLeader;DivineShield;21",
@@ -68,7 +68,7 @@
       [
         "BloodmageThalnosLeader;Bane;20",
         "Necromancer;JeweledSkulls;21",
-        "Ghoul;BoneArmor;20",
+        "Ghoul;BoneArmor;21",
         "Blizzard;ColdSnap;21",
         "ArcaneBlast;Amplification;18",
         "HolyNova;InnerFire;18",
@@ -84,12 +84,12 @@
         "WhelpEggs;FlameBurst;21"
       ],
       [
-        "HoggerLeader;HamHock;18",
+        "HoggerLeader;HamHock;19",
         "Harpy;InfectiousSwipes;21",
         "Quilboar;TunnelVision;21",
         "MurlocTidehunters;SafetyBubble;18",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
-        "Execute;Bloodthirsty;18",
+        "Blizzard;ColdSnap;21",
         "DefiasBandits;PickLock;21"
       ],
       [
@@ -156,7 +156,7 @@
         "FireElemental;ImmolationAura;20"
       ]
     ],
-    "lastUpdate": 1719063144
+    "lastUpdate": 1719191827
   },
-  "token": "8d847ddd-b3a8-490c-9841-0ebd393f8fee"
+  "token": "3a1ba629-c8af-443e-a6a7-71312e0358a0"
 }

@@ -58,9 +58,9 @@
       ],
       [
         "RendLeader;ScaleAndSteel;20",
-        "EarthElemental;ObsidianShard;18",
-        "Drake;MotherDrake;20",
-        "GryphonRider;MightyThrow;20",
+        "LivingBomb;ChainReaction;18",
+        "Drake;MotherDrake;21",
+        "Harpy;InfectiousSwipes;20",
         "WhelpEggs;FlameBurst;21",
         "Pyromancer;Conflagrate;21",
         "FireElemental;ImmolationAura;18"
@@ -84,7 +84,7 @@
         "Quilboar;Bristleback;21"
       ],
       [
-        "HoggerLeader;HamHock;18",
+        "HoggerLeader;HamHock;19",
         "Quilboar;TunnelVision;21",
         "Prowler;OnTheProwl;18",
         "WitchDoctor;SpiritWard;21",
@@ -156,7 +156,7 @@
         "Quilboar;Bristleback;21"
       ]
     ],
-    "lastUpdate": 1719063110
+    "lastUpdate": 1719193505
   },
-  "token": "4cf52c32-49c0-47e7-8b91-20605ee40092"
+  "token": "8278c581-fb3c-43b8-a196-952f21b74b89"
 }

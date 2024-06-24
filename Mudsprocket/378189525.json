@@ -30,13 +30,13 @@
         "Pyromancer;Pyroblast;23"
       ],
       [
-        "TirionLeader;DivineShield;23",
+        "TirionLeader;DivineShield;24",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
-        "Blizzard;ColdSnap;21",
-        "DarkspearTroll;BigBadVoodoo;24",
+        "Blizzard;ColdSnap;22",
+        "Quilboar;TunnelVision;21",
         "Harpy;InfectiousSwipes;22",
         "GryphonRider;MightyThrow;22",
-        "Huntress;ElvenMight;21"
+        "DarkspearTroll;BigBadVoodoo;24"
       ],
       [
         "OldMurkEyeLeader;;12",
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;23"
       ]
     ],
-    "lastUpdate": 1719063099
+    "lastUpdate": 1719194144
   },
-  "token": "adf9b140-49f1-4628-8340-1aea164e34b6"
+  "token": "8032715a-0776-456a-982c-203b6140e8da"
 }

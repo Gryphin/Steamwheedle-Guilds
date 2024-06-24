@@ -120,13 +120,13 @@
         "Execute;Bloodthirsty;18"
       ],
       [
-        "CharlgaLeader;;16",
-        "Harpy;InfectiousSwipes;20",
-        "DarkspearTroll;BigBadVoodoo;20",
-        "GryphonRider;OdynsFury;18",
-        "Prowler;OnTheProwl;20",
-        "BatRider;EnchantedVials;19",
-        "Huntress;Shadowmeld;20"
+        "CharlgaLeader;NaturesGrasp;18",
+        "Harpy;InfectiousSwipes;21",
+        "Prowler;OnTheProwl;21",
+        "Huntress;Shadowmeld;21",
+        "OgreMage;FrostfireBolt;21",
+        "Chimaera;CorrosiveBreath;21",
+        "GryphonRider;OdynsFury;21"
       ],
       [
         "DrakkisathLeader;ChromaticScales;24",
@@ -156,7 +156,7 @@
         "Harpy;InfectiousSwipes;21"
       ]
     ],
-    "lastUpdate": 1719063146
+    "lastUpdate": 1719191765
   },
-  "token": "d7bfcef6-697e-426e-925c-da3a56335840"
+  "token": "d261c47a-0b47-4a09-925a-7f9095c3ec3c"
 }

@@ -31,11 +31,11 @@
       ],
       [
         "TirionLeader;DivineShield;23",
-        "GryphonRider;MightyThrow;21",
+        "HolyNova;InnerFire;23",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
         "GnollBrute;Rabid;21",
         "WhelpEggs;FlameBurst;23",
-        "Harpy;InfectiousSwipes;23",
+        "Pyromancer;Pyroblast;24",
         "Quilboar;TunnelVision;24"
       ],
       [
@@ -103,12 +103,12 @@
       ],
       [
         "BaronRivendareLeader;ChillOfTheGrave;23",
-        "Banshee;WillOfTheNecropolis;21",
+        "Ghoul;Ravenous;21",
         "Gargoyle;WingBuffet;23",
-        "Blizzard;ColdSnap;21",
-        "Necromancer;JeweledSkulls;23",
-        "Quilboar;TunnelVision;24",
-        "WhelpEggs;FlameBurst;23"
+        "Execute;Bloodthirsty;21",
+        "Harpy;InfectiousSwipes;23",
+        "WhelpEggs;FlameBurst;23",
+        "Chimaera;Leviathan;20"
       ],
       [
         "SneedLeader;LeadWithGreed;21",
@@ -156,7 +156,7 @@
         "GryphonRider;MightyThrow;21"
       ]
     ],
-    "lastUpdate": 1719063082
+    "lastUpdate": 1719239150
   },
-  "token": "b6256a2e-65cf-4622-8c09-eeb1fd9df5f2"
+  "token": "adf20ec3-5e95-428c-8b34-e8d93d04b608"
 }

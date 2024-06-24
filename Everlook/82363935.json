@@ -8,7 +8,7 @@
     "avatar": "Indicator_DarkmoonFaire_Eyes",
     "skulls": 148,
     "level": 49,
-    "pvpWins": 777,
+    "pvpWins": 779,
     "leaderA": "TirionLeader",
     "leaderAWins": 112,
     "leaderAHonor": 3786,
@@ -114,10 +114,10 @@
         "SneedLeader;LeadWithGreed;21",
         "StonehoofTauren;Momentum;22",
         "DarkspearTroll;SerpentSting;23",
-        "GoblinSapper;RocketBoots;20",
+        "GoblinSapper;RocketBoots;21",
         "WitchDoctor;SpiritWard;24",
         "BatRider;EnchantedVials;22",
-        "Blizzard;ColdSnap;21"
+        "CheatDeath;Vampirism;20"
       ],
       [
         "CharlgaLeader;SpiritPassage;23",
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;22"
       ]
     ],
-    "lastUpdate": 1719063147
+    "lastUpdate": 1719191551
   },
-  "token": "375e4bc8-e8eb-442d-8eb2-5de97e693a3c"
+  "token": "afa73a20-b397-4353-9645-9c1bd0f68f51"
 }

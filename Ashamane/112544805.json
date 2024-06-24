@@ -8,7 +8,7 @@
     "avatar": "Indicator_Sylvanas_Pose",
     "skulls": 135,
     "level": 38,
-    "pvpWins": 1838,
+    "pvpWins": 1854,
     "leaderA": "ThaurissanLeader",
     "leaderAWins": 89,
     "leaderAHonor": 4243,
@@ -132,7 +132,7 @@
         "DrakkisathLeader;ChromaticScales;21",
         "FireElemental;ImmolationAura;18",
         "Pyromancer;Conflagrate;19",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+        "Blizzard;Icecrown;19",
         "WhelpEggs;FlameBurst;20",
         "WitchDoctor;Alchemist;20",
         "Prowler;OnTheProwl;20"
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;20"
       ]
     ],
-    "lastUpdate": 1719063081
+    "lastUpdate": 1719191242
   },
-  "token": "768ab938-c588-4bfd-9a76-3786019ab4d3"
+  "token": "d53b7d4d-7b34-47bf-a682-6f2b0cc9bc3a"
 }

@@ -8,7 +8,7 @@
     "avatar": "Indicator_Hogger_Pose",
     "skulls": 150,
     "level": 51,
-    "pvpWins": 2127,
+    "pvpWins": 2131,
     "leaderA": "JainaLeader",
     "leaderAWins": 195,
     "leaderAHonor": 4766,
@@ -54,7 +54,7 @@
         "MurlocTidehunters;SafetyBubble;25",
         "DeepBreath;Attunement;25",
         "Quilboar;BrambleBurst;26",
-        "Gargoyle;WingBuffet;22"
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
       ],
       [
         "RendLeader;ScaleAndSteel;25",
@@ -120,13 +120,13 @@
         "DarkspearTroll;BigBadVoodoo;24"
       ],
       [
-        "c706fbc7111351c429bbc679022a91b1;1217400d396347e40a5ba4a180d3cebf;24",
-        "010159552421635498f7b2a538788b09;8e3b9743f53a80245a48c9a43b7d2f82;25",
-        "4a587c88483e48d42869f766eb08123b;c9a2f90e4742cff47bd8ffa76ca8c19b;25",
-        "94935a651322443599aadc0ae5300e9b;aa7c23fcb65707943962bcd12baafeef;22",
-        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;25",
-        "aefd32eb6d8243047a104a9cf4f3204b;23e33cc75805bb849aaf74e58e90b5bb;25",
-        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;25"
+        "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;24",
+        "9085cfafc6ced4d97b590458dc179c62;d32cf11d8579e5a429e3c12f2d37b2fb;22",
+        "5709c8989210cdd41943f35f5ffd8b6b;bbaa119635e291d43996f67e97c6273a;25",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;22",
+        "003e94d581e55c64b9a32c62de5646bc;244a95dc00038a442a20a337b39f3d5a;25",
+        "2a4aeea519031944e8816479912b7a71;80853f0389d24644c929927badf3fa4f;25",
+        "7b8e2425177bf46efb482030fc693d76;068d55e468df929479a63ccbec9a72cc;25"
       ],
       [
         "CharlgaLeader;CavernousMists;25",
@@ -165,7 +165,7 @@
         "Harpy;InfectiousSwipes;24"
       ]
     ],
-    "lastUpdate": 1719062208
+    "lastUpdate": 1719250118
   },
-  "token": "00d375e5-abc2-4e56-b581-78b3e9106408"
+  "token": "31f9d551-7fc1-414c-8ef1-ec0be6c572cb"
 }

@@ -22,7 +22,7 @@
     "armies": [
       [
         "JainaLeader;Clearcasting;20",
-        "HarvestGolem;UnstableCore;20",
+        "HarvestGolem;UnstableCore;21",
         "GryphonRider;MightyThrow;24",
         "DeepBreath;DoubleDragon;21",
         "WitchDoctor;SpiritWard;21",
@@ -156,7 +156,7 @@
         "Harpy;InfectiousSwipes;21"
       ]
     ],
-    "lastUpdate": 1719063139
+    "lastUpdate": 1719063293
   },
-  "token": "1148b06b-6140-474d-9429-93691f95d6e0"
+  "token": "b4f6ccab-dd15-425c-af89-3324bbd57b3e"
 }

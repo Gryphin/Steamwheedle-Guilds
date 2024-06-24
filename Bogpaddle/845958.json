@@ -39,13 +39,13 @@
         "Chimaera;CorrosiveBreath;21"
       ],
       [
-        "OldMurkEyeLeader;ElectricEels;18",
-        "CheatDeath;Vampirism;18",
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+        "Chimaera;CorrosiveBreath;21",
         "Quilboar;Bristleback;21",
-        "Gargoyle;AerialSuperiority;20",
-        "Execute;Bloodthirsty;20",
-        "WhelpEggs;FlameBurst;22",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+        "Prowler;PackLeader;21",
+        "GryphonRider;MightyThrow;23",
+        "LivingBomb;ChainReaction;18",
+        "WhelpEggs;FlameBurst;22"
       ],
       [
         "GrommashLeader;MirrorImage;21",
@@ -76,20 +76,20 @@
       ],
       [
         "MaievLeader;Remorseless;21",
-        "Huntress;Shadowmeld;21",
+        "GryphonRider;OdynsFury;23",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
         "WhelpEggs;FlameBurst;22",
         "Quilboar;Bristleback;21",
         "EarthElemental;ObsidianShard;21",
-        "Execute;Bloodthirsty;20"
+        "Execute;Bloodthirsty;21"
       ],
       [
         "HoggerLeader;SpoiledMeat;21",
         "Chimaera;CorrosiveBreath;21",
         "Harpy;InfectiousSwipes;21",
-        "Quilboar;Bristleback;21",
-        "Banshee;WillOfTheNecropolis;21",
-        "PolymorphSpell;GoldenFleece;19",
+        "MurlocTidehunters;SafetyBubble;21",
+        "DarkspearTroll;BigBadVoodoo;21",
+        "LivingBomb;ChainReaction;18",
         "WhelpEggs;FlameBurst;22"
       ],
       [
@@ -120,13 +120,13 @@
         "Pyromancer;Conflagrate;21"
       ],
       [
-        "CharlgaLeader;SpiritPassage;18",
-        "EarthElemental;ObsidianShard;21",
+        "CharlgaLeader;SpiritPassage;19",
+        "Chimaera;CorrosiveBreath;21",
         "Quilboar;Bristleback;21",
-        "MurlocTidehunters;SafetyBubble;20",
-        "Execute;Bloodthirsty;20",
+        "MurlocTidehunters;SafetyBubble;21",
+        "LivingBomb;ChainReaction;18",
         "WhelpEggs;FlameBurst;22",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+        "FireElemental;ImmolationAura;21"
       ],
       [
         "DrakkisathLeader;ChromaticScales;21",
@@ -156,7 +156,7 @@
         "PlagueFarmer;SplashingPumpkins;20"
       ]
     ],
-    "lastUpdate": 1719063093
+    "lastUpdate": 1719250122
   },
-  "token": "844a5467-6f8f-4191-8761-9781fd7955e2"
+  "token": "eff02f80-998d-4bbc-b1a7-c12ccea087b7"
 }

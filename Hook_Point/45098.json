@@ -8,16 +8,16 @@
     "avatar": "Indicator_Maiev_Pose",
     "skulls": 150,
     "level": 49,
-    "pvpWins": 971,
-    "leaderA": "MaievLeader",
-    "leaderAWins": 208,
-    "leaderAHonor": 4708,
+    "pvpWins": 1079,
+    "leaderA": "SneedLeader",
+    "leaderAWins": 119,
+    "leaderAHonor": 4698,
     "leaderB": "BaronRivendareLeader",
     "leaderBWins": 63,
     "leaderBHonor": 4684,
     "leaderC": "ThaurissanLeader",
-    "leaderCWins": 55,
-    "leaderCHonor": 4617,
+    "leaderCWins": 60,
+    "leaderCHonor": 4702,
     "socials": null,
     "armies": [
       [
@@ -40,8 +40,8 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;24",
-        "Huntress;Shadowmeld;26",
-        "DarkIronMiner;DarkIronArmaments;26",
+        "Huntress;Shadowmeld;27",
+        "DarkIronMiner;DarkIronArmaments;27",
         "EarthElemental;ObsidianShard;26",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;27",
         "GryphonRider;OdynsFury;27",
@@ -49,7 +49,7 @@
       ],
       [
         "GrommashLeader;SavageStrikes;20",
-        "DarkIronMiner;DarkIronArmaments;26",
+        "DarkIronMiner;DarkIronArmaments;27",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;27",
         "EarthElemental;ObsidianShard;26",
         "GryphonRider;OdynsFury;27",
@@ -58,12 +58,12 @@
       ],
       [
         "RendLeader;Legionnaire;23",
-        "DarkIronMiner;DarkIronArmaments;26",
+        "DarkIronMiner;DarkIronArmaments;27",
         "EarthElemental;ObsidianShard;26",
-        "GryphonRider;OdynsFury;26",
+        "GryphonRider;OdynsFury;27",
         "Huntress;Shadowmeld;26",
         "Worgen;Premeditation;26",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26"
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;27"
       ],
       [
         "BloodmageThalnosLeader;DrainLife;20",
@@ -78,16 +78,16 @@
         "MaievLeader;Remorseless;25",
         "Worgen;Premeditation;26",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;27",
-        "EarthElemental;ObsidianShard;26",
-        "Huntress;Shadowmeld;26",
+        "DarkIronMiner;DarkIronArmaments;27",
+        "Huntress;Shadowmeld;27",
         "GryphonRider;OdynsFury;27",
-        "DarkIronMiner;DarkIronArmaments;26"
+        "EarthElemental;ObsidianShard;26"
       ],
       [
         "HoggerLeader;HamHock;20",
-        "Huntress;Shadowmeld;26",
+        "Huntress;Shadowmeld;27",
         "EarthElemental;ObsidianShard;26",
-        "DarkIronMiner;DarkIronArmaments;26",
+        "DarkIronMiner;DarkIronArmaments;27",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;27",
         "Worgen;Premeditation;26",
         "GryphonRider;OdynsFury;27"
@@ -112,8 +112,8 @@
       ],
       [
         "SneedLeader;LeadWithGreed;23",
-        "Huntress;Shadowmeld;26",
-        "DarkIronMiner;DarkIronArmaments;26",
+        "Execute;Bloodthirsty;23",
+        "DarkIronMiner;DarkIronArmaments;27",
         "EarthElemental;ObsidianShard;26",
         "GryphonRider;OdynsFury;27",
         "Worgen;Premeditation;26",
@@ -121,51 +121,51 @@
       ],
       [
         "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;24",
-        "5709c8989210cdd41943f35f5ffd8b6b;14113462a25ecea479d66e9675d3f895;26",
+        "5709c8989210cdd41943f35f5ffd8b6b;14113462a25ecea479d66e9675d3f895;27",
         "d6df87a31e7c2ae44aafe5d70fda7322;bbae4f098e1016846811a50a1e02cbb7;26",
-        "38852e1895cd540b79b4b3d1bdd06d23;476e9ccd158cd2c47bc277a8df22f025;26",
+        "38852e1895cd540b79b4b3d1bdd06d23;476e9ccd158cd2c47bc277a8df22f025;27",
         "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;27",
         "778362939e64ec04ab77644756c93815;7b7b7111d5ec76542932a732fc2c28f9;26",
         "724ebbab65fd2477db54c91707f4a6d8;baab700ba9fd80940af5102a0c7754e7;27"
       ],
       [
         "CharlgaLeader;CavernousMists;20",
-        "DarkIronMiner;DarkIronArmaments;25",
+        "DarkIronMiner;DarkIronArmaments;27",
         "EarthElemental;ObsidianShard;26",
-        "Huntress;Shadowmeld;26",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
-        "Worgen;LoneWolf;25",
-        "Execute;Bloodthirsty;20"
+        "Huntress;Shadowmeld;27",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;27",
+        "Worgen;Premeditation;26",
+        "GryphonRider;OdynsFury;27"
       ],
       [
         "DrakkisathLeader;PiercingBlows;20",
-        "DarkIronMiner;DarkIronArmaments;26",
+        "DarkIronMiner;DarkIronArmaments;27",
         "EarthElemental;ObsidianShard;26",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26",
-        "Worgen;LoneWolf;26",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;27",
+        "Worgen;Premeditation;26",
         "Huntress;Shadowmeld;26",
-        "GryphonRider;OdynsFury;26"
+        "GryphonRider;OdynsFury;27"
       ],
       [
         "ThaurissanLeader;Hubris;23",
-        "DarkIronMiner;DarkIronArmaments;26",
+        "DarkIronMiner;DarkIronArmaments;27",
         "EarthElemental;ObsidianShard;26",
         "Worgen;Premeditation;26",
-        "Huntress;Shadowmeld;26",
+        "Huntress;Shadowmeld;27",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;27",
         "GryphonRider;OdynsFury;27"
       ],
       [
         "SylvanasLeader;BlackArrow;19",
-        "DarkIronMiner;DarkIronArmaments;26",
-        "Worgen;Premeditation;26",
+        "DarkIronMiner;DarkIronArmaments;27",
         "EarthElemental;ObsidianShard;26",
+        "Worgen;Premeditation;26",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;27",
         "GryphonRider;OdynsFury;27",
         "Huntress;Shadowmeld;26"
       ]
     ],
-    "lastUpdate": 1719063084
+    "lastUpdate": 1719241656
   },
-  "token": "3ece22ba-f40f-4816-b73a-df7231b8982d"
+  "token": "540ec685-ca7f-4a01-b69e-a0ca8fe95816"
 }

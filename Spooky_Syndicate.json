@@ -12,7 +12,7 @@
         "skulls": 150,
         "honor": 11064,
         "avatar": "",
-        "lastUpdate": 1719063148
+        "lastUpdate": 1719063301
       },
       {
         "id": 100611329,
@@ -21,7 +21,7 @@
         "skulls": 145,
         "honor": 9572,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719063148
+        "lastUpdate": 1719063302
       },
       {
         "id": 1444923,
@@ -30,16 +30,7 @@
         "skulls": 133,
         "honor": 6086,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719063148
-      },
-      {
-        "id": 56562588,
-        "name": "Xendro",
-        "btag": "Xendro",
-        "skulls": 100,
-        "honor": 1767,
-        "avatar": "Indicator_Maiev_Pose",
-        "lastUpdate": 1719063148
+        "lastUpdate": 1719063302
       },
       {
         "id": 307575136,
@@ -51,22 +42,13 @@
         "lastUpdate": 1716751623
       },
       {
-        "id": 1512614,
-        "name": "Teslo",
-        "btag": "Teslo",
-        "skulls": 150,
-        "honor": 10582,
-        "avatar": "Indicator_Hogger_Pose",
-        "lastUpdate": 1719063148
-      },
-      {
         "id": 880213577,
         "name": "SoranaxAlt",
         "btag": "SoranaxAlt",
         "skulls": 150,
         "honor": 1621,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063149
+        "lastUpdate": 1719063302
       },
       {
         "id": 881061692,
@@ -75,16 +57,7 @@
         "skulls": 127,
         "honor": 6798,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719063149
-      },
-      {
-        "id": 74210950,
-        "name": "raptorthebun",
-        "btag": "raptorthebun",
-        "skulls": 150,
-        "honor": 10400,
-        "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719063149
+        "lastUpdate": 1719063303
       },
       {
         "id": 59396041,
@@ -102,7 +75,7 @@
         "skulls": 150,
         "honor": 8930,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063150
+        "lastUpdate": 1719063303
       },
       {
         "id": 399599,
@@ -111,16 +84,7 @@
         "skulls": 137,
         "honor": 9147,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719063150
-      },
-      {
-        "id": 50640834,
-        "name": "LASERBEAST",
-        "btag": "LASERBEAST",
-        "skulls": 139,
-        "honor": 10263,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063150
+        "lastUpdate": 1719063303
       },
       {
         "id": 71338627,
@@ -129,7 +93,7 @@
         "skulls": 138,
         "honor": 10414,
         "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719063151
+        "lastUpdate": 1719063304
       },
       {
         "id": 872671009,
@@ -138,7 +102,7 @@
         "skulls": 105,
         "honor": 5746,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063151
+        "lastUpdate": 1719063304
       },
       {
         "id": 92529720,
@@ -147,16 +111,7 @@
         "skulls": 140,
         "honor": 6715,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063151
-      },
-      {
-        "id": 126527974,
-        "name": "Chory",
-        "btag": "Chory",
-        "skulls": 150,
-        "honor": 10272,
-        "avatar": "CombatHUD_Tex_Player_Default",
-        "lastUpdate": 1719063150
+        "lastUpdate": 1719063304
       },
       {
         "id": 115145544,
@@ -165,7 +120,7 @@
         "skulls": 145,
         "honor": 8090,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719063150
+        "lastUpdate": 1719063304
       },
       {
         "id": 498185190,
@@ -174,7 +129,34 @@
         "skulls": 147,
         "honor": 12575,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719063151
+        "lastUpdate": 1719063304
+      },
+      {
+        "id": 126527974,
+        "name": "Chory",
+        "btag": "Chory",
+        "skulls": 150,
+        "honor": 10272,
+        "avatar": "CombatHUD_Tex_Player_Default",
+        "lastUpdate": 1719063304
+      },
+      {
+        "id": 74210950,
+        "name": "raptorthebun",
+        "btag": "raptorthebun",
+        "skulls": 150,
+        "honor": 10400,
+        "avatar": "Indicator_Cairne_Pose",
+        "lastUpdate": 1719063303
+      },
+      {
+        "id": 50640834,
+        "name": "LASERBEAST",
+        "btag": "LASERBEAST",
+        "skulls": 139,
+        "honor": 10263,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063303
       },
       {
         "id": 111738879,
@@ -183,11 +165,29 @@
         "skulls": 140,
         "honor": 9241,
         "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719063150
+        "lastUpdate": 1719063305
+      },
+      {
+        "id": 56562588,
+        "name": "Xendro",
+        "btag": "Xendro",
+        "skulls": 100,
+        "honor": 1767,
+        "avatar": "Indicator_Maiev_Pose",
+        "lastUpdate": 1719063302
+      },
+      {
+        "id": 1512614,
+        "name": "Teslo",
+        "btag": "Teslo",
+        "skulls": 150,
+        "honor": 10582,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719063302
       }
     ],
-    "lastUpdate": 1719063147
+    "lastUpdate": 1719063301
   },
-  "token": "dc86d2bb-6110-4740-bdc8-20d20d9b1990",
-  "link": "https://localhost:7080/guild/203652452?token=dc86d2bb-6110-4740-bdc8-20d20d9b1990"
+  "token": "2f1dc57c-b663-413e-b136-2c879da85392",
+  "link": "https://localhost:7080/guild/203652452?token=2f1dc57c-b663-413e-b136-2c879da85392"
 }

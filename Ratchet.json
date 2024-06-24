@@ -12,7 +12,7 @@
         "skulls": 115,
         "honor": 6747,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063159
+        "lastUpdate": 1719063312
       },
       {
         "id": 106108085,
@@ -21,7 +21,7 @@
         "skulls": 135,
         "honor": 9687,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063159
+        "lastUpdate": 1719063312
       },
       {
         "id": 108514996,
@@ -30,7 +30,7 @@
         "skulls": 150,
         "honor": 11522,
         "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719063159
+        "lastUpdate": 1719063312
       },
       {
         "id": 101123136,
@@ -39,7 +39,7 @@
         "skulls": 137,
         "honor": 8090,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063159
+        "lastUpdate": 1719063313
       },
       {
         "id": 126911410,
@@ -48,7 +48,7 @@
         "skulls": 133,
         "honor": 8966,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063160
+        "lastUpdate": 1719063313
       },
       {
         "id": 52286429,
@@ -66,7 +66,7 @@
         "skulls": 120,
         "honor": 9001,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719062195
+        "lastUpdate": 1719063313
       },
       {
         "id": 50366039,
@@ -75,7 +75,7 @@
         "skulls": 116,
         "honor": 8873,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719062195
+        "lastUpdate": 1719063313
       },
       {
         "id": 1647804,
@@ -87,22 +87,13 @@
         "lastUpdate": 1716771552
       },
       {
-        "id": 50758588,
-        "name": "Frost",
-        "btag": "Frost",
-        "skulls": 131,
-        "honor": 7195,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063175
-      },
-      {
         "id": 50553276,
         "name": "Hadrec",
         "btag": "Hadrec",
         "skulls": 150,
         "honor": 8997,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719063176
+        "lastUpdate": 1719063314
       },
       {
         "id": 456698398,
@@ -120,7 +111,7 @@
         "skulls": 150,
         "honor": 13042,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719063176
+        "lastUpdate": 1719103942
       },
       {
         "id": 50405374,
@@ -129,16 +120,7 @@
         "skulls": 150,
         "honor": 10500,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719063176
-      },
-      {
-        "id": 402601953,
-        "name": "Eraney",
-        "btag": "Eraney",
-        "skulls": 149,
-        "honor": 12029,
-        "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063176
+        "lastUpdate": 1719063315
       },
       {
         "id": 50108689,
@@ -147,25 +129,7 @@
         "skulls": 150,
         "honor": 10638,
         "avatar": "Indicator_Maiev_Pose",
-        "lastUpdate": 1719063177
-      },
-      {
-        "id": 401532319,
-        "name": "H3llFire",
-        "btag": "H3llFire",
-        "skulls": 150,
-        "honor": 10391,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063177
-      },
-      {
-        "id": 100443217,
-        "name": "Norkimo",
-        "btag": "Norkimo",
-        "skulls": 149,
-        "honor": 5845,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063177
+        "lastUpdate": 1719063315
       },
       {
         "id": 113614313,
@@ -174,11 +138,47 @@
         "skulls": 150,
         "honor": 12174,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063177
+        "lastUpdate": 1719063315
+      },
+      {
+        "id": 100443217,
+        "name": "Norkimo",
+        "btag": "Norkimo",
+        "skulls": 149,
+        "honor": 5845,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063315
+      },
+      {
+        "id": 50758588,
+        "name": "Frost",
+        "btag": "Frost",
+        "skulls": 131,
+        "honor": 7195,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063314
+      },
+      {
+        "id": 402601953,
+        "name": "Eraney",
+        "btag": "Eraney",
+        "skulls": 149,
+        "honor": 12029,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719063315
+      },
+      {
+        "id": 401532319,
+        "name": "H3llFire",
+        "btag": "H3llFire",
+        "skulls": 150,
+        "honor": 10391,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063315
       }
     ],
-    "lastUpdate": 1719063159
+    "lastUpdate": 1719063312
   },
-  "token": "e7f81c9e-08f7-4206-9ce9-70a8f28b739c",
-  "link": "https://localhost:7080/guild/437956461?token=e7f81c9e-08f7-4206-9ce9-70a8f28b739c"
+  "token": "992a9138-4243-4295-8372-7cd3a2410060",
+  "link": "https://localhost:7080/guild/437956461?token=992a9138-4243-4295-8372-7cd3a2410060"
 }

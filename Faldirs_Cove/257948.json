@@ -42,9 +42,9 @@
         "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
         "GnollBrute;Rabid;18",
         "MurlocTidehunters;CarefulAim;18",
-        "EarthElemental;ObsidianShard;17",
+        "EarthElemental;ObsidianShard;18",
         "Harpy;InfectiousSwipes;18",
-        "GryphonRider;MightyThrow;20",
+        "GryphonRider;MightyThrow;21",
         "Blizzard;ColdSnap;18"
       ],
       [
@@ -156,7 +156,7 @@
         "FireElemental;ImmolationAura;18"
       ]
     ],
-    "lastUpdate": 1719063106
+    "lastUpdate": 1719192716
   },
-  "token": "763a5b35-7f69-4126-a926-70b3741a3c1d"
+  "token": "8953b4bf-1e10-4e2d-859f-ea8ed384d3bb"
 }

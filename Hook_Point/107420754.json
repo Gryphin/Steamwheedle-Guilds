@@ -8,7 +8,7 @@
     "avatar": "Indicator_Grommash_Pose",
     "skulls": 150,
     "level": 42,
-    "pvpWins": 1377,
+    "pvpWins": 1385,
     "leaderA": "OldMurkEyeLeader",
     "leaderAWins": 81,
     "leaderAHonor": 4154,
@@ -50,9 +50,9 @@
       [
         "GrommashLeader;MirrorImage;21",
         "WitchDoctor;SpiritWard;22",
-        "DarkspearTroll;BigBadVoodoo;25",
         "Execute;Bloodthirsty;21",
-        "Huntress;Shadowmeld;22",
+        "PolymorphSpell;GoldenFleece;19",
+        "DarkspearTroll;BigBadVoodoo;25",
         "Ghoul;BoneArmor;20",
         "Quilboar;BrambleBurst;23"
       ],
@@ -86,7 +86,7 @@
       [
         "HoggerLeader;HamHock;18",
         "Quilboar;BrambleBurst;23",
-        "Harpy;InfectiousSwipes;22",
+        "Harpy;InfectiousSwipes;23",
         "WitchDoctor;SpiritWard;22",
         "WhelpEggs;FlameBurst;25",
         "DarkspearTroll;BigBadVoodoo;25",
@@ -120,10 +120,10 @@
         "DefiasBandits;PickLock;22"
       ],
       [
-        "c706fbc7111351c429bbc679022a91b1;00000000000000000000000000000000;17",
+        "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;18",
         "010159552421635498f7b2a538788b09;cd664c866d8c69f4883a645464f91eec;21",
-        "003e94d581e55c64b9a32c62de5646bc;244a95dc00038a442a20a337b39f3d5a;17",
-        "4c0efa74c3c3f6a499f7002f921b8ec3;9a83af5b4c2bdbb4dbe7cdf82834cfbf;22",
+        "003e94d581e55c64b9a32c62de5646bc;244a95dc00038a442a20a337b39f3d5a;18",
+        "94935a651322443599aadc0ae5300e9b;aa7c23fcb65707943962bcd12baafeef;19",
         "7b8e2425177bf46efb482030fc693d76;068d55e468df929479a63ccbec9a72cc;21",
         "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;22",
         "ef683be6878582a46943728b337d1bd5;d7a0c2498acaf0e44aea179cb2873fbb;18"
@@ -165,7 +165,7 @@
         "Harpy;InfectiousSwipes;22"
       ]
     ],
-    "lastUpdate": 1719063084
+    "lastUpdate": 1719239150
   },
-  "token": "b87613b6-5841-4cca-ab35-b7f3135a439b"
+  "token": "e5f89f28-a013-45bc-a73c-8f1fe5daddb7"
 }

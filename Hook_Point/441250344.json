@@ -22,7 +22,7 @@
     "armies": [
       [
         "JainaLeader;Clearcasting;24",
-        "Mountaineer;FrenziedSpirit;21",
+        "DefiasBandits;PickLock;24",
         "Huntress;ElvenMight;26",
         "ArcaneBlast;ArcanePower;21",
         "Shaman;EarthShield;25",
@@ -39,13 +39,13 @@
         "CheatDeath;Vampirism;24"
       ],
       [
-        "38b48cc014562a64e81f807c966dc595;5d9b52af2637d414d9e4f893d0b6e8d3;22",
-        "5b893c52c1e623541bececb01409caf3;992769225cb48dc47a9b429d7c678193;19",
-        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;24",
-        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;26",
-        "010159552421635498f7b2a538788b09;cd664c866d8c69f4883a645464f91eec;24",
-        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;25",
-        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;26"
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
+        "Chimaera;CorrosiveBreath;23",
+        "Spiderlings;BloatedCarapace;21",
+        "FireElemental;ImmolationAura;26",
+        "Raptors;Motivation;21",
+        "Shaman;EarthShield;25",
+        "Huntress;ElvenMight;26"
       ],
       [
         "GrommashLeader;MirrorImage;24",
@@ -84,13 +84,13 @@
         "FireElemental;ImmolationAura;26"
       ],
       [
-        "HoggerLeader;HamHock;22",
-        "Execute;Bloodthirsty;22",
-        "Quilboar;BrambleBurst;24",
-        "FireElemental;ImmolationAura;26",
-        "Shaman;EarthShield;25",
-        "S.A.F.E.PilotFlyingMachine;CominInHot;25",
-        "Huntress;ElvenMight;26"
+        "6f5550cc788df4d12aa1b4abd1224cbb;3afbcbf64f518cf45a7da1cabd74fe5a;22",
+        "5b893c52c1e623541bececb01409caf3;992769225cb48dc47a9b429d7c678193;19",
+        "d8382e21b7209419192aa9de55d95a08;46f7b9e7fa69e0647952f2b7e5f13d1c;24",
+        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;26",
+        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;25",
+        "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;25",
+        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;26"
       ],
       [
         "CairneLeader;Reincarnation;21",
@@ -129,22 +129,22 @@
         "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;25"
       ],
       [
-        "CharlgaLeader;CavernousMists;21",
-        "AngryChickens;FuriousFowl;23",
+        "CharlgaLeader;CavernousMists;22",
+        "Quilboar;BrambleBurst;24",
         "WitchDoctor;SpiritWard;23",
         "Huntress;ElvenMight;26",
         "FireElemental;ImmolationAura;26",
-        "FaerieDragon;FaeBlessing;23",
+        "Blizzard;ColdSnap;24",
         "Shaman;EarthShield;25"
       ],
       [
-        "d7879bad32a57449fb1b3265bc12f821;2a426f3146175bf40ace7b3660f44f23;24",
-        "5b893c52c1e623541bececb01409caf3;992769225cb48dc47a9b429d7c678193;19",
-        "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;26",
-        "2a4aeea519031944e8816479912b7a71;63c3219cb635fa747abc911f9fc5b5f8;25",
-        "010159552421635498f7b2a538788b09;cd664c866d8c69f4883a645464f91eec;24",
-        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;26",
-        "ff6780adbb31c4546bef2b035b67eeed;e8c5f752edbd6884e8f1b47eed5bdd29;25"
+        "DrakkisathLeader;ChromaticScales;24",
+        "DarkIronMiner;GoldMine;24",
+        "FireElemental;ImmolationAura;26",
+        "Shaman;EarthShield;25",
+        "Pyromancer;Conflagrate;24",
+        "Huntress;ElvenMight;26",
+        "S.A.F.E.PilotFlyingMachine;CominInHot;25"
       ],
       [
         "ThaurissanLeader;Hubris;24",
@@ -165,7 +165,7 @@
         "Huntress;ElvenMight;26"
       ]
     ],
-    "lastUpdate": 1719063085
+    "lastUpdate": 1719239151
   },
-  "token": "90a870ee-a1de-4370-9978-19c9d6d1f8fc"
+  "token": "e5d2e055-e26b-41eb-800c-844e5a840a50"
 }

@@ -39,13 +39,13 @@
         "WhelpEggs;FlameBurst;19"
       ],
       [
-        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
-        "Raptors;StrengthInNumbers;18",
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
+        "Harpy;TrinketCollectors;18",
         "Prowler;PackLeader;18",
-        "Quilboar;TunnelVision;19",
+        "Footmen;ShieldBash;18",
         "WhelpEggs;FlameBurst;19",
-        "Execute;Bloodthirsty;20",
-        "PlagueFarmer;SplashingPumpkins;19"
+        "LivingBomb;ChainReaction;18",
+        "AngryChickens;FuriousFowl;19"
       ],
       [
         "GrommashLeader;SavageStrikes;20",
@@ -57,7 +57,7 @@
         "BatRider;FierySurplus;18"
       ],
       [
-        "RendLeader;ScaleAndSteel;20",
+        "RendLeader;ScaleAndSteel;21",
         "WhelpEggs;FlameBurst;19",
         "SmokeBombSpell;ThroughTheShadows;18",
         "Execute;Bloodthirsty;20",
@@ -86,11 +86,11 @@
       [
         "HoggerLeader;HamHock;20",
         "AngryChickens;FuriousFowl;19",
-        "Quilboar;TunnelVision;19",
-        "BatRider;FierySurplus;18",
+        "Harpy;TrinketCollectors;18",
+        "DarkIronMiner;GoldMine;18",
         "WhelpEggs;FlameBurst;19",
-        "MurlocTidehunters;CarefulAim;18",
-        "Execute;Bloodthirsty;20"
+        "Footmen;ShieldBash;18",
+        "Blizzard;ColdSnap;18"
       ],
       [
         "CairneLeader;Reincarnation;20",
@@ -121,12 +121,12 @@
       ],
       [
         "CharlgaLeader;NaturesGrasp;18",
-        "PolymorphSpell;ExplodingSheep;18",
-        "Chimaera;Leviathan;19",
+        "AngryChickens;FuriousFowl;19",
+        "Quilboar;TunnelVision;19",
         "Harpy;TrinketCollectors;18",
-        "HolyNova;AmplifyMagic;18",
-        "Pyromancer;Conflagrate;20",
-        "DarkIronMiner;GoldMine;17"
+        "LivingBomb;ChainReaction;18",
+        "Shaman;LightningMastery;19",
+        "Abomination;FreshMeat;18"
       ],
       [
         "DrakkisathLeader;LastingLegacy;19",
@@ -156,7 +156,7 @@
         "DefiasBandits;PickLock;19"
       ]
     ],
-    "lastUpdate": 1719063107
+    "lastUpdate": 1719192253
   },
-  "token": "1a29408a-566d-430d-a670-25602540adb8"
+  "token": "1b60f12a-0ead-4519-8e87-693d17d77356"
 }

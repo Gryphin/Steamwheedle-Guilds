@@ -6,7 +6,7 @@
     "guildId": null,
     "guildName": null,
     "avatar": "Indicator_DarkmoonFaire_Eyes",
-    "skulls": 145,
+    "skulls": 146,
     "level": 45,
     "pvpWins": 74,
     "leaderA": "MaievLeader",
@@ -33,36 +33,36 @@
         "TirionLeader;ByTheLight;22",
         "GryphonRider;MightyThrow;22",
         "DefiasBandits;PickLock;22",
-        "FireElemental;ImmolationAura;24",
-        "Execute;Bloodthirsty;20",
+        "FireElemental;ImmolationAura;25",
+        "Banshee;WillOfTheNecropolis;18",
         "Quilboar;TunnelVision;24",
         "DarkspearTroll;BigBadVoodoo;25"
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
-        "GnollBrute;Rabid;21",
+        "Banshee;WillOfTheNecropolis;18",
         "Harpy;InfectiousSwipes;24",
-        "FireElemental;ImmolationAura;24",
+        "FireElemental;ImmolationAura;25",
         "Quilboar;TunnelVision;24",
-        "Shaman;EarthShield;24",
-        "WhelpEggs;FlameBurst;24"
+        "DarkspearTroll;BigBadVoodoo;25",
+        "GryphonRider;MightyThrow;22"
       ],
       [
         "GrommashLeader;Bladestorm;20",
         "DarkspearTroll;BigBadVoodoo;25",
-        "FireElemental;ImmolationAura;24",
-        "Harpy;InfectiousSwipes;24",
+        "FireElemental;ImmolationAura;25",
+        "DefiasBandits;PickLock;22",
         "GryphonRider;MightyThrow;22",
-        "Pyromancer;Pyroblast;22",
+        "Banshee;WillOfTheNecropolis;18",
         "Quilboar;TunnelVision;24"
       ],
       [
         "RendLeader;ScaleAndSteel;22",
         "Pyromancer;Pyroblast;22",
-        "FireElemental;ImmolationAura;24",
+        "FireElemental;ImmolationAura;25",
         "GryphonRider;MightyThrow;22",
         "DarkspearTroll;BigBadVoodoo;25",
-        "Shaman;EarthShield;24",
+        "Banshee;WillOfTheNecropolis;18",
         "Quilboar;Bristleback;24"
       ],
       [
@@ -87,9 +87,9 @@
         "HoggerLeader;HamHock;21",
         "Quilboar;TunnelVision;24",
         "Harpy;InfectiousSwipes;24",
-        "FireElemental;ImmolationAura;24",
+        "FireElemental;ImmolationAura;25",
         "GryphonRider;MightyThrow;22",
-        "WhelpEggs;FlameBurst;24",
+        "Banshee;WillOfTheNecropolis;18",
         "DarkspearTroll;BigBadVoodoo;25"
       ],
       [
@@ -104,11 +104,11 @@
       [
         "BaronRivendareLeader;ChillOfTheGrave;24",
         "DarkspearTroll;BigBadVoodoo;25",
-        "PlagueFarmer;SplashingPumpkins;20",
+        "Banshee;WillOfTheNecropolis;18",
         "Quilboar;TunnelVision;24",
         "Harpy;InfectiousSwipes;24",
-        "FireElemental;ImmolationAura;24",
-        "Pyromancer;Pyroblast;22"
+        "FireElemental;ImmolationAura;25",
+        "Execute;Bloodthirsty;21"
       ],
       [
         "SneedLeader;LeadWithGreed;23",
@@ -123,8 +123,8 @@
         "CharlgaLeader;NaturesGrasp;19",
         "GnollBrute;Rabid;21",
         "Harpy;InfectiousSwipes;24",
-        "FireElemental;ImmolationAura;24",
-        "Execute;Bloodthirsty;20",
+        "FireElemental;ImmolationAura;25",
+        "WhelpEggs;FlameBurst;24",
         "DarkspearTroll;BigBadVoodoo;25",
         "Quilboar;TunnelVision;24"
       ],
@@ -156,7 +156,7 @@
         "Quilboar;TunnelVision;24"
       ]
     ],
-    "lastUpdate": 1719063109
+    "lastUpdate": 1719193567
   },
-  "token": "b8f8e59c-d6c8-4973-903b-4229833ea096"
+  "token": "ca9f165f-96d7-426c-852f-b6812682d402"
 }

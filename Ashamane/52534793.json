@@ -120,22 +120,22 @@
         "Harpy;InfectiousSwipes;21"
       ],
       [
-        "CharlgaLeader;CavernousMists;18",
+        "CharlgaLeader;CavernousMists;19",
         "Prowler;OnTheProwl;18",
         "Harpy;InfectiousSwipes;21",
-        "MurlocTidehunters;SafetyBubble;17",
+        "MurlocTidehunters;SafetyBubble;18",
         "FireElemental;ImmolationAura;21",
         "WhelpEggs;FlameBurst;24",
-        "GryphonRider;MightyThrow;18"
+        "GryphonRider;MightyThrow;19"
       ],
       [
-        "DrakkisathLeader;ChromaticScales;24",
-        "Pyromancer;Conflagrate;22",
-        "Drake;MotherDrake;24",
+        "DrakkisathLeader;ChromaticScales;25",
+        "WhelpEggs;FlameBurst;24",
+        "Drake;Roost;24",
         "Shaman;EarthShield;25",
         "SkeletonParty;RitualOfRime;22",
         "DefiasBandits;PickLock;22",
-        "OgreMage;FrostfireBolt;18"
+        "Pyromancer;Conflagrate;22"
       ],
       [
         "ThaurissanLeader;Hubris;21",
@@ -156,7 +156,7 @@
         "FireElemental;ImmolationAura;21"
       ]
     ],
-    "lastUpdate": 1719063081
+    "lastUpdate": 1719190905
   },
-  "token": "479285f6-8f4f-420a-bd01-92f17eebc8f2"
+  "token": "01a59c06-8c45-43f6-b707-bf459880169a"
 }

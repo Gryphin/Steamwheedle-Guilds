@@ -12,16 +12,16 @@
         "skulls": 150,
         "honor": 10953,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719063089
+        "lastUpdate": 1719250120
       },
       {
         "id": 120218516,
         "name": "chArminG",
         "btag": "chArminG",
         "skulls": 150,
-        "honor": 11965,
+        "honor": 12020,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719063089
+        "lastUpdate": 1719250120
       },
       {
         "id": 56210091,
@@ -30,7 +30,7 @@
         "skulls": 148,
         "honor": 9786,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063090
+        "lastUpdate": 1719250121
       },
       {
         "id": 2069234,
@@ -82,9 +82,9 @@
         "name": "Jezi",
         "btag": "Jezi",
         "skulls": 150,
-        "honor": 14482,
+        "honor": 14885,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063091
+        "lastUpdate": 1719250121
       },
       {
         "id": 402747089,
@@ -138,25 +138,7 @@
         "skulls": 150,
         "honor": 10639,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719063092
-      },
-      {
-        "id": 112504130,
-        "name": "Philinho",
-        "btag": "Philinho",
-        "skulls": 143,
-        "honor": 10771,
-        "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719063092
-      },
-      {
-        "id": 101405452,
-        "name": "Nightling",
-        "btag": "Nightling",
-        "skulls": 150,
-        "honor": 11669,
-        "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719063092
+        "lastUpdate": 1719250122
       },
       {
         "id": 363747020,
@@ -165,16 +147,25 @@
         "skulls": 150,
         "honor": 12825,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719063092
+        "lastUpdate": 1719250122
+      },
+      {
+        "id": 101405452,
+        "name": "Nightling",
+        "btag": "Nightling",
+        "skulls": 150,
+        "honor": 11790,
+        "avatar": "Indicator_Jaina_Pose",
+        "lastUpdate": 1719250122
       },
       {
         "id": 101414975,
         "name": "Jezi",
         "btag": "Jezi",
-        "skulls": 131,
+        "skulls": 134,
         "honor": 10022,
         "avatar": "Indicator_Hogger_Pose",
-        "lastUpdate": 1719063091
+        "lastUpdate": 1719250122
       },
       {
         "id": 845958,
@@ -183,11 +174,20 @@
         "skulls": 144,
         "honor": 6107,
         "avatar": "Indicator_Maiev_Pose",
-        "lastUpdate": 1719063093
+        "lastUpdate": 1719250122
+      },
+      {
+        "id": 112504130,
+        "name": "Philinho",
+        "btag": "Philinho",
+        "skulls": 143,
+        "honor": 10771,
+        "avatar": "Indicator_Rend_Pose",
+        "lastUpdate": 1719250122
       }
     ],
-    "lastUpdate": 1719063089
+    "lastUpdate": 1719254938
   },
-  "token": "4edacea2-f90c-41cd-841d-28446f195fa5",
-  "link": "https://localhost:7080/guild/439520221?token=4edacea2-f90c-41cd-841d-28446f195fa5"
+  "token": "1e7fc4a8-0d98-4224-a88b-753c0cd7641c",
+  "link": "https://localhost:7080/guild/439520221?token=1e7fc4a8-0d98-4224-a88b-753c0cd7641c"
 }

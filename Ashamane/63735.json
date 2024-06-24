@@ -32,7 +32,7 @@
       [
         "TirionLeader;DivineShield;23",
         "GryphonRider;AirDrop;22",
-        "S.A.F.E.PilotFlyingMachine;Muttonizer;23",
+        "DefiasBandits;PickLock;22",
         "Quilboar;BrambleBurst;22",
         "Banshee;WillOfTheNecropolis;22",
         "Harpy;InfectiousSwipes;24",
@@ -49,12 +49,12 @@
       ],
       [
         "GrommashLeader;MirrorImage;21",
-        "Banshee;WillOfTheNecropolis;21",
+        "WitchDoctor;SpiritWard;22",
         "BatRider;EnchantedVials;21",
-        "Harpy;TalonDive;23",
-        "Pyromancer;Pyroblast;25",
-        "Quilboar;BrambleBurst;21",
-        "GryphonRider;AirDrop;21"
+        "Quilboar;TunnelVision;22",
+        "Banshee;WillOfTheNecropolis;22",
+        "WhelpEggs;FlameBurst;22",
+        "Harpy;TalonDive;24"
       ],
       [
         "RendLeader;ScaleAndSteel;22",
@@ -85,12 +85,12 @@
       ],
       [
         "HoggerLeader;HamHock;22",
-        "PolymorphSpell;GoldenFleece;22",
+        "AngryChickens;Snackrifice;22",
         "Harpy;InfectiousSwipes;24",
-        "GryphonRider;AirDrop;22",
+        "DefiasBandits;PickLock;22",
         "Quilboar;TunnelVision;22",
         "WhelpEggs;Rookery;22",
-        "Banshee;WillOfTheNecropolis;22"
+        "Pyromancer;Pyroblast;25"
       ],
       [
         "CairneLeader;Reincarnation;22",
@@ -121,11 +121,11 @@
       ],
       [
         "CharlgaLeader;NaturesGrasp;22",
-        "Harpy;InfectiousSwipes;23",
+        "Harpy;InfectiousSwipes;24",
         "GnollBrute;Rabid;22",
         "Prowler;PackLeader;21",
-        "GryphonRider;MightyThrow;21",
-        "Pyromancer;Pyroblast;24",
+        "GryphonRider;MightyThrow;22",
+        "Pyromancer;Pyroblast;25",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23"
       ],
       [
@@ -140,11 +140,11 @@
       [
         "ThaurissanLeader;Hubris;22",
         "Pyromancer;Pyroblast;25",
-        "DarkIronMiner;GoldMine;22",
-        "DefiasBandits;PickLock;22",
-        "Huntress;DarnassianSteel;22",
-        "WitchDoctor;SpiritWard;22",
-        "Harpy;InfectiousSwipes;23"
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;TunnelVision;22",
+        "GnollBrute;Rabid;22",
+        "Banshee;WillOfTheNecropolis;22",
+        "Harpy;InfectiousSwipes;24"
       ],
       [
         "SylvanasLeader;BlackArrow;22",
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;22"
       ]
     ],
-    "lastUpdate": 1719063080
+    "lastUpdate": 1719190967
   },
-  "token": "64941ae2-e460-4834-a7dd-5684bc21d2ae"
+  "token": "f477a949-d496-4f48-808a-552f76af5589"
 }

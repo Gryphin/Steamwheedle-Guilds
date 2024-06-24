@@ -66,11 +66,11 @@
         "GnollBrute;Rabid;16"
       ],
       [
-        "BloodmageThalnosLeader;Bane;14",
+        "BloodmageThalnosLeader;Bane;15",
         "GnollBrute;Rabid;17",
         "DarkspearTroll;BigBadVoodoo;16",
         "Blizzard;ColdSnap;14",
-        "GryphonRider;MightyThrow;16",
+        "GryphonRider;MightyThrow;17",
         "Harpy;;14",
         "Footmen;ShieldBash;16"
       ],
@@ -156,7 +156,7 @@
         "GnollBrute;Rabid;16"
       ]
     ],
-    "lastUpdate": 1719063105
+    "lastUpdate": 1719192751
   },
-  "token": "ad5919a0-0444-4038-a299-4063472ebfbd"
+  "token": "d0f5e402-dd3c-40d2-8f78-13c66d146bd9"
 }

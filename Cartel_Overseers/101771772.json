@@ -51,10 +51,10 @@
         "GrommashLeader;Bladestorm;22",
         "Execute;Bloodthirsty;25",
         "WitchDoctor;SpiritWard;25",
-        "WhelpEggs;FlameBurst;25",
-        "BatRider;EnchantedVials;25",
+        "MurlocTidehunters;SafetyBubble;25",
+        "GryphonRider;MightyThrow;26",
         "Shaman;EarthShield;25",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26"
+        "Quilboar;BrambleBurst;26"
       ],
       [
         "RendLeader;ScaleAndSteel;25",
@@ -86,10 +86,10 @@
       [
         "HoggerLeader;HamHock;26",
         "Quilboar;BrambleBurst;26",
-        "PolymorphSpell;GoldenFleece;25",
+        "MurlocTidehunters;SafetyBubble;25",
         "FireElemental;FanTheFlames;24",
         "GryphonRider;MightyThrow;26",
-        "MurlocTidehunters;SafetyBubble;25",
+        "PlagueFarmer;SplashingPumpkins;25",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;26"
       ],
       [
@@ -165,7 +165,7 @@
         "Harpy;TrinketCollectors;25"
       ]
     ],
-    "lastUpdate": 1719062208
+    "lastUpdate": 1719250118
   },
-  "token": "15ae2d56-a622-48db-8119-538d465b4149"
+  "token": "1e75407d-8af0-4a48-a313-e2589442ff4c"
 }

@@ -22,11 +22,11 @@
     "armies": [
       [
         "JainaLeader;;19",
-        "S.A.F.E.PilotFlyingMachine;;17",
+        "DefiasBandits;;17",
         "Blizzard;ColdSnap;18",
-        "LivingBomb;;16",
-        "MurlocTidehunters;SafetyBubble;18",
-        "Pyromancer;;17",
+        "ChainLightning;;16",
+        "Harpy;TalonDive;21",
+        "Pyromancer;;18",
         "EarthElemental;;17"
       ],
       [
@@ -54,7 +54,7 @@
         "Harpy;TalonDive;21",
         "MurlocTidehunters;SafetyBubble;18",
         "SkeletonWarrior;Exhume;20",
-        "S.A.F.E.PilotFlyingMachine;;17"
+        "WhelpEggs;;17"
       ],
       [
         "RendLeader;;18",
@@ -66,13 +66,13 @@
         "ChainLightning;;16"
       ],
       [
-        "BloodmageThalnosLeader;;16",
+        "BloodmageThalnosLeader;;17",
         "Ghoul;;17",
         "MeatWagon;FiletTrebuchet;18",
         "HolyNova;;16",
-        "Harpy;TalonDive;19",
+        "Harpy;TalonDive;21",
         "FireElemental;;17",
-        "SkeletonWarrior;;18"
+        "SkeletonWarrior;Exhume;20"
       ],
       [
         "MaievLeader;;17",
@@ -106,7 +106,7 @@
         "Ghoul;;17",
         "PlagueFarmer;SplashingPumpkins;19",
         "SkeletonWarrior;Exhume;20",
-        "Pyromancer;;18",
+        "FireElemental;;17",
         "Harpy;TalonDive;21",
         "EarthElemental;;17"
       ],
@@ -156,7 +156,7 @@
         "Worgen;;17"
       ]
     ],
-    "lastUpdate": 1719063105
+    "lastUpdate": 1719192075
   },
-  "token": "f1c84c1d-dd09-4b5a-960b-d2323f54b359"
+  "token": "d57a1155-2954-4197-8d8f-890c289c55f8"
 }

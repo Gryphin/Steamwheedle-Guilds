@@ -8,10 +8,10 @@
     "avatar": "Indicator_Jaina_Pose",
     "skulls": 150,
     "level": 45,
-    "pvpWins": 377,
+    "pvpWins": 379,
     "leaderA": "JainaLeader",
-    "leaderAWins": 51,
-    "leaderAHonor": 3757,
+    "leaderAWins": 53,
+    "leaderAHonor": 3376,
     "leaderB": "DrakkisathLeader",
     "leaderBWins": 39,
     "leaderBHonor": 2976,
@@ -23,10 +23,10 @@
       [
         "JainaLeader;Blink;21",
         "DefiasBandits;PickLock;24",
-        "HarvestGolem;UnstableCore;22",
+        "GryphonRider;MightyThrow;24",
         "Chimaera;FrostShock;21",
+        "Quilboar;TunnelVision;22",
         "WhelpEggs;FlameBurst;24",
-        "Harpy;InfectiousSwipes;24",
         "Execute;KillingSpree;22"
       ],
       [
@@ -42,7 +42,7 @@
         "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
         "Quilboar;TunnelVision;22",
         "Harpy;InfectiousSwipes;24",
-        "Prowler;PackLeader;20",
+        "Prowler;PackLeader;21",
         "WhelpEggs;FlameBurst;24",
         "Execute;Bloodthirsty;22",
         "Huntress;ElvenMight;24"
@@ -87,9 +87,9 @@
         "HoggerLeader;HamHock;20",
         "Harpy;InfectiousSwipes;24",
         "Quilboar;TunnelVision;22",
-        "GoblinSapper;RocketBoots;20",
-        "Execute;Bloodthirsty;21",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "DefiasBandits;PickLock;24",
+        "Blizzard;ColdSnap;22",
+        "Huntress;ElvenMight;24",
         "WhelpEggs;FlameBurst;24"
       ],
       [
@@ -126,7 +126,7 @@
         "Huntress;ElvenMight;24",
         "StonehoofTauren;Momentum;21",
         "WhelpEggs;FlameBurst;24",
-        "DefiasBandits;PickLock;22"
+        "DefiasBandits;PickLock;24"
       ],
       [
         "DrakkisathLeader;ChromaticScales;24",
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;24"
       ]
     ],
-    "lastUpdate": 1719063100
+    "lastUpdate": 1719194112
   },
-  "token": "98034088-a6d4-4ccf-be41-ba4ff165e478"
+  "token": "77328315-7828-413f-b6b3-9b50f9c4e6b4"
 }

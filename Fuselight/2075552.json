@@ -6,12 +6,12 @@
     "guildId": null,
     "guildName": null,
     "avatar": "Indicator_Rend_Pose",
-    "skulls": 141,
+    "skulls": 142,
     "level": 43,
-    "pvpWins": 159,
+    "pvpWins": 161,
     "leaderA": "RendLeader",
-    "leaderAWins": 56,
-    "leaderAHonor": 2178,
+    "leaderAWins": 58,
+    "leaderAHonor": 2317,
     "leaderB": "GrommashLeader",
     "leaderBWins": 11,
     "leaderBHonor": 2107,
@@ -41,11 +41,11 @@
       [
         "OldMurkEyeLeader;ElectricEels;18",
         "Quilboar;TunnelVision;22",
-        "Vultures;FeedingFrenzy;18",
+        "Harpy;TrinketCollectors;22",
         "EarthElemental;ObsidianShard;22",
-        "Pyromancer;Conflagrate;21",
         "WhelpEggs;FlameBurst;24",
-        "PolymorphSpell;GoldenFleece;18"
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Execute;Bloodthirsty;21"
       ],
       [
         "GrommashLeader;MirrorImage;20",
@@ -58,11 +58,11 @@
       ],
       [
         "RendLeader;ScaleAndSteel;21",
-        "LivingBomb;BlastRadius;21",
+        "DarkIronMiner;GoldMine;20",
         "Pyromancer;Conflagrate;21",
-        "Execute;Bloodthirsty;21",
-        "WhelpEggs;FlameBurst;24",
-        "Banshee;WillOfTheNecropolis;21",
+        "Gargoyle;WingBuffet;21",
+        "Harpy;InfectiousSwipes;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
         "Quilboar;TunnelVision;22"
       ],
       [
@@ -90,7 +90,7 @@
         "Quilboar;TunnelVision;22",
         "BatRider;EnchantedVials;22",
         "WhelpEggs;FlameBurst;24",
-        "Flamewaker;Backdraft;19"
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
       ],
       [
         "CairneLeader;Reincarnation;17",
@@ -122,7 +122,7 @@
       [
         "CharlgaLeader;CavernousMists;17",
         "MurlocTidehunters;SafetyBubble;19",
-        "Harpy;InfectiousSwipes;22",
+        "Harpy;TrinketCollectors;22",
         "ArcaneBlast;Amplification;19",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
         "EarthElemental;ObsidianShard;22",
@@ -156,7 +156,7 @@
         "Execute;Bloodthirsty;21"
       ]
     ],
-    "lastUpdate": 1719063156
+    "lastUpdate": 1719192972
   },
-  "token": "ac6cebfd-a130-4db9-9c90-0046bc48db99"
+  "token": "b6c082fc-4dbe-4af4-ac30-49d8cbbb0aa8"
 }

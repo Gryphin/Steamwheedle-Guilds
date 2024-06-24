@@ -8,10 +8,10 @@
     "avatar": "Indicator_Thaurissan_Pose",
     "skulls": 120,
     "level": 37,
-    "pvpWins": 134,
+    "pvpWins": 143,
     "leaderA": "ThaurissanLeader",
-    "leaderAWins": 15,
-    "leaderAHonor": 2614,
+    "leaderAWins": 21,
+    "leaderAHonor": 2918,
     "leaderB": "BaronRivendareLeader",
     "leaderBWins": 38,
     "leaderBHonor": 3150,
@@ -122,10 +122,10 @@
       [
         "ThaurissanLeader;Hubris;20",
         "WhelpEggs;FlameBurst;19",
-        "FireElemental;ImmolationAura;18",
+        "FireElemental;ImmolationAura;19",
         "Quilboar;Bristleback;21",
         "Drake;MotherDrake;19",
-        "Huntress;Shadowmeld;18",
+        "Huntress;Shadowmeld;19",
         "EarthElemental;ObsidianShard;19"
       ],
       [
@@ -138,7 +138,7 @@
         "Quilboar;TunnelVision;21"
       ]
     ],
-    "lastUpdate": 1719063145
+    "lastUpdate": 1719191980
   },
-  "token": "3f7b875c-a8bd-488f-a6dc-f4d0e06f3429"
+  "token": "a7d21484-04b1-445b-8af9-083e5706604c"
 }

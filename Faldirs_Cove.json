@@ -12,7 +12,7 @@
         "skulls": 125,
         "honor": 5585,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063105
+        "lastUpdate": 1719192466
       },
       {
         "id": 1257837,
@@ -21,7 +21,7 @@
         "skulls": 134,
         "honor": 9421,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063105
+        "lastUpdate": 1719192288
       },
       {
         "id": 403501826,
@@ -30,7 +30,7 @@
         "skulls": 118,
         "honor": 5304,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063105
+        "lastUpdate": 1719192573
       },
       {
         "id": 130367627,
@@ -39,7 +39,7 @@
         "skulls": 130,
         "honor": 9564,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063105
+        "lastUpdate": 1719192395
       },
       {
         "id": 364123324,
@@ -48,7 +48,7 @@
         "skulls": 48,
         "honor": 1023,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063105
+        "lastUpdate": 1719192751
       },
       {
         "id": 53418140,
@@ -57,7 +57,7 @@
         "skulls": 90,
         "honor": 3236,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063105
+        "lastUpdate": 1719192075
       },
       {
         "id": 342411604,
@@ -66,7 +66,7 @@
         "skulls": 111,
         "honor": 3830,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719063106
+        "lastUpdate": 1719192609
       },
       {
         "id": 51736171,
@@ -75,7 +75,7 @@
         "skulls": 90,
         "honor": 2266,
         "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719063101
+        "lastUpdate": 1719192680
       },
       {
         "id": 101606264,
@@ -84,16 +84,16 @@
         "skulls": 150,
         "honor": 11137,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063106
+        "lastUpdate": 1719192146
       },
       {
         "id": 2100156,
         "name": "Lastcaress",
         "btag": "Lastcaress",
-        "skulls": 100,
+        "skulls": 105,
         "honor": 6334,
         "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719063106
+        "lastUpdate": 1719192644
       },
       {
         "id": 402881339,
@@ -102,7 +102,7 @@
         "skulls": 139,
         "honor": 10664,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719063106
+        "lastUpdate": 1719192217
       },
       {
         "id": 257948,
@@ -111,7 +111,7 @@
         "skulls": 90,
         "honor": 2427,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063106
+        "lastUpdate": 1719192716
       },
       {
         "id": 303401587,
@@ -120,34 +120,7 @@
         "skulls": 109,
         "honor": 12055,
         "avatar": "CombatHUD_Tex_Player_Default",
-        "lastUpdate": 1719063107
-      },
-      {
-        "id": 1715486,
-        "name": "Elmago",
-        "btag": "Elmago",
-        "skulls": 130,
-        "honor": 2885,
-        "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063107
-      },
-      {
-        "id": 1358431,
-        "name": "SaintRough",
-        "btag": "SaintRough",
-        "skulls": 134,
-        "honor": 10125,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063108
-      },
-      {
-        "id": 230003,
-        "name": "Tremloc",
-        "btag": "Tremloc",
-        "skulls": 125,
-        "honor": 1783,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063107
+        "lastUpdate": 1719192182
       },
       {
         "id": 88828941,
@@ -156,25 +129,16 @@
         "skulls": 136,
         "honor": 10022,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063107
+        "lastUpdate": 1719192253
       },
       {
-        "id": 56291177,
-        "name": "Gardakan",
-        "btag": "Gardakan",
-        "skulls": 131,
-        "honor": 10025,
-        "avatar": "Indicator_Hogger_Pose",
-        "lastUpdate": 1719063107
-      },
-      {
-        "id": 72494498,
-        "name": "SolidNemyer",
-        "btag": "SolidNemyer",
-        "skulls": 124,
-        "honor": 7009,
-        "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063107
+        "id": 1715486,
+        "name": "Elmago",
+        "btag": "Elmago",
+        "skulls": 130,
+        "honor": 2885,
+        "avatar": "Indicator_Drakkisath_Pose",
+        "lastUpdate": 1719192431
       },
       {
         "id": 82367792,
@@ -183,11 +147,47 @@
         "skulls": 143,
         "honor": 4194,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719063108
+        "lastUpdate": 1719192111
+      },
+      {
+        "id": 1358431,
+        "name": "SaintRough",
+        "btag": "SaintRough",
+        "skulls": 134,
+        "honor": 10125,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719192324
+      },
+      {
+        "id": 56291177,
+        "name": "Gardakan",
+        "btag": "Gardakan",
+        "skulls": 131,
+        "honor": 10025,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719192359
+      },
+      {
+        "id": 230003,
+        "name": "Tremloc",
+        "btag": "Tremloc",
+        "skulls": 125,
+        "honor": 1783,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719192520
+      },
+      {
+        "id": 72494498,
+        "name": "SolidNemyer",
+        "btag": "SolidNemyer",
+        "skulls": 124,
+        "honor": 7009,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719192537
       }
     ],
-    "lastUpdate": 1719063105
+    "lastUpdate": 1719192073
   },
-  "token": "4106907d-df11-44c9-a4a5-bec3d9554580",
-  "link": "https://localhost:7080/guild/467766291?token=4106907d-df11-44c9-a4a5-bec3d9554580"
+  "token": "fa6495d6-3453-493a-8ed8-dae14b8ad704",
+  "link": "https://localhost:7080/guild/467766291?token=fa6495d6-3453-493a-8ed8-dae14b8ad704"
 }

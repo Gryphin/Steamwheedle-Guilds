@@ -44,7 +44,7 @@
         "MurlocTidehunters;SafetyBubble;22",
         "Quilboar;BrambleBurst;24",
         "Harpy;InfectiousSwipes;23",
-        "Drake;MotherDrake;24",
+        "WitchDoctor;SpiritWard;24",
         "CheatDeath;Vampirism;18"
       ],
       [
@@ -90,7 +90,7 @@
         "Quilboar;BrambleBurst;24",
         "S.A.F.E.PilotFlyingMachine;CominInHot;24",
         "GryphonRider;MightyThrow;24",
-        "DarkspearTroll;BigBadVoodoo;22"
+        "Huntress;ElvenMight;25"
       ],
       [
         "CairneLeader;Reincarnation;21",
@@ -129,22 +129,22 @@
         "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;25"
       ],
       [
-        "cd2137bffb5084548a4b1a81f47c725f;4d61d5f1d696c1245830bee1312254b4;21",
-        "20772be4121664be59876a8d41ed2696;812f5e83bd6c49145bea568ee5ef37cd;20",
-        "7b8e2425177bf46efb482030fc693d76;068d55e468df929479a63ccbec9a72cc;22",
-        "f6379dec39f4447b483eb7b6a672597e;a7562a08ec021cb4eb8367c83a3b885a;22",
-        "5b893c52c1e623541bececb01409caf3;4409adb7ffddc3c4eba2e70746399464;21",
-        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;25",
-        "1cdeebe6970781b4089ccd136a4732b8;3eabf607771af4340b86f0be2f2811d3;21"
+        "CharlgaLeader;CavernousMists;21",
+        "Vultures;TendonRip;20",
+        "MurlocTidehunters;SafetyBubble;22",
+        "Prowler;OnTheProwl;22",
+        "PolymorphSpell;GoldenFleece;21",
+        "Huntress;ElvenMight;25",
+        "Pyromancer;Conflagrate;24"
       ],
       [
         "DrakkisathLeader;ChromaticScales;24",
         "Drake;MotherDrake;24",
-        "WhelpEggs;Rookery;25",
+        "Pyromancer;Conflagrate;24",
         "WitchDoctor;SpiritWard;24",
         "DefiasBandits;PickLock;22",
-        "Pyromancer;Conflagrate;24",
-        "Shaman;EarthShield;23"
+        "SkeletonParty;RitualOfRime;22",
+        "Shaman;EarthShield;24"
       ],
       [
         "ThaurissanLeader;Hubris;21",
@@ -165,7 +165,7 @@
         "FireElemental;ImmolationAura;22"
       ]
     ],
-    "lastUpdate": 1719063156
+    "lastUpdate": 1719192880
   },
-  "token": "cdee1ac2-661c-4582-b613-a590a3f1ce02"
+  "token": "f66fd08e-f3b5-4f08-8cf4-c5ed65468bc9"
 }

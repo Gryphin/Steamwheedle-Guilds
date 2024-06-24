@@ -8,26 +8,26 @@
     "avatar": "Indicator_Rend_Pose",
     "skulls": 150,
     "level": 51,
-    "pvpWins": 1955,
-    "leaderA": "CairneLeader",
-    "leaderAWins": 121,
-    "leaderAHonor": 5020,
+    "pvpWins": 2042,
+    "leaderA": "BaronRivendareLeader",
+    "leaderAWins": 208,
+    "leaderAHonor": 5190,
     "leaderB": "ThaurissanLeader",
-    "leaderBWins": 125,
-    "leaderBHonor": 5041,
-    "leaderC": "RendLeader",
-    "leaderCWins": 165,
-    "leaderCHonor": 5002,
+    "leaderBWins": 127,
+    "leaderBHonor": 5183,
+    "leaderC": "JainaLeader",
+    "leaderCWins": 195,
+    "leaderCHonor": 5173,
     "socials": null,
     "armies": [
       [
         "JainaLeader;Clearcasting;23",
-        "GryphonRider;MightyThrow;24",
+        "HarvestGolem;UnstableCore;24",
         "DefiasBandits;PickLock;21",
         "Execute;Bloodthirsty;24",
-        "HarvestGolem;UnstableCore;23",
-        "DeepBreath;Attunement;25",
-        "PolymorphSpell;GoldenFleece;22"
+        "Quilboar;BrambleBurst;25",
+        "Shaman;EarthwallTotem;24",
+        "DeepBreath;Attunement;25"
       ],
       [
         "TirionLeader;DivineShield;22",
@@ -40,12 +40,12 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;24",
-        "Chimaera;Leviathan;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
         "Prowler;OnTheProwl;24",
         "Quilboar;BrambleBurst;25",
+        "WhelpEggs;FlameBurst;25",
         "WitchDoctor;SpiritWard;25",
-        "MurlocTidehunters;SafetyBubble;23",
-        "WhelpEggs;FlameBurst;25"
+        "MurlocTidehunters;SafetyBubble;24"
       ],
       [
         "GrommashLeader;SavageStrikes;21",
@@ -61,9 +61,9 @@
         "WhelpEggs;FlameBurst;25",
         "DeepBreath;Attunement;25",
         "Gargoyle;WingBuffet;24",
-        "Quilboar;BrambleBurst;25",
-        "MurlocTidehunters;SafetyBubble;24",
-        "PolymorphSpell;GoldenFleece;23"
+        "Prowler;OnTheProwl;24",
+        "PolymorphSpell;GoldenFleece;23",
+        "Quilboar;BrambleBurst;25"
       ],
       [
         "BloodmageThalnosLeader;Bane;25",
@@ -84,75 +84,75 @@
         "CheatDeath;Vampirism;21"
       ],
       [
-        "HoggerLeader;HamHock;22",
+        "HoggerLeader;HamHock;23",
         "Quilboar;BrambleBurst;25",
         "Prowler;OnTheProwl;24",
         "GryphonRider;AirDrop;24",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
-        "PolymorphSpell;GoldenFleece;22",
-        "MurlocTidehunters;SafetyBubble;23"
+        "PolymorphSpell;GoldenFleece;23",
+        "MurlocTidehunters;SafetyBubble;24"
       ],
       [
         "CairneLeader;Reincarnation;22",
-        "DarkspearTroll;BigBadVoodoo;22",
+        "Shaman;EarthwallTotem;24",
         "WitchDoctor;SpiritWard;25",
-        "Shaman;EarthShield;24",
-        "PolymorphSpell;GoldenFleece;22",
+        "MurlocTidehunters;SafetyBubble;25",
+        "PolymorphSpell;GoldenFleece;23",
         "DeepBreath;Attunement;25",
-        "MurlocTidehunters;SafetyBubble;23"
+        "Quilboar;BrambleBurst;25"
       ],
       [
         "BaronRivendareLeader;ChillOfTheGrave;24",
         "Ghoul;BoneArmor;22",
-        "Gargoyle;WingBuffet;24",
+        "PolymorphSpell;GoldenFleece;23",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
-        "WitchDoctor;SpiritWard;25",
+        "Shaman;EarthwallTotem;24",
         "Quilboar;BrambleBurst;25",
-        "PolymorphSpell;GoldenFleece;22"
+        "DeepBreath;Attunement;25"
       ],
       [
-        "98cbe865dcc94074f940cd168fda1435;27b0479c8d9bd264db948ee3ef3036d3;21",
-        "ef683be6878582a46943728b337d1bd5;4d9a13e98ef3e7d4ba70f0a38799d1c9;24",
-        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;25",
-        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;25",
-        "5b893c52c1e623541bececb01409caf3;4409adb7ffddc3c4eba2e70746399464;22",
-        "38852e1895cd540b79b4b3d1bdd06d23;0e1d01696c5927b43abd2b582b5338aa;24",
-        "230300999cc564b189eeb6b3a4fc743f;a7a172e4b6a83cd4d820946f6c11f4ea;25"
+        "SneedLeader;LeadWithGreed;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "Execute;Bloodthirsty;24",
+        "Ghoul;BoneArmor;22",
+        "GryphonRider;AirDrop;24",
+        "Banshee;WillOfTheNecropolis;21",
+        "HarvestGolem;UnstableCore;24"
       ],
       [
         "c706fbc7111351c429bbc679022a91b1;c19239d92dd67d948a9b41f6e89f9aa2;24",
         "73a4c9f7c9005416eb474261a5ee1d6b;1c47f7019cc20c740b615935a5957cca;24",
-        "4a587c88483e48d42869f766eb08123b;c9a2f90e4742cff47bd8ffa76ca8c19b;25",
-        "94935a651322443599aadc0ae5300e9b;aa7c23fcb65707943962bcd12baafeef;22",
-        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;25",
-        "7b8e2425177bf46efb482030fc693d76;068d55e468df929479a63ccbec9a72cc;23",
+        "3b01f7017ded1ec409460bc09346d431;614eee447ee11b44b85ce91163f32b74;21",
+        "003e94d581e55c64b9a32c62de5646bc;244a95dc00038a442a20a337b39f3d5a;24",
+        "8784b095b97819f42a7e7e8c388007ad;ad77481528767274f9b09234cb4c6e27;21",
+        "f6379dec39f4447b483eb7b6a672597e;a7562a08ec021cb4eb8367c83a3b885a;24",
         "724ebbab65fd2477db54c91707f4a6d8;7b5cacdfa38f8874eb80a5583924aca4;24"
       ],
       [
         "CharlgaLeader;CavernousMists;22",
+        "PolymorphSpell;GoldenFleece;23",
+        "Quilboar;BrambleBurst;25",
         "Prowler;OnTheProwl;24",
-        "PolymorphSpell;GoldenFleece;22",
-        "Huntress;ElvenMight;24",
-        "MurlocTidehunters;SafetyBubble;23",
-        "GoblinSapper;RocketBoots;21",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "MurlocTidehunters;SafetyBubble;25",
+        "Shaman;EarthShield;24"
       ],
       [
         "DrakkisathLeader;ChromaticScales;25",
         "DeepBreath;MeltingPoint;25",
-        "Banshee;WillOfTheNecropolis;21",
-        "WitchDoctor;SpiritWard;25",
-        "DarkspearTroll;BigBadVoodoo;22",
+        "PolymorphSpell;GoldenFleece;23",
+        "HolyNova;InnerFire;25",
         "Shaman;EarthShield;24",
-        "Quilboar;BrambleBurst;25"
+        "Quilboar;BrambleBurst;25",
+        "MurlocTidehunters;SafetyBubble;25"
       ],
       [
         "ThaurissanLeader;Hubris;25",
-        "EarthElemental;ObsidianShard;22",
         "DarkIronMiner;GoldMine;22",
-        "GryphonRider;MightyThrow;23",
-        "HarvestGolem;UnstableCore;23",
-        "DarkspearTroll;BigBadVoodoo;22",
+        "DeepBreath;Attunement;25",
+        "Shaman;EarthwallTotem;24",
+        "HarvestGolem;UnstableCore;24",
+        "GryphonRider;AirDrop;24",
         "Huntress;ElvenMight;24"
       ],
       [
@@ -165,7 +165,7 @@
         "MurlocTidehunters;SafetyBubble;23"
       ]
     ],
-    "lastUpdate": 1719063083
+    "lastUpdate": 1719239149
   },
-  "token": "60edd9de-fc2d-4603-9a70-ffc11489152f"
+  "token": "63a309c4-1aa6-435b-90f6-4eb609c9fef5"
 }

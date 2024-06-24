@@ -8,10 +8,10 @@
     "avatar": "Indicator_DarkmoonFaire_Eyes",
     "skulls": 150,
     "level": 43,
-    "pvpWins": 1085,
-    "leaderA": "JainaLeader",
-    "leaderAWins": 67,
-    "leaderAHonor": 4005,
+    "pvpWins": 1094,
+    "leaderA": "MaievLeader",
+    "leaderAWins": 53,
+    "leaderAHonor": 4024,
     "leaderB": "HoggerLeader",
     "leaderBWins": 168,
     "leaderBHonor": 4070,
@@ -24,10 +24,10 @@
         "JainaLeader;Clearcasting;21",
         "DefiasBandits;PickLock;19",
         "GryphonRider;MightyThrow;21",
-        "PolymorphSpell;GoldenFleece;19",
-        "Blizzard;ColdSnap;19",
-        "Quilboar;TunnelVision;22",
-        "Execute;Bloodthirsty;20"
+        "DeepBreath;MeltingPoint;19",
+        "WitchDoctor;SpiritWard;22",
+        "HarvestGolem;UnstableCore;19",
+        "Execute;Bloodthirsty;21"
       ],
       [
         "TirionLeader;DivineShield;19",
@@ -40,18 +40,18 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;19",
-        "MurlocTidehunters;SafetyBubble;19",
-        "PolymorphSpell;GoldenFleece;19",
-        "Quilboar;TunnelVision;22",
+        "AngryChickens;FuriousFowl;18",
         "Prowler;PackLeader;21",
-        "Harpy;InfectiousSwipes;21",
-        "DeepBreath;;18"
+        "Quilboar;TunnelVision;22",
+        "Huntress;Shadowmeld;21",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Pyroblast;22"
       ],
       [
         "GrommashLeader;MirrorImage;21",
-        "Execute;Bloodthirsty;20",
+        "Execute;Bloodthirsty;21",
         "StonehoofTauren;Momentum;21",
-        "DefiasBandits;PickLock;19",
+        "MurlocTidehunters;SafetyBubble;19",
         "DarkspearTroll;BigBadVoodoo;21",
         "Harpy;InfectiousSwipes;21",
         "Quilboar;TunnelVision;22"
@@ -85,12 +85,12 @@
       ],
       [
         "HoggerLeader;HamHock;20",
+        "Prowler;PackLeader;21",
+        "AngryChickens;FuriousFowl;18",
         "Quilboar;BrambleBurst;22",
-        "PolymorphSpell;GoldenFleece;18",
-        "WitchDoctor;SpiritWard;22",
-        "DefiasBandits;PickLock;19",
-        "Blizzard;ColdSnap;19",
-        "DarkspearTroll;BigBadVoodoo;21"
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Pyroblast;22"
       ],
       [
         "CairneLeader;Reincarnation;19",
@@ -120,13 +120,13 @@
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
       ],
       [
-        "CharlgaLeader;CavernousMists;18",
+        "CharlgaLeader;CavernousMists;19",
         "Quilboar;TunnelVision;22",
+        "AngryChickens;FuriousFowl;18",
         "Harpy;InfectiousSwipes;21",
-        "Pyromancer;Pyroblast;22",
         "WitchDoctor;SpiritWard;22",
-        "WhelpEggs;FlameBurst;21",
-        "Huntress;Shadowmeld;21"
+        "WhelpEggs;FlameBurst;22",
+        "Pyromancer;Pyroblast;22"
       ],
       [
         "DrakkisathLeader;ChromaticScales;22",
@@ -156,7 +156,7 @@
         "Prowler;PackLeader;21"
       ]
     ],
-    "lastUpdate": 1719063147
+    "lastUpdate": 1719191489
   },
-  "token": "407f5dae-359d-41f6-80ba-ddff75718da1"
+  "token": "4ed618e7-23e0-4adb-a1a0-f7a19dcede3a"
 }

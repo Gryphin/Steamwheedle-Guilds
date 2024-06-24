@@ -8,10 +8,10 @@
     "avatar": "CombatHUD_Tex_Player_Default",
     "skulls": 132,
     "level": 39,
-    "pvpWins": 400,
-    "leaderA": "JainaLeader",
-    "leaderAWins": 49,
-    "leaderAHonor": 3210,
+    "pvpWins": 407,
+    "leaderA": "SylvanasLeader",
+    "leaderAWins": 32,
+    "leaderAHonor": 3772,
     "leaderB": "DrakkisathLeader",
     "leaderBWins": 46,
     "leaderBHonor": 3410,
@@ -41,16 +41,16 @@
       [
         "OldMurkEyeLeader;ElectricEels;18",
         "Quilboar;Bristleback;21",
-        "Harpy;InfectiousSwipes;18",
         "Prowler;PredatoryInstincts;21",
-        "GryphonRider;AirDrop;18",
+        "FireElemental;ImmolationAura;18",
+        "MurlocTidehunters;SafetyBubble;19",
         "Blizzard;ColdSnap;21",
         "WitchDoctor;SpiritWard;21"
       ],
       [
         "GrommashLeader;MirrorImage;18",
         "WitchDoctor;SpiritWard;21",
-        "DarkspearTroll;BigBadVoodoo;20",
+        "DarkspearTroll;Headhunting;20",
         "Shaman;EarthShield;21",
         "Quilboar;Bristleback;21",
         "Blizzard;ColdSnap;21",
@@ -85,12 +85,12 @@
       ],
       [
         "HoggerLeader;HamHock;18",
-        "Prowler;PredatoryInstincts;21",
+        "Chimaera;CorrosiveBreath;20",
         "Quilboar;Bristleback;21",
         "WitchDoctor;SpiritWard;21",
-        "Banshee;WillOfTheNecropolis;18",
+        "MurlocTidehunters;SafetyBubble;19",
         "Blizzard;ColdSnap;21",
-        "Chimaera;CorrosiveBreath;20"
+        "DefiasBandits;PickLock;19"
       ],
       [
         "CairneLeader;Reincarnation;18",
@@ -122,11 +122,11 @@
       [
         "CharlgaLeader;SpiritPassage;19",
         "Quilboar;Bristleback;21",
-        "Chimaera;CorrosiveBreath;20",
-        "GoblinSapper;RocketBoots;18",
+        "Prowler;PredatoryInstincts;21",
+        "WitchDoctor;SpiritWard;21",
         "Blizzard;ColdSnap;21",
-        "GryphonRider;AirDrop;18",
-        "WitchDoctor;SpiritWard;21"
+        "MurlocTidehunters;SafetyBubble;19",
+        "Chimaera;CorrosiveBreath;20"
       ],
       [
         "DrakkisathLeader;ChromaticScales;21",
@@ -156,7 +156,7 @@
         "Prowler;PredatoryInstincts;21"
       ]
     ],
-    "lastUpdate": 1719063158
+    "lastUpdate": 1719193167
   },
-  "token": "14526baf-bf80-4176-8bd2-0ce3566aefc3"
+  "token": "fafd8dfb-e11a-4776-b0b9-6dba2b7233ba"
 }

@@ -85,11 +85,11 @@
       ],
       [
         "HoggerLeader;HamHock;22",
-        "Chimaera;Leviathan;17",
+        "Quilboar;TunnelVision;18",
         "Harpy;InfectiousSwipes;19",
-        "WitchDoctor;AmplifyCurse;18",
-        "Huntress;ElvenMight;18",
-        "Pyromancer;BlazeOfGlory;18",
+        "Abomination;NoxiousPresence;18",
+        "Raptors;;14",
+        "Shaman;EarthShield;17",
         "Blizzard;ColdSnap;18"
       ],
       [
@@ -156,7 +156,7 @@
         "Blizzard;ColdSnap;17"
       ]
     ],
-    "lastUpdate": 1719062203
+    "lastUpdate": 1719242920
   },
-  "token": "147290d1-3838-49ef-b753-a1491c3aab0e"
+  "token": "1347b506-1971-4600-8fce-29efc9037e15"
 }

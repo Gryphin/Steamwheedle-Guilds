@@ -7,7 +7,7 @@
     "guildName": null,
     "avatar": "Indicator_OldMurkEye_Pose",
     "skulls": 113,
-    "level": 36,
+    "level": 37,
     "pvpWins": 15,
     "leaderA": "BaronRivendareLeader",
     "leaderAWins": 4,
@@ -61,8 +61,8 @@
         "DarkIronMiner;GoldMine;18",
         "FireElemental;MoltenCore;18",
         "Harpy;InfectiousSwipes;20",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
-        "Mountaineer;FrenziedSpirit;17",
+        "WhelpEggs;FlameBurst;18",
+        "Footmen;Fortification;16",
         "Quilboar;Bristleback;19"
       ],
       [
@@ -90,7 +90,7 @@
         "DefiasBandits;DeadlyPoison;18",
         "WhelpEggs;FlameBurst;18",
         "Huntress;Shadowmeld;21",
-        "StonehoofTauren;Momentum;20"
+        "StonehoofTauren;Momentum;21"
       ],
       [
         "CairneLeader;Reincarnation;20",
@@ -156,7 +156,7 @@
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
       ]
     ],
-    "lastUpdate": 1719063110
+    "lastUpdate": 1719194038
   },
-  "token": "53bad053-eacc-40ec-80a4-653bc2d06c42"
+  "token": "26ac461d-1508-477e-9299-89edbe8decff"
 }

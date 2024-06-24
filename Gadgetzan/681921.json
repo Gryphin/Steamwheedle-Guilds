@@ -41,7 +41,7 @@
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
         "Quilboar;TunnelVision;21",
-        "MurlocTidehunters;SafetyBubble;21",
+        "Prowler;OnTheProwl;21",
         "FireElemental;ImmolationAura;20",
         "GryphonRider;MightyThrow;21",
         "Pyromancer;Conflagrate;21",
@@ -49,10 +49,10 @@
       ],
       [
         "GrommashLeader;Bladestorm;20",
-        "WitchDoctor;AmplifyCurse;20",
+        "StonehoofTauren;Momentum;20",
         "DarkspearTroll;BigBadVoodoo;21",
-        "LivingBomb;ChainReaction;19",
-        "Banshee;WillOfTheNecropolis;20",
+        "Footmen;Fortification;20",
+        "Pyromancer;Conflagrate;21",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
         "GryphonRider;MightyThrow;21"
       ],
@@ -104,8 +104,8 @@
       [
         "BaronRivendareLeader;ChillOfTheGrave;22",
         "Banshee;WillOfTheNecropolis;20",
-        "DarkspearTroll;BigBadVoodoo;21",
-        "LivingBomb;ChainReaction;19",
+        "Ghoul;BoneArmor;20",
+        "Execute;Bloodthirsty;20",
         "WhelpEggs;FlameBurst;21",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
         "GryphonRider;MightyThrow;21"
@@ -156,7 +156,7 @@
         "Harpy;InfectiousSwipes;21"
       ]
     ],
-    "lastUpdate": 1719063111
+    "lastUpdate": 1719193689
   },
-  "token": "583841b6-1e6e-48d4-81d9-3b9f5008bdd0"
+  "token": "91d464e7-32df-4317-ba1a-e508940bb2eb"
 }

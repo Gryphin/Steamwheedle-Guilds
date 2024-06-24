@@ -8,7 +8,7 @@
     "avatar": "Indicator_DarkmoonFaire_Eyes",
     "skulls": 150,
     "level": 47,
-    "pvpWins": 502,
+    "pvpWins": 505,
     "leaderA": "HoggerLeader",
     "leaderAWins": 56,
     "leaderAHonor": 4053,
@@ -16,18 +16,18 @@
     "leaderBWins": 64,
     "leaderBHonor": 4097,
     "leaderC": "BaronRivendareLeader",
-    "leaderCWins": 84,
-    "leaderCHonor": 3911,
+    "leaderCWins": 87,
+    "leaderCHonor": 4043,
     "socials": null,
     "armies": [
       [
         "JainaLeader;Clearcasting;21",
-        "DefiasBandits;PickLock;22",
+        "GryphonRider;MightyThrow;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
         "Execute;Bloodthirsty;22",
         "Quilboar;BrambleBurst;24",
-        "HarvestGolem;UnstableCore;21",
-        "Chimaera;CorrosiveBreath;21"
+        "FireElemental;ImmolationAura;24",
+        "Shaman;EarthShield;24"
       ],
       [
         "TirionLeader;DivineShield;24",
@@ -90,7 +90,7 @@
         "DefiasBandits;PickLock;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
         "GryphonRider;MightyThrow;22",
-        "WitchDoctor;SpiritWard;21"
+        "WitchDoctor;SpiritWard;22"
       ],
       [
         "CairneLeader;Reincarnation;21",
@@ -105,8 +105,8 @@
         "BaronRivendareLeader;ChillOfTheGrave;22",
         "Banshee;WillOfTheNecropolis;24",
         "Ghoul;BoneArmor;19",
-        "Quilboar;BrambleBurst;24",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
+        "DeepBreath;MeltingPoint;22",
         "DefiasBandits;PickLock;22",
         "GryphonRider;MightyThrow;22"
       ],
@@ -131,11 +131,11 @@
       [
         "CharlgaLeader;NaturesGrasp;19",
         "Quilboar;BrambleBurst;24",
-        "EarthElemental;ObsidianShard;21",
-        "GoblinSapper;RocketBoots;19",
-        "Banshee;WillOfTheNecropolis;24",
+        "Vultures;Migration;18",
+        "Harpy;InfectiousSwipes;24",
+        "Shaman;EarthShield;24",
         "Pyromancer;Conflagrate;22",
-        "Abomination;NoxiousPresence;21"
+        "Footmen;ShieldBash;22"
       ],
       [
         "DrakkisathLeader;ChromaticScales;24",
@@ -165,7 +165,7 @@
         "Quilboar;BrambleBurst;24"
       ]
     ],
-    "lastUpdate": 1719062211
+    "lastUpdate": 1719250120
   },
-  "token": "47ba0564-0e50-4c3e-8c78-9a3be1952558"
+  "token": "736ace3f-3bec-476f-a050-8afe0ae1de0f"
 }

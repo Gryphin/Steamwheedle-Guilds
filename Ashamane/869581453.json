@@ -8,16 +8,16 @@
     "avatar": "Indicator_BaronRivendare_Pose",
     "skulls": 150,
     "level": 43,
-    "pvpWins": 636,
+    "pvpWins": 639,
     "leaderA": "BaronRivendareLeader",
     "leaderAWins": 108,
     "leaderAHonor": 4120,
     "leaderB": "JainaLeader",
     "leaderBWins": 32,
-    "leaderBHonor": 3906,
+    "leaderBHonor": 3795,
     "leaderC": "ThaurissanLeader",
-    "leaderCWins": 50,
-    "leaderCHonor": 4173,
+    "leaderCWins": 52,
+    "leaderCHonor": 4246,
     "socials": null,
     "armies": [
       [
@@ -86,9 +86,9 @@
       [
         "HoggerLeader;SpoiledMeat;18",
         "Quilboar;TunnelVision;24",
-        "Harpy;InfectiousSwipes;24",
-        "Ghoul;TasteForBlood;24",
         "Drake;EngulfingFlames;24",
+        "Ghoul;TasteForBlood;24",
+        "Harpy;InfectiousSwipes;24",
         "Pyromancer;Pyroblast;24",
         "Huntress;ElvenMight;24"
       ],
@@ -121,12 +121,12 @@
       ],
       [
         "CharlgaLeader;CavernousMists;18",
+        "Quilboar;TunnelVision;24",
         "Harpy;InfectiousSwipes;24",
-        "Quilboar;Bristleback;24",
-        "Huntress;Shadowmeld;24",
-        "Banshee;WillOfTheNecropolis;20",
-        "WhelpEggs;FlameBurst;20",
-        "Pyromancer;Pyroblast;24"
+        "Huntress;ElvenMight;24",
+        "Pyromancer;Pyroblast;24",
+        "Drake;EngulfingFlames;24",
+        "Ghoul;TasteForBlood;24"
       ],
       [
         "DrakkisathLeader;ChromaticScales;20",
@@ -156,7 +156,7 @@
         "Huntress;ElvenMight;24"
       ]
     ],
-    "lastUpdate": 1719063077
+    "lastUpdate": 1719190845
   },
-  "token": "9503e454-7792-4aad-87f2-d11202b24c9e"
+  "token": "5dad3cc8-3583-494e-ba5d-fb63d69936a0"
 }

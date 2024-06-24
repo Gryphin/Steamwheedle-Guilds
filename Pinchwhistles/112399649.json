@@ -63,7 +63,7 @@
         "Harpy;InfectiousSwipes;20",
         "WhelpEggs;FlameBurst;21",
         "Chimaera;CorrosiveBreath;23",
-        "Banshee;WillOfTheNecropolis;19"
+        "WitchDoctor;SpiritWard;22"
       ],
       [
         "BloodmageThalnosLeader;Dominance;17",
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;21"
       ]
     ],
-    "lastUpdate": 1719063103
+    "lastUpdate": 1719063259
   },
-  "token": "177e0e2f-1ba1-4e6d-9cd8-b2fe6aad9892"
+  "token": "6f7605fa-ee27-4467-b17d-5a236e4b30d7"
 }

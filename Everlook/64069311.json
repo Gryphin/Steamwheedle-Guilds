@@ -7,7 +7,7 @@
     "guildName": null,
     "avatar": "Indicator_Sneed_Pose",
     "skulls": 130,
-    "level": 41,
+    "level": 42,
     "pvpWins": 103,
     "leaderA": "TirionLeader",
     "leaderAWins": 29,
@@ -31,10 +31,10 @@
       ],
       [
         "TirionLeader;ByTheLight;24",
-        "Footmen;Fortification;22",
+        "Footmen;Fortification;24",
         "Huntress;ElvenMight;22",
         "Gargoyle;WingBuffet;18",
-        "Blizzard;ColdSnap;22",
+        "Blizzard;ColdSnap;23",
         "DarkspearTroll;BigBadVoodoo;22",
         "Harpy;InfectiousSwipes;22"
       ],
@@ -84,13 +84,13 @@
         "SkeletonParty;5Man;19"
       ],
       [
-        "HoggerLeader;HamHock;17",
-        "Harpy;InfectiousSwipes;21",
+        "HoggerLeader;HamHock;21",
+        "Harpy;InfectiousSwipes;22",
         "Prowler;OnTheProwl;18",
-        "BatRider;FierySurplus;18",
-        "EarthElemental;ObsidianShard;21",
-        "Blizzard;ColdSnap;22",
-        "Pyromancer;Conflagrate;21"
+        "BatRider;FierySurplus;21",
+        "EarthElemental;ObsidianShard;24",
+        "Blizzard;ColdSnap;23",
+        "Pyromancer;Conflagrate;22"
       ],
       [
         "CairneLeader;Reincarnation;21",
@@ -156,7 +156,7 @@
         "Blizzard;ColdSnap;22"
       ]
     ],
-    "lastUpdate": 1719063146
+    "lastUpdate": 1719191797
   },
-  "token": "3ef4c88c-6a31-42f8-9534-77b6e8e89c09"
+  "token": "b4dfe4c2-f939-4925-b721-1738f489d622"
 }

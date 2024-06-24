@@ -21,7 +21,7 @@
     "socials": null,
     "armies": [
       [
-        "TirionLeader;DivineShield;20",
+        "TirionLeader;DivineShield;21",
         "S.A.F.E.PilotFlyingMachine;CominInHot;21",
         "Footmen;ShieldBash;21",
         "Quilboar;Bristleback;21",
@@ -49,8 +49,8 @@
       ],
       [
         "RendLeader;ScaleAndSteel;20",
-        "WhelpEggs;FlameBurst;18",
-        "DarkIronMiner;GoldMine;15",
+        "Pyromancer;Conflagrate;19",
+        "Firehammer;HeightenedRage;20",
         "Harpy;InfectiousSwipes;21",
         "StonehoofTauren;Momentum;21",
         "Quilboar;TunnelVision;21",
@@ -87,7 +87,7 @@
         "CairneLeader;Plainsrunning;21",
         "StonehoofTauren;Momentum;21",
         "DarkspearTroll;BigBadVoodoo;21",
-        "Gargoyle;WingBuffet;18",
+        "BatRider;EnchantedVials;20",
         "Harpy;InfectiousSwipes;21",
         "Quilboar;Bristleback;21",
         "S.A.F.E.PilotFlyingMachine;CominInHot;21"
@@ -96,7 +96,7 @@
         "BaronRivendareLeader;ChillOfTheGrave;21",
         "Ghoul;BoneArmor;21",
         "Gargoyle;WingBuffet;18",
-        "Quilboar;TunnelVision;21",
+        "DarkspearTroll;BigBadVoodoo;21",
         "S.A.F.E.PilotFlyingMachine;CominInHot;21",
         "Harpy;InfectiousSwipes;21",
         "BatRider;EnchantedVials;20"
@@ -147,7 +147,7 @@
         "Huntress;ElvenMight;17"
       ]
     ],
-    "lastUpdate": 1719062202
+    "lastUpdate": 1719242919
   },
-  "token": "c77a9314-3615-4ff0-bfd9-ca35f4410ab3"
+  "token": "d6ba92a0-0c28-4c2e-a40b-8bc191715c54"
 }

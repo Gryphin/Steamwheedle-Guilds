@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 51309669,
+    "btag": "Wyrmslayer",
+    "name": "Wyrmslayer",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_BaronRivendare_Pose",
+    "skulls": 104,
+    "level": 36,
+    "pvpWins": 58,
+    "leaderA": "CairneLeader",
+    "leaderAWins": 20,
+    "leaderAHonor": 1025,
+    "leaderB": "BaronRivendareLeader",
+    "leaderBWins": 24,
+    "leaderBHonor": 1322,
+    "leaderC": "CharlgaLeader",
+    "leaderCWins": 13,
+    "leaderCHonor": 1016,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Blink;17",
+        "Blizzard;;14",
+        "GryphonRider;;16",
+        "HolyNova;Renew;16",
+        "Worgen;Frenzy;17",
+        "Footmen;ShieldBash;17",
+        "GoblinSapper;ExtraBoom;17"
+      ],
+      [
+        "TirionLeader;Consecrate;18",
+        "Mountaineer;Growl;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Footmen;ShieldBash;17",
+        "DefiasBandits;PickLock;17",
+        "Worgen;Frenzy;17",
+        "GryphonRider;MightyThrow;18"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+        "Prowler;PackLeader;17",
+        "Vultures;;16",
+        "GnollBrute;Rabid;17",
+        "MurlocTidehunters;Morelocs;17",
+        "Chimaera;;17",
+        "PolymorphSpell;ExplodingSheep;17"
+      ],
+      [
+        "GrommashLeader;Bladestorm;16",
+        "StonehoofTauren;Momentum;17",
+        "Shaman;LightningMastery;17",
+        "WarsongGrunts;;15",
+        "WitchDoctor;AmplifyCurse;16",
+        "WarsongRaider;SunderArmor;17",
+        "DarkspearTroll;BigBadVoodoo;18"
+      ],
+      [
+        "RendLeader;FlamingSoul;17",
+        "Firehammer;BlazingSpeed;17",
+        "Flamewaker;Backdraft;17",
+        "Drake;Roost;17",
+        "CoreHounds;FieryRebirth;17",
+        "EarthElemental;ShrapnelBlast;17",
+        "Pyromancer;Conflagrate;17"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;17",
+        "Necromancer;CultOfTheDamned;17",
+        "Abomination;NoxiousPresence;17",
+        "CheatDeath;;14",
+        "Banshee;WillOfTheNecropolis;17",
+        "SkeletonParty;5Man;17",
+        "Shaman;LightningMastery;18"
+      ],
+      [
+        "MaievLeader;Remorseless;17",
+        "Worgen;Frenzy;17",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+        "Shaman;LightningMastery;18",
+        "GryphonRider;MightyThrow;17",
+        "Mountaineer;Growl;17",
+        "SkeletonParty;5Man;18"
+      ],
+      [
+        "HoggerLeader;SpoiledMeat;18",
+        "GnollBrute;Rabid;17",
+        "Vultures;TendonRip;17",
+        "AngryChickens;Snackrifice;17",
+        "PolymorphSpell;ExplodingSheep;18",
+        "Prowler;PackLeader;17",
+        "Chimaera;FrostShock;18"
+      ],
+      [
+        "CairneLeader;Aftershock;20",
+        "StonehoofTauren;Momentum;17",
+        "OgreMage;Avarice;17",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "GoblinSapper;ExtraBoom;17",
+        "WarsongRaider;SunderArmor;17",
+        "Shaman;LightningMastery;18"
+      ],
+      [
+        "BaronRivendareLeader;DeathPact;20",
+        "Necromancer;CultOfTheDamned;18",
+        "Banshee;WillOfTheNecropolis;17",
+        "SkeletonParty;5Man;18",
+        "Ghoul;TasteForBlood;18",
+        "SkeletonWarrior;QuestingBuddies;17",
+        "MeatWagon;GreasedGears;18"
+      ],
+      [
+        "SneedLeader;;16",
+        "StonehoofTauren;Momentum;17",
+        "Shaman;LightningMastery;18",
+        "WarsongRaider;SunderArmor;17",
+        "WitchDoctor;AmplifyCurse;16",
+        "DarkspearTroll;BigBadVoodoo;18",
+        "GoblinSapper;ExtraBoom;17"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;16",
+        "Prowler;PackLeader;17",
+        "Vultures;;15",
+        "MurlocTidehunters;Morelocs;17",
+        "GnollBrute;Rabid;17",
+        "Chimaera;;17",
+        "PolymorphSpell;;16"
+      ],
+      [
+        "DrakkisathLeader;LastingLegacy;17",
+        "Pyromancer;Conflagrate;17",
+        "CoreHounds;FieryRebirth;17",
+        "Flamewaker;Backdraft;17",
+        "Firehammer;BlazingSpeed;17",
+        "EarthElemental;ShrapnelBlast;17",
+        "WhelpEggs;FlameBurst;17"
+      ],
+      [
+        "ThaurissanLeader;MoirasWit;17",
+        "MoltenGiant;Bolster;17",
+        "Flamewaker;Backdraft;17",
+        "Mountaineer;Growl;18",
+        "Pyromancer;Conflagrate;17",
+        "GryphonRider;MightyThrow;18",
+        "EarthElemental;ShrapnelBlast;17"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;17",
+        "Necromancer;CultOfTheDamned;17",
+        "MeatWagon;GreasedGears;17",
+        "Shaman;LightningMastery;18",
+        "Banshee;WillOfTheNecropolis;17",
+        "SkeletonParty;5Man;17",
+        "Abomination;NoxiousPresence;17"
+      ]
+    ],
+    "lastUpdate": 1718884516
+  },
+  "token": "7aba508c-b42f-4c74-89a1-be216d66590d"
+}

@@ -78,10 +78,10 @@
         "MaievLeader;Remorseless;24",
         "S.A.F.E.PilotFlyingMachine;CominInHot;25",
         "DefiasBandits;PickLock;24",
-        "SkeletonParty;RitualOfRime;24",
+        "WhelpEggs;FlameBurst;26",
         "Quilboar;BrambleBurst;26",
         "Prowler;OnTheProwl;24",
-        "WhelpEggs;FlameBurst;26"
+        "Harpy;InfectiousSwipes;26"
       ],
       [
         "HoggerLeader;HamHock;24",
@@ -140,9 +140,9 @@
       [
         "DrakkisathLeader;ChromaticScales;24",
         "DarkIronMiner;DwarvenAmbition;22",
-        "Pyromancer;Conflagrate;22",
+        "Drake;MotherDrake;21",
         "Shaman;EarthShield;22",
-        "OgreMage;Avarice;22",
+        "Pyromancer;Conflagrate;22",
         "DefiasBandits;PickLock;24",
         "WitchDoctor;SpiritWard;22"
       ],
@@ -165,7 +165,7 @@
         "Harpy;InfectiousSwipes;26"
       ]
     ],
-    "lastUpdate": 1719063157
+    "lastUpdate": 1719106743
   },
-  "token": "3e172f14-eeb6-4f57-8e99-24098341d092"
+  "token": "532ab229-43cc-493d-a1d9-6f9ab57dc77a"
 }

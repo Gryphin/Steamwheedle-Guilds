@@ -7,7 +7,7 @@
     "guildName": null,
     "avatar": "Indicator_OldMurkEye_Pose",
     "skulls": 126,
-    "level": 45,
+    "level": 46,
     "pvpWins": 60,
     "leaderA": "GrommashLeader",
     "leaderAWins": 8,
@@ -102,13 +102,13 @@
         "Pyromancer;Conflagrate;21"
       ],
       [
-        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "BaronRivendareLeader;ChillOfTheGrave;22",
         "Gargoyle;WingBuffet;20",
         "Ghoul;BoneArmor;20",
         "WhelpEggs;FlameBurst;21",
         "Necromancer;JeweledSkulls;21",
         "PolymorphSpell;GoldenFleece;20",
-        "Prowler;OnTheProwl;20"
+        "Prowler;OnTheProwl;21"
       ],
       [
         "SneedLeader;LeadWithGreed;20",
@@ -156,7 +156,7 @@
         "SmokeBombSpell;ThroughTheShadows;18"
       ]
     ],
-    "lastUpdate": 1719062203
+    "lastUpdate": 1719242920
   },
-  "token": "7c51fd1a-0beb-44bc-8301-03ab0935271f"
+  "token": "22a06414-2954-4fd1-84dd-3fde6e0e9391"
 }

@@ -12,7 +12,7 @@
         "skulls": 150,
         "honor": 13369,
         "avatar": "CombatHUD_Tex_Player_Default",
-        "lastUpdate": 1719063085
+        "lastUpdate": 1719063242
       },
       {
         "id": 1159395,
@@ -21,7 +21,7 @@
         "skulls": 150,
         "honor": 9836,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063086
+        "lastUpdate": 1719063242
       },
       {
         "id": 332513495,
@@ -30,7 +30,7 @@
         "skulls": 150,
         "honor": 11873,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063086
+        "lastUpdate": 1719063242
       },
       {
         "id": 100175980,
@@ -40,15 +40,6 @@
         "honor": 11131,
         "avatar": "Indicator_Thaurissan_Pose",
         "lastUpdate": 1718197415
-      },
-      {
-        "id": 872283780,
-        "name": "Heavystarch",
-        "btag": "Heavystarch",
-        "skulls": 150,
-        "honor": 4560,
-        "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719063086
       },
       {
         "id": 70725739,
@@ -75,7 +66,7 @@
         "skulls": 150,
         "honor": 11463,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063087
+        "lastUpdate": 1719063243
       },
       {
         "id": 56544021,
@@ -84,7 +75,7 @@
         "skulls": 150,
         "honor": 10733,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063087
+        "lastUpdate": 1719063243
       },
       {
         "id": 373103380,
@@ -102,16 +93,7 @@
         "skulls": 150,
         "honor": 11912,
         "avatar": "Indicator_Charlga_Pose",
-        "lastUpdate": 1719063088
-      },
-      {
-        "id": 100135915,
-        "name": "berra",
-        "btag": "berra",
-        "skulls": 150,
-        "honor": 13262,
-        "avatar": "CombatHUD_Tex_Player_Default",
-        "lastUpdate": 1719063088
+        "lastUpdate": 1719063243
       },
       {
         "id": 65321583,
@@ -120,7 +102,7 @@
         "skulls": 149,
         "honor": 13195,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063088
+        "lastUpdate": 1719063244
       },
       {
         "id": 1586602,
@@ -129,16 +111,7 @@
         "skulls": 150,
         "honor": 13611,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063089
-      },
-      {
-        "id": 102959266,
-        "name": "Grower",
-        "btag": "Grower",
-        "skulls": 150,
-        "honor": 11235,
-        "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719063089
+        "lastUpdate": 1719063244
       },
       {
         "id": 872478824,
@@ -147,7 +120,7 @@
         "skulls": 142,
         "honor": 10070,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063087
+        "lastUpdate": 1719063244
       },
       {
         "id": 1537140,
@@ -156,7 +129,7 @@
         "skulls": 140,
         "honor": 14186,
         "avatar": "Indicator_Maiev_Pose",
-        "lastUpdate": 1719063086
+        "lastUpdate": 1719229533
       },
       {
         "id": 56016005,
@@ -165,16 +138,7 @@
         "skulls": 150,
         "honor": 11663,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063089
-      },
-      {
-        "id": 1417069,
-        "name": "Kiey",
-        "btag": "Kiey",
-        "skulls": 150,
-        "honor": 10063,
-        "avatar": "Indicator_Hogger_Pose",
-        "lastUpdate": 1719063088
+        "lastUpdate": 1719063245
       },
       {
         "id": 2047128,
@@ -183,11 +147,47 @@
         "skulls": 150,
         "honor": 5776,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063088
+        "lastUpdate": 1719063245
+      },
+      {
+        "id": 872283780,
+        "name": "Heavystarch",
+        "btag": "Heavystarch",
+        "skulls": 150,
+        "honor": 4560,
+        "avatar": "Indicator_Sylvanas_Pose",
+        "lastUpdate": 1719063242
+      },
+      {
+        "id": 100135915,
+        "name": "berra",
+        "btag": "berra",
+        "skulls": 150,
+        "honor": 13262,
+        "avatar": "CombatHUD_Tex_Player_Default",
+        "lastUpdate": 1719063244
+      },
+      {
+        "id": 102959266,
+        "name": "Grower",
+        "btag": "Grower",
+        "skulls": 150,
+        "honor": 11235,
+        "avatar": "Indicator_Thaurissan_Pose",
+        "lastUpdate": 1719063244
+      },
+      {
+        "id": 1417069,
+        "name": "Kiey",
+        "btag": "Kiey",
+        "skulls": 150,
+        "honor": 10063,
+        "avatar": "Indicator_Hogger_Pose",
+        "lastUpdate": 1719063245
       }
     ],
-    "lastUpdate": 1719063085
+    "lastUpdate": 1719063242
   },
-  "token": "075e4833-91f9-4928-b62c-22bbc915b29d",
-  "link": "https://localhost:7080/guild/469001351?token=075e4833-91f9-4928-b62c-22bbc915b29d"
+  "token": "c7a76715-98dd-4b8f-9087-70d3abc786f9",
+  "link": "https://localhost:7080/guild/469001351?token=c7a76715-98dd-4b8f-9087-70d3abc786f9"
 }

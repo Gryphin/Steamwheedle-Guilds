@@ -32,10 +32,10 @@
       [
         "TirionLeader;DivineShield;22",
         "Footmen;Fortification;19",
-        "Huntress;Shadowmeld;21",
+        "Blizzard;ColdSnap;21",
         "WhelpEggs;FlameBurst;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
-        "Blizzard;ColdSnap;21",
+        "DarkIronMiner;GoldMine;18",
         "Quilboar;TunnelVision;22"
       ],
       [
@@ -120,13 +120,13 @@
         "MurlocTidehunters;SafetyBubble;18"
       ],
       [
-        "CharlgaLeader;CavernousMists;19",
-        "Harpy;InfectiousSwipes;19",
-        "Quilboar;TunnelVision;22",
-        "GoblinSapper;RocketBoots;20",
-        "MeatWagon;FiletTrebuchet;17",
-        "GryphonRider;MightyThrow;21",
-        "WhelpEggs;FlameBurst;22"
+        "cd2137bffb5084548a4b1a81f47c725f;4d61d5f1d696c1245830bee1312254b4;19",
+        "38852e1895cd540b79b4b3d1bdd06d23;8d075c3ecaecf6543be7c1ffd4af9c4f;21",
+        "59f90a951cf6a484fb7a25e717fdf8fd;d83af40a514a6304aa94cffa0f12dd45;18",
+        "3ab9188a7e18a406e92482956562a84e;24d3360eab981b34c84727177f699fc5;20",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;17",
+        "aefd32eb6d8243047a104a9cf4f3204b;23e33cc75805bb849aaf74e58e90b5bb;20",
+        "a1b157c1b64d4446f987596e5cda8777;dd6cd6b294887cd43bf5cc8fe98d1c21;19"
       ],
       [
         "DrakkisathLeader;ChromaticScales;18",
@@ -149,14 +149,14 @@
       [
         "f6cdbc808a5205645af6155741a1cf12;894fd9cd2aa9ad04489d953259213032;21",
         "aefd32eb6d8243047a104a9cf4f3204b;23e33cc75805bb849aaf74e58e90b5bb;20",
-        "8784b095b97819f42a7e7e8c388007ad;ad77481528767274f9b09234cb4c6e27;18",
+        "8784b095b97819f42a7e7e8c388007ad;ad77481528767274f9b09234cb4c6e27;19",
         "8f4961fc47d4e1242abfe7a6d69331a0;5448e6c6f61fc734e9f4a2abe3df6be3;18",
         "ff6780adbb31c4546bef2b035b67eeed;a2d01d1d611528a4aab1bc2bd0ba24cb;22",
         "38852e1895cd540b79b4b3d1bdd06d23;8d075c3ecaecf6543be7c1ffd4af9c4f;21",
-        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;16"
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;17"
       ]
     ],
-    "lastUpdate": 1719063079
+    "lastUpdate": 1719191303
   },
-  "token": "fbe662ea-e24f-4daa-87cb-d854990d8d2d"
+  "token": "ce655a48-3e80-4640-91a8-053ffa7db321"
 }

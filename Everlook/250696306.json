@@ -129,11 +129,11 @@
         "adb619f981176e444bd759d85e80cbfc;85415575670822340a36efab0dfc50a9;24"
       ],
       [
-        "CharlgaLeader;;15",
+        "CharlgaLeader;;16",
         "Quilboar;TunnelVision;24",
-        "Harpy;InfectiousSwipes;24",
-        "Huntress;Shadowmeld;24",
-        "WhelpEggs;FlameBurst;22",
+        "Harpy;InfectiousSwipes;25",
+        "Huntress;Shadowmeld;26",
+        "WhelpEggs;FlameBurst;24",
         "S.A.F.E.PilotFlyingMachine;CominInHot;21",
         "EarthElemental;ObsidianShard;22"
       ],
@@ -165,7 +165,7 @@
         "Huntress;Shadowmeld;26"
       ]
     ],
-    "lastUpdate": 1719063147
+    "lastUpdate": 1719191428
   },
-  "token": "eca3ca16-0694-4173-8195-ee40dc7309b8"
+  "token": "397b9361-eda2-4d4f-8922-3600ad22d5cb"
 }

@@ -33,10 +33,10 @@
         "TirionLeader;ByTheLight;23",
         "HolyNova;InnerFire;20",
         "Huntress;Shadowmeld;21",
-        "Chimaera;FrostShock;24",
+        "Drake;EngulfingFlames;23",
         "Gargoyle;WingBuffet;23",
         "WhelpEggs;FlameBurst;21",
-        "Drake;MotherDrake;23"
+        "Chimaera;FrostShock;24"
       ],
       [
         "OldMurkEyeLeader;TipOfTheSpear;18",
@@ -89,8 +89,8 @@
         "Chimaera;FrostShock;24",
         "WitchDoctor;SpiritWard;21",
         "WhelpEggs;FlameBurst;21",
-        "Gargoyle;WingBuffet;23",
-        "Firehammer;BlazingSpeed;20"
+        "BatRider;EnchantedVials;20",
+        "Huntress;Shadowmeld;21"
       ],
       [
         "CairneLeader;Plainsrunning;21",
@@ -156,7 +156,7 @@
         "Chimaera;FrostShock;23"
       ]
     ],
-    "lastUpdate": 1719063079
+    "lastUpdate": 1719191150
   },
-  "token": "348af06a-0bca-40f8-9e6f-7633fe24ee75"
+  "token": "2d210db3-fbef-4ef8-8ee9-9b1975c5ddab"
 }

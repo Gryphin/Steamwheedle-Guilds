@@ -41,11 +41,11 @@
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
         "Chimaera;CorrosiveBreath;20",
-        "PolymorphSpell;;14",
-        "FireElemental;ImmolationAura;19",
-        "DarkIronMiner;;15",
+        "Quilboar;TunnelVision;21",
+        "FireElemental;ImmolationAura;20",
+        "Pyromancer;Pyroblast;21",
         "Execute;Bloodthirsty;18",
-        "Harpy;InfectiousSwipes;19"
+        "Harpy;InfectiousSwipes;21"
       ],
       [
         "GrommashLeader;Bladestorm;17",
@@ -87,10 +87,10 @@
         "HoggerLeader;SpoiledMeat;18",
         "Chimaera;CorrosiveBreath;20",
         "Quilboar;TunnelVision;21",
-        "Ghoul;BoneArmor;18",
+        "WitchDoctor;SpiritWard;21",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
         "Harpy;InfectiousSwipes;21",
-        "WitchDoctor;SpiritWard;21"
+        "Execute;Bloodthirsty;18"
       ],
       [
         "CairneLeader;Reincarnation;18",
@@ -133,9 +133,9 @@
         "Pyromancer;Conflagrate;21",
         "Drake;MotherDrake;18",
         "Shaman;EarthShield;18",
-        "DefiasBandits;PickLock;20",
+        "DefiasBandits;PickLock;21",
         "WitchDoctor;SpiritWard;21",
-        "OgreMage;FrostfireBolt;18"
+        "OgreMage;FrostfireBolt;19"
       ],
       [
         "ThaurissanLeader;Hubris;20",
@@ -156,7 +156,7 @@
         "Harpy;InfectiousSwipes;21"
       ]
     ],
-    "lastUpdate": 1719063107
+    "lastUpdate": 1719192520
   },
-  "token": "42d9aaa4-1aa3-403c-a63e-5c235631074f"
+  "token": "f2e46bad-8741-468d-ad83-af9aaf7e9f53"
 }

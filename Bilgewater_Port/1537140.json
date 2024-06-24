@@ -8,7 +8,7 @@
     "avatar": "Indicator_Maiev_Pose",
     "skulls": 140,
     "level": 47,
-    "pvpWins": 875,
+    "pvpWins": 878,
     "leaderA": "BaronRivendareLeader",
     "leaderAWins": 119,
     "leaderAHonor": 4614,
@@ -103,12 +103,12 @@
       ],
       [
         "BaronRivendareLeader;ChillOfTheGrave;22",
-        "Banshee;WillOfTheNecropolis;23",
         "Ghoul;BoneArmor;22",
+        "PlagueFarmer;SplashingPumpkins;19",
         "Quilboar;BrambleBurst;25",
         "Execute;Bloodthirsty;24",
-        "GryphonRider;MightyThrow;25",
-        "DeepBreath;Attunement;22"
+        "WitchDoctor;SpiritWard;22",
+        "WhelpEggs;FlameBurst;22"
       ],
       [
         "SneedLeader;MineIsMoneyFriend;22",
@@ -139,8 +139,8 @@
       ],
       [
         "DrakkisathLeader;ChromaticScales;24",
-        "DeepBreath;Attunement;22",
         "DarkIronMiner;GoldMine;22",
+        "DeepBreath;Attunement;22",
         "Shaman;EarthShield;24",
         "Quilboar;BrambleBurst;25",
         "GryphonRider;MightyThrow;25",
@@ -157,15 +157,15 @@
       ],
       [
         "SylvanasLeader;BlackArrow;21",
-        "Gargoyle;WingBuffet;22",
-        "Ghoul;BoneArmor;21",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "Ghoul;BoneArmor;22",
         "Execute;Bloodthirsty;24",
-        "DeepBreath;DoubleDragon;22",
+        "Quilboar;BrambleBurst;25",
         "WhelpEggs;FlameBurst;22",
         "WitchDoctor;SpiritWard;22"
       ]
     ],
-    "lastUpdate": 1719063086
+    "lastUpdate": 1719229533
   },
-  "token": "ff9bfe32-9f6a-444b-9b60-70658eaa2ac1"
+  "token": "b75bdccc-5e91-40b5-9de9-b35f8d6186c3"
 }

@@ -112,7 +112,7 @@
       ],
       [
         "SneedLeader;LeadWithGreed;21",
-        "WarsongRaider;SunderArmor;18",
+        "ChainLightning;Reverberation;20",
         "BatRider;EnchantedVials;19",
         "MeatWagon;FiletTrebuchet;21",
         "Prowler;OnTheProwl;21",
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;22"
       ]
     ],
-    "lastUpdate": 1719062204
+    "lastUpdate": 1719242920
   },
-  "token": "a4b5578c-de3e-4f6d-8c13-fab173d668d6"
+  "token": "3e9b1043-d112-493b-bab9-4c1e441f71e7"
 }

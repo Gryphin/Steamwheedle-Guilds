@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1415558428,
+    "btag": "Songlaa",
+    "name": "Songlaa",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_KoboldMech_Pose",
+    "skulls": 135,
+    "level": 41,
+    "pvpWins": 79,
+    "leaderA": "MaievLeader",
+    "leaderAWins": 7,
+    "leaderAHonor": 1321,
+    "leaderB": "OldMurkEyeLeader",
+    "leaderBWins": 9,
+    "leaderBHonor": 1388,
+    "leaderC": "CharlgaLeader",
+    "leaderCWins": 10,
+    "leaderCHonor": 1361,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Flurry;19",
+        "Worgen;Premeditation;20",
+        "DefiasBandits;PickLock;20",
+        "Execute;Bloodthirsty;18",
+        "Quilboar;TunnelVision;22",
+        "Harpy;InfectiousSwipes;21",
+        "Chimaera;CorrosiveBreath;21"
+      ],
+      [
+        "TirionLeader;DivineShield;21",
+        "GryphonRider;MightyThrow;22",
+        "HarvestGolem;TrojanChickens;17",
+        "Prowler;OnTheProwl;20",
+        "WitchDoctor;SpiritWard;21",
+        "Chimaera;CorrosiveBreath;21",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Chimaera;CorrosiveBreath;21",
+        "Prowler;OnTheProwl;20",
+        "FireElemental;ImmolationAura;21",
+        "Harpy;InfectiousSwipes;21",
+        "WitchDoctor;SpiritWard;21",
+        "Shaman;EarthShield;21"
+      ],
+      [
+        "GrommashLeader;Bladestorm;20",
+        "StonehoofTauren;Momentum;19",
+        "WitchDoctor;SpiritWard;21",
+        "Harpy;InfectiousSwipes;21",
+        "Gargoyle;WingBuffet;18",
+        "Quilboar;TunnelVision;22",
+        "DarkspearTroll;BigBadVoodoo;19"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;20",
+        "Drake;MotherDrake;20",
+        "WhelpEggs;FlameBurst;21",
+        "Harpy;InfectiousSwipes;21",
+        "DefiasBandits;DeadlyPoison;20",
+        "Quilboar;TunnelVision;22",
+        "MeatWagon;FiletTrebuchet;18"
+      ],
+      [
+        "BloodmageThalnosLeader;DrainLife;20",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "SkeletonParty;5Man;20",
+        "Execute;Bloodthirsty;18",
+        "WhelpEggs;FlameBurst;21",
+        "EarthElemental;ObsidianShard;19",
+        "Chimaera;CorrosiveBreath;21"
+      ],
+      [
+        "MaievLeader;Remorseless;18",
+        "Worgen;Premeditation;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "SkeletonWarrior;QuestingBuddies;18",
+        "Execute;Bloodthirsty;18",
+        "EarthElemental;ObsidianShard;19",
+        "WhelpEggs;FlameBurst;21"
+      ],
+      [
+        "HoggerLeader;HamHock;18",
+        "Quilboar;TunnelVision;22",
+        "Chimaera;CorrosiveBreath;21",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "WitchDoctor;SpiritWard;21",
+        "WhelpEggs;FlameBurst;21",
+        "BatRider;EnchantedVials;20"
+      ],
+      [
+        "CairneLeader;Reincarnation;18",
+        "Shaman;EarthShield;21",
+        "BatRider;EnchantedVials;20",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Quilboar;TunnelVision;22",
+        "Harpy;InfectiousSwipes;21",
+        "FireElemental;ImmolationAura;21"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;20",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Necromancer;JeweledSkulls;19",
+        "FireElemental;ImmolationAura;21",
+        "Shaman;EarthShield;21",
+        "Harpy;InfectiousSwipes;21",
+        "WitchDoctor;SpiritWard;21"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;17",
+        "StonehoofTauren;Momentum;18",
+        "WitchDoctor;SpiritWard;21",
+        "Gargoyle;WingBuffet;18",
+        "WhelpEggs;FlameBurst;21",
+        "DarkspearTroll;BigBadVoodoo;19",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "CharlgaLeader;NaturesGrasp;18",
+        "Prowler;OnTheProwl;20",
+        "Harpy;InfectiousSwipes;21",
+        "GoblinSapper;RocketBoots;18",
+        "EarthElemental;ObsidianShard;19",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "BatRider;EnchantedVials;20"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;20",
+        "FireElemental;ImmolationAura;21",
+        "Pyromancer;Conflagrate;19",
+        "Shaman;EarthShield;21",
+        "WhelpEggs;FlameBurst;21",
+        "BatRider;EnchantedVials;20",
+        "PlagueFarmer;SplashingPumpkins;21"
+      ],
+      [
+        "ThaurissanLeader;Hubris;18",
+        "WhelpEggs;FlameBurst;21",
+        "EarthElemental;ObsidianShard;19",
+        "SkeletonParty;RitualOfRime;20",
+        "WitchDoctor;SpiritWard;21",
+        "Firehammer;HeightenedRage;20",
+        "Harpy;InfectiousSwipes;21"
+      ],
+      [
+        "SylvanasLeader;BlackArrow;19",
+        "MeatWagon;FiletTrebuchet;18",
+        "PlagueFarmer;SplashingPumpkins;21",
+        "Execute;Bloodthirsty;18",
+        "WhelpEggs;FlameBurst;21",
+        "Quilboar;TunnelVision;22",
+        "Gargoyle;WingBuffet;18"
+      ]
+    ],
+    "lastUpdate": 1719161741
+  },
+  "token": "b581d9b8-2b8a-4049-9286-fc5f02898b9a"
+}

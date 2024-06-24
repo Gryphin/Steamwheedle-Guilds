@@ -25,7 +25,7 @@
         "DefiasBandits;PickLock;24",
         "DarkIronMiner;GoldMine;24",
         "Execute;Bloodthirsty;24",
-        "Quilboar;BrambleBurst;25",
+        "Quilboar;BrambleBurst;26",
         "WhelpEggs;FlameBurst;25",
         "FireElemental;ImmolationAura;24"
       ],
@@ -41,7 +41,7 @@
       [
         "OldMurkEyeLeader;ElectricEels;24",
         "Harpy;InfectiousSwipes;24",
-        "Quilboar;TunnelVision;24",
+        "Quilboar;TunnelVision;26",
         "Footmen;ShieldBash;21",
         "Blizzard;ColdSnap;24",
         "DarkIronMiner;DarkIronArmaments;24",
@@ -85,7 +85,7 @@
       ],
       [
         "HoggerLeader;HamHock;24",
-        "Quilboar;Bristleback;24",
+        "Quilboar;Bristleback;26",
         "Chimaera;CorrosiveBreath;24",
         "DarkIronMiner;GoldMine;24",
         "WhelpEggs;FlameBurst;25",
@@ -130,11 +130,11 @@
       ],
       [
         "CharlgaLeader;NaturesGrasp;23",
-        "Quilboar;TunnelVision;24",
-        "WhelpEggs;FlameBurst;25",
+        "Quilboar;TunnelVision;26",
         "Harpy;InfectiousSwipes;24",
+        "WhelpEggs;FlameBurst;25",
         "Shaman;EarthShield;22",
-        "Execute;Bloodthirsty;23",
+        "Execute;Bloodthirsty;24",
         "FireElemental;ImmolationAura;24"
       ],
       [
@@ -165,7 +165,7 @@
         "WhelpEggs;FlameBurst;25"
       ]
     ],
-    "lastUpdate": 1719063083
+    "lastUpdate": 1719239149
   },
-  "token": "bba544f2-0242-4b64-bcfd-66191ad78724"
+  "token": "380c5dbe-78b3-41a3-b4f9-db57c0de1ca4"
 }

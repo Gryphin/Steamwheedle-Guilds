@@ -8,26 +8,26 @@
     "avatar": "Indicator_Jaina_Pose",
     "skulls": 150,
     "level": 43,
-    "pvpWins": 749,
+    "pvpWins": 752,
     "leaderA": "ThaurissanLeader",
     "leaderAWins": 27,
     "leaderAHonor": 4060,
-    "leaderB": "JainaLeader",
-    "leaderBWins": 58,
-    "leaderBHonor": 3832,
-    "leaderC": "DrakkisathLeader",
-    "leaderCWins": 25,
-    "leaderCHonor": 3773,
+    "leaderB": "DrakkisathLeader",
+    "leaderBWins": 27,
+    "leaderBHonor": 3904,
+    "leaderC": "RendLeader",
+    "leaderCWins": 68,
+    "leaderCHonor": 3860,
     "socials": null,
     "armies": [
       [
         "JainaLeader;Blink;21",
-        "Banshee;WillOfTheNecropolis;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
         "Blizzard;ColdSnap;21",
-        "CheatDeath;Vampirism;18",
-        "WhelpEggs;FlameBurst;24",
+        "Execute;KillingSpree;21",
+        "WitchDoctor;SpiritWard;21",
         "Quilboar;TunnelVision;24",
-        "Harpy;InfectiousSwipes;24"
+        "FireElemental;ImmolationAura;21"
       ],
       [
         "TirionLeader;DivineShield;19",
@@ -40,7 +40,7 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
-        "Chimaera;Leviathan;21",
+        "MurlocTidehunters;SafetyBubble;21",
         "Harpy;InfectiousSwipes;24",
         "Quilboar;TunnelVision;24",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24",
@@ -86,10 +86,10 @@
       [
         "HoggerLeader;HamHock;21",
         "Harpy;InfectiousSwipes;24",
-        "AngryChickens;WalkingCrate;17",
         "Quilboar;TunnelVision;24",
+        "WitchDoctor;SpiritWard;21",
         "WhelpEggs;FlameBurst;24",
-        "Banshee;WillOfTheNecropolis;18",
+        "Shaman;EarthShield;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;24"
       ],
       [
@@ -121,12 +121,12 @@
       ],
       [
         "CharlgaLeader;CavernousMists;18",
-        "Pyromancer;Conflagrate;21",
-        "Shaman;EarthShield;19",
-        "FireElemental;ImmolationAura;19",
-        "Blizzard;ColdSnap;19",
-        "StonehoofTauren;Momentum;19",
-        "DarkIronMiner;GoldMine;18"
+        "Quilboar;TunnelVision;24",
+        "MurlocTidehunters;SafetyBubble;21",
+        "Harpy;InfectiousSwipes;24",
+        "Blizzard;ColdSnap;21",
+        "StonehoofTauren;Momentum;22",
+        "Pyromancer;Conflagrate;24"
       ],
       [
         "DrakkisathLeader;ChromaticScales;23",
@@ -148,7 +148,7 @@
       ],
       [
         "SylvanasLeader;BlackArrow;21",
-        "MurlocTidehunters;SafetyBubble;21",
+        "Abomination;NoxiousPresence;21",
         "CheatDeath;Vampirism;18",
         "Execute;KillingSpree;21",
         "WhelpEggs;FlameBurst;24",
@@ -156,7 +156,7 @@
         "Harpy;InfectiousSwipes;24"
       ]
     ],
-    "lastUpdate": 1719063108
+    "lastUpdate": 1719193475
   },
-  "token": "9d748fa9-2161-4367-98a2-3f60bc37741d"
+  "token": "3c65432d-ee3f-4a89-b242-86be12d077b0"
 }

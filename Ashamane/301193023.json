@@ -39,12 +39,12 @@
         "WhelpEggs;FlameBurst;25"
       ],
       [
-        "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
         "Chimaera;CorrosiveBreath;24",
-        "Quilboar;Bristleback;24",
-        "EarthElemental;ReadyToRumble;21",
+        "Harpy;InfectiousSwipes;24",
+        "FireElemental;FanTheFlames;22",
         "Shaman;EarthShield;25",
-        "SkeletonWarrior;Exhume;19",
+        "SkeletonWarrior;Exhume;21",
         "WhelpEggs;FlameBurst;25"
       ],
       [
@@ -132,7 +132,7 @@
         "DrakkisathLeader;ChromaticScales;25",
         "WhelpEggs;FlameBurst;25",
         "Drake;MotherDrake;24",
-        "WitchDoctor;SpiritWard;24",
+        "SkeletonParty;RitualOfRime;22",
         "DefiasBandits;PickLock;24",
         "Shaman;EarthShield;25",
         "Pyromancer;Conflagrate;25"
@@ -156,7 +156,7 @@
         "Execute;Bloodthirsty;22"
       ]
     ],
-    "lastUpdate": 1719063079
+    "lastUpdate": 1719191181
   },
-  "token": "2e0aa673-b9b4-4ebe-bbc6-89383922fef6"
+  "token": "b61bf855-f331-41ba-ada5-d3089b6ac48f"
 }

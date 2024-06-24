@@ -7,7 +7,7 @@
     "guildName": null,
     "avatar": "Indicator_Tirion_Pose",
     "skulls": 130,
-    "level": 43,
+    "level": 44,
     "pvpWins": 201,
     "leaderA": "HoggerLeader",
     "leaderAWins": 21,
@@ -33,19 +33,19 @@
         "TirionLeader;DivineShield;21",
         "DefiasBandits;PickLock;21",
         "GryphonRider;MightyThrow;21",
-        "EarthElemental;ObsidianShard;21",
+        "FireElemental;ImmolationAura;20",
         "Quilboar;TunnelVision;21",
         "Pyromancer;Pyroblast;24",
-        "Harpy;InfectiousSwipes;21"
+        "Harpy;InfectiousSwipes;22"
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
         "Quilboar;TunnelVision;21",
-        "Harpy;InfectiousSwipes;21",
-        "EarthElemental;ObsidianShard;21",
+        "Harpy;InfectiousSwipes;22",
+        "Prowler;OnTheProwl;21",
         "DefiasBandits;PickLock;21",
         "Huntress;Shadowmeld;23",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+        "LivingBomb;BlastRadius;18"
       ],
       [
         "GrommashLeader;MirrorImage;21",
@@ -61,7 +61,7 @@
         "Pyromancer;Pyroblast;24",
         "WhelpEggs;FlameBurst;22",
         "Gargoyle;WingBuffet;21",
-        "Harpy;InfectiousSwipes;21",
+        "Harpy;InfectiousSwipes;22",
         "DefiasBandits;PickLock;21",
         "Quilboar;TunnelVision;21"
       ],
@@ -85,16 +85,16 @@
       ],
       [
         "HoggerLeader;HamHock;21",
-        "PolymorphSpell;GoldenFleece;20",
+        "PolymorphSpell;GoldenFleece;21",
         "Quilboar;TunnelVision;21",
-        "Ghoul;BoneArmor;20",
+        "DarkIronMiner;GoldMine;21",
         "S.A.F.E.PilotFlyingMachine;CominInHot;21",
         "GryphonRider;MightyThrow;21",
         "MurlocTidehunters;SafetyBubble;21"
       ],
       [
         "CairneLeader;Reincarnation;22",
-        "OgreMage;FrostfireBolt;21",
+        "Execute;Bloodthirsty;21",
         "Shaman;EarthShield;22",
         "WitchDoctor;SpiritWard;22",
         "DarkspearTroll;BigBadVoodoo;21",
@@ -124,7 +124,7 @@
         "MurlocTidehunters;SafetyBubble;21",
         "Quilboar;TunnelVision;21",
         "Prowler;OnTheProwl;21",
-        "Execute;Bloodthirsty;21",
+        "LivingBomb;BlastRadius;18",
         "GryphonRider;MightyThrow;21",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
       ],
@@ -156,7 +156,7 @@
         "Quilboar;TunnelVision;21"
       ]
     ],
-    "lastUpdate": 1719063105
+    "lastUpdate": 1719192395
   },
-  "token": "e52a6c53-7fb5-4962-b959-164b958b1019"
+  "token": "7459fae5-afe1-4e15-8314-ef19d3af6a10"
 }

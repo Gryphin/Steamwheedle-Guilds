@@ -42,14 +42,14 @@
         "OldMurkEyeLeader;ElectricEels;18",
         "Chimaera;FrostShock;21",
         "AngryChickens;FuriousFowl;18",
-        "FireElemental;ImmolationAura;19",
+        "Abomination;NoxiousPresence;21",
         "PlagueFarmer;SplashingPumpkins;18",
         "WhelpEggs;FlameBurst;21",
         "Shaman;EarthShield;21"
       ],
       [
         "GrommashLeader;SavageStrikes;18",
-        "BatRider;EnchantedVials;20",
+        "BatRider;EnchantedVials;21",
         "WitchDoctor;SpiritWard;21",
         "Harpy;InfectiousSwipes;19",
         "Banshee;WillOfTheNecropolis;18",
@@ -72,7 +72,7 @@
         "HolyNova;Renew;18",
         "MeatWagon;FiletTrebuchet;21",
         "EarthElemental;ObsidianShard;18",
-        "OgreMage;Ignite;18"
+        "Flamewaker;Engulf;18"
       ],
       [
         "MaievLeader;Shadowstep;18",
@@ -165,7 +165,7 @@
         "Quilboar;TunnelVision;19"
       ]
     ],
-    "lastUpdate": 1719063083
+    "lastUpdate": 1719239150
   },
-  "token": "219042c8-386a-46a2-bce6-0386d4e58dd4"
+  "token": "5bbcf9a0-842b-4f29-99b5-1ac1837e21e6"
 }

@@ -31,11 +31,11 @@
       ],
       [
         "TirionLeader;DivineShield;20",
-        "DefiasBandits;PickLock;18",
+        "DefiasBandits;PickLock;19",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
         "Footmen;Fortification;18",
         "Harpy;InfectiousSwipes;22",
-        "WhelpEggs;FlameBurst;22",
+        "WhelpEggs;FlameBurst;24",
         "Pyromancer;Conflagrate;22"
       ],
       [
@@ -43,9 +43,9 @@
         "Prowler;PackLeader;18",
         "Harpy;InfectiousSwipes;22",
         "Quilboar;TunnelVision;22",
-        "Shaman;;20",
+        "Shaman;LightningMastery;20",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
-        "WhelpEggs;FlameBurst;22"
+        "WhelpEggs;FlameBurst;23"
       ],
       [
         "GrommashLeader;MirrorImage;20",
@@ -156,7 +156,7 @@
         "StonehoofTauren;Momentum;18"
       ]
     ],
-    "lastUpdate": 1719062202
+    "lastUpdate": 1719242920
   },
-  "token": "6c7bbc35-3769-4a54-9dec-2c9b6b8db663"
+  "token": "4de70669-04c7-46bb-86fe-62b80d7a4fe3"
 }

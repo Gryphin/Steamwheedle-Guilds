@@ -40,12 +40,12 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
-        "Harpy;InfectiousSwipes;21",
-        "Quilboar;Bristleback;21",
-        "EarthElemental;ObsidianShard;21",
-        "GryphonRider;MightyThrow;21",
-        "Execute;Bloodthirsty;19",
-        "Pyromancer;Pyroblast;21"
+        "Harpy;InfectiousSwipes;22",
+        "Prowler;OnTheProwl;21",
+        "FireElemental;ImmolationAura;21",
+        "WhelpEggs;FlameBurst;21",
+        "LivingBomb;ChainReaction;17",
+        "AngryChickens;FuriousFowl;20"
       ],
       [
         "GrommashLeader;MirrorImage;21",
@@ -85,12 +85,12 @@
       ],
       [
         "HoggerLeader;HamHock;18",
-        "Chimaera;CorrosiveBreath;20",
+        "AngryChickens;FuriousFowl;20",
         "Quilboar;Bristleback;21",
-        "BatRider;EnchantedVials;18",
-        "Banshee;WillOfTheNecropolis;18",
-        "WhelpEggs;FlameBurst;21",
-        "HolyNova;InnerFire;17"
+        "PlagueFarmer;SplashingPumpkins;18",
+        "Chimaera;CorrosiveBreath;20",
+        "Abomination;NoxiousPresence;22",
+        "LivingBomb;ChainReaction;17"
       ],
       [
         "CairneLeader;Reincarnation;21",
@@ -113,20 +113,20 @@
       [
         "SneedLeader;LeadWithGreed;20",
         "WitchDoctor;SpiritWard;21",
-        "BatRider;EnchantedVials;18",
+        "BatRider;EnchantedVials;19",
         "EarthElemental;ObsidianShard;21",
-        "Harpy;InfectiousSwipes;21",
+        "Harpy;InfectiousSwipes;22",
         "AngryChickens;FuriousFowl;20",
         "WhelpEggs;FlameBurst;21"
       ],
       [
         "CharlgaLeader;CavernousMists;18",
-        "PolymorphSpell;GoldenFleece;18",
+        "Quilboar;Bristleback;21",
         "Chimaera;CorrosiveBreath;20",
-        "Harpy;InfectiousSwipes;21",
-        "DarkIronMiner;DarkIronArmaments;18",
-        "Pyromancer;Pyroblast;21",
-        "HolyNova;InnerFire;17"
+        "AngryChickens;FuriousFowl;20",
+        "FireElemental;ImmolationAura;21",
+        "LivingBomb;ChainReaction;17",
+        "PlagueFarmer;SplashingPumpkins;18"
       ],
       [
         "DrakkisathLeader;ChromaticScales;24",
@@ -156,7 +156,7 @@
         "Harpy;InfectiousSwipes;21"
       ]
     ],
-    "lastUpdate": 1719063146
+    "lastUpdate": 1719191673
   },
-  "token": "de8df717-3f20-4425-a89e-881bf6ed5032"
+  "token": "a822cff4-3bdb-4d42-8aec-54d00860cb83"
 }

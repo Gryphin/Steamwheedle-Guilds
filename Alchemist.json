@@ -12,16 +12,7 @@
         "skulls": 125,
         "honor": 4243,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063129
-      },
-      {
-        "id": 122270038,
-        "name": "Pinksweety",
-        "btag": "Pinksweety",
-        "skulls": 118,
-        "honor": 4681,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063129
+        "lastUpdate": 1719063283
       },
       {
         "id": 55744095,
@@ -30,7 +21,7 @@
         "skulls": 117,
         "honor": 9224,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063129
+        "lastUpdate": 1719063283
       },
       {
         "id": 465135,
@@ -39,7 +30,7 @@
         "skulls": 140,
         "honor": 9887,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719063129
+        "lastUpdate": 1719063284
       },
       {
         "id": 73505935,
@@ -48,7 +39,7 @@
         "skulls": 105,
         "honor": 4408,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063129
+        "lastUpdate": 1719063284
       },
       {
         "id": 1833355,
@@ -57,7 +48,7 @@
         "skulls": 136,
         "honor": 5369,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063129
+        "lastUpdate": 1719063284
       },
       {
         "id": 394447133,
@@ -66,7 +57,7 @@
         "skulls": 150,
         "honor": 12234,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719063130
+        "lastUpdate": 1719063284
       },
       {
         "id": 52454502,
@@ -75,7 +66,7 @@
         "skulls": 135,
         "honor": 8180,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063130
+        "lastUpdate": 1719063284
       },
       {
         "id": 304680812,
@@ -84,7 +75,7 @@
         "skulls": 139,
         "honor": 10301,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719063131
+        "lastUpdate": 1719063285
       },
       {
         "id": 937345,
@@ -93,16 +84,7 @@
         "skulls": 121,
         "honor": 6266,
         "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719063131
-      },
-      {
-        "id": 10017390,
-        "name": "Eagle",
-        "btag": "Eagle",
-        "skulls": 134,
-        "honor": 4273,
-        "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063131
+        "lastUpdate": 1719063285
       },
       {
         "id": 65321018,
@@ -111,7 +93,7 @@
         "skulls": 150,
         "honor": 11391,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063131
+        "lastUpdate": 1719063285
       },
       {
         "id": 50104215,
@@ -120,7 +102,7 @@
         "skulls": 139,
         "honor": 8304,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063131
+        "lastUpdate": 1719063285
       },
       {
         "id": 80368787,
@@ -129,7 +111,7 @@
         "skulls": 105,
         "honor": 7772,
         "avatar": "CombatHUD_Tex_Player_Default",
-        "lastUpdate": 1719063131
+        "lastUpdate": 1719063286
       },
       {
         "id": 1961457,
@@ -138,7 +120,7 @@
         "skulls": 140,
         "honor": 5556,
         "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719063132
+        "lastUpdate": 1719063286
       },
       {
         "id": 1547705,
@@ -147,16 +129,7 @@
         "skulls": 116,
         "honor": 11202,
         "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719063132
-      },
-      {
-        "id": 51037246,
-        "name": "AFKyle",
-        "btag": "AFKyle",
-        "skulls": 120,
-        "honor": 8701,
-        "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719063130
+        "lastUpdate": 1719063286
       },
       {
         "id": 2065635,
@@ -165,7 +138,16 @@
         "skulls": 129,
         "honor": 5146,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063132
+        "lastUpdate": 1719063286
+      },
+      {
+        "id": 10017390,
+        "name": "Eagle",
+        "btag": "Eagle",
+        "skulls": 134,
+        "honor": 4273,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719063285
       },
       {
         "id": 881911616,
@@ -174,11 +156,29 @@
         "skulls": 90,
         "honor": 7996,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063130
+        "lastUpdate": 1719063286
+      },
+      {
+        "id": 122270038,
+        "name": "Pinksweety",
+        "btag": "Pinksweety",
+        "skulls": 118,
+        "honor": 4681,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063283
+      },
+      {
+        "id": 51037246,
+        "name": "AFKyle",
+        "btag": "AFKyle",
+        "skulls": 120,
+        "honor": 8701,
+        "avatar": "Indicator_BaronRivendare_Pose",
+        "lastUpdate": 1719063286
       }
     ],
-    "lastUpdate": 1719063128
+    "lastUpdate": 1719063283
   },
-  "token": "b660e3f0-9b09-4740-8aef-dbca781669d9",
-  "link": "https://localhost:7080/guild/202672512?token=b660e3f0-9b09-4740-8aef-dbca781669d9"
+  "token": "5808bd05-3a8c-4cf7-8cb0-dab000b04808",
+  "link": "https://localhost:7080/guild/202672512?token=5808bd05-3a8c-4cf7-8cb0-dab000b04808"
 }

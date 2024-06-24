@@ -22,7 +22,7 @@
     "armies": [
       [
         "JainaLeader;Clearcasting;19",
-        "Blizzard;ColdSnap;18",
+        "Blizzard;ColdSnap;19",
         "GryphonRider;OdynsFury;21",
         "Execute;Bloodthirsty;18",
         "Huntress;Shadowmeld;21",
@@ -50,10 +50,10 @@
       [
         "GrommashLeader;Bladestorm;21",
         "Shaman;EarthShield;21",
-        "OgreMage;Avarice;19",
+        "BatRider;EnchantedVials;20",
         "Harpy;InfectiousSwipes;22",
-        "BatRider;EnchantedVials;19",
-        "Quilboar;TunnelVision;21",
+        "WitchDoctor;AmplifyCurse;20",
+        "Pyromancer;Conflagrate;21",
         "WhelpEggs;FlameBurst;21"
       ],
       [
@@ -102,8 +102,8 @@
         "Harpy;InfectiousSwipes;22"
       ],
       [
-        "BaronRivendareLeader;ChillOfTheGrave;20",
-        "Necromancer;JeweledSkulls;19",
+        "BaronRivendareLeader;ChillOfTheGrave;21",
+        "Necromancer;JeweledSkulls;21",
         "Abomination;Cannonball;19",
         "WhelpEggs;FlameBurst;21",
         "Harpy;InfectiousSwipes;22",
@@ -130,12 +130,12 @@
       ],
       [
         "DrakkisathLeader;ChromaticScales;21",
-        "FireElemental;ImmolationAura;18",
+        "Drake;MotherDrake;21",
         "WhelpEggs;FlameBurst;21",
         "Pyromancer;Conflagrate;21",
-        "Drake;MotherDrake;21",
+        "Harpy;InfectiousSwipes;22",
         "Shaman;EarthShield;21",
-        "GryphonRider;OdynsFury;21"
+        "GryphonRider;MightyThrow;21"
       ],
       [
         "ThaurissanLeader;Incinerate;20",
@@ -156,7 +156,7 @@
         "Quilboar;TunnelVision;21"
       ]
     ],
-    "lastUpdate": 1719063144
+    "lastUpdate": 1719191857
   },
-  "token": "586206ca-57a8-4bd9-b12a-ac0c9aa12dec"
+  "token": "e2488b78-90dc-4c54-98d2-80637c4c6ad6"
 }

@@ -58,11 +58,11 @@
       ],
       [
         "RendLeader;FlamingSoul;21",
-        "DarkIronMiner;GoldMine;19",
+        "Drake;EngulfingFlames;20",
         "WhelpEggs;FlameBurst;21",
-        "Chimaera;Leviathan;21",
-        "GryphonRider;OdynsFury;21",
-        "MurlocTidehunters;CarefulAim;21",
+        "Harpy;TrinketCollectors;18",
+        "DefiasBandits;LastResort;19",
+        "MeatWagon;FiletTrebuchet;18",
         "Quilboar;BrambleBurst;21"
       ],
       [
@@ -156,7 +156,7 @@
         "Huntress;DarnassianSteel;21"
       ]
     ],
-    "lastUpdate": 1719063110
+    "lastUpdate": 1719193946
   },
-  "token": "d71ef80c-b065-4df9-b344-7d86ad9a1002"
+  "token": "b691e7bd-8325-4aae-a103-4d4cf38d6ae8"
 }

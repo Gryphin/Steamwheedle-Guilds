@@ -12,7 +12,7 @@
         "skulls": 72,
         "honor": 2875,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719063116
+        "lastUpdate": 1719063272
       },
       {
         "id": 315484962,
@@ -30,7 +30,7 @@
         "skulls": 104,
         "honor": 600,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063117
+        "lastUpdate": 1719063272
       },
       {
         "id": 92391125,
@@ -39,7 +39,7 @@
         "skulls": 95,
         "honor": 10162,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719063117
+        "lastUpdate": 1719063272
       },
       {
         "id": 871842377,
@@ -48,7 +48,7 @@
         "skulls": 110,
         "honor": 6369,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063117
+        "lastUpdate": 1719063272
       },
       {
         "id": 2221775,
@@ -57,7 +57,7 @@
         "skulls": 138,
         "honor": 11374,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063117
+        "lastUpdate": 1719063272
       },
       {
         "id": 60963238,
@@ -75,7 +75,7 @@
         "skulls": 125,
         "honor": 7745,
         "avatar": "Indicator_BaronRivendare_Pose",
-        "lastUpdate": 1719063117
+        "lastUpdate": 1719063273
       },
       {
         "id": 51384192,
@@ -84,7 +84,7 @@
         "skulls": 140,
         "honor": 10332,
         "avatar": "Indicator_Hogger_Pose",
-        "lastUpdate": 1719063117
+        "lastUpdate": 1719063273
       },
       {
         "id": 56302337,
@@ -93,7 +93,7 @@
         "skulls": 122,
         "honor": 6289,
         "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063117
+        "lastUpdate": 1719063273
       },
       {
         "id": 90008238,
@@ -102,7 +102,7 @@
         "skulls": 121,
         "honor": 10807,
         "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063118
+        "lastUpdate": 1719063273
       },
       {
         "id": 75361719,
@@ -114,22 +114,13 @@
         "lastUpdate": 1709171304
       },
       {
-        "id": 53460699,
-        "name": "maynator",
-        "btag": "maynator",
-        "skulls": 142,
-        "honor": 12021,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063118
-      },
-      {
         "id": 51469939,
         "name": "Solomon",
         "btag": "Solomon",
         "skulls": 130,
         "honor": 7223,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063118
+        "lastUpdate": 1719063274
       },
       {
         "id": 392929879,
@@ -138,7 +129,7 @@
         "skulls": 150,
         "honor": 8974,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063118
+        "lastUpdate": 1719063274
       },
       {
         "id": 2223243,
@@ -147,16 +138,7 @@
         "skulls": 106,
         "honor": 3169,
         "avatar": "Indicator_Hogger_Pose",
-        "lastUpdate": 1719063118
-      },
-      {
-        "id": 50074512,
-        "name": "Kaymoris",
-        "btag": "Kaymoris",
-        "skulls": 120,
-        "honor": 1050,
-        "avatar": "",
-        "lastUpdate": 1719063119
+        "lastUpdate": 1719063274
       },
       {
         "id": 70018851,
@@ -165,7 +147,7 @@
         "skulls": 130,
         "honor": 9661,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063119
+        "lastUpdate": 1719063274
       },
       {
         "id": 921292,
@@ -174,7 +156,16 @@
         "skulls": 116,
         "honor": 5900,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063119
+        "lastUpdate": 1719063274
+      },
+      {
+        "id": 53460699,
+        "name": "maynator",
+        "btag": "maynator",
+        "skulls": 142,
+        "honor": 12021,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719063273
       },
       {
         "id": 1333055,
@@ -183,11 +174,20 @@
         "skulls": 119,
         "honor": 9027,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063119
+        "lastUpdate": 1719063275
+      },
+      {
+        "id": 50074512,
+        "name": "Kaymoris",
+        "btag": "Kaymoris",
+        "skulls": 120,
+        "honor": 1050,
+        "avatar": "",
+        "lastUpdate": 1719063274
       }
     ],
-    "lastUpdate": 1719063116
+    "lastUpdate": 1719063272
   },
-  "token": "306eae3f-6d48-4603-9c08-2c4851037423",
-  "link": "https://localhost:7080/guild/466747161?token=306eae3f-6d48-4603-9c08-2c4851037423"
+  "token": "cf0cbc12-ec38-4816-bd7e-be35261f39a1",
+  "link": "https://localhost:7080/guild/466747161?token=cf0cbc12-ec38-4816-bd7e-be35261f39a1"
 }

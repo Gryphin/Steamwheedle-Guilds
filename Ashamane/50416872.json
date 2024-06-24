@@ -8,16 +8,16 @@
     "avatar": "Indicator_Hogger_Pose",
     "skulls": 144,
     "level": 42,
-    "pvpWins": 279,
+    "pvpWins": 291,
     "leaderA": "BaronRivendareLeader",
     "leaderAWins": 30,
     "leaderAHonor": 3011,
     "leaderB": "DrakkisathLeader",
     "leaderBWins": 48,
     "leaderBHonor": 3367,
-    "leaderC": "JainaLeader",
-    "leaderCWins": 24,
-    "leaderCHonor": 2571,
+    "leaderC": "HoggerLeader",
+    "leaderCWins": 30,
+    "leaderCHonor": 3011,
     "socials": null,
     "armies": [
       [
@@ -25,24 +25,24 @@
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
         "DefiasBandits;PickLock;21",
         "Execute;Bloodthirsty;21",
-        "Harpy;InfectiousSwipes;21",
+        "Gargoyle;WingBuffet;20",
         "Quilboar;TunnelVision;21",
-        "Blizzard;ColdSnap;18"
+        "Pyromancer;Conflagrate;22"
       ],
       [
         "TirionLeader;DivineShield;21",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
         "DefiasBandits;PickLock;21",
         "Quilboar;TunnelVision;21",
-        "BatRider;EnchantedVials;20",
         "WhelpEggs;FlameBurst;22",
-        "MeatWagon;FiletTrebuchet;20"
+        "Harpy;InfectiousSwipes;21",
+        "Banshee;WillOfTheNecropolis;18"
       ],
       [
-        "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
-        "Quilboar;TunnelVision;21",
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
+        "Spiderlings;Frostbite;19",
         "Harpy;InfectiousSwipes;21",
-        "StonehoofTauren;Momentum;20",
+        "Quilboar;TunnelVision;21",
         "WhelpEggs;FlameBurst;22",
         "DefiasBandits;PickLock;21",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23"
@@ -58,12 +58,12 @@
       ],
       [
         "RendLeader;ScaleAndSteel;21",
-        "Pyromancer;Conflagrate;22",
+        "WhelpEggs;FlameBurst;22",
         "Drake;EngulfingFlames;21",
         "Harpy;InfectiousSwipes;21",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
-        "Chimaera;FrostShock;19",
-        "WhelpEggs;FlameBurst;22"
+        "Gargoyle;WingBuffet;20",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "DefiasBandits;PickLock;21"
       ],
       [
         "BloodmageThalnosLeader;Bane;19",
@@ -86,11 +86,11 @@
       [
         "HoggerLeader;HamHock;21",
         "Quilboar;TunnelVision;21",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "Harpy;InfectiousSwipes;21",
         "BatRider;EnchantedVials;20",
         "WhelpEggs;FlameBurst;22",
         "DefiasBandits;PickLock;21",
-        "Pyromancer;Conflagrate;22"
+        "Huntress;ElvenMight;21"
       ],
       [
         "CairneLeader;Plainsrunning;21",
@@ -124,9 +124,9 @@
         "Quilboar;TunnelVision;21",
         "Harpy;InfectiousSwipes;21",
         "Huntress;ElvenMight;21",
-        "WhelpEggs;FlameBurst;22",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
-        "Gargoyle;WingBuffet;19"
+        "DefiasBandits;PickLock;21",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+        "WhelpEggs;FlameBurst;22"
       ],
       [
         "DrakkisathLeader;ChromaticScales;24",
@@ -156,7 +156,7 @@
         "Quilboar;TunnelVision;21"
       ]
     ],
-    "lastUpdate": 1719063078
+    "lastUpdate": 1719191058
   },
-  "token": "fa64acab-fc7e-4459-a3e1-42f28115007c"
+  "token": "69838dae-e377-48a7-bde5-b9dacd2cd864"
 }

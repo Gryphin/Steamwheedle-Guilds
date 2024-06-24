@@ -105,10 +105,10 @@
         "BaronRivendareLeader;ChillOfTheGrave;21",
         "Abomination;NoxiousPresence;20",
         "Necromancer;JeweledSkulls;18",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+        "Quilboar;TunnelVision;21",
         "Harpy;InfectiousSwipes;20",
-        "Pyromancer;Pyroblast;21",
-        "Quilboar;TunnelVision;21"
+        "CheatDeath;Vampirism;18",
+        "Pyromancer;Pyroblast;22"
       ],
       [
         "SneedLeader;LeadWithGreed;17",
@@ -156,7 +156,7 @@
         "CheatDeath;Vampirism;18"
       ]
     ],
-    "lastUpdate": 1719063158
+    "lastUpdate": 1719193350
   },
-  "token": "985ffb6f-8932-4f23-964b-89221d3bebb8"
+  "token": "46fe93d7-e064-4fea-a884-28c076438eeb"
 }

@@ -57,13 +57,13 @@
         "Quilboar;BrambleBurst;24"
       ],
       [
-        "RendLeader;ScaleAndSteel;22",
-        "DefiasBandits;PickLock;22",
+        "RendLeader;ScaleAndSteel;24",
+        "Pyromancer;Pyroblast;21",
         "WhelpEggs;FlameBurst;24",
         "Harpy;InfectiousSwipes;24",
         "Quilboar;BrambleBurst;24",
         "GryphonRider;MightyThrow;21",
-        "Banshee;WillOfTheNecropolis;21"
+        "DarkspearTroll;BigBadVoodoo;24"
       ],
       [
         "BloodmageThalnosLeader;DrainLife;21",
@@ -112,12 +112,12 @@
       ],
       [
         "SneedLeader;LeadWithGreed;21",
-        "BatRider;EnchantedVials;22",
+        "Shaman;EarthShield;24",
         "Execute;Bloodthirsty;21",
-        "Gargoyle;WingBuffet;22",
+        "MeatWagon;FiletTrebuchet;21",
         "WhelpEggs;FlameBurst;24",
-        "Quilboar;BrambleBurst;24",
-        "Harpy;InfectiousSwipes;24"
+        "BatRider;EnchantedVials;22",
+        "Chimaera;Leviathan;21"
       ],
       [
         "CharlgaLeader;CavernousMists;20",
@@ -130,12 +130,12 @@
       ],
       [
         "DrakkisathLeader;ChromaticScales;24",
-        "Drake;MotherDrake;23",
         "DefiasBandits;PickLock;22",
+        "Drake;Roost;24",
         "Shaman;EarthShield;24",
         "WitchDoctor;SpiritWard;21",
-        "OgreMage;FrostfireBolt;22",
-        "WhelpEggs;FlameBurst;24"
+        "DarkspearTroll;BigBadVoodoo;24",
+        "OgreMage;FrostfireBolt;22"
       ],
       [
         "ThaurissanLeader;Hubris;21",
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;24"
       ]
     ],
-    "lastUpdate": 1719063084
+    "lastUpdate": 1719239149
   },
-  "token": "b2c878f6-97c1-4270-ab07-fdf5a5828581"
+  "token": "6ea3d2fc-e6c8-41fa-b9b6-4775ea7a0b1a"
 }

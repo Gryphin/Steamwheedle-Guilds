@@ -12,7 +12,7 @@
         "skulls": 115,
         "honor": 7180,
         "avatar": "Indicator_Hogger_Pose",
-        "lastUpdate": 1719063136
+        "lastUpdate": 1719063291
       },
       {
         "id": 100257022,
@@ -21,7 +21,7 @@
         "skulls": 131,
         "honor": 5425,
         "avatar": "Indicator_Cairne_Pose",
-        "lastUpdate": 1719063136
+        "lastUpdate": 1719063291
       },
       {
         "id": 52546100,
@@ -30,7 +30,7 @@
         "skulls": 117,
         "honor": 6711,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063137
+        "lastUpdate": 1719063291
       },
       {
         "id": 131237195,
@@ -39,7 +39,7 @@
         "skulls": 137,
         "honor": 8829,
         "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719063137
+        "lastUpdate": 1719063291
       },
       {
         "id": 871876071,
@@ -48,7 +48,7 @@
         "skulls": 101,
         "honor": 5427,
         "avatar": "Indicator_Drakkisath_Pose",
-        "lastUpdate": 1719063137
+        "lastUpdate": 1719063291
       },
       {
         "id": 101343891,
@@ -57,7 +57,7 @@
         "skulls": 138,
         "honor": 9308,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063137
+        "lastUpdate": 1719063291
       },
       {
         "id": 51207295,
@@ -66,43 +66,7 @@
         "skulls": 138,
         "honor": 10932,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063137
-      },
-      {
-        "id": 101983497,
-        "name": "Flavour",
-        "btag": "Flavour",
-        "skulls": 129,
-        "honor": 9160,
-        "avatar": "Indicator_BloodmageThalnos_Pose",
-        "lastUpdate": 1719063138
-      },
-      {
-        "id": 92848830,
-        "name": "Ashenblood",
-        "btag": "Ashenblood",
-        "skulls": 101,
-        "honor": 4528,
-        "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063138
-      },
-      {
-        "id": 1158331828,
-        "name": "Kawaiizinha",
-        "btag": "Kawaiizinha",
-        "skulls": 100,
-        "honor": 8445,
-        "avatar": "Indicator_Jaina_Pose",
-        "lastUpdate": 1719063138
-      },
-      {
-        "id": 51678873,
-        "name": "xfip",
-        "btag": "xfip",
-        "skulls": 135,
-        "honor": 9616,
-        "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719063138
+        "lastUpdate": 1719063292
       },
       {
         "id": 124752711,
@@ -111,25 +75,7 @@
         "skulls": 130,
         "honor": 8062,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063139
-      },
-      {
-        "id": 90080663,
-        "name": "Hextor",
-        "btag": "Hextor",
-        "skulls": 135,
-        "honor": 9116,
-        "avatar": "Indicator_Thaurissan_Pose",
-        "lastUpdate": 1719063139
-      },
-      {
-        "id": 958212,
-        "name": "Ziegen",
-        "btag": "Ziegen",
-        "skulls": 136,
-        "honor": 5918,
-        "avatar": "Indicator_Grommash_Pose",
-        "lastUpdate": 1719063139
+        "lastUpdate": 1719157115
       },
       {
         "id": 410266948,
@@ -138,7 +84,7 @@
         "skulls": 121,
         "honor": 7614,
         "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719063139
+        "lastUpdate": 1719156974
       },
       {
         "id": 52197276,
@@ -147,25 +93,7 @@
         "skulls": 150,
         "honor": 11166,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719063139
-      },
-      {
-        "id": 51763790,
-        "name": "Unkept",
-        "btag": "Unkept",
-        "skulls": 129,
-        "honor": 9214,
-        "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063139
-      },
-      {
-        "id": 71064165,
-        "name": "kkiilllleerr",
-        "btag": "kkiilllleerr",
-        "skulls": 115,
-        "honor": 10218,
-        "avatar": "Indicator_Charlga_Pose",
-        "lastUpdate": 1719063138
+        "lastUpdate": 1719063293
       },
       {
         "id": 2038714,
@@ -174,7 +102,43 @@
         "skulls": 119,
         "honor": 6804,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719063138
+        "lastUpdate": 1719063294
+      },
+      {
+        "id": 92848830,
+        "name": "Ashenblood",
+        "btag": "Ashenblood",
+        "skulls": 101,
+        "honor": 4528,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719063292
+      },
+      {
+        "id": 71064165,
+        "name": "kkiilllleerr",
+        "btag": "kkiilllleerr",
+        "skulls": 115,
+        "honor": 10218,
+        "avatar": "Indicator_Charlga_Pose",
+        "lastUpdate": 1719063293
+      },
+      {
+        "id": 51678873,
+        "name": "xfip",
+        "btag": "xfip",
+        "skulls": 135,
+        "honor": 9616,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719063292
+      },
+      {
+        "id": 101983497,
+        "name": "Flavour",
+        "btag": "Flavour",
+        "skulls": 129,
+        "honor": 9160,
+        "avatar": "Indicator_BloodmageThalnos_Pose",
+        "lastUpdate": 1719063292
       },
       {
         "id": 100824889,
@@ -183,11 +147,47 @@
         "skulls": 121,
         "honor": 8631,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719063140
+        "lastUpdate": 1719063294
+      },
+      {
+        "id": 51763790,
+        "name": "Unkept",
+        "btag": "Unkept",
+        "skulls": 129,
+        "honor": 9214,
+        "avatar": "Indicator_Tirion_Pose",
+        "lastUpdate": 1719063293
+      },
+      {
+        "id": 958212,
+        "name": "Ziegen",
+        "btag": "Ziegen",
+        "skulls": 136,
+        "honor": 5918,
+        "avatar": "Indicator_Grommash_Pose",
+        "lastUpdate": 1719157033
+      },
+      {
+        "id": 1415558428,
+        "name": "Songlaa",
+        "btag": "Songlaa",
+        "skulls": 135,
+        "honor": 4070,
+        "avatar": "Indicator_KoboldMech_Pose",
+        "lastUpdate": 1719161741
+      },
+      {
+        "id": 1388321,
+        "name": "DanOnly",
+        "btag": "DanOnly",
+        "skulls": 115,
+        "honor": 2991,
+        "avatar": "Indicator_DarkmoonFaire_Eyes",
+        "lastUpdate": 1719182176
       }
     ],
-    "lastUpdate": 1719063136
+    "lastUpdate": 1719182172
   },
-  "token": "b9d61efc-e591-4c3b-a40d-5173d8be2b3b",
-  "link": "https://localhost:7080/guild/466184131?token=b9d61efc-e591-4c3b-a40d-5173d8be2b3b"
+  "token": "36a70e53-c4e4-4d55-9ec8-24ca35ceac6c",
+  "link": "https://localhost:7080/guild/466184131?token=36a70e53-c4e4-4d55-9ec8-24ca35ceac6c"
 }

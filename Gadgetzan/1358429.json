@@ -41,9 +41,9 @@
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
         "Harpy;InfectiousSwipes;21",
-        "PolymorphSpell;GoldenFleece;20",
-        "Prowler;OnTheProwl;19",
-        "Blizzard;BrittleIce;20",
+        "PolymorphSpell;GoldenFleece;21",
+        "Prowler;OnTheProwl;21",
+        "Chimaera;CorrosiveBreath;21",
         "Quilboar;TunnelVision;21",
         "AngryChickens;Snackrifice;19"
       ],
@@ -86,9 +86,9 @@
       [
         "HoggerLeader;HamHock;21",
         "Quilboar;TunnelVision;21",
-        "Chimaera;Leviathan;20",
+        "Chimaera;Leviathan;21",
         "ChainLightning;BrilliantFlash;21",
-        "MurlocTidehunters;SafetyBubble;18",
+        "MurlocTidehunters;SafetyBubble;19",
         "BatRider;EnchantedVials;21",
         "AngryChickens;Snackrifice;19"
       ],
@@ -156,7 +156,7 @@
         "FireElemental;ImmolationAura;18"
       ]
     ],
-    "lastUpdate": 1719063108
+    "lastUpdate": 1719193751
   },
-  "token": "4ae552ac-499b-4e46-9110-ca1ee4b3eedf"
+  "token": "e63fdb9e-1403-45e8-b7b3-9b578a8ce48f"
 }

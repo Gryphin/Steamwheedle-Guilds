@@ -6,7 +6,7 @@
     "guildId": null,
     "guildName": null,
     "avatar": "Indicator_Drakkisath_Pose",
-    "skulls": 135,
+    "skulls": 140,
     "level": 40,
     "pvpWins": 445,
     "leaderA": "SylvanasLeader",
@@ -36,7 +36,7 @@
         "DefiasBandits;DeadlyPoison;21",
         "WitchDoctor;SpiritWard;20",
         "GryphonRider;OdynsFury;21",
-        "Pyromancer;Pyroblast;23"
+        "Pyromancer;Pyroblast;24"
       ],
       [
         "OldMurkEyeLeader;;15",
@@ -117,21 +117,21 @@
         "EarthElemental;ObsidianShard;20",
         "Pyromancer;Pyroblast;23",
         "WitchDoctor;SpiritWard;20",
-        "Harpy;TrinketCollectors;21"
+        "Blizzard;ColdSnap;21"
       ],
       [
         "CharlgaLeader;CavernousMists;18",
         "GnollBrute;ThickHide;21",
-        "Harpy;TrinketCollectors;20",
+        "Harpy;TrinketCollectors;21",
         "Huntress;DarnassianSteel;23",
         "Quilboar;BrambleBurst;21",
         "Blizzard;ColdSnap;21",
-        "Pyromancer;Pyroblast;23"
+        "Pyromancer;Pyroblast;24"
       ],
       [
         "DrakkisathLeader;PiercingBlows;21",
-        "MoltenGiant;ThreateningPresence;20",
-        "Pyromancer;Pyroblast;23",
+        "MoltenGiant;ThreateningPresence;21",
+        "Pyromancer;Pyroblast;24",
         "Shaman;LightningMastery;21",
         "DarkspearTroll;BigBadVoodoo;19",
         "Blizzard;ColdSnap;21",
@@ -156,7 +156,7 @@
         "Quilboar;BrambleBurst;21"
       ]
     ],
-    "lastUpdate": 1719063097
+    "lastUpdate": 1719194174
   },
-  "token": "b2470264-4374-4caf-a9e7-7b65a19c9f5a"
+  "token": "679346d2-c03c-492d-85f4-75e022c84326"
 }

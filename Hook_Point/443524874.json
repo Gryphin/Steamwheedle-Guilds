@@ -41,11 +41,11 @@
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
         "Prowler;PredatoryInstincts;21",
-        "Harpy;InfectiousSwipes;21",
+        "AngryChickens;FuriousFowl;21",
         "Quilboar;BrambleBurst;23",
-        "DefiasBandits;PickLock;21",
-        "WitchDoctor;SpiritWard;21",
-        "CheatDeath;Vampirism;18"
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+        "WhelpEggs;FlameBurst;22",
+        "Blizzard;ColdSnap;21"
       ],
       [
         "GrommashLeader;MirrorImage;21",
@@ -139,11 +139,11 @@
       ],
       [
         "DrakkisathLeader;ChromaticScales;21",
-        "DarkIronMiner;GoldMine;21",
+        "Pyromancer;Pyroblast;21",
         "Drake;MotherDrake;21",
-        "Blizzard;ColdSnap;21",
-        "SkeletonParty;CorpseRun;20",
-        "Quilboar;BrambleBurst;23",
+        "WitchDoctor;SpiritWard;21",
+        "SkeletonParty;CorpseRun;21",
+        "DefiasBandits;PickLock;21",
         "Shaman;EarthShield;21"
       ],
       [
@@ -165,7 +165,7 @@
         "FireElemental;ImmolationAura;21"
       ]
     ],
-    "lastUpdate": 1719063085
+    "lastUpdate": 1719239150
   },
-  "token": "94fcf062-2e3c-4c23-a603-3499ec612a7f"
+  "token": "33063524-9052-4779-aa4c-d1d1c67af364"
 }

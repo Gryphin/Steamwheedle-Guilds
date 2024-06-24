@@ -8,13 +8,13 @@
     "avatar": "Indicator_Jaina_Pose",
     "skulls": 150,
     "level": 45,
-    "pvpWins": 803,
-    "leaderA": "RendLeader",
-    "leaderAWins": 44,
-    "leaderAHonor": 3810,
-    "leaderB": "HoggerLeader",
-    "leaderBWins": 56,
-    "leaderBHonor": 3867,
+    "pvpWins": 807,
+    "leaderA": "HoggerLeader",
+    "leaderAWins": 57,
+    "leaderAHonor": 3882,
+    "leaderB": "RendLeader",
+    "leaderBWins": 45,
+    "leaderBHonor": 3916,
     "leaderC": "GrommashLeader",
     "leaderCWins": 112,
     "leaderCHonor": 3992,
@@ -22,10 +22,10 @@
     "armies": [
       [
         "JainaLeader;Clearcasting;24",
+        "DefiasBandits;PickLock;22",
         "GryphonRider;AirDrop;24",
         "Blizzard;ColdSnap;21",
-        "WhelpEggs;FlameBurst;24",
-        "Quilboar;BrambleBurst;24",
+        "HarvestGolem;UnstableCore;21",
         "Execute;KillingSpree;21",
         "Shaman;EarthwallTotem;21"
       ],
@@ -40,24 +40,24 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;21",
-        "Raptors;StrengthInNumbers;20",
+        "Raptors;StrengthInNumbers;21",
         "MurlocTidehunters;SafetyBubble;20",
         "Quilboar;BrambleBurst;24",
-        "PolymorphSpell;GoldenFleece;20",
-        "DefiasBandits;PickLock;21",
-        "GryphonRider;MightyThrow;24"
+        "AngryChickens;FuriousFowl;20",
+        "DefiasBandits;PickLock;22",
+        "GryphonRider;OdynsFury;24"
       ],
       [
         "GrommashLeader;MirrorImage;24",
-        "WitchDoctor;SpiritWard;23",
+        "WitchDoctor;SpiritWard;24",
         "Execute;Bloodthirsty;21",
-        "DefiasBandits;PickLock;21",
+        "DefiasBandits;PickLock;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
         "Huntress;Shadowmeld;24",
         "GoblinSapper;RocketBoots;19"
       ],
       [
-        "RendLeader;ScaleAndSteel;21",
+        "RendLeader;ScaleAndSteel;22",
         "WhelpEggs;FlameBurst;24",
         "DarkIronMiner;GoldMine;19",
         "GryphonRider;OdynsFury;24",
@@ -85,7 +85,7 @@
       ],
       [
         "HoggerLeader;HamHock;20",
-        "Prowler;PredatoryInstincts;21",
+        "Prowler;OnTheProwl;21",
         "Quilboar;BrambleBurst;24",
         "GryphonRider;MightyThrow;24",
         "PolymorphSpell;GoldenFleece;20",
@@ -120,21 +120,21 @@
         "Pyromancer;BlazeOfGlory;21"
       ],
       [
-        "CharlgaLeader;CavernousMists;20",
+        "CharlgaLeader;CavernousMists;21",
         "Prowler;PredatoryInstincts;21",
-        "Harpy;InfectiousSwipes;22",
+        "Harpy;InfectiousSwipes;24",
         "MurlocTidehunters;SafetyBubble;20",
         "Quilboar;BrambleBurst;24",
-        "WhelpEggs;FlameBurst;23",
-        "WitchDoctor;SpiritWard;21"
+        "WhelpEggs;FlameBurst;24",
+        "WitchDoctor;SpiritWard;24"
       ],
       [
         "DrakkisathLeader;ChromaticScales;24",
         "WhelpEggs;FlameBurst;24",
-        "Drake;EngulfingFlames;21",
+        "Drake;MotherDrake;21",
         "Shaman;EarthShield;21",
-        "DefiasBandits;PickLock;21",
-        "WitchDoctor;SpiritWard;23",
+        "DefiasBandits;PickLock;22",
+        "WitchDoctor;SpiritWard;24",
         "Pyromancer;Conflagrate;21"
       ],
       [
@@ -156,7 +156,7 @@
         "Execute;Bloodthirsty;21"
       ]
     ],
-    "lastUpdate": 1719063092
+    "lastUpdate": 1719250122
   },
-  "token": "e16268ef-617c-463e-9052-e664fbce46ba"
+  "token": "c4a920d7-b7c5-4b95-9d6d-b62419824d44"
 }

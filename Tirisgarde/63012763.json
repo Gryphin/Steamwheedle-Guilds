@@ -69,10 +69,10 @@
         "BloodmageThalnosLeader;Bane;19",
         "Gargoyle;WingBuffet;21",
         "Banshee;WillOfTheNecropolis;21",
-        "ArcaneBlast;;17",
-        "Quilboar;Bristleback;21",
-        "WhelpEggs;FlameBurst;22",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+        "Execute;Bloodthirsty;21",
+        "FireElemental;ImmolationAura;24",
+        "Quilboar;Bristleback;22",
+        "WhelpEggs;FlameBurst;22"
       ],
       [
         "MaievLeader;Remorseless;18",
@@ -165,7 +165,7 @@
         "DefiasBandits;PickLock;21"
       ]
     ],
-    "lastUpdate": 1719063096
+    "lastUpdate": 1719063251
   },
-  "token": "f9d2f65f-250c-4149-a3e9-0952b8d4247a"
+  "token": "2da61665-39f2-414f-94a7-a328f1be7bb2"
 }

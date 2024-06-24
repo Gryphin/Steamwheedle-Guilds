@@ -8,13 +8,13 @@
     "avatar": "Indicator_Sneed_Pose",
     "skulls": 150,
     "level": 47,
-    "pvpWins": 698,
+    "pvpWins": 699,
     "leaderA": "JainaLeader",
     "leaderAWins": 43,
     "leaderAHonor": 4170,
     "leaderB": "CharlgaLeader",
-    "leaderBWins": 35,
-    "leaderBHonor": 4191,
+    "leaderBWins": 36,
+    "leaderBHonor": 4206,
     "leaderC": "BloodmageThalnosLeader",
     "leaderCWins": 85,
     "leaderCHonor": 4013,
@@ -165,7 +165,7 @@
         "FireElemental;ImmolationAura;21"
       ]
     ],
-    "lastUpdate": 1719062210
+    "lastUpdate": 1719250119
   },
-  "token": "799a58e4-f5e2-4293-8a36-39ede3491df1"
+  "token": "47339308-57cc-4c9e-ad09-74a8836d6f49"
 }

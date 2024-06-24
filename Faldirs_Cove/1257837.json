@@ -25,15 +25,15 @@
         "S.A.F.E.PilotFlyingMachine;CominInHot;21",
         "Mountaineer;Growl;20",
         "Blizzard;ColdSnap;18",
-        "ChainLightning;Reverberation;17",
-        "GryphonRider;MightyThrow;18",
+        "ChainLightning;Reverberation;18",
+        "Harpy;InfectiousSwipes;21",
         "SkeletonParty;RitualOfRime;21"
       ],
       [
         "TirionLeader;DivineShield;21",
         "GryphonRider;MightyThrow;18",
         "Blizzard;ColdSnap;18",
-        "FireElemental;ImmolationAura;20",
+        "FireElemental;ImmolationAura;21",
         "Quilboar;TunnelVision;21",
         "Harpy;InfectiousSwipes;21",
         "Pyromancer;Pyroblast;22"
@@ -41,8 +41,8 @@
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
         "Quilboar;Bristleback;21",
-        "PolymorphSpell;GoldenFleece;18",
-        "FireElemental;ImmolationAura;20",
+        "MurlocTidehunters;Morelocs;18",
+        "FireElemental;ImmolationAura;21",
         "GryphonRider;MightyThrow;18",
         "DarkIronMiner;GoldMine;20",
         "Harpy;InfectiousSwipes;21"
@@ -66,7 +66,7 @@
         "Pyromancer;Pyroblast;22"
       ],
       [
-        "BloodmageThalnosLeader;DrainLife;20",
+        "BloodmageThalnosLeader;DrainLife;21",
         "Abomination;NoxiousPresence;21",
         "Necromancer;JeweledSkulls;20",
         "Execute;KillingSpree;21",
@@ -85,30 +85,30 @@
       ],
       [
         "HoggerLeader;HamHock;21",
-        "Harpy;InfectiousSwipes;21",
         "PolymorphSpell;GoldenFleece;18",
-        "GryphonRider;MightyThrow;18",
-        "Mountaineer;Growl;20",
-        "Drake;EngulfingFlames;21",
-        "EarthElemental;ObsidianShard;20"
+        "Quilboar;Bristleback;21",
+        "WitchDoctor;AmplifyCurse;21",
+        "SkeletonParty;RitualOfRime;21",
+        "Harpy;InfectiousSwipes;21",
+        "WhelpEggs;FlameBurst;21"
       ],
       [
         "CairneLeader;Reincarnation;21",
         "DarkspearTroll;BigBadVoodoo;21",
-        "Shaman;EarthShield;21",
+        "Shaman;EarthShield;22",
         "Pyromancer;Pyroblast;22",
-        "WitchDoctor;AmplifyCurse;21",
+        "Execute;KillingSpree;21",
         "Harpy;TalonDive;21",
-        "FireElemental;MoltenCore;20"
+        "FireElemental;MoltenCore;21"
       ],
       [
         "BaronRivendareLeader;ChillOfTheGrave;23",
-        "Necromancer;JeweledSkulls;20",
-        "Ghoul;BoneArmor;19",
-        "WhelpEggs;FlameBurst;21",
+        "Necromancer;JeweledSkulls;21",
+        "Abomination;NoxiousPresence;21",
+        "EarthElemental;ObsidianShard;21",
         "WitchDoctor;AmplifyCurse;21",
         "Pyromancer;Conflagrate;22",
-        "Harpy;TalonDive;21"
+        "DarkspearTroll;BigBadVoodoo;21"
       ],
       [
         "SneedLeader;LeadWithGreed;18",
@@ -120,16 +120,16 @@
         "Harpy;InfectiousSwipes;21"
       ],
       [
-        "CharlgaLeader;CavernousMists;17",
-        "Harpy;InfectiousSwipes;19",
-        "DarkspearTroll;BigBadVoodoo;20",
-        "MurlocTidehunters;Morelocs;17",
-        "DarkIronMiner;GoldMine;20",
-        "Abomination;NoxiousPresence;18",
-        "Pyromancer;Pyroblast;18"
+        "CharlgaLeader;CavernousMists;18",
+        "Harpy;InfectiousSwipes;21",
+        "Quilboar;Bristleback;21",
+        "MurlocTidehunters;Morelocs;18",
+        "WhelpEggs;FlameBurst;21",
+        "Abomination;NoxiousPresence;21",
+        "Pyromancer;Pyroblast;22"
       ],
       [
-        "DrakkisathLeader;ChromaticScales;21",
+        "DrakkisathLeader;ChromaticScales;22",
         "Drake;EngulfingFlames;21",
         "Pyromancer;Conflagrate;22",
         "Shaman;EarthShield;22",
@@ -149,14 +149,14 @@
       [
         "SylvanasLeader;BlackArrow;18",
         "SkeletonParty;RitualOfRime;21",
-        "Necromancer;JeweledSkulls;20",
+        "Necromancer;JeweledSkulls;21",
         "Execute;KillingSpree;21",
         "DarkIronMiner;DwarvenAmbition;20",
         "GryphonRider;MightyThrow;18",
         "Abomination;NoxiousPresence;21"
       ]
     ],
-    "lastUpdate": 1719063105
+    "lastUpdate": 1719192288
   },
-  "token": "181982dc-0c39-49d2-a781-4ce9a25764a6"
+  "token": "e85cfd47-d76f-4aec-9579-37a09c6e5714"
 }

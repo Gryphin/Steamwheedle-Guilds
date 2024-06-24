@@ -1,0 +1,162 @@
+{
+  "data": {
+    "id": 1810238,
+    "btag": "Keychain",
+    "name": "Keychain",
+    "guildId": null,
+    "guildName": null,
+    "avatar": "Indicator_DarkmoonFaire_Eyes",
+    "skulls": 150,
+    "level": 49,
+    "pvpWins": 4379,
+    "leaderA": "ThaurissanLeader",
+    "leaderAWins": 212,
+    "leaderAHonor": 4121,
+    "leaderB": "JainaLeader",
+    "leaderBWins": 284,
+    "leaderBHonor": 4133,
+    "leaderC": "OldMurkEyeLeader",
+    "leaderCWins": 324,
+    "leaderCHonor": 4118,
+    "socials": null,
+    "armies": [
+      [
+        "JainaLeader;Clearcasting;23",
+        "HarvestGolem;TrojanChickens;22",
+        "Blizzard;ColdSnap;22",
+        "Execute;Bloodthirsty;22",
+        "DefiasBandits;PickLock;22",
+        "ArcaneBlast;ArcanePower;22",
+        "PolymorphSpell;GoldenFleece;22"
+      ],
+      [
+        "2dd18b5452eba554db7594cd2b7e074d;05ccc12b0861631418f1e0a95ed8bc99;22",
+        "724ebbab65fd2477db54c91707f4a6d8;8f9bd07f0178c1d46a071bcef041138b;22",
+        "94935a651322443599aadc0ae5300e9b;aa7c23fcb65707943962bcd12baafeef;22",
+        "adb619f981176e444bd759d85e80cbfc;48fc74ac3da250d41bf3f65dc18bb071;25",
+        "a2e0890e71d27864a91788f7d64972dd;d1e8e52ad62784d469041d7ec97ae998;22",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;16",
+        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;22"
+      ],
+      [
+        "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
+        "PolymorphSpell;GoldenFleece;22",
+        "MurlocTidehunters;SafetyBubble;24",
+        "Quilboar;BrambleBurst;25",
+        "WitchDoctor;SpiritWard;22",
+        "Blizzard;ColdSnap;22",
+        "GryphonRider;MightyThrow;22"
+      ],
+      [
+        "GrommashLeader;MirrorImage;23",
+        "Execute;Bloodthirsty;22",
+        "WitchDoctor;SpiritWard;22",
+        "MurlocTidehunters;SafetyBubble;24",
+        "Ghoul;BoneArmor;22",
+        "PolymorphSpell;GoldenFleece;22",
+        "Quilboar;BrambleBurst;25"
+      ],
+      [
+        "RendLeader;ScaleAndSteel;24",
+        "PolymorphSpell;GoldenFleece;22",
+        "WhelpEggs;FlameBurst;25",
+        "Harpy;InfectiousSwipes;24",
+        "Blizzard;ColdSnap;22",
+        "Quilboar;BrambleBurst;25",
+        "WitchDoctor;SpiritWard;22"
+      ],
+      [
+        "BloodmageThalnosLeader;Bane;22",
+        "Ghoul;BoneArmor;22",
+        "CheatDeath;Vampirism;22",
+        "PolymorphSpell;GoldenFleece;22",
+        "SmokeBombSpell;BandOfThieves;21",
+        "ArcaneBlast;Amplification;22",
+        "GoblinSapper;RocketBoots;22"
+      ],
+      [
+        "MaievLeader;Remorseless;22",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "GryphonRider;MightyThrow;22",
+        "WhelpEggs;FlameBurst;25",
+        "Quilboar;BrambleBurst;25",
+        "DarkIronMiner;GoldMine;22",
+        "Prowler;OnTheProwl;22"
+      ],
+      [
+        "HoggerLeader;HamHock;22",
+        "Quilboar;BrambleBurst;25",
+        "PolymorphSpell;GoldenFleece;22",
+        "WitchDoctor;SpiritWard;22",
+        "MurlocTidehunters;SafetyBubble;24",
+        "Blizzard;ColdSnap;22",
+        "Ghoul;BoneArmor;22"
+      ],
+      [
+        "CairneLeader;Reincarnation;22",
+        "WarsongRaider;RazingFocus;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "WitchDoctor;SpiritWard;22",
+        "Blizzard;ColdSnap;22",
+        "GoblinSapper;RocketBoots;22",
+        "PolymorphSpell;GoldenFleece;22"
+      ],
+      [
+        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "PolymorphSpell;GoldenFleece;22",
+        "Ghoul;BoneArmor;22",
+        "Quilboar;BrambleBurst;25",
+        "Blizzard;ColdSnap;22",
+        "WitchDoctor;SpiritWard;22",
+        "GryphonRider;MightyThrow;22"
+      ],
+      [
+        "SneedLeader;LeadWithGreed;22",
+        "WitchDoctor;SpiritWard;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "GoblinSapper;RocketBoots;22",
+        "SmokeBombSpell;ThroughTheShadows;21",
+        "GryphonRider;MightyThrow;22",
+        "MurlocTidehunters;SafetyBubble;24"
+      ],
+      [
+        "CharlgaLeader;CavernousMists;22",
+        "PolymorphSpell;GoldenFleece;22",
+        "DefiasBandits;PickLock;22",
+        "Shaman;EarthwallTotem;24",
+        "HarvestGolem;UnstableCore;22",
+        "WitchDoctor;SpiritWard;22",
+        "ArcaneBlast;ArcanePower;22"
+      ],
+      [
+        "DrakkisathLeader;ChromaticScales;26",
+        "Blizzard;ColdSnap;22",
+        "SmokeBombSpell;ThroughTheShadows;21",
+        "WitchDoctor;SpiritWard;22",
+        "Shaman;EarthShield;24",
+        "Quilboar;BrambleBurst;24",
+        "HolyNova;AmplifyMagic;22"
+      ],
+      [
+        "ThaurissanLeader;Hubris;24",
+        "WhelpEggs;FlameBurst;25",
+        "PolymorphSpell;GoldenFleece;22",
+        "HarvestGolem;TrojanChickens;22",
+        "Blizzard;ColdSnap;22",
+        "DarkspearTroll;BigBadVoodoo;22",
+        "GryphonRider;MightyThrow;22"
+      ],
+      [
+        "f6cdbc808a5205645af6155741a1cf12;894fd9cd2aa9ad04489d953259213032;22",
+        "4662e633273a0d149b61d23732a5ed53;7102bce3c17cea249b4a93c2865dcc36;22",
+        "aefd32eb6d8243047a104a9cf4f3204b;23e33cc75805bb849aaf74e58e90b5bb;22",
+        "cc7d7f447b9be44458bb91230a736ced;a235651fd748e7843a7c856f5ad8fae5;22",
+        "1cdeebe6970781b4089ccd136a4732b8;d1028d2eba65a874e8ce2de9ad576196;21",
+        "7b8e2425177bf46efb482030fc693d76;068d55e468df929479a63ccbec9a72cc;24",
+        "5b893c52c1e623541bececb01409caf3;f953f866829ce6348ac35579e2002f38;19"
+      ]
+    ],
+    "lastUpdate": 1717414112
+  },
+  "token": "e6053533-9e24-4903-a67a-890f5ec6c42e"
+}

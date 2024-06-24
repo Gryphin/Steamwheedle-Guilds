@@ -6,15 +6,6 @@
     "description": "Affiliated with the Steamwheedle Cartel community.",
     "members": [
       {
-        "id": 1810238,
-        "name": "Keychain",
-        "btag": "Keychain",
-        "skulls": 150,
-        "honor": 12372,
-        "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1717414112
-      },
-      {
         "id": 139550408,
         "name": "Catflix",
         "btag": "Catflix",
@@ -91,9 +82,9 @@
         "name": "Veikka",
         "btag": "Veikka",
         "skulls": 150,
-        "honor": 12374,
+        "honor": 12389,
         "avatar": "Indicator_Sneed_Pose",
-        "lastUpdate": 1719062210
+        "lastUpdate": 1719250119
       },
       {
         "id": 1146773,
@@ -118,9 +109,9 @@
         "name": "Bryng",
         "btag": "Bryng",
         "skulls": 150,
-        "honor": 11986,
+        "honor": 12249,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062210
+        "lastUpdate": 1719250119
       },
       {
         "id": 386555975,
@@ -145,9 +136,9 @@
         "name": "Tarom",
         "btag": "Tarom",
         "skulls": 150,
-        "honor": 10102,
+        "honor": 10304,
         "avatar": "Indicator_Tirion_Pose",
-        "lastUpdate": 1719062211
+        "lastUpdate": 1719250120
       },
       {
         "id": 52285134,
@@ -156,38 +147,38 @@
         "skulls": 150,
         "honor": 12368,
         "avatar": "Indicator_Rend_Pose",
-        "lastUpdate": 1719062211
+        "lastUpdate": 1719250120
       },
       {
         "id": 117630651,
         "name": "MaggiLord",
         "btag": "MaggiLord",
         "skulls": 150,
-        "honor": 12061,
+        "honor": 12193,
         "avatar": "Indicator_DarkmoonFaire_Eyes",
-        "lastUpdate": 1719062211
+        "lastUpdate": 1719250120
       },
       {
         "id": 102663021,
         "name": "Suzaku",
         "btag": "Suzaku",
         "skulls": 150,
-        "honor": 11729,
+        "honor": 12975,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062211
+        "lastUpdate": 1719250120
       },
       {
         "id": 56638545,
         "name": "JollyMonkey",
         "btag": "JollyMonkey",
         "skulls": 150,
-        "honor": 14842,
+        "honor": 15126,
         "avatar": "Indicator_OldMurkEye_Pose",
-        "lastUpdate": 1719062212
+        "lastUpdate": 1719250120
       }
     ],
-    "lastUpdate": 1719063002
+    "lastUpdate": 1719254938
   },
-  "token": "b9c2704b-5190-4341-9a4a-cca5819a0403",
-  "link": "https://localhost:7080/guild/467715881?token=b9c2704b-5190-4341-9a4a-cca5819a0403"
+  "token": "d02d2795-d257-48e3-8d1a-2db15cb16152",
+  "link": "https://localhost:7080/guild/467715881?token=d02d2795-d257-48e3-8d1a-2db15cb16152"
 }

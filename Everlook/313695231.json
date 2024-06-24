@@ -34,18 +34,18 @@
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
         "DefiasBandits;PickLock;21",
         "Quilboar;BrambleBurst;21",
-        "EarthElemental;ObsidianShard;20",
+        "EarthElemental;ObsidianShard;21",
         "WitchDoctor;SpiritWard;21",
         "Flamewaker;Backdraft;20"
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
         "Quilboar;BrambleBurst;21",
-        "Harpy;InfectiousSwipes;21",
         "Prowler;OnTheProwl;19",
-        "WhelpEggs;FlameBurst;19",
+        "LivingBomb;ChainReaction;18",
+        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
         "WitchDoctor;SpiritWard;21",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+        "Flamewaker;Backdraft;20"
       ],
       [
         "GrommashLeader;SavageStrikes;19",
@@ -85,12 +85,12 @@
       ],
       [
         "HoggerLeader;HamHock;19",
-        "Harpy;InfectiousSwipes;21",
+        "AngryChickens;FuriousFowl;20",
+        "Chimaera;Leviathan;18",
         "Quilboar;BrambleBurst;21",
-        "DefiasBandits;PickLock;21",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
-        "WhelpEggs;FlameBurst;19",
-        "Banshee;WillOfTheNecropolis;19"
+        "Footmen;ShieldBash;20",
+        "WhelpEggs;FlameBurst;21",
+        "LivingBomb;ChainReaction;18"
       ],
       [
         "CairneLeader;Reincarnation;19",
@@ -121,26 +121,26 @@
       ],
       [
         "CharlgaLeader;CavernousMists;19",
-        "Quilboar;BrambleBurst;21",
-        "GnollBrute;Rabid;18",
         "Prowler;OnTheProwl;19",
-        "Shaman;EarthShield;18",
-        "Pyromancer;Pyroblast;21",
-        "MoltenGiant;BloodOfTheMountain;17"
+        "Quilboar;BrambleBurst;21",
+        "AngryChickens;FuriousFowl;20",
+        "LivingBomb;ChainReaction;18",
+        "Shaman;EarthShield;19",
+        "Abomination;NoxiousPresence;21"
       ],
       [
         "DrakkisathLeader;ChromaticScales;19",
-        "Pyromancer;Conflagrate;21",
-        "WhelpEggs;FlameBurst;19",
-        "Shaman;EarthShield;19",
+        "Pyromancer;Pyroblast;21",
+        "WhelpEggs;FlameBurst;20",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
-        "HolyNova;InnerFire;18",
+        "Shaman;EarthShield;19",
+        "WitchDoctor;SpiritWard;21",
         "Quilboar;BrambleBurst;21"
       ],
       [
         "ThaurissanLeader;MoirasWit;20",
         "Pyromancer;Pyroblast;21",
-        "EarthElemental;ObsidianShard;20",
+        "EarthElemental;ObsidianShard;21",
         "Quilboar;BrambleBurst;21",
         "DefiasBandits;PickLock;21",
         "DarkspearTroll;BigBadVoodoo;20",
@@ -156,7 +156,7 @@
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
       ]
     ],
-    "lastUpdate": 1719063146
+    "lastUpdate": 1719191582
   },
-  "token": "aa153adc-5af0-4e10-814a-7c310267e3ab"
+  "token": "9511ad4d-3790-4106-b6d4-da8f69bf45c2"
 }

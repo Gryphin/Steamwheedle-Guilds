@@ -85,12 +85,12 @@
       ],
       [
         "HoggerLeader;HamHock;21",
-        "Harpy;InfectiousSwipes;22",
         "Quilboar;BrambleBurst;24",
-        "Execute;Overpower;20",
-        "EarthElemental;ReadyToRumble;21",
-        "BatRider;EnchantedVials;19",
-        "WhelpEggs;FlameBurst;22"
+        "AngryChickens;WalkingCrate;19",
+        "PlagueFarmer;SplashingPumpkins;19",
+        "Chimaera;CorrosiveBreath;21",
+        "LivingBomb;ChainReaction;19",
+        "Footmen;Fortification;22"
       ],
       [
         "CairneLeader;Plainsrunning;20",
@@ -122,11 +122,11 @@
       [
         "CharlgaLeader;CavernousMists;19",
         "Quilboar;Bristleback;24",
-        "Prowler;PredatoryInstincts;18",
-        "Harpy;InfectiousSwipes;22",
-        "MurlocTidehunters;SafetyBubble;20",
-        "WhelpEggs;FlameBurst;22",
-        "Banshee;WillOfTheNecropolis;18"
+        "Chimaera;CorrosiveBreath;21",
+        "AngryChickens;WalkingCrate;19",
+        "Footmen;Fortification;22",
+        "LivingBomb;ChainReaction;19",
+        "PlagueFarmer;SplashingPumpkins;19"
       ],
       [
         "DrakkisathLeader;ChromaticScales;22",
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;22"
       ]
     ],
-    "lastUpdate": 1719063108
+    "lastUpdate": 1719192111
   },
-  "token": "77266c3b-6332-4b22-b6c2-b4626e9d7485"
+  "token": "dbc16050-07d9-47c4-a182-c2aa290478f7"
 }

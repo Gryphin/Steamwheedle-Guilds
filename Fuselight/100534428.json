@@ -41,11 +41,11 @@
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
         "Prowler;OnTheProwl;18",
-        "MurlocTidehunters;SafetyBubble;18",
-        "Quilboar;TunnelVision;18",
-        "GryphonRider;MightyThrow;18",
+        "Quilboar;TunnelVision;19",
+        "Ghoul;BoneArmor;18",
         "WhelpEggs;FlameBurst;18",
-        "Gargoyle;WingBuffet;19"
+        "GryphonRider;MightyThrow;18",
+        "DarkIronMiner;GoldMine;18"
       ],
       [
         "GrommashLeader;SavageStrikes;18",
@@ -87,10 +87,10 @@
         "HoggerLeader;HamHock;18",
         "Quilboar;TunnelVision;19",
         "Prowler;OnTheProwl;18",
-        "WitchDoctor;SpiritWard;18",
-        "DarkspearTroll;BigBadVoodoo;18",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
-        "Harpy;InfectiousSwipes;18"
+        "MurlocTidehunters;SafetyBubble;18",
+        "WarsongGrunts;Command;18",
+        "WhelpEggs;FlameBurst;18",
+        "Chimaera;Leviathan;20"
       ],
       [
         "CairneLeader;Reincarnation;18",
@@ -156,7 +156,7 @@
         "WhelpEggs;FlameBurst;18"
       ]
     ],
-    "lastUpdate": 1719063158
+    "lastUpdate": 1719193258
   },
-  "token": "8f0d8bcd-32cc-4996-a9f4-0a4db1513327"
+  "token": "0cfff5b0-b0ba-44ca-b69d-bd54cecb4b18"
 }

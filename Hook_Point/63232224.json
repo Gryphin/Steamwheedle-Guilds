@@ -17,7 +17,7 @@
     "leaderBHonor": 4718,
     "leaderC": "DrakkisathLeader",
     "leaderCWins": 249,
-    "leaderCHonor": 4481,
+    "leaderCHonor": 4414,
     "socials": null,
     "armies": [
       [
@@ -40,12 +40,12 @@
       ],
       [
         "OldMurkEyeLeader;MarathonOfTheMurlocs;22",
-        "Banshee;WillOfTheNecropolis;20",
+        "MurlocTidehunters;SafetyBubble;21",
         "Harpy;InfectiousSwipes;24",
-        "EarthElemental;ObsidianShard;22",
-        "DefiasBandits;DeadlyPoison;21",
-        "Pyromancer;Pyroblast;23",
-        "WhelpEggs;FlameBurst;22"
+        "Prowler;OnTheProwl;22",
+        "GryphonRider;MightyThrow;24",
+        "WhelpEggs;FlameBurst;22",
+        "Quilboar;Bristleback;22"
       ],
       [
         "GrommashLeader;SavageStrikes;24",
@@ -84,12 +84,12 @@
         "Quilboar;Bristleback;22"
       ],
       [
-        "HoggerLeader;HamHock;21",
+        "HoggerLeader;HamHock;22",
         "Quilboar;Bristleback;22",
-        "Prowler;OnTheProwl;21",
-        "DefiasBandits;DeadlyPoison;22",
-        "GryphonRider;MightyThrow;24",
-        "DarkspearTroll;BigBadVoodoo;23",
+        "Prowler;OnTheProwl;22",
+        "DefiasBandits;DeadlyPoison;24",
+        "WhelpEggs;FlameBurst;22",
+        "DarkspearTroll;BigBadVoodoo;24",
         "Blizzard;ColdSnap;22"
       ],
       [
@@ -120,21 +120,21 @@
         "Huntress;Shadowmeld;22"
       ],
       [
-        "CharlgaLeader;CavernousMists;19",
+        "CharlgaLeader;CavernousMists;21",
         "Quilboar;TunnelVision;22",
         "MurlocTidehunters;SafetyBubble;21",
-        "Huntress;Shadowmeld;22",
-        "DefiasBandits;DeadlyPoison;22",
+        "Huntress;Shadowmeld;24",
+        "DefiasBandits;DeadlyPoison;24",
         "GryphonRider;MightyThrow;24",
-        "Blizzard;ColdSnap;22"
+        "WhelpEggs;FlameBurst;22"
       ],
       [
         "DrakkisathLeader;ChromaticScales;25",
         "Pyromancer;Conflagrate;24",
-        "Drake;MotherDrake;21",
+        "DefiasBandits;PickLock;24",
         "WitchDoctor;SpiritWard;21",
         "SkeletonParty;RitualOfRime;21",
-        "DefiasBandits;PickLock;24",
+        "Drake;MotherDrake;22",
         "Shaman;EarthShield;22"
       ],
       [
@@ -156,7 +156,7 @@
         "SmokeBombSpell;ThroughTheShadows;18"
       ]
     ],
-    "lastUpdate": 1719063084
+    "lastUpdate": 1719239149
   },
-  "token": "32915767-f15e-4169-b8bc-fa83b11bed4b"
+  "token": "d02a44a8-d70b-45f2-9d60-0615c4abfc7f"
 }

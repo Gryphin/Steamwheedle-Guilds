@@ -57,7 +57,7 @@
         "skulls": 150,
         "honor": 12077,
         "avatar": "Indicator_KoboldMurloc_Pose",
-        "lastUpdate": 1719062213
+        "lastUpdate": 1719242925
       },
       {
         "id": 489584994,
@@ -93,7 +93,7 @@
         "skulls": 150,
         "honor": 11019,
         "avatar": "Indicator_Sylvanas_Pose",
-        "lastUpdate": 1719062214
+        "lastUpdate": 1719242925
       },
       {
         "id": 50805909,
@@ -181,13 +181,13 @@
         "name": "CoNDeJezZ",
         "btag": "CoNDeJezZ",
         "skulls": 150,
-        "honor": 12889,
+        "honor": 13266,
         "avatar": "Indicator_KoboldMech_Pose",
-        "lastUpdate": 1719062216
+        "lastUpdate": 1719242927
       }
     ],
-    "lastUpdate": 1719062980
+    "lastUpdate": 1719254932
   },
-  "token": "126d7e8e-f312-4a53-9515-224f1ad59a4e",
-  "link": "https://localhost:7080/guild/199066642?token=126d7e8e-f312-4a53-9515-224f1ad59a4e"
+  "token": "f7f323f3-5d09-4393-b10c-6a2631060419",
+  "link": "https://localhost:7080/guild/199066642?token=f7f323f3-5d09-4393-b10c-6a2631060419"
 }

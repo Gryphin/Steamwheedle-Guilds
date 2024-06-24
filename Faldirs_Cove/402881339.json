@@ -7,8 +7,8 @@
     "guildName": null,
     "avatar": "Indicator_Rend_Pose",
     "skulls": 139,
-    "level": 43,
-    "pvpWins": 1135,
+    "level": 44,
+    "pvpWins": 1187,
     "leaderA": "GrommashLeader",
     "leaderAWins": 49,
     "leaderAHonor": 3574,
@@ -67,12 +67,12 @@
       ],
       [
         "BloodmageThalnosLeader;DrainLife;21",
-        "Ghoul;BoneArmor;21",
-        "Gargoyle;WingBuffet;21",
-        "Execute;Bloodthirsty;21",
-        "WhelpEggs;FlameBurst;22",
-        "MurlocTidehunters;SafetyBubble;22",
-        "Huntress;ElvenMight;22"
+        "MeatWagon;FiletTrebuchet;20",
+        "Necromancer;JeweledSkulls;21",
+        "PolymorphSpell;GoldenFleece;21",
+        "HolyNova;InnerFire;20",
+        "StonehoofTauren;Momentum;21",
+        "Ghoul;BoneArmor;21"
       ],
       [
         "MaievLeader;Remorseless;21",
@@ -86,28 +86,28 @@
       [
         "HoggerLeader;HamHock;22",
         "Prowler;OnTheProwl;22",
-        "PolymorphSpell;GoldenFleece;21",
+        "Harpy;InfectiousSwipes;22",
+        "MurlocTidehunters;SafetyBubble;22",
         "Quilboar;TunnelVision;22",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
-        "Execute;Bloodthirsty;22",
-        "MurlocTidehunters;SafetyBubble;22"
+        "WhelpEggs;FlameBurst;22",
+        "Huntress;ElvenMight;22"
       ],
       [
         "CairneLeader;Reincarnation;21",
         "Execute;Bloodthirsty;22",
         "StonehoofTauren;Momentum;21",
-        "Shaman;EarthwallTotem;22",
+        "WhelpEggs;FlameBurst;22",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
-        "PolymorphSpell;GoldenFleece;21",
+        "Harpy;InfectiousSwipes;22",
         "WitchDoctor;SpiritWard;22"
       ],
       [
-        "BaronRivendareLeader;ChillOfTheGrave;22",
+        "BaronRivendareLeader;ChillOfTheGrave;23",
         "Ghoul;BoneArmor;21",
         "Gargoyle;WingBuffet;21",
         "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
         "Huntress;ElvenMight;22",
-        "Execute;Bloodthirsty;21",
+        "Execute;Bloodthirsty;22",
         "MurlocTidehunters;SafetyBubble;22"
       ],
       [
@@ -120,7 +120,7 @@
         "WhelpEggs;FlameBurst;22"
       ],
       [
-        "CharlgaLeader;;17",
+        "CharlgaLeader;;18",
         "Quilboar;TunnelVision;22",
         "Prowler;OnTheProwl;22",
         "Huntress;ElvenMight;22",
@@ -130,11 +130,11 @@
       ],
       [
         "DrakkisathLeader;ChromaticScales;22",
-        "Drake;MotherDrake;22",
-        "Pyromancer;Pyroblast;22",
+        "Pyromancer;Conflagrate;22",
         "WhelpEggs;FlameBurst;22",
-        "Quilboar;TunnelVision;22",
-        "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+        "Drake;MotherDrake;22",
+        "DefiasBandits;PickLock;20",
+        "SkeletonParty;RitualOfRime;21",
         "Shaman;EarthShield;22"
       ],
       [
@@ -150,13 +150,13 @@
         "SylvanasLeader;BlackArrow;20",
         "Ghoul;BoneArmor;21",
         "Gargoyle;WingBuffet;21",
-        "Execute;Bloodthirsty;21",
+        "Execute;Bloodthirsty;22",
         "WhelpEggs;FlameBurst;22",
         "Huntress;ElvenMight;22",
         "MurlocTidehunters;SafetyBubble;22"
       ]
     ],
-    "lastUpdate": 1719063106
+    "lastUpdate": 1719192217
   },
-  "token": "2a6ed250-8ac7-49a1-bb4c-6952cff8d95b"
+  "token": "8b4370f9-3da9-4b04-b60e-e79e8f9e07d8"
 }
